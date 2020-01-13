@@ -2,1327 +2,1327 @@
 
 | 编号  | GitHub题解                                                   | LeetCode答题                                                 |
 | ----- | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| 1     | [两数之和  ](https://leetcode-cn.com/problems/two-sum)       | [两数之和  ](https://leetcode-cn.com/problems/two-sum)       |
-| 2     | [两数相加  ](https://leetcode-cn.com/problems/add-two-numbers) | [两数相加  ](https://leetcode-cn.com/problems/add-two-numbers) |
-| 3     | [无重复字符的最长子串  ](https://leetcode-cn.com/problems/longest-substring-without-repeating-characters) | [无重复字符的最长子串  ](https://leetcode-cn.com/problems/longest-substring-without-repeating-characters) |
-| 4     | [寻找两个有序数组的中位数  ](https://leetcode-cn.com/problems/median-of-two-sorted-arrays) | [寻找两个有序数组的中位数  ](https://leetcode-cn.com/problems/median-of-two-sorted-arrays) |
-| 5     | [最长回文子串  ](https://leetcode-cn.com/problems/longest-palindromic-substring) | [最长回文子串  ](https://leetcode-cn.com/problems/longest-palindromic-substring) |
-| 6     | [Z 字形变换  ](https://leetcode-cn.com/problems/zigzag-conversion) | [Z   字形变换  ](https://leetcode-cn.com/problems/zigzag-conversion) |
-| 7     | [整数反转  ](https://leetcode-cn.com/problems/reverse-integer) | [整数反转  ](https://leetcode-cn.com/problems/reverse-integer) |
-| 8     | [字符串转换整数 (atoi)  ](https://leetcode-cn.com/problems/string-to-integer-atoi) | [字符串转换整数 (atoi)  ](https://leetcode-cn.com/problems/string-to-integer-atoi) |
-| 9     | [回文数  ](https://leetcode-cn.com/problems/palindrome-number) | [回文数  ](https://leetcode-cn.com/problems/palindrome-number) |
-| 10    | [正则表达式匹配  ](https://leetcode-cn.com/problems/regular-expression-matching) | [正则表达式匹配  ](https://leetcode-cn.com/problems/regular-expression-matching) |
-| 11    | [盛最多水的容器  ](https://leetcode-cn.com/problems/container-with-most-water) | [盛最多水的容器  ](https://leetcode-cn.com/problems/container-with-most-water) |
-| 12    | [整数转罗马数字  ](https://leetcode-cn.com/problems/integer-to-roman) | [整数转罗马数字  ](https://leetcode-cn.com/problems/integer-to-roman) |
-| 13    | [罗马数字转整数  ](https://leetcode-cn.com/problems/roman-to-integer) | [罗马数字转整数  ](https://leetcode-cn.com/problems/roman-to-integer) |
-| 14    | [最长公共前缀  ](https://leetcode-cn.com/problems/longest-common-prefix) | [最长公共前缀  ](https://leetcode-cn.com/problems/longest-common-prefix) |
-| 15    | [三数之和  ](https://leetcode-cn.com/problems/3sum)          | [三数之和  ](https://leetcode-cn.com/problems/3sum)          |
-| 16    | [最接近的三数之和  ](https://leetcode-cn.com/problems/3sum-closest) | [最接近的三数之和  ](https://leetcode-cn.com/problems/3sum-closest) |
-| 17    | [电话号码的字母组合  ](https://leetcode-cn.com/problems/letter-combinations-of-a-phone-number) | [电话号码的字母组合  ](https://leetcode-cn.com/problems/letter-combinations-of-a-phone-number) |
-| 18    | [四数之和  ](https://leetcode-cn.com/problems/4sum)          | [四数之和  ](https://leetcode-cn.com/problems/4sum)          |
-| 19    | [删除链表的倒数第N个节点  ](https://leetcode-cn.com/problems/remove-nth-node-from-end-of-list) | [删除链表的倒数第N个节点  ](https://leetcode-cn.com/problems/remove-nth-node-from-end-of-list) |
-| 20    | [有效的括号  ](https://leetcode-cn.com/problems/valid-parentheses) | [有效的括号  ](https://leetcode-cn.com/problems/valid-parentheses) |
-| 21    | [合并两个有序链表  ](https://leetcode-cn.com/problems/merge-two-sorted-lists) | [合并两个有序链表  ](https://leetcode-cn.com/problems/merge-two-sorted-lists) |
-| 22    | [括号生成  ](https://leetcode-cn.com/problems/generate-parentheses) | [括号生成  ](https://leetcode-cn.com/problems/generate-parentheses) |
-| 23    | [合并K个排序链表  ](https://leetcode-cn.com/problems/merge-k-sorted-lists) | [合并K个排序链表  ](https://leetcode-cn.com/problems/merge-k-sorted-lists) |
-| 24    | [两两交换链表中的节点  ](https://leetcode-cn.com/problems/swap-nodes-in-pairs) | [两两交换链表中的节点  ](https://leetcode-cn.com/problems/swap-nodes-in-pairs) |
-| 25    | [K 个一组翻转链表  ](https://leetcode-cn.com/problems/reverse-nodes-in-k-group) | [K 个一组翻转链表  ](https://leetcode-cn.com/problems/reverse-nodes-in-k-group) |
-| 26    | [删除排序数组中的重复项  ](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array) | [删除排序数组中的重复项  ](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array) |
-| 27    | [移除元素  ](https://leetcode-cn.com/problems/remove-element) | [移除元素  ](https://leetcode-cn.com/problems/remove-element) |
-| 28    | [实现 strStr()  ](https://leetcode-cn.com/problems/implement-strstr) | [实现   strStr()  ](https://leetcode-cn.com/problems/implement-strstr) |
-| 29    | [两数相除  ](https://leetcode-cn.com/problems/divide-two-integers) | [两数相除  ](https://leetcode-cn.com/problems/divide-two-integers) |
-| 30    | [串联所有单词的子串  ](https://leetcode-cn.com/problems/substring-with-concatenation-of-all-words) | [串联所有单词的子串  ](https://leetcode-cn.com/problems/substring-with-concatenation-of-all-words) |
-| 31    | [下一个排列  ](https://leetcode-cn.com/problems/next-permutation) | [下一个排列  ](https://leetcode-cn.com/problems/next-permutation) |
-| 32    | [最长有效括号  ](https://leetcode-cn.com/problems/longest-valid-parentheses) | [最长有效括号  ](https://leetcode-cn.com/problems/longest-valid-parentheses) |
-| 33    | [搜索旋转排序数组  ](https://leetcode-cn.com/problems/search-in-rotated-sorted-array) | [搜索旋转排序数组  ](https://leetcode-cn.com/problems/search-in-rotated-sorted-array) |
-| 34    | [在排序数组中查找元素的第一个和最后一个位置  ](https://leetcode-cn.com/problems/find-first-and-last-position-of-element-in-sorted-array) | [在排序数组中查找元素的第一个和最后一个位置  ](https://leetcode-cn.com/problems/find-first-and-last-position-of-element-in-sorted-array) |
-| 35    | [搜索插入位置  ](https://leetcode-cn.com/problems/search-insert-position) | [搜索插入位置  ](https://leetcode-cn.com/problems/search-insert-position) |
-| 36    | [有效的数独  ](https://leetcode-cn.com/problems/valid-sudoku) | [有效的数独  ](https://leetcode-cn.com/problems/valid-sudoku) |
-| 37    | [解数独  ](https://leetcode-cn.com/problems/sudoku-solver)   | [解数独  ](https://leetcode-cn.com/problems/sudoku-solver)   |
-| 38    | [外观数列  ](https://leetcode-cn.com/problems/count-and-say) | [外观数列  ](https://leetcode-cn.com/problems/count-and-say) |
-| 39    | [组合总和  ](https://leetcode-cn.com/problems/combination-sum) | [组合总和  ](https://leetcode-cn.com/problems/combination-sum) |
-| 40    | [组合总和 II  ](https://leetcode-cn.com/problems/combination-sum-ii) | [组合总和   II  ](https://leetcode-cn.com/problems/combination-sum-ii) |
-| 41    | [缺失的第一个正数  ](https://leetcode-cn.com/problems/first-missing-positive) | [缺失的第一个正数  ](https://leetcode-cn.com/problems/first-missing-positive) |
-| 42    | [接雨水  ](https://leetcode-cn.com/problems/trapping-rain-water) | [接雨水  ](https://leetcode-cn.com/problems/trapping-rain-water) |
-| 43    | [字符串相乘  ](https://leetcode-cn.com/problems/multiply-strings) | [字符串相乘  ](https://leetcode-cn.com/problems/multiply-strings) |
-| 44    | [通配符匹配  ](https://leetcode-cn.com/problems/wildcard-matching) | [通配符匹配  ](https://leetcode-cn.com/problems/wildcard-matching) |
-| 45    | [跳跃游戏 II  ](https://leetcode-cn.com/problems/jump-game-ii) | [跳跃游戏   II  ](https://leetcode-cn.com/problems/jump-game-ii) |
-| 46    | [全排列  ](https://leetcode-cn.com/problems/permutations)    | [全排列  ](https://leetcode-cn.com/problems/permutations)    |
-| 47    | [全排列 II  ](https://leetcode-cn.com/problems/permutations-ii) | [全排列   II  ](https://leetcode-cn.com/problems/permutations-ii) |
-| 48    | [旋转图像  ](https://leetcode-cn.com/problems/rotate-image)  | [旋转图像  ](https://leetcode-cn.com/problems/rotate-image)  |
-| 49    | [字母异位词分组  ](https://leetcode-cn.com/problems/group-anagrams) | [字母异位词分组  ](https://leetcode-cn.com/problems/group-anagrams) |
-| 50    | [Pow(x, n)  ](https://leetcode-cn.com/problems/powx-n)       | [Pow(x,   n)  ](https://leetcode-cn.com/problems/powx-n)     |
-| 51    | [N皇后  ](https://leetcode-cn.com/problems/n-queens)         | [N皇后  ](https://leetcode-cn.com/problems/n-queens)         |
-| 52    | [N皇后 II  ](https://leetcode-cn.com/problems/n-queens-ii)   | [N皇后   II  ](https://leetcode-cn.com/problems/n-queens-ii) |
-| 53    | [最大子序和  ](https://leetcode-cn.com/problems/maximum-subarray) | [最大子序和  ](https://leetcode-cn.com/problems/maximum-subarray) |
-| 54    | [螺旋矩阵  ](https://leetcode-cn.com/problems/spiral-matrix) | [螺旋矩阵  ](https://leetcode-cn.com/problems/spiral-matrix) |
-| 55    | [跳跃游戏  ](https://leetcode-cn.com/problems/jump-game)     | [跳跃游戏  ](https://leetcode-cn.com/problems/jump-game)     |
-| 56    | [合并区间  ](https://leetcode-cn.com/problems/merge-intervals) | [合并区间  ](https://leetcode-cn.com/problems/merge-intervals) |
-| 57    | [插入区间  ](https://leetcode-cn.com/problems/insert-interval) | [插入区间  ](https://leetcode-cn.com/problems/insert-interval) |
-| 58    | [最后一个单词的长度  ](https://leetcode-cn.com/problems/length-of-last-word) | [最后一个单词的长度  ](https://leetcode-cn.com/problems/length-of-last-word) |
-| 59    | [螺旋矩阵 II  ](https://leetcode-cn.com/problems/spiral-matrix-ii) | [螺旋矩阵   II  ](https://leetcode-cn.com/problems/spiral-matrix-ii) |
-| 60    | [第k个排列  ](https://leetcode-cn.com/problems/permutation-sequence) | [第k个排列  ](https://leetcode-cn.com/problems/permutation-sequence) |
-| 61    | [旋转链表  ](https://leetcode-cn.com/problems/rotate-list)   | [旋转链表  ](https://leetcode-cn.com/problems/rotate-list)   |
-| 62    | [不同路径  ](https://leetcode-cn.com/problems/unique-paths)  | [不同路径  ](https://leetcode-cn.com/problems/unique-paths)  |
-| 63    | [不同路径 II  ](https://leetcode-cn.com/problems/unique-paths-ii) | [不同路径   II  ](https://leetcode-cn.com/problems/unique-paths-ii) |
-| 64    | [最小路径和  ](https://leetcode-cn.com/problems/minimum-path-sum) | [最小路径和  ](https://leetcode-cn.com/problems/minimum-path-sum) |
-| 65    | [有效数字  ](https://leetcode-cn.com/problems/valid-number)  | [有效数字  ](https://leetcode-cn.com/problems/valid-number)  |
-| 66    | [加一  ](https://leetcode-cn.com/problems/plus-one)          | [加一  ](https://leetcode-cn.com/problems/plus-one)          |
-| 67    | [二进制求和  ](https://leetcode-cn.com/problems/add-binary)  | [二进制求和  ](https://leetcode-cn.com/problems/add-binary)  |
-| 68    | [文本左右对齐  ](https://leetcode-cn.com/problems/text-justification) | [文本左右对齐  ](https://leetcode-cn.com/problems/text-justification) |
-| 69    | [x 的平方根  ](https://leetcode-cn.com/problems/sqrtx)       | [x   的平方根  ](https://leetcode-cn.com/problems/sqrtx)     |
-| 70    | [爬楼梯  ](https://leetcode-cn.com/problems/climbing-stairs) | [爬楼梯  ](https://leetcode-cn.com/problems/climbing-stairs) |
-| 71    | [简化路径  ](https://leetcode-cn.com/problems/simplify-path) | [简化路径  ](https://leetcode-cn.com/problems/simplify-path) |
-| 72    | [编辑距离  ](https://leetcode-cn.com/problems/edit-distance) | [编辑距离  ](https://leetcode-cn.com/problems/edit-distance) |
-| 73    | [矩阵置零  ](https://leetcode-cn.com/problems/set-matrix-zeroes) | [矩阵置零  ](https://leetcode-cn.com/problems/set-matrix-zeroes) |
-| 74    | [搜索二维矩阵  ](https://leetcode-cn.com/problems/search-a-2d-matrix) | [搜索二维矩阵  ](https://leetcode-cn.com/problems/search-a-2d-matrix) |
-| 75    | [颜色分类  ](https://leetcode-cn.com/problems/sort-colors)   | [颜色分类  ](https://leetcode-cn.com/problems/sort-colors)   |
-| 76    | [最小覆盖子串  ](https://leetcode-cn.com/problems/minimum-window-substring) | [最小覆盖子串  ](https://leetcode-cn.com/problems/minimum-window-substring) |
-| 77    | [组合  ](https://leetcode-cn.com/problems/combinations)      | [组合  ](https://leetcode-cn.com/problems/combinations)      |
-| 78    | [子集  ](https://leetcode-cn.com/problems/subsets)           | [子集  ](https://leetcode-cn.com/problems/subsets)           |
-| 79    | [单词搜索  ](https://leetcode-cn.com/problems/word-search)   | [单词搜索  ](https://leetcode-cn.com/problems/word-search)   |
-| 80    | [删除排序数组中的重复项   II  ](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array-ii) | [删除排序数组中的重复项 II  ](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array-ii) |
-| 81    | [搜索旋转排序数组   II  ](https://leetcode-cn.com/problems/search-in-rotated-sorted-array-ii) | [搜索旋转排序数组 II  ](https://leetcode-cn.com/problems/search-in-rotated-sorted-array-ii) |
-| 82    | [删除排序链表中的重复元素   II  ](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-list-ii) | [删除排序链表中的重复元素 II  ](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-list-ii) |
-| 83    | [删除排序链表中的重复元素  ](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-list) | [删除排序链表中的重复元素  ](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-list) |
-| 84    | [柱状图中最大的矩形  ](https://leetcode-cn.com/problems/largest-rectangle-in-histogram) | [柱状图中最大的矩形  ](https://leetcode-cn.com/problems/largest-rectangle-in-histogram) |
-| 85    | [最大矩形  ](https://leetcode-cn.com/problems/maximal-rectangle) | [最大矩形  ](https://leetcode-cn.com/problems/maximal-rectangle) |
-| 86    | [分隔链表  ](https://leetcode-cn.com/problems/partition-list) | [分隔链表  ](https://leetcode-cn.com/problems/partition-list) |
-| 87    | [扰乱字符串  ](https://leetcode-cn.com/problems/scramble-string) | [扰乱字符串  ](https://leetcode-cn.com/problems/scramble-string) |
-| 88    | [合并两个有序数组  ](https://leetcode-cn.com/problems/merge-sorted-array) | [合并两个有序数组  ](https://leetcode-cn.com/problems/merge-sorted-array) |
-| 89    | [格雷编码  ](https://leetcode-cn.com/problems/gray-code)     | [格雷编码  ](https://leetcode-cn.com/problems/gray-code)     |
-| 90    | [子集 II  ](https://leetcode-cn.com/problems/subsets-ii)     | [子集   II  ](https://leetcode-cn.com/problems/subsets-ii)   |
-| 91    | [解码方法  ](https://leetcode-cn.com/problems/decode-ways)   | [解码方法  ](https://leetcode-cn.com/problems/decode-ways)   |
-| 92    | [反转链表 II  ](https://leetcode-cn.com/problems/reverse-linked-list-ii) | [反转链表 II  ](https://leetcode-cn.com/problems/reverse-linked-list-ii) |
-| 93    | [复原IP地址  ](https://leetcode-cn.com/problems/restore-ip-addresses) | [复原IP地址  ](https://leetcode-cn.com/problems/restore-ip-addresses) |
-| 94    | [二叉树的中序遍历  ](https://leetcode-cn.com/problems/binary-tree-inorder-traversal) | [二叉树的中序遍历  ](https://leetcode-cn.com/problems/binary-tree-inorder-traversal) |
-| 95    | [不同的二叉搜索树   II  ](https://leetcode-cn.com/problems/unique-binary-search-trees-ii) | [不同的二叉搜索树 II  ](https://leetcode-cn.com/problems/unique-binary-search-trees-ii) |
-| 96    | [不同的二叉搜索树  ](https://leetcode-cn.com/problems/unique-binary-search-trees) | [不同的二叉搜索树  ](https://leetcode-cn.com/problems/unique-binary-search-trees) |
-| 97    | [交错字符串  ](https://leetcode-cn.com/problems/interleaving-string) | [交错字符串  ](https://leetcode-cn.com/problems/interleaving-string) |
-| 98    | [验证二叉搜索树  ](https://leetcode-cn.com/problems/validate-binary-search-tree) | [验证二叉搜索树  ](https://leetcode-cn.com/problems/validate-binary-search-tree) |
-| 99    | [恢复二叉搜索树  ](https://leetcode-cn.com/problems/recover-binary-search-tree) | [恢复二叉搜索树  ](https://leetcode-cn.com/problems/recover-binary-search-tree) |
-| 100   | [相同的树  ](https://leetcode-cn.com/problems/same-tree)     | [相同的树  ](https://leetcode-cn.com/problems/same-tree)     |
-| 101   | [对称二叉树  ](https://leetcode-cn.com/problems/symmetric-tree) | [对称二叉树  ](https://leetcode-cn.com/problems/symmetric-tree) |
-| 102   | [二叉树的层次遍历  ](https://leetcode-cn.com/problems/binary-tree-level-order-traversal) | [二叉树的层次遍历  ](https://leetcode-cn.com/problems/binary-tree-level-order-traversal) |
-| 103   | [二叉树的锯齿形层次遍历  ](https://leetcode-cn.com/problems/binary-tree-zigzag-level-order-traversal) | [二叉树的锯齿形层次遍历  ](https://leetcode-cn.com/problems/binary-tree-zigzag-level-order-traversal) |
-| 104   | [二叉树的最大深度  ](https://leetcode-cn.com/problems/maximum-depth-of-binary-tree) | [二叉树的最大深度  ](https://leetcode-cn.com/problems/maximum-depth-of-binary-tree) |
-| 105   | [从前序与中序遍历序列构造二叉树  ](https://leetcode-cn.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal) | [从前序与中序遍历序列构造二叉树  ](https://leetcode-cn.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal) |
-| 106   | [从中序与后序遍历序列构造二叉树  ](https://leetcode-cn.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal) | [从中序与后序遍历序列构造二叉树  ](https://leetcode-cn.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal) |
-| 107   | [二叉树的层次遍历   II  ](https://leetcode-cn.com/problems/binary-tree-level-order-traversal-ii) | [二叉树的层次遍历 II  ](https://leetcode-cn.com/problems/binary-tree-level-order-traversal-ii) |
-| 108   | [将有序数组转换为二叉搜索树  ](https://leetcode-cn.com/problems/convert-sorted-array-to-binary-search-tree) | [将有序数组转换为二叉搜索树  ](https://leetcode-cn.com/problems/convert-sorted-array-to-binary-search-tree) |
-| 109   | [有序链表转换二叉搜索树  ](https://leetcode-cn.com/problems/convert-sorted-list-to-binary-search-tree) | [有序链表转换二叉搜索树  ](https://leetcode-cn.com/problems/convert-sorted-list-to-binary-search-tree) |
-| 110   | [平衡二叉树  ](https://leetcode-cn.com/problems/balanced-binary-tree) | [平衡二叉树  ](https://leetcode-cn.com/problems/balanced-binary-tree) |
-| 111   | [二叉树的最小深度  ](https://leetcode-cn.com/problems/minimum-depth-of-binary-tree) | [二叉树的最小深度  ](https://leetcode-cn.com/problems/minimum-depth-of-binary-tree) |
-| 112   | [路径总和  ](https://leetcode-cn.com/problems/path-sum)      | [路径总和  ](https://leetcode-cn.com/problems/path-sum)      |
-| 113   | [路径总和 II  ](https://leetcode-cn.com/problems/path-sum-ii) | [路径总和   II  ](https://leetcode-cn.com/problems/path-sum-ii) |
-| 114   | [二叉树展开为链表  ](https://leetcode-cn.com/problems/flatten-binary-tree-to-linked-list) | [二叉树展开为链表  ](https://leetcode-cn.com/problems/flatten-binary-tree-to-linked-list) |
-| 115   | [不同的子序列  ](https://leetcode-cn.com/problems/distinct-subsequences) | [不同的子序列  ](https://leetcode-cn.com/problems/distinct-subsequences) |
-| 116   | [填充每个节点的下一个右侧节点指针  ](https://leetcode-cn.com/problems/populating-next-right-pointers-in-each-node) | [填充每个节点的下一个右侧节点指针  ](https://leetcode-cn.com/problems/populating-next-right-pointers-in-each-node) |
-| 117   | [填充每个节点的下一个右侧节点指针   II  ](https://leetcode-cn.com/problems/populating-next-right-pointers-in-each-node-ii) | [填充每个节点的下一个右侧节点指针 II  ](https://leetcode-cn.com/problems/populating-next-right-pointers-in-each-node-ii) |
-| 118   | [杨辉三角  ](https://leetcode-cn.com/problems/pascals-triangle) | [杨辉三角  ](https://leetcode-cn.com/problems/pascals-triangle) |
-| 119   | [杨辉三角 II  ](https://leetcode-cn.com/problems/pascals-triangle-ii) | [杨辉三角   II  ](https://leetcode-cn.com/problems/pascals-triangle-ii) |
-| 120   | [三角形最小路径和  ](https://leetcode-cn.com/problems/triangle) | [三角形最小路径和  ](https://leetcode-cn.com/problems/triangle) |
-| 121   | [买卖股票的最佳时机  ](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock) | [买卖股票的最佳时机  ](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock) |
-| 122   | [买卖股票的最佳时机   II  ](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-ii) | [买卖股票的最佳时机 II  ](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-ii) |
-| 123   | [买卖股票的最佳时机   III  ](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-iii) | [买卖股票的最佳时机 III  ](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-iii) |
-| 124   | [二叉树中的最大路径和  ](https://leetcode-cn.com/problems/binary-tree-maximum-path-sum) | [二叉树中的最大路径和  ](https://leetcode-cn.com/problems/binary-tree-maximum-path-sum) |
-| 125   | [验证回文串  ](https://leetcode-cn.com/problems/valid-palindrome) | [验证回文串  ](https://leetcode-cn.com/problems/valid-palindrome) |
-| 126   | [单词接龙 II  ](https://leetcode-cn.com/problems/word-ladder-ii) | [单词接龙   II  ](https://leetcode-cn.com/problems/word-ladder-ii) |
-| 127   | [单词接龙  ](https://leetcode-cn.com/problems/word-ladder)   | [单词接龙  ](https://leetcode-cn.com/problems/word-ladder)   |
-| 128   | [最长连续序列  ](https://leetcode-cn.com/problems/longest-consecutive-sequence) | [最长连续序列  ](https://leetcode-cn.com/problems/longest-consecutive-sequence) |
-| 129   | [求根到叶子节点数字之和  ](https://leetcode-cn.com/problems/sum-root-to-leaf-numbers) | [求根到叶子节点数字之和  ](https://leetcode-cn.com/problems/sum-root-to-leaf-numbers) |
-| 130   | [被围绕的区域  ](https://leetcode-cn.com/problems/surrounded-regions) | [被围绕的区域  ](https://leetcode-cn.com/problems/surrounded-regions) |
-| 131   | [分割回文串  ](https://leetcode-cn.com/problems/palindrome-partitioning) | [分割回文串  ](https://leetcode-cn.com/problems/palindrome-partitioning) |
-| 132   | [分割回文串 II  ](https://leetcode-cn.com/problems/palindrome-partitioning-ii) | [分割回文串 II  ](https://leetcode-cn.com/problems/palindrome-partitioning-ii) |
-| 133   | [克隆图  ](https://leetcode-cn.com/problems/clone-graph)     | [克隆图  ](https://leetcode-cn.com/problems/clone-graph)     |
-| 134   | [加油站  ](https://leetcode-cn.com/problems/gas-station)     | [加油站  ](https://leetcode-cn.com/problems/gas-station)     |
-| 135   | [分发糖果  ](https://leetcode-cn.com/problems/candy)         | [分发糖果  ](https://leetcode-cn.com/problems/candy)         |
-| 136   | [只出现一次的数字  ](https://leetcode-cn.com/problems/single-number) | [只出现一次的数字  ](https://leetcode-cn.com/problems/single-number) |
-| 137   | [只出现一次的数字 II  ](https://leetcode-cn.com/problems/single-number-ii) | [只出现一次的数字   II  ](https://leetcode-cn.com/problems/single-number-ii) |
-| 138   | [复制带随机指针的链表  ](https://leetcode-cn.com/problems/copy-list-with-random-pointer) | [复制带随机指针的链表  ](https://leetcode-cn.com/problems/copy-list-with-random-pointer) |
-| 139   | [单词拆分  ](https://leetcode-cn.com/problems/word-break)    | [单词拆分  ](https://leetcode-cn.com/problems/word-break)    |
-| 140   | [单词拆分 II  ](https://leetcode-cn.com/problems/word-break-ii) | [单词拆分   II  ](https://leetcode-cn.com/problems/word-break-ii) |
-| 141   | [环形链表  ](https://leetcode-cn.com/problems/linked-list-cycle) | [环形链表  ](https://leetcode-cn.com/problems/linked-list-cycle) |
-| 142   | [环形链表 II  ](https://leetcode-cn.com/problems/linked-list-cycle-ii) | [环形链表 II  ](https://leetcode-cn.com/problems/linked-list-cycle-ii) |
-| 143   | [重排链表  ](https://leetcode-cn.com/problems/reorder-list)  | [重排链表  ](https://leetcode-cn.com/problems/reorder-list)  |
-| 144   | [二叉树的前序遍历  ](https://leetcode-cn.com/problems/binary-tree-preorder-traversal) | [二叉树的前序遍历  ](https://leetcode-cn.com/problems/binary-tree-preorder-traversal) |
-| 145   | [二叉树的后序遍历  ](https://leetcode-cn.com/problems/binary-tree-postorder-traversal) | [二叉树的后序遍历  ](https://leetcode-cn.com/problems/binary-tree-postorder-traversal) |
-| 146   | [LRU缓存机制  ](https://leetcode-cn.com/problems/lru-cache)  | [LRU缓存机制  ](https://leetcode-cn.com/problems/lru-cache)  |
-| 147   | [对链表进行插入排序  ](https://leetcode-cn.com/problems/insertion-sort-list) | [对链表进行插入排序  ](https://leetcode-cn.com/problems/insertion-sort-list) |
-| 148   | [排序链表  ](https://leetcode-cn.com/problems/sort-list)     | [排序链表  ](https://leetcode-cn.com/problems/sort-list)     |
-| 149   | [直线上最多的点数  ](https://leetcode-cn.com/problems/max-points-on-a-line) | [直线上最多的点数  ](https://leetcode-cn.com/problems/max-points-on-a-line) |
-| 150   | [逆波兰表达式求值  ](https://leetcode-cn.com/problems/evaluate-reverse-polish-notation) | [逆波兰表达式求值  ](https://leetcode-cn.com/problems/evaluate-reverse-polish-notation) |
-| 151   | [翻转字符串里的单词  ](https://leetcode-cn.com/problems/reverse-words-in-a-string) | [翻转字符串里的单词  ](https://leetcode-cn.com/problems/reverse-words-in-a-string) |
-| 152   | [乘积最大子序列  ](https://leetcode-cn.com/problems/maximum-product-subarray) | [乘积最大子序列  ](https://leetcode-cn.com/problems/maximum-product-subarray) |
-| 153   | [寻找旋转排序数组中的最小值  ](https://leetcode-cn.com/problems/find-minimum-in-rotated-sorted-array) | [寻找旋转排序数组中的最小值  ](https://leetcode-cn.com/problems/find-minimum-in-rotated-sorted-array) |
-| 154   | [寻找旋转排序数组中的最小值   II  ](https://leetcode-cn.com/problems/find-minimum-in-rotated-sorted-array-ii) | [寻找旋转排序数组中的最小值 II  ](https://leetcode-cn.com/problems/find-minimum-in-rotated-sorted-array-ii) |
-| 155   | [最小栈  ](https://leetcode-cn.com/problems/min-stack)       | [最小栈  ](https://leetcode-cn.com/problems/min-stack)       |
-| 156   | [上下翻转二叉树  ](https://leetcode-cn.com/problems/binary-tree-upside-down) | [上下翻转二叉树  ](https://leetcode-cn.com/problems/binary-tree-upside-down) |
-| 157   | [用 Read4   读取 N 个字符  ](https://leetcode-cn.com/problems/read-n-characters-given-read4) | [用 Read4 读取 N 个字符  ](https://leetcode-cn.com/problems/read-n-characters-given-read4) |
-| 158   | [用   Read4 读取 N 个字符 II  ](https://leetcode-cn.com/problems/read-n-characters-given-read4-ii-call-multiple-times) | [用 Read4 读取 N 个字符 II  ](https://leetcode-cn.com/problems/read-n-characters-given-read4-ii-call-multiple-times) |
-| 159   | [至多包含两个不同字符的最长子串  ](https://leetcode-cn.com/problems/longest-substring-with-at-most-two-distinct-characters) | [至多包含两个不同字符的最长子串  ](https://leetcode-cn.com/problems/longest-substring-with-at-most-two-distinct-characters) |
-| 160   | [相交链表  ](https://leetcode-cn.com/problems/intersection-of-two-linked-lists) | [相交链表  ](https://leetcode-cn.com/problems/intersection-of-two-linked-lists) |
-| 161   | [相隔为 1 的编辑距离  ](https://leetcode-cn.com/problems/one-edit-distance) | [相隔为   1 的编辑距离  ](https://leetcode-cn.com/problems/one-edit-distance) |
-| 162   | [寻找峰值  ](https://leetcode-cn.com/problems/find-peak-element) | [寻找峰值  ](https://leetcode-cn.com/problems/find-peak-element) |
-| 163   | [缺失的区间  ](https://leetcode-cn.com/problems/missing-ranges) | [缺失的区间  ](https://leetcode-cn.com/problems/missing-ranges) |
-| 164   | [最大间距  ](https://leetcode-cn.com/problems/maximum-gap)   | [最大间距  ](https://leetcode-cn.com/problems/maximum-gap)   |
-| 165   | [比较版本号  ](https://leetcode-cn.com/problems/compare-version-numbers) | [比较版本号  ](https://leetcode-cn.com/problems/compare-version-numbers) |
-| 166   | [分数到小数  ](https://leetcode-cn.com/problems/fraction-to-recurring-decimal) | [分数到小数  ](https://leetcode-cn.com/problems/fraction-to-recurring-decimal) |
-| 167   | [两数之和   II - 输入有序数组  ](https://leetcode-cn.com/problems/two-sum-ii-input-array-is-sorted) | [两数之和 II - 输入有序数组  ](https://leetcode-cn.com/problems/two-sum-ii-input-array-is-sorted) |
-| 168   | [Excel表列名称  ](https://leetcode-cn.com/problems/excel-sheet-column-title) | [Excel表列名称  ](https://leetcode-cn.com/problems/excel-sheet-column-title) |
-| 169   | [多数元素  ](https://leetcode-cn.com/problems/majority-element) | [多数元素  ](https://leetcode-cn.com/problems/majority-element) |
-| 170   | [两数之和   III - 数据结构设计  ](https://leetcode-cn.com/problems/two-sum-iii-data-structure-design) | [两数之和 III - 数据结构设计  ](https://leetcode-cn.com/problems/two-sum-iii-data-structure-design) |
-| 171   | [Excel表列序号  ](https://leetcode-cn.com/problems/excel-sheet-column-number) | [Excel表列序号  ](https://leetcode-cn.com/problems/excel-sheet-column-number) |
-| 172   | [阶乘后的零  ](https://leetcode-cn.com/problems/factorial-trailing-zeroes) | [阶乘后的零  ](https://leetcode-cn.com/problems/factorial-trailing-zeroes) |
-| 173   | [二叉搜索树迭代器  ](https://leetcode-cn.com/problems/binary-search-tree-iterator) | [二叉搜索树迭代器  ](https://leetcode-cn.com/problems/binary-search-tree-iterator) |
-| 174   | [地下城游戏  ](https://leetcode-cn.com/problems/dungeon-game) | [地下城游戏  ](https://leetcode-cn.com/problems/dungeon-game) |
-| 175   | [组合两个表  ](https://leetcode-cn.com/problems/combine-two-tables) | [组合两个表  ](https://leetcode-cn.com/problems/combine-two-tables) |
-| 176   | [第二高的薪水  ](https://leetcode-cn.com/problems/second-highest-salary) | [第二高的薪水  ](https://leetcode-cn.com/problems/second-highest-salary) |
-| 177   | [第N高的薪水  ](https://leetcode-cn.com/problems/nth-highest-salary) | [第N高的薪水  ](https://leetcode-cn.com/problems/nth-highest-salary) |
-| 178   | [分数排名  ](https://leetcode-cn.com/problems/rank-scores)   | [分数排名  ](https://leetcode-cn.com/problems/rank-scores)   |
-| 179   | [最大数  ](https://leetcode-cn.com/problems/largest-number)  | [最大数  ](https://leetcode-cn.com/problems/largest-number)  |
-| 180   | [连续出现的数字  ](https://leetcode-cn.com/problems/consecutive-numbers) | [连续出现的数字  ](https://leetcode-cn.com/problems/consecutive-numbers) |
-| 181   | [超过经理收入的员工  ](https://leetcode-cn.com/problems/employees-earning-more-than-their-managers) | [超过经理收入的员工  ](https://leetcode-cn.com/problems/employees-earning-more-than-their-managers) |
-| 182   | [查找重复的电子邮箱  ](https://leetcode-cn.com/problems/duplicate-emails) | [查找重复的电子邮箱  ](https://leetcode-cn.com/problems/duplicate-emails) |
-| 183   | [从不订购的客户  ](https://leetcode-cn.com/problems/customers-who-never-order) | [从不订购的客户  ](https://leetcode-cn.com/problems/customers-who-never-order) |
-| 184   | [部门工资最高的员工  ](https://leetcode-cn.com/problems/department-highest-salary) | [部门工资最高的员工  ](https://leetcode-cn.com/problems/department-highest-salary) |
-| 185   | [部门工资前三高的所有员工  ](https://leetcode-cn.com/problems/department-top-three-salaries) | [部门工资前三高的所有员工  ](https://leetcode-cn.com/problems/department-top-three-salaries) |
-| 186   | [翻转字符串里的单词   II  ](https://leetcode-cn.com/problems/reverse-words-in-a-string-ii) | [翻转字符串里的单词 II  ](https://leetcode-cn.com/problems/reverse-words-in-a-string-ii) |
-| 187   | [重复的DNA序列  ](https://leetcode-cn.com/problems/repeated-dna-sequences) | [重复的DNA序列  ](https://leetcode-cn.com/problems/repeated-dna-sequences) |
-| 188   | [买卖股票的最佳时机   IV  ](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-iv) | [买卖股票的最佳时机 IV  ](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-iv) |
-| 189   | [旋转数组  ](https://leetcode-cn.com/problems/rotate-array)  | [旋转数组  ](https://leetcode-cn.com/problems/rotate-array)  |
-| 190   | [颠倒二进制位  ](https://leetcode-cn.com/problems/reverse-bits) | [颠倒二进制位  ](https://leetcode-cn.com/problems/reverse-bits) |
-| 191   | [位1的个数  ](https://leetcode-cn.com/problems/number-of-1-bits) | [位1的个数  ](https://leetcode-cn.com/problems/number-of-1-bits) |
-| 192   | [统计词频  ](https://leetcode-cn.com/problems/word-frequency) | [统计词频  ](https://leetcode-cn.com/problems/word-frequency) |
-| 193   | [有效电话号码  ](https://leetcode-cn.com/problems/valid-phone-numbers) | [有效电话号码  ](https://leetcode-cn.com/problems/valid-phone-numbers) |
-| 194   | [转置文件  ](https://leetcode-cn.com/problems/transpose-file) | [转置文件  ](https://leetcode-cn.com/problems/transpose-file) |
-| 195   | [第十行  ](https://leetcode-cn.com/problems/tenth-line)      | [第十行  ](https://leetcode-cn.com/problems/tenth-line)      |
-| 196   | [删除重复的电子邮箱  ](https://leetcode-cn.com/problems/delete-duplicate-emails) | [删除重复的电子邮箱  ](https://leetcode-cn.com/problems/delete-duplicate-emails) |
-| 197   | [上升的温度  ](https://leetcode-cn.com/problems/rising-temperature) | [上升的温度  ](https://leetcode-cn.com/problems/rising-temperature) |
-| 198   | [打家劫舍  ](https://leetcode-cn.com/problems/house-robber)  | [打家劫舍  ](https://leetcode-cn.com/problems/house-robber)  |
-| 199   | [二叉树的右视图  ](https://leetcode-cn.com/problems/binary-tree-right-side-view) | [二叉树的右视图  ](https://leetcode-cn.com/problems/binary-tree-right-side-view) |
-| 200   | [岛屿数量  ](https://leetcode-cn.com/problems/number-of-islands) | [岛屿数量  ](https://leetcode-cn.com/problems/number-of-islands) |
-| 201   | [数字范围按位与  ](https://leetcode-cn.com/problems/bitwise-and-of-numbers-range) | [数字范围按位与  ](https://leetcode-cn.com/problems/bitwise-and-of-numbers-range) |
-| 202   | [快乐数  ](https://leetcode-cn.com/problems/happy-number)    | [快乐数  ](https://leetcode-cn.com/problems/happy-number)    |
-| 203   | [移除链表元素  ](https://leetcode-cn.com/problems/remove-linked-list-elements) | [移除链表元素  ](https://leetcode-cn.com/problems/remove-linked-list-elements) |
-| 204   | [计数质数  ](https://leetcode-cn.com/problems/count-primes)  | [计数质数  ](https://leetcode-cn.com/problems/count-primes)  |
-| 205   | [同构字符串  ](https://leetcode-cn.com/problems/isomorphic-strings) | [同构字符串  ](https://leetcode-cn.com/problems/isomorphic-strings) |
-| 206   | [反转链表  ](https://leetcode-cn.com/problems/reverse-linked-list) | [反转链表  ](https://leetcode-cn.com/problems/reverse-linked-list) |
-| 207   | [课程表  ](https://leetcode-cn.com/problems/course-schedule) | [课程表  ](https://leetcode-cn.com/problems/course-schedule) |
-| 208   | [实现 Trie   (前缀树)  ](https://leetcode-cn.com/problems/implement-trie-prefix-tree) | [实现 Trie (前缀树)  ](https://leetcode-cn.com/problems/implement-trie-prefix-tree) |
-| 209   | [长度最小的子数组  ](https://leetcode-cn.com/problems/minimum-size-subarray-sum) | [长度最小的子数组  ](https://leetcode-cn.com/problems/minimum-size-subarray-sum) |
-| 210   | [课程表 II  ](https://leetcode-cn.com/problems/course-schedule-ii) | [课程表   II  ](https://leetcode-cn.com/problems/course-schedule-ii) |
-| 211   | [添加与搜索单词   - 数据结构设计  ](https://leetcode-cn.com/problems/add-and-search-word-data-structure-design) | [添加与搜索单词 - 数据结构设计  ](https://leetcode-cn.com/problems/add-and-search-word-data-structure-design) |
-| 212   | [单词搜索 II  ](https://leetcode-cn.com/problems/word-search-ii) | [单词搜索   II  ](https://leetcode-cn.com/problems/word-search-ii) |
-| 213   | [打家劫舍 II  ](https://leetcode-cn.com/problems/house-robber-ii) | [打家劫舍   II  ](https://leetcode-cn.com/problems/house-robber-ii) |
-| 214   | [最短回文串  ](https://leetcode-cn.com/problems/shortest-palindrome) | [最短回文串  ](https://leetcode-cn.com/problems/shortest-palindrome) |
-| 215   | [数组中的第K个最大元素  ](https://leetcode-cn.com/problems/kth-largest-element-in-an-array) | [数组中的第K个最大元素  ](https://leetcode-cn.com/problems/kth-largest-element-in-an-array) |
-| 216   | [组合总和 III  ](https://leetcode-cn.com/problems/combination-sum-iii) | [组合总和   III  ](https://leetcode-cn.com/problems/combination-sum-iii) |
-| 217   | [存在重复元素  ](https://leetcode-cn.com/problems/contains-duplicate) | [存在重复元素  ](https://leetcode-cn.com/problems/contains-duplicate) |
-| 218   | [天际线问题  ](https://leetcode-cn.com/problems/the-skyline-problem) | [天际线问题  ](https://leetcode-cn.com/problems/the-skyline-problem) |
-| 219   | [存在重复元素 II  ](https://leetcode-cn.com/problems/contains-duplicate-ii) | [存在重复元素 II  ](https://leetcode-cn.com/problems/contains-duplicate-ii) |
-| 220   | [存在重复元素 III  ](https://leetcode-cn.com/problems/contains-duplicate-iii) | [存在重复元素 III  ](https://leetcode-cn.com/problems/contains-duplicate-iii) |
-| 221   | [最大正方形  ](https://leetcode-cn.com/problems/maximal-square) | [最大正方形  ](https://leetcode-cn.com/problems/maximal-square) |
-| 222   | [完全二叉树的节点个数  ](https://leetcode-cn.com/problems/count-complete-tree-nodes) | [完全二叉树的节点个数  ](https://leetcode-cn.com/problems/count-complete-tree-nodes) |
-| 223   | [矩形面积  ](https://leetcode-cn.com/problems/rectangle-area) | [矩形面积  ](https://leetcode-cn.com/problems/rectangle-area) |
-| 224   | [基本计算器  ](https://leetcode-cn.com/problems/basic-calculator) | [基本计算器  ](https://leetcode-cn.com/problems/basic-calculator) |
-| 225   | [用队列实现栈  ](https://leetcode-cn.com/problems/implement-stack-using-queues) | [用队列实现栈  ](https://leetcode-cn.com/problems/implement-stack-using-queues) |
-| 226   | [翻转二叉树  ](https://leetcode-cn.com/problems/invert-binary-tree) | [翻转二叉树  ](https://leetcode-cn.com/problems/invert-binary-tree) |
-| 227   | [基本计算器 II  ](https://leetcode-cn.com/problems/basic-calculator-ii) | [基本计算器   II  ](https://leetcode-cn.com/problems/basic-calculator-ii) |
-| 228   | [汇总区间  ](https://leetcode-cn.com/problems/summary-ranges) | [汇总区间  ](https://leetcode-cn.com/problems/summary-ranges) |
-| 229   | [求众数 II  ](https://leetcode-cn.com/problems/majority-element-ii) | [求众数   II  ](https://leetcode-cn.com/problems/majority-element-ii) |
-| 230   | [二叉搜索树中第K小的元素  ](https://leetcode-cn.com/problems/kth-smallest-element-in-a-bst) | [二叉搜索树中第K小的元素  ](https://leetcode-cn.com/problems/kth-smallest-element-in-a-bst) |
-| 231   | [2的幂  ](https://leetcode-cn.com/problems/power-of-two)     | [2的幂  ](https://leetcode-cn.com/problems/power-of-two)     |
-| 232   | [用栈实现队列  ](https://leetcode-cn.com/problems/implement-queue-using-stacks) | [用栈实现队列  ](https://leetcode-cn.com/problems/implement-queue-using-stacks) |
-| 233   | [数字 1 的个数  ](https://leetcode-cn.com/problems/number-of-digit-one) | [数字   1 的个数  ](https://leetcode-cn.com/problems/number-of-digit-one) |
-| 234   | [回文链表  ](https://leetcode-cn.com/problems/palindrome-linked-list) | [回文链表  ](https://leetcode-cn.com/problems/palindrome-linked-list) |
-| 235   | [二叉搜索树的最近公共祖先  ](https://leetcode-cn.com/problems/lowest-common-ancestor-of-a-binary-search-tree) | [二叉搜索树的最近公共祖先  ](https://leetcode-cn.com/problems/lowest-common-ancestor-of-a-binary-search-tree) |
-| 236   | [二叉树的最近公共祖先  ](https://leetcode-cn.com/problems/lowest-common-ancestor-of-a-binary-tree) | [二叉树的最近公共祖先  ](https://leetcode-cn.com/problems/lowest-common-ancestor-of-a-binary-tree) |
-| 237   | [删除链表中的节点  ](https://leetcode-cn.com/problems/delete-node-in-a-linked-list) | [删除链表中的节点  ](https://leetcode-cn.com/problems/delete-node-in-a-linked-list) |
-| 238   | [除自身以外数组的乘积  ](https://leetcode-cn.com/problems/product-of-array-except-self) | [除自身以外数组的乘积  ](https://leetcode-cn.com/problems/product-of-array-except-self) |
-| 239   | [滑动窗口最大值  ](https://leetcode-cn.com/problems/sliding-window-maximum) | [滑动窗口最大值  ](https://leetcode-cn.com/problems/sliding-window-maximum) |
-| 240   | [搜索二维矩阵 II  ](https://leetcode-cn.com/problems/search-a-2d-matrix-ii) | [搜索二维矩阵 II  ](https://leetcode-cn.com/problems/search-a-2d-matrix-ii) |
-| 241   | [为运算表达式设计优先级  ](https://leetcode-cn.com/problems/different-ways-to-add-parentheses) | [为运算表达式设计优先级  ](https://leetcode-cn.com/problems/different-ways-to-add-parentheses) |
-| 242   | [有效的字母异位词  ](https://leetcode-cn.com/problems/valid-anagram) | [有效的字母异位词  ](https://leetcode-cn.com/problems/valid-anagram) |
-| 243   | [最短单词距离  ](https://leetcode-cn.com/problems/shortest-word-distance) | [最短单词距离  ](https://leetcode-cn.com/problems/shortest-word-distance) |
-| 244   | [最短单词距离 II  ](https://leetcode-cn.com/problems/shortest-word-distance-ii) | [最短单词距离 II  ](https://leetcode-cn.com/problems/shortest-word-distance-ii) |
-| 245   | [最短单词距离 III  ](https://leetcode-cn.com/problems/shortest-word-distance-iii) | [最短单词距离 III  ](https://leetcode-cn.com/problems/shortest-word-distance-iii) |
-| 246   | [中心对称数  ](https://leetcode-cn.com/problems/strobogrammatic-number) | [中心对称数  ](https://leetcode-cn.com/problems/strobogrammatic-number) |
-| 247   | [中心对称数 II  ](https://leetcode-cn.com/problems/strobogrammatic-number-ii) | [中心对称数 II  ](https://leetcode-cn.com/problems/strobogrammatic-number-ii) |
-| 248   | [中心对称数 III  ](https://leetcode-cn.com/problems/strobogrammatic-number-iii) | [中心对称数 III  ](https://leetcode-cn.com/problems/strobogrammatic-number-iii) |
-| 249   | [移位字符串分组  ](https://leetcode-cn.com/problems/group-shifted-strings) | [移位字符串分组  ](https://leetcode-cn.com/problems/group-shifted-strings) |
-| 250   | [统计同值子树  ](https://leetcode-cn.com/problems/count-univalue-subtrees) | [统计同值子树  ](https://leetcode-cn.com/problems/count-univalue-subtrees) |
-| 251   | [展开二维向量  ](https://leetcode-cn.com/problems/flatten-2d-vector) | [展开二维向量  ](https://leetcode-cn.com/problems/flatten-2d-vector) |
-| 252   | [会议室  ](https://leetcode-cn.com/problems/meeting-rooms)   | [会议室  ](https://leetcode-cn.com/problems/meeting-rooms)   |
-| 253   | [会议室 II  ](https://leetcode-cn.com/problems/meeting-rooms-ii) | [会议室   II  ](https://leetcode-cn.com/problems/meeting-rooms-ii) |
-| 254   | [因子的组合  ](https://leetcode-cn.com/problems/factor-combinations) | [因子的组合  ](https://leetcode-cn.com/problems/factor-combinations) |
-| 255   | [验证前序遍历序列二叉搜索树  ](https://leetcode-cn.com/problems/verify-preorder-sequence-in-binary-search-tree) | [验证前序遍历序列二叉搜索树  ](https://leetcode-cn.com/problems/verify-preorder-sequence-in-binary-search-tree) |
-| 256   | [粉刷房子  ](https://leetcode-cn.com/problems/paint-house)   | [粉刷房子  ](https://leetcode-cn.com/problems/paint-house)   |
-| 257   | [二叉树的所有路径  ](https://leetcode-cn.com/problems/binary-tree-paths) | [二叉树的所有路径  ](https://leetcode-cn.com/problems/binary-tree-paths) |
-| 258   | [各位相加  ](https://leetcode-cn.com/problems/add-digits)    | [各位相加  ](https://leetcode-cn.com/problems/add-digits)    |
-| 259   | [较小的三数之和  ](https://leetcode-cn.com/problems/3sum-smaller) | [较小的三数之和  ](https://leetcode-cn.com/problems/3sum-smaller) |
-| 260   | [只出现一次的数字 III  ](https://leetcode-cn.com/problems/single-number-iii) | [只出现一次的数字   III  ](https://leetcode-cn.com/problems/single-number-iii) |
-| 261   | [以图判树  ](https://leetcode-cn.com/problems/graph-valid-tree) | [以图判树  ](https://leetcode-cn.com/problems/graph-valid-tree) |
-| 262   | [行程和用户  ](https://leetcode-cn.com/problems/trips-and-users) | [行程和用户  ](https://leetcode-cn.com/problems/trips-and-users) |
-| 263   | [丑数  ](https://leetcode-cn.com/problems/ugly-number)       | [丑数  ](https://leetcode-cn.com/problems/ugly-number)       |
-| 264   | [丑数 II  ](https://leetcode-cn.com/problems/ugly-number-ii) | [丑数   II  ](https://leetcode-cn.com/problems/ugly-number-ii) |
-| 265   | [粉刷房子 II  ](https://leetcode-cn.com/problems/paint-house-ii) | [粉刷房子   II  ](https://leetcode-cn.com/problems/paint-house-ii) |
-| 266   | [回文排列  ](https://leetcode-cn.com/problems/palindrome-permutation) | [回文排列  ](https://leetcode-cn.com/problems/palindrome-permutation) |
-| 267   | [回文排列 II  ](https://leetcode-cn.com/problems/palindrome-permutation-ii) | [回文排列 II  ](https://leetcode-cn.com/problems/palindrome-permutation-ii) |
-| 268   | [缺失数字  ](https://leetcode-cn.com/problems/missing-number) | [缺失数字  ](https://leetcode-cn.com/problems/missing-number) |
-| 269   | [火星词典  ](https://leetcode-cn.com/problems/alien-dictionary) | [火星词典  ](https://leetcode-cn.com/problems/alien-dictionary) |
-| 270   | [最接近的二叉搜索树值  ](https://leetcode-cn.com/problems/closest-binary-search-tree-value) | [最接近的二叉搜索树值  ](https://leetcode-cn.com/problems/closest-binary-search-tree-value) |
-| 271   | [字符串的编码与解码  ](https://leetcode-cn.com/problems/encode-and-decode-strings) | [字符串的编码与解码  ](https://leetcode-cn.com/problems/encode-and-decode-strings) |
-| 272   | [最接近的二叉搜索树值   II  ](https://leetcode-cn.com/problems/closest-binary-search-tree-value-ii) | [最接近的二叉搜索树值 II  ](https://leetcode-cn.com/problems/closest-binary-search-tree-value-ii) |
-| 273   | [整数转换英文表示  ](https://leetcode-cn.com/problems/integer-to-english-words) | [整数转换英文表示  ](https://leetcode-cn.com/problems/integer-to-english-words) |
-| 274   | [H指数  ](https://leetcode-cn.com/problems/h-index)          | [H指数  ](https://leetcode-cn.com/problems/h-index)          |
-| 275   | [H指数 II  ](https://leetcode-cn.com/problems/h-index-ii)    | [H指数   II  ](https://leetcode-cn.com/problems/h-index-ii)  |
-| 276   | [栅栏涂色  ](https://leetcode-cn.com/problems/paint-fence)   | [栅栏涂色  ](https://leetcode-cn.com/problems/paint-fence)   |
-| 277   | [搜寻名人  ](https://leetcode-cn.com/problems/find-the-celebrity) | [搜寻名人  ](https://leetcode-cn.com/problems/find-the-celebrity) |
-| 278   | [第一个错误的版本  ](https://leetcode-cn.com/problems/first-bad-version) | [第一个错误的版本  ](https://leetcode-cn.com/problems/first-bad-version) |
-| 279   | [完全平方数  ](https://leetcode-cn.com/problems/perfect-squares) | [完全平方数  ](https://leetcode-cn.com/problems/perfect-squares) |
-| 280   | [摆动排序  ](https://leetcode-cn.com/problems/wiggle-sort)   | [摆动排序  ](https://leetcode-cn.com/problems/wiggle-sort)   |
-| 281   | [锯齿迭代器  ](https://leetcode-cn.com/problems/zigzag-iterator) | [锯齿迭代器  ](https://leetcode-cn.com/problems/zigzag-iterator) |
-| 282   | [给表达式添加运算符  ](https://leetcode-cn.com/problems/expression-add-operators) | [给表达式添加运算符  ](https://leetcode-cn.com/problems/expression-add-operators) |
-| 283   | [移动零  ](https://leetcode-cn.com/problems/move-zeroes)     | [移动零  ](https://leetcode-cn.com/problems/move-zeroes)     |
-| 284   | [顶端迭代器  ](https://leetcode-cn.com/problems/peeking-iterator) | [顶端迭代器  ](https://leetcode-cn.com/problems/peeking-iterator) |
-| 285   | [二叉搜索树中的顺序后继  ](https://leetcode-cn.com/problems/inorder-successor-in-bst) | [二叉搜索树中的顺序后继  ](https://leetcode-cn.com/problems/inorder-successor-in-bst) |
-| 286   | [墙与门  ](https://leetcode-cn.com/problems/walls-and-gates) | [墙与门  ](https://leetcode-cn.com/problems/walls-and-gates) |
-| 287   | [寻找重复数  ](https://leetcode-cn.com/problems/find-the-duplicate-number) | [寻找重复数  ](https://leetcode-cn.com/problems/find-the-duplicate-number) |
-| 288   | [单词的唯一缩写  ](https://leetcode-cn.com/problems/unique-word-abbreviation) | [单词的唯一缩写  ](https://leetcode-cn.com/problems/unique-word-abbreviation) |
-| 289   | [生命游戏  ](https://leetcode-cn.com/problems/game-of-life)  | [生命游戏  ](https://leetcode-cn.com/problems/game-of-life)  |
-| 290   | [单词规律  ](https://leetcode-cn.com/problems/word-pattern)  | [单词规律  ](https://leetcode-cn.com/problems/word-pattern)  |
-| 291   | [单词规律 II  ](https://leetcode-cn.com/problems/word-pattern-ii) | [单词规律   II  ](https://leetcode-cn.com/problems/word-pattern-ii) |
-| 292   | [Nim 游戏  ](https://leetcode-cn.com/problems/nim-game)      | [Nim   游戏  ](https://leetcode-cn.com/problems/nim-game)    |
-| 293   | [翻转游戏  ](https://leetcode-cn.com/problems/flip-game)     | [翻转游戏  ](https://leetcode-cn.com/problems/flip-game)     |
-| 294   | [翻转游戏 II  ](https://leetcode-cn.com/problems/flip-game-ii) | [翻转游戏   II  ](https://leetcode-cn.com/problems/flip-game-ii) |
-| 295   | [数据流的中位数  ](https://leetcode-cn.com/problems/find-median-from-data-stream) | [数据流的中位数  ](https://leetcode-cn.com/problems/find-median-from-data-stream) |
-| 296   | [最佳的碰头地点  ](https://leetcode-cn.com/problems/best-meeting-point) | [最佳的碰头地点  ](https://leetcode-cn.com/problems/best-meeting-point) |
-| 297   | [二叉树的序列化与反序列化  ](https://leetcode-cn.com/problems/serialize-and-deserialize-binary-tree) | [二叉树的序列化与反序列化  ](https://leetcode-cn.com/problems/serialize-and-deserialize-binary-tree) |
-| 298   | [二叉树最长连续序列  ](https://leetcode-cn.com/problems/binary-tree-longest-consecutive-sequence) | [二叉树最长连续序列  ](https://leetcode-cn.com/problems/binary-tree-longest-consecutive-sequence) |
-| 299   | [猜数字游戏  ](https://leetcode-cn.com/problems/bulls-and-cows) | [猜数字游戏  ](https://leetcode-cn.com/problems/bulls-and-cows) |
-| 300   | [最长上升子序列  ](https://leetcode-cn.com/problems/longest-increasing-subsequence) | [最长上升子序列  ](https://leetcode-cn.com/problems/longest-increasing-subsequence) |
-| 301   | [删除无效的括号  ](https://leetcode-cn.com/problems/remove-invalid-parentheses) | [删除无效的括号  ](https://leetcode-cn.com/problems/remove-invalid-parentheses) |
-| 302   | [包含全部黑色像素的最小矩形  ](https://leetcode-cn.com/problems/smallest-rectangle-enclosing-black-pixels) | [包含全部黑色像素的最小矩形  ](https://leetcode-cn.com/problems/smallest-rectangle-enclosing-black-pixels) |
-| 303   | [区域和检索 -   数组不可变  ](https://leetcode-cn.com/problems/range-sum-query-immutable) | [区域和检索 - 数组不可变  ](https://leetcode-cn.com/problems/range-sum-query-immutable) |
-| 304   | [二维区域和检索   - 矩阵不可变  ](https://leetcode-cn.com/problems/range-sum-query-2d-immutable) | [二维区域和检索 - 矩阵不可变  ](https://leetcode-cn.com/problems/range-sum-query-2d-immutable) |
-| 305   | [岛屿数量 II  ](https://leetcode-cn.com/problems/number-of-islands-ii) | [岛屿数量 II  ](https://leetcode-cn.com/problems/number-of-islands-ii) |
-| 306   | [累加数  ](https://leetcode-cn.com/problems/additive-number) | [累加数  ](https://leetcode-cn.com/problems/additive-number) |
-| 307   | [区域和检索 - 数组可修改  ](https://leetcode-cn.com/problems/range-sum-query-mutable) | [区域和检索 - 数组可修改  ](https://leetcode-cn.com/problems/range-sum-query-mutable) |
-| 308   | [二维区域和检索 -   可变  ](https://leetcode-cn.com/problems/range-sum-query-2d-mutable) | [二维区域和检索 - 可变  ](https://leetcode-cn.com/problems/range-sum-query-2d-mutable) |
-| 309   | [最佳买卖股票时机含冷冻期  ](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-with-cooldown) | [最佳买卖股票时机含冷冻期  ](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-with-cooldown) |
-| 310   | [最小高度树  ](https://leetcode-cn.com/problems/minimum-height-trees) | [最小高度树  ](https://leetcode-cn.com/problems/minimum-height-trees) |
-| 311   | [稀疏矩阵的乘法  ](https://leetcode-cn.com/problems/sparse-matrix-multiplication) | [稀疏矩阵的乘法  ](https://leetcode-cn.com/problems/sparse-matrix-multiplication) |
-| 312   | [戳气球  ](https://leetcode-cn.com/problems/burst-balloons)  | [戳气球  ](https://leetcode-cn.com/problems/burst-balloons)  |
-| 313   | [超级丑数  ](https://leetcode-cn.com/problems/super-ugly-number) | [超级丑数  ](https://leetcode-cn.com/problems/super-ugly-number) |
-| 314   | [二叉树的垂直遍历  ](https://leetcode-cn.com/problems/binary-tree-vertical-order-traversal) | [二叉树的垂直遍历  ](https://leetcode-cn.com/problems/binary-tree-vertical-order-traversal) |
-| 315   | [计算右侧小于当前元素的个数  ](https://leetcode-cn.com/problems/count-of-smaller-numbers-after-self) | [计算右侧小于当前元素的个数  ](https://leetcode-cn.com/problems/count-of-smaller-numbers-after-self) |
-| 316   | [去除重复字母  ](https://leetcode-cn.com/problems/remove-duplicate-letters) | [去除重复字母  ](https://leetcode-cn.com/problems/remove-duplicate-letters) |
-| 317   | [离建筑物最近的距离  ](https://leetcode-cn.com/problems/shortest-distance-from-all-buildings) | [离建筑物最近的距离  ](https://leetcode-cn.com/problems/shortest-distance-from-all-buildings) |
-| 318   | [最大单词长度乘积  ](https://leetcode-cn.com/problems/maximum-product-of-word-lengths) | [最大单词长度乘积  ](https://leetcode-cn.com/problems/maximum-product-of-word-lengths) |
-| 319   | [灯泡开关  ](https://leetcode-cn.com/problems/bulb-switcher) | [灯泡开关  ](https://leetcode-cn.com/problems/bulb-switcher) |
-| 320   | [列举单词的全部缩写  ](https://leetcode-cn.com/problems/generalized-abbreviation) | [列举单词的全部缩写  ](https://leetcode-cn.com/problems/generalized-abbreviation) |
-| 321   | [拼接最大数  ](https://leetcode-cn.com/problems/create-maximum-number) | [拼接最大数  ](https://leetcode-cn.com/problems/create-maximum-number) |
-| 322   | [零钱兑换  ](https://leetcode-cn.com/problems/coin-change)   | [零钱兑换  ](https://leetcode-cn.com/problems/coin-change)   |
-| 323   | [无向图中连通分量的数目  ](https://leetcode-cn.com/problems/number-of-connected-components-in-an-undirected-graph) | [无向图中连通分量的数目  ](https://leetcode-cn.com/problems/number-of-connected-components-in-an-undirected-graph) |
-| 324   | [摆动排序 II  ](https://leetcode-cn.com/problems/wiggle-sort-ii) | [摆动排序   II  ](https://leetcode-cn.com/problems/wiggle-sort-ii) |
-| 325   | [和等于   k 的最长子数组长度  ](https://leetcode-cn.com/problems/maximum-size-subarray-sum-equals-k) | [和等于 k 的最长子数组长度  ](https://leetcode-cn.com/problems/maximum-size-subarray-sum-equals-k) |
-| 326   | [3的幂  ](https://leetcode-cn.com/problems/power-of-three)   | [3的幂  ](https://leetcode-cn.com/problems/power-of-three)   |
-| 327   | [区间和的个数  ](https://leetcode-cn.com/problems/count-of-range-sum) | [区间和的个数  ](https://leetcode-cn.com/problems/count-of-range-sum) |
-| 328   | [奇偶链表  ](https://leetcode-cn.com/problems/odd-even-linked-list) | [奇偶链表  ](https://leetcode-cn.com/problems/odd-even-linked-list) |
-| 329   | [矩阵中的最长递增路径  ](https://leetcode-cn.com/problems/longest-increasing-path-in-a-matrix) | [矩阵中的最长递增路径  ](https://leetcode-cn.com/problems/longest-increasing-path-in-a-matrix) |
-| 330   | [按要求补齐数组  ](https://leetcode-cn.com/problems/patching-array) | [按要求补齐数组  ](https://leetcode-cn.com/problems/patching-array) |
-| 331   | [验证二叉树的前序序列化  ](https://leetcode-cn.com/problems/verify-preorder-serialization-of-a-binary-tree) | [验证二叉树的前序序列化  ](https://leetcode-cn.com/problems/verify-preorder-serialization-of-a-binary-tree) |
-| 332   | [重新安排行程  ](https://leetcode-cn.com/problems/reconstruct-itinerary) | [重新安排行程  ](https://leetcode-cn.com/problems/reconstruct-itinerary) |
-| 333   | [最大 BST 子树  ](https://leetcode-cn.com/problems/largest-bst-subtree) | [最大   BST 子树  ](https://leetcode-cn.com/problems/largest-bst-subtree) |
-| 334   | [递增的三元子序列  ](https://leetcode-cn.com/problems/increasing-triplet-subsequence) | [递增的三元子序列  ](https://leetcode-cn.com/problems/increasing-triplet-subsequence) |
-| 335   | [路径交叉  ](https://leetcode-cn.com/problems/self-crossing) | [路径交叉  ](https://leetcode-cn.com/problems/self-crossing) |
-| 336   | [回文对  ](https://leetcode-cn.com/problems/palindrome-pairs) | [回文对  ](https://leetcode-cn.com/problems/palindrome-pairs) |
-| 337   | [打家劫舍 III  ](https://leetcode-cn.com/problems/house-robber-iii) | [打家劫舍   III  ](https://leetcode-cn.com/problems/house-robber-iii) |
-| 338   | [比特位计数  ](https://leetcode-cn.com/problems/counting-bits) | [比特位计数  ](https://leetcode-cn.com/problems/counting-bits) |
-| 339   | [嵌套列表权重和  ](https://leetcode-cn.com/problems/nested-list-weight-sum) | [嵌套列表权重和  ](https://leetcode-cn.com/problems/nested-list-weight-sum) |
-| 340   | [至多包含   K 个不同字符的最长子串  ](https://leetcode-cn.com/problems/longest-substring-with-at-most-k-distinct-characters) | [至多包含 K 个不同字符的最长子串  ](https://leetcode-cn.com/problems/longest-substring-with-at-most-k-distinct-characters) |
-| 341   | [扁平化嵌套列表迭代器  ](https://leetcode-cn.com/problems/flatten-nested-list-iterator) | [扁平化嵌套列表迭代器  ](https://leetcode-cn.com/problems/flatten-nested-list-iterator) |
-| 342   | [4的幂  ](https://leetcode-cn.com/problems/power-of-four)    | [4的幂  ](https://leetcode-cn.com/problems/power-of-four)    |
-| 343   | [整数拆分  ](https://leetcode-cn.com/problems/integer-break) | [整数拆分  ](https://leetcode-cn.com/problems/integer-break) |
-| 344   | [反转字符串  ](https://leetcode-cn.com/problems/reverse-string) | [反转字符串  ](https://leetcode-cn.com/problems/reverse-string) |
-| 345   | [反转字符串中的元音字母  ](https://leetcode-cn.com/problems/reverse-vowels-of-a-string) | [反转字符串中的元音字母  ](https://leetcode-cn.com/problems/reverse-vowels-of-a-string) |
-| 346   | [数据流中的移动平均值  ](https://leetcode-cn.com/problems/moving-average-from-data-stream) | [数据流中的移动平均值  ](https://leetcode-cn.com/problems/moving-average-from-data-stream) |
-| 347   | [前 K 个高频元素  ](https://leetcode-cn.com/problems/top-k-frequent-elements) | [前 K 个高频元素  ](https://leetcode-cn.com/problems/top-k-frequent-elements) |
-| 348   | [判定井字棋胜负  ](https://leetcode-cn.com/problems/design-tic-tac-toe) | [判定井字棋胜负  ](https://leetcode-cn.com/problems/design-tic-tac-toe) |
-| 349   | [两个数组的交集  ](https://leetcode-cn.com/problems/intersection-of-two-arrays) | [两个数组的交集  ](https://leetcode-cn.com/problems/intersection-of-two-arrays) |
-| 350   | [两个数组的交集   II  ](https://leetcode-cn.com/problems/intersection-of-two-arrays-ii) | [两个数组的交集 II  ](https://leetcode-cn.com/problems/intersection-of-two-arrays-ii) |
-| 351   | [安卓系统手势解锁  ](https://leetcode-cn.com/problems/android-unlock-patterns) | [安卓系统手势解锁  ](https://leetcode-cn.com/problems/android-unlock-patterns) |
-| 352   | [将数据流变为多个不相交区间  ](https://leetcode-cn.com/problems/data-stream-as-disjoint-intervals) | [将数据流变为多个不相交区间  ](https://leetcode-cn.com/problems/data-stream-as-disjoint-intervals) |
-| 353   | [贪吃蛇  ](https://leetcode-cn.com/problems/design-snake-game) | [贪吃蛇  ](https://leetcode-cn.com/problems/design-snake-game) |
-| 354   | [俄罗斯套娃信封问题  ](https://leetcode-cn.com/problems/russian-doll-envelopes) | [俄罗斯套娃信封问题  ](https://leetcode-cn.com/problems/russian-doll-envelopes) |
-| 355   | [设计推特  ](https://leetcode-cn.com/problems/design-twitter) | [设计推特  ](https://leetcode-cn.com/problems/design-twitter) |
-| 356   | [直线镜像  ](https://leetcode-cn.com/problems/line-reflection) | [直线镜像  ](https://leetcode-cn.com/problems/line-reflection) |
-| 357   | [计算各个位数不同的数字个数  ](https://leetcode-cn.com/problems/count-numbers-with-unique-digits) | [计算各个位数不同的数字个数  ](https://leetcode-cn.com/problems/count-numbers-with-unique-digits) |
-| 358   | [K   距离间隔重排字符串  ](https://leetcode-cn.com/problems/rearrange-string-k-distance-apart) | [K 距离间隔重排字符串  ](https://leetcode-cn.com/problems/rearrange-string-k-distance-apart) |
-| 359   | [日志速率限制器  ](https://leetcode-cn.com/problems/logger-rate-limiter) | [日志速率限制器  ](https://leetcode-cn.com/problems/logger-rate-limiter) |
-| 360   | [有序转化数组  ](https://leetcode-cn.com/problems/sort-transformed-array) | [有序转化数组  ](https://leetcode-cn.com/problems/sort-transformed-array) |
-| 361   | [轰炸敌人  ](https://leetcode-cn.com/problems/bomb-enemy)    | [轰炸敌人  ](https://leetcode-cn.com/problems/bomb-enemy)    |
-| 362   | [敲击计数器  ](https://leetcode-cn.com/problems/design-hit-counter) | [敲击计数器  ](https://leetcode-cn.com/problems/design-hit-counter) |
-| 363   | [矩形区域不超过   K 的最大数值和  ](https://leetcode-cn.com/problems/max-sum-of-rectangle-no-larger-than-k) | [矩形区域不超过 K 的最大数值和  ](https://leetcode-cn.com/problems/max-sum-of-rectangle-no-larger-than-k) |
-| 364   | [加权嵌套序列和 II  ](https://leetcode-cn.com/problems/nested-list-weight-sum-ii) | [加权嵌套序列和 II  ](https://leetcode-cn.com/problems/nested-list-weight-sum-ii) |
-| 365   | [水壶问题  ](https://leetcode-cn.com/problems/water-and-jug-problem) | [水壶问题  ](https://leetcode-cn.com/problems/water-and-jug-problem) |
-| 366   | [寻找完全二叉树的叶子节点  ](https://leetcode-cn.com/problems/find-leaves-of-binary-tree) | [寻找完全二叉树的叶子节点  ](https://leetcode-cn.com/problems/find-leaves-of-binary-tree) |
-| 367   | [有效的完全平方数  ](https://leetcode-cn.com/problems/valid-perfect-square) | [有效的完全平方数  ](https://leetcode-cn.com/problems/valid-perfect-square) |
-| 368   | [最大整除子集  ](https://leetcode-cn.com/problems/largest-divisible-subset) | [最大整除子集  ](https://leetcode-cn.com/problems/largest-divisible-subset) |
-| 369   | [给单链表加一  ](https://leetcode-cn.com/problems/plus-one-linked-list) | [给单链表加一  ](https://leetcode-cn.com/problems/plus-one-linked-list) |
-| 370   | [区间加法  ](https://leetcode-cn.com/problems/range-addition) | [区间加法  ](https://leetcode-cn.com/problems/range-addition) |
-| 371   | [两整数之和  ](https://leetcode-cn.com/problems/sum-of-two-integers) | [两整数之和  ](https://leetcode-cn.com/problems/sum-of-two-integers) |
-| 372   | [超级次方  ](https://leetcode-cn.com/problems/super-pow)     | [超级次方  ](https://leetcode-cn.com/problems/super-pow)     |
-| 373   | [查找和最小的K对数字  ](https://leetcode-cn.com/problems/find-k-pairs-with-smallest-sums) | [查找和最小的K对数字  ](https://leetcode-cn.com/problems/find-k-pairs-with-smallest-sums) |
-| 374   | [猜数字大小  ](https://leetcode-cn.com/problems/guess-number-higher-or-lower) | [猜数字大小  ](https://leetcode-cn.com/problems/guess-number-higher-or-lower) |
-| 375   | [猜数字大小   II  ](https://leetcode-cn.com/problems/guess-number-higher-or-lower-ii) | [猜数字大小 II  ](https://leetcode-cn.com/problems/guess-number-higher-or-lower-ii) |
-| 376   | [摆动序列  ](https://leetcode-cn.com/problems/wiggle-subsequence) | [摆动序列  ](https://leetcode-cn.com/problems/wiggle-subsequence) |
-| 377   | [组合总和 Ⅳ  ](https://leetcode-cn.com/problems/combination-sum-iv) | [组合总和   Ⅳ  ](https://leetcode-cn.com/problems/combination-sum-iv) |
-| 378   | [有序矩阵中第K小的元素  ](https://leetcode-cn.com/problems/kth-smallest-element-in-a-sorted-matrix) | [有序矩阵中第K小的元素  ](https://leetcode-cn.com/problems/kth-smallest-element-in-a-sorted-matrix) |
-| 379   | [电话目录管理系统  ](https://leetcode-cn.com/problems/design-phone-directory) | [电话目录管理系统  ](https://leetcode-cn.com/problems/design-phone-directory) |
-| 380   | [常数时间插入、删除和获取随机元素  ](https://leetcode-cn.com/problems/insert-delete-getrandom-o1) | [常数时间插入、删除和获取随机元素  ](https://leetcode-cn.com/problems/insert-delete-getrandom-o1) |
-| 381   | [O(1)   时间插入、删除和获取随机元素 - 允许重复  ](https://leetcode-cn.com/problems/insert-delete-getrandom-o1-duplicates-allowed) | [O(1) 时间插入、删除和获取随机元素 - 允许重复  ](https://leetcode-cn.com/problems/insert-delete-getrandom-o1-duplicates-allowed) |
-| 382   | [链表随机节点  ](https://leetcode-cn.com/problems/linked-list-random-node) | [链表随机节点  ](https://leetcode-cn.com/problems/linked-list-random-node) |
-| 383   | [赎金信  ](https://leetcode-cn.com/problems/ransom-note)     | [赎金信  ](https://leetcode-cn.com/problems/ransom-note)     |
-| 384   | [打乱数组  ](https://leetcode-cn.com/problems/shuffle-an-array) | [打乱数组  ](https://leetcode-cn.com/problems/shuffle-an-array) |
-| 385   | [迷你语法分析器  ](https://leetcode-cn.com/problems/mini-parser) | [迷你语法分析器  ](https://leetcode-cn.com/problems/mini-parser) |
-| 386   | [字典序排数  ](https://leetcode-cn.com/problems/lexicographical-numbers) | [字典序排数  ](https://leetcode-cn.com/problems/lexicographical-numbers) |
-| 387   | [字符串中的第一个唯一字符  ](https://leetcode-cn.com/problems/first-unique-character-in-a-string) | [字符串中的第一个唯一字符  ](https://leetcode-cn.com/problems/first-unique-character-in-a-string) |
-| 388   | [文件的最长绝对路径  ](https://leetcode-cn.com/problems/longest-absolute-file-path) | [文件的最长绝对路径  ](https://leetcode-cn.com/problems/longest-absolute-file-path) |
-| 389   | [找不同  ](https://leetcode-cn.com/problems/find-the-difference) | [找不同  ](https://leetcode-cn.com/problems/find-the-difference) |
-| 390   | [消除游戏  ](https://leetcode-cn.com/problems/elimination-game) | [消除游戏  ](https://leetcode-cn.com/problems/elimination-game) |
-| 391   | [完美矩形  ](https://leetcode-cn.com/problems/perfect-rectangle) | [完美矩形  ](https://leetcode-cn.com/problems/perfect-rectangle) |
-| 392   | [判断子序列  ](https://leetcode-cn.com/problems/is-subsequence) | [判断子序列  ](https://leetcode-cn.com/problems/is-subsequence) |
-| 393   | [UTF-8 编码验证  ](https://leetcode-cn.com/problems/utf-8-validation) | [UTF-8   编码验证  ](https://leetcode-cn.com/problems/utf-8-validation) |
-| 394   | [字符串解码  ](https://leetcode-cn.com/problems/decode-string) | [字符串解码  ](https://leetcode-cn.com/problems/decode-string) |
-| 395   | [至少有K个重复字符的最长子串  ](https://leetcode-cn.com/problems/longest-substring-with-at-least-k-repeating-characters) | [至少有K个重复字符的最长子串  ](https://leetcode-cn.com/problems/longest-substring-with-at-least-k-repeating-characters) |
-| 396   | [旋转函数  ](https://leetcode-cn.com/problems/rotate-function) | [旋转函数  ](https://leetcode-cn.com/problems/rotate-function) |
-| 397   | [整数替换  ](https://leetcode-cn.com/problems/integer-replacement) | [整数替换  ](https://leetcode-cn.com/problems/integer-replacement) |
-| 398   | [随机数索引  ](https://leetcode-cn.com/problems/random-pick-index) | [随机数索引  ](https://leetcode-cn.com/problems/random-pick-index) |
-| 399   | [除法求值  ](https://leetcode-cn.com/problems/evaluate-division) | [除法求值  ](https://leetcode-cn.com/problems/evaluate-division) |
-| 400   | [第N个数字  ](https://leetcode-cn.com/problems/nth-digit)    | [第N个数字  ](https://leetcode-cn.com/problems/nth-digit)    |
-| 401   | [二进制手表  ](https://leetcode-cn.com/problems/binary-watch) | [二进制手表  ](https://leetcode-cn.com/problems/binary-watch) |
-| 402   | [移掉K位数字  ](https://leetcode-cn.com/problems/remove-k-digits) | [移掉K位数字  ](https://leetcode-cn.com/problems/remove-k-digits) |
-| 403   | [青蛙过河  ](https://leetcode-cn.com/problems/frog-jump)     | [青蛙过河  ](https://leetcode-cn.com/problems/frog-jump)     |
-| 404   | [左叶子之和  ](https://leetcode-cn.com/problems/sum-of-left-leaves) | [左叶子之和  ](https://leetcode-cn.com/problems/sum-of-left-leaves) |
-| 405   | [数字转换为十六进制数  ](https://leetcode-cn.com/problems/convert-a-number-to-hexadecimal) | [数字转换为十六进制数  ](https://leetcode-cn.com/problems/convert-a-number-to-hexadecimal) |
-| 406   | [根据身高重建队列  ](https://leetcode-cn.com/problems/queue-reconstruction-by-height) | [根据身高重建队列  ](https://leetcode-cn.com/problems/queue-reconstruction-by-height) |
-| 407   | [接雨水 II  ](https://leetcode-cn.com/problems/trapping-rain-water-ii) | [接雨水 II  ](https://leetcode-cn.com/problems/trapping-rain-water-ii) |
-| 408   | [有效单词缩写  ](https://leetcode-cn.com/problems/valid-word-abbreviation) | [有效单词缩写  ](https://leetcode-cn.com/problems/valid-word-abbreviation) |
-| 409   | [最长回文串  ](https://leetcode-cn.com/problems/longest-palindrome) | [最长回文串  ](https://leetcode-cn.com/problems/longest-palindrome) |
-| 410   | [分割数组的最大值  ](https://leetcode-cn.com/problems/split-array-largest-sum) | [分割数组的最大值  ](https://leetcode-cn.com/problems/split-array-largest-sum) |
-| 411   | [最短特异单词缩写  ](https://leetcode-cn.com/problems/minimum-unique-word-abbreviation) | [最短特异单词缩写  ](https://leetcode-cn.com/problems/minimum-unique-word-abbreviation) |
-| 412   | [Fizz Buzz  ](https://leetcode-cn.com/problems/fizz-buzz)    | [Fizz   Buzz  ](https://leetcode-cn.com/problems/fizz-buzz)  |
-| 413   | [等差数列划分  ](https://leetcode-cn.com/problems/arithmetic-slices) | [等差数列划分  ](https://leetcode-cn.com/problems/arithmetic-slices) |
-| 414   | [第三大的数  ](https://leetcode-cn.com/problems/third-maximum-number) | [第三大的数  ](https://leetcode-cn.com/problems/third-maximum-number) |
-| 415   | [字符串相加  ](https://leetcode-cn.com/problems/add-strings) | [字符串相加  ](https://leetcode-cn.com/problems/add-strings) |
-| 416   | [分割等和子集  ](https://leetcode-cn.com/problems/partition-equal-subset-sum) | [分割等和子集  ](https://leetcode-cn.com/problems/partition-equal-subset-sum) |
-| 417   | [太平洋大西洋水流问题  ](https://leetcode-cn.com/problems/pacific-atlantic-water-flow) | [太平洋大西洋水流问题  ](https://leetcode-cn.com/problems/pacific-atlantic-water-flow) |
-| 418   | [屏幕可显示句子的数量  ](https://leetcode-cn.com/problems/sentence-screen-fitting) | [屏幕可显示句子的数量  ](https://leetcode-cn.com/problems/sentence-screen-fitting) |
-| 419   | [甲板上的战舰  ](https://leetcode-cn.com/problems/battleships-in-a-board) | [甲板上的战舰  ](https://leetcode-cn.com/problems/battleships-in-a-board) |
-| 420   | [强密码检验器  ](https://leetcode-cn.com/problems/strong-password-checker) | [强密码检验器  ](https://leetcode-cn.com/problems/strong-password-checker) |
-| 421   | [数组中两个数的最大异或值  ](https://leetcode-cn.com/problems/maximum-xor-of-two-numbers-in-an-array) | [数组中两个数的最大异或值  ](https://leetcode-cn.com/problems/maximum-xor-of-two-numbers-in-an-array) |
-| 422   | [有效的单词方块  ](https://leetcode-cn.com/problems/valid-word-square) | [有效的单词方块  ](https://leetcode-cn.com/problems/valid-word-square) |
-| 423   | [从英文中重建数字  ](https://leetcode-cn.com/problems/reconstruct-original-digits-from-english) | [从英文中重建数字  ](https://leetcode-cn.com/problems/reconstruct-original-digits-from-english) |
-| 424   | [替换后的最长重复字符  ](https://leetcode-cn.com/problems/longest-repeating-character-replacement) | [替换后的最长重复字符  ](https://leetcode-cn.com/problems/longest-repeating-character-replacement) |
-| 425   | [单词方块  ](https://leetcode-cn.com/problems/word-squares)  | [单词方块  ](https://leetcode-cn.com/problems/word-squares)  |
-| 426   | [将二叉搜索树转化为排序的双向链表  ](https://leetcode-cn.com/problems/convert-binary-search-tree-to-sorted-doubly-linked-list) | [将二叉搜索树转化为排序的双向链表  ](https://leetcode-cn.com/problems/convert-binary-search-tree-to-sorted-doubly-linked-list) |
-| 427   | [建立四叉树  ](https://leetcode-cn.com/problems/construct-quad-tree) | [建立四叉树  ](https://leetcode-cn.com/problems/construct-quad-tree) |
-| 428   | [序列化和反序列化   N 叉树  ](https://leetcode-cn.com/problems/serialize-and-deserialize-n-ary-tree) | [序列化和反序列化 N 叉树  ](https://leetcode-cn.com/problems/serialize-and-deserialize-n-ary-tree) |
-| 429   | [N叉树的层序遍历  ](https://leetcode-cn.com/problems/n-ary-tree-level-order-traversal) | [N叉树的层序遍历  ](https://leetcode-cn.com/problems/n-ary-tree-level-order-traversal) |
-| 430   | [扁平化多级双向链表  ](https://leetcode-cn.com/problems/flatten-a-multilevel-doubly-linked-list) | [扁平化多级双向链表  ](https://leetcode-cn.com/problems/flatten-a-multilevel-doubly-linked-list) |
-| 431   | [将 N   叉树编码为二叉树  ](https://leetcode-cn.com/problems/encode-n-ary-tree-to-binary-tree) | [将 N 叉树编码为二叉树  ](https://leetcode-cn.com/problems/encode-n-ary-tree-to-binary-tree) |
-| 432   | [全 O(1) 的数据结构  ](https://leetcode-cn.com/problems/all-oone-data-structure) | [全 O(1) 的数据结构  ](https://leetcode-cn.com/problems/all-oone-data-structure) |
-| 433   | [最小基因变化  ](https://leetcode-cn.com/problems/minimum-genetic-mutation) | [最小基因变化  ](https://leetcode-cn.com/problems/minimum-genetic-mutation) |
-| 434   | [字符串中的单词数  ](https://leetcode-cn.com/problems/number-of-segments-in-a-string) | [字符串中的单词数  ](https://leetcode-cn.com/problems/number-of-segments-in-a-string) |
-| 435   | [无重叠区间  ](https://leetcode-cn.com/problems/non-overlapping-intervals) | [无重叠区间  ](https://leetcode-cn.com/problems/non-overlapping-intervals) |
-| 436   | [寻找右区间  ](https://leetcode-cn.com/problems/find-right-interval) | [寻找右区间  ](https://leetcode-cn.com/problems/find-right-interval) |
-| 437   | [路径总和 III  ](https://leetcode-cn.com/problems/path-sum-iii) | [路径总和   III  ](https://leetcode-cn.com/problems/path-sum-iii) |
-| 438   | [找到字符串中所有字母异位词  ](https://leetcode-cn.com/problems/find-all-anagrams-in-a-string) | [找到字符串中所有字母异位词  ](https://leetcode-cn.com/problems/find-all-anagrams-in-a-string) |
-| 439   | [三元表达式解析器  ](https://leetcode-cn.com/problems/ternary-expression-parser) | [三元表达式解析器  ](https://leetcode-cn.com/problems/ternary-expression-parser) |
-| 440   | [字典序的第K小数字  ](https://leetcode-cn.com/problems/k-th-smallest-in-lexicographical-order) | [字典序的第K小数字  ](https://leetcode-cn.com/problems/k-th-smallest-in-lexicographical-order) |
-| 441   | [排列硬币  ](https://leetcode-cn.com/problems/arranging-coins) | [排列硬币  ](https://leetcode-cn.com/problems/arranging-coins) |
-| 442   | [数组中重复的数据  ](https://leetcode-cn.com/problems/find-all-duplicates-in-an-array) | [数组中重复的数据  ](https://leetcode-cn.com/problems/find-all-duplicates-in-an-array) |
-| 443   | [压缩字符串  ](https://leetcode-cn.com/problems/string-compression) | [压缩字符串  ](https://leetcode-cn.com/problems/string-compression) |
-| 444   | [序列重建  ](https://leetcode-cn.com/problems/sequence-reconstruction) | [序列重建  ](https://leetcode-cn.com/problems/sequence-reconstruction) |
-| 445   | [两数相加 II  ](https://leetcode-cn.com/problems/add-two-numbers-ii) | [两数相加   II  ](https://leetcode-cn.com/problems/add-two-numbers-ii) |
-| 446   | [等差数列划分   II - 子序列  ](https://leetcode-cn.com/problems/arithmetic-slices-ii-subsequence) | [等差数列划分 II - 子序列  ](https://leetcode-cn.com/problems/arithmetic-slices-ii-subsequence) |
-| 447   | [回旋镖的数量  ](https://leetcode-cn.com/problems/number-of-boomerangs) | [回旋镖的数量  ](https://leetcode-cn.com/problems/number-of-boomerangs) |
-| 448   | [找到所有数组中消失的数字  ](https://leetcode-cn.com/problems/find-all-numbers-disappeared-in-an-array) | [找到所有数组中消失的数字  ](https://leetcode-cn.com/problems/find-all-numbers-disappeared-in-an-array) |
-| 449   | [序列化和反序列化二叉搜索树  ](https://leetcode-cn.com/problems/serialize-and-deserialize-bst) | [序列化和反序列化二叉搜索树  ](https://leetcode-cn.com/problems/serialize-and-deserialize-bst) |
-| 450   | [删除二叉搜索树中的节点  ](https://leetcode-cn.com/problems/delete-node-in-a-bst) | [删除二叉搜索树中的节点  ](https://leetcode-cn.com/problems/delete-node-in-a-bst) |
-| 451   | [根据字符出现频率排序  ](https://leetcode-cn.com/problems/sort-characters-by-frequency) | [根据字符出现频率排序  ](https://leetcode-cn.com/problems/sort-characters-by-frequency) |
-| 452   | [用最少数量的箭引爆气球  ](https://leetcode-cn.com/problems/minimum-number-of-arrows-to-burst-balloons) | [用最少数量的箭引爆气球  ](https://leetcode-cn.com/problems/minimum-number-of-arrows-to-burst-balloons) |
-| 453   | [最小移动次数使数组元素相等  ](https://leetcode-cn.com/problems/minimum-moves-to-equal-array-elements) | [最小移动次数使数组元素相等  ](https://leetcode-cn.com/problems/minimum-moves-to-equal-array-elements) |
-| 454   | [四数相加 II  ](https://leetcode-cn.com/problems/4sum-ii)    | [四数相加   II  ](https://leetcode-cn.com/problems/4sum-ii)  |
-| 455   | [分发饼干  ](https://leetcode-cn.com/problems/assign-cookies) | [分发饼干  ](https://leetcode-cn.com/problems/assign-cookies) |
-| 456   | [132模式  ](https://leetcode-cn.com/problems/132-pattern)    | [132模式  ](https://leetcode-cn.com/problems/132-pattern)    |
-| 457   | [环形数组循环  ](https://leetcode-cn.com/problems/circular-array-loop) | [环形数组循环  ](https://leetcode-cn.com/problems/circular-array-loop) |
-| 458   | [可怜的小猪  ](https://leetcode-cn.com/problems/poor-pigs)   | [可怜的小猪  ](https://leetcode-cn.com/problems/poor-pigs)   |
-| 459   | [重复的子字符串  ](https://leetcode-cn.com/problems/repeated-substring-pattern) | [重复的子字符串  ](https://leetcode-cn.com/problems/repeated-substring-pattern) |
-| 460   | [LFU缓存  ](https://leetcode-cn.com/problems/lfu-cache)      | [LFU缓存  ](https://leetcode-cn.com/problems/lfu-cache)      |
-| 461   | [汉明距离  ](https://leetcode-cn.com/problems/hamming-distance) | [汉明距离  ](https://leetcode-cn.com/problems/hamming-distance) |
-| 462   | [最少移动次数使数组元素相等   II  ](https://leetcode-cn.com/problems/minimum-moves-to-equal-array-elements-ii) | [最少移动次数使数组元素相等 II  ](https://leetcode-cn.com/problems/minimum-moves-to-equal-array-elements-ii) |
-| 463   | [岛屿的周长  ](https://leetcode-cn.com/problems/island-perimeter) | [岛屿的周长  ](https://leetcode-cn.com/problems/island-perimeter) |
-| 464   | [我能赢吗  ](https://leetcode-cn.com/problems/can-i-win)     | [我能赢吗  ](https://leetcode-cn.com/problems/can-i-win)     |
-| 465   | [最优账单平衡  ](https://leetcode-cn.com/problems/optimal-account-balancing) | [最优账单平衡  ](https://leetcode-cn.com/problems/optimal-account-balancing) |
-| 466   | [统计重复个数  ](https://leetcode-cn.com/problems/count-the-repetitions) | [统计重复个数  ](https://leetcode-cn.com/problems/count-the-repetitions) |
-| 467   | [环绕字符串中唯一的子字符串  ](https://leetcode-cn.com/problems/unique-substrings-in-wraparound-string) | [环绕字符串中唯一的子字符串  ](https://leetcode-cn.com/problems/unique-substrings-in-wraparound-string) |
-| 468   | [验证IP地址  ](https://leetcode-cn.com/problems/validate-ip-address) | [验证IP地址  ](https://leetcode-cn.com/problems/validate-ip-address) |
-| 469   | [凸多边形  ](https://leetcode-cn.com/problems/convex-polygon) | [凸多边形  ](https://leetcode-cn.com/problems/convex-polygon) |
-| 470   | [用   Rand7() 实现 Rand10()  ](https://leetcode-cn.com/problems/implement-rand10-using-rand7) | [用 Rand7() 实现 Rand10()  ](https://leetcode-cn.com/problems/implement-rand10-using-rand7) |
-| 471   | [编码最短长度的字符串  ](https://leetcode-cn.com/problems/encode-string-with-shortest-length) | [编码最短长度的字符串  ](https://leetcode-cn.com/problems/encode-string-with-shortest-length) |
-| 472   | [连接词  ](https://leetcode-cn.com/problems/concatenated-words) | [连接词  ](https://leetcode-cn.com/problems/concatenated-words) |
-| 473   | [火柴拼正方形  ](https://leetcode-cn.com/problems/matchsticks-to-square) | [火柴拼正方形  ](https://leetcode-cn.com/problems/matchsticks-to-square) |
-| 474   | [一和零  ](https://leetcode-cn.com/problems/ones-and-zeroes) | [一和零  ](https://leetcode-cn.com/problems/ones-and-zeroes) |
-| 475   | [供暖器  ](https://leetcode-cn.com/problems/heaters)         | [供暖器  ](https://leetcode-cn.com/problems/heaters)         |
-| 476   | [数字的补数  ](https://leetcode-cn.com/problems/number-complement) | [数字的补数  ](https://leetcode-cn.com/problems/number-complement) |
-| 477   | [汉明距离总和  ](https://leetcode-cn.com/problems/total-hamming-distance) | [汉明距离总和  ](https://leetcode-cn.com/problems/total-hamming-distance) |
-| 478   | [在圆内随机生成点  ](https://leetcode-cn.com/problems/generate-random-point-in-a-circle) | [在圆内随机生成点  ](https://leetcode-cn.com/problems/generate-random-point-in-a-circle) |
-| 479   | [最大回文数乘积  ](https://leetcode-cn.com/problems/largest-palindrome-product) | [最大回文数乘积  ](https://leetcode-cn.com/problems/largest-palindrome-product) |
-| 480   | [滑动窗口中位数  ](https://leetcode-cn.com/problems/sliding-window-median) | [滑动窗口中位数  ](https://leetcode-cn.com/problems/sliding-window-median) |
-| 481   | [神奇字符串  ](https://leetcode-cn.com/problems/magical-string) | [神奇字符串  ](https://leetcode-cn.com/problems/magical-string) |
-| 482   | [密钥格式化  ](https://leetcode-cn.com/problems/license-key-formatting) | [密钥格式化  ](https://leetcode-cn.com/problems/license-key-formatting) |
-| 483   | [最小好进制  ](https://leetcode-cn.com/problems/smallest-good-base) | [最小好进制  ](https://leetcode-cn.com/problems/smallest-good-base) |
-| 484   | [寻找排列  ](https://leetcode-cn.com/problems/find-permutation) | [寻找排列  ](https://leetcode-cn.com/problems/find-permutation) |
-| 485   | [最大连续1的个数  ](https://leetcode-cn.com/problems/max-consecutive-ones) | [最大连续1的个数  ](https://leetcode-cn.com/problems/max-consecutive-ones) |
-| 486   | [预测赢家  ](https://leetcode-cn.com/problems/predict-the-winner) | [预测赢家  ](https://leetcode-cn.com/problems/predict-the-winner) |
-| 487   | [最大连续1的个数 II  ](https://leetcode-cn.com/problems/max-consecutive-ones-ii) | [最大连续1的个数 II  ](https://leetcode-cn.com/problems/max-consecutive-ones-ii) |
-| 488   | [祖玛游戏  ](https://leetcode-cn.com/problems/zuma-game)     | [祖玛游戏  ](https://leetcode-cn.com/problems/zuma-game)     |
-| 489   | [扫地机器人  ](https://leetcode-cn.com/problems/robot-room-cleaner) | [扫地机器人  ](https://leetcode-cn.com/problems/robot-room-cleaner) |
-| 490   | [迷宫  ](https://leetcode-cn.com/problems/the-maze)          | [迷宫  ](https://leetcode-cn.com/problems/the-maze)          |
-| 491   | [递增子序列  ](https://leetcode-cn.com/problems/increasing-subsequences) | [递增子序列  ](https://leetcode-cn.com/problems/increasing-subsequences) |
-| 492   | [构造矩形  ](https://leetcode-cn.com/problems/construct-the-rectangle) | [构造矩形  ](https://leetcode-cn.com/problems/construct-the-rectangle) |
-| 493   | [翻转对  ](https://leetcode-cn.com/problems/reverse-pairs)   | [翻转对  ](https://leetcode-cn.com/problems/reverse-pairs)   |
-| 494   | [目标和  ](https://leetcode-cn.com/problems/target-sum)      | [目标和  ](https://leetcode-cn.com/problems/target-sum)      |
-| 495   | [提莫攻击  ](https://leetcode-cn.com/problems/teemo-attacking) | [提莫攻击  ](https://leetcode-cn.com/problems/teemo-attacking) |
-| 496   | [下一个更大元素 I  ](https://leetcode-cn.com/problems/next-greater-element-i) | [下一个更大元素 I  ](https://leetcode-cn.com/problems/next-greater-element-i) |
-| 497   | [非重叠矩形中的随机点  ](https://leetcode-cn.com/problems/random-point-in-non-overlapping-rectangles) | [非重叠矩形中的随机点  ](https://leetcode-cn.com/problems/random-point-in-non-overlapping-rectangles) |
-| 498   | [对角线遍历  ](https://leetcode-cn.com/problems/diagonal-traverse) | [对角线遍历  ](https://leetcode-cn.com/problems/diagonal-traverse) |
-| 499   | [迷宫 III  ](https://leetcode-cn.com/problems/the-maze-iii)  | [迷宫   III  ](https://leetcode-cn.com/problems/the-maze-iii) |
-| 500   | [键盘行  ](https://leetcode-cn.com/problems/keyboard-row)    | [键盘行  ](https://leetcode-cn.com/problems/keyboard-row)    |
-| 501   | [二叉搜索树中的众数  ](https://leetcode-cn.com/problems/find-mode-in-binary-search-tree) | [二叉搜索树中的众数  ](https://leetcode-cn.com/problems/find-mode-in-binary-search-tree) |
-| 502   | [IPO  ](https://leetcode-cn.com/problems/ipo)                | [IPO  ](https://leetcode-cn.com/problems/ipo)                |
-| 503   | [下一个更大元素 II  ](https://leetcode-cn.com/problems/next-greater-element-ii) | [下一个更大元素 II  ](https://leetcode-cn.com/problems/next-greater-element-ii) |
-| 504   | [七进制数  ](https://leetcode-cn.com/problems/base-7)        | [七进制数  ](https://leetcode-cn.com/problems/base-7)        |
-| 505   | [迷宫 II  ](https://leetcode-cn.com/problems/the-maze-ii)    | [迷宫   II  ](https://leetcode-cn.com/problems/the-maze-ii)  |
-| 506   | [相对名次  ](https://leetcode-cn.com/problems/relative-ranks) | [相对名次  ](https://leetcode-cn.com/problems/relative-ranks) |
-| 507   | [完美数  ](https://leetcode-cn.com/problems/perfect-number)  | [完美数  ](https://leetcode-cn.com/problems/perfect-number)  |
-| 508   | [出现次数最多的子树元素和  ](https://leetcode-cn.com/problems/most-frequent-subtree-sum) | [出现次数最多的子树元素和  ](https://leetcode-cn.com/problems/most-frequent-subtree-sum) |
-| 509   | [斐波那契数  ](https://leetcode-cn.com/problems/fibonacci-number) | [斐波那契数  ](https://leetcode-cn.com/problems/fibonacci-number) |
-| 510   | [二叉搜索树中的中序后继   II  ](https://leetcode-cn.com/problems/inorder-successor-in-bst-ii) | [二叉搜索树中的中序后继 II  ](https://leetcode-cn.com/problems/inorder-successor-in-bst-ii) |
-| 511   | [游戏玩法分析 I  ](https://leetcode-cn.com/problems/game-play-analysis-i) | [游戏玩法分析 I  ](https://leetcode-cn.com/problems/game-play-analysis-i) |
-| 512   | [游戏玩法分析 II  ](https://leetcode-cn.com/problems/game-play-analysis-ii) | [游戏玩法分析 II  ](https://leetcode-cn.com/problems/game-play-analysis-ii) |
-| 513   | [找树左下角的值  ](https://leetcode-cn.com/problems/find-bottom-left-tree-value) | [找树左下角的值  ](https://leetcode-cn.com/problems/find-bottom-left-tree-value) |
-| 514   | [自由之路  ](https://leetcode-cn.com/problems/freedom-trail) | [自由之路  ](https://leetcode-cn.com/problems/freedom-trail) |
-| 515   | [在每个树行中找最大值  ](https://leetcode-cn.com/problems/find-largest-value-in-each-tree-row) | [在每个树行中找最大值  ](https://leetcode-cn.com/problems/find-largest-value-in-each-tree-row) |
-| 516   | [最长回文子序列  ](https://leetcode-cn.com/problems/longest-palindromic-subsequence) | [最长回文子序列  ](https://leetcode-cn.com/problems/longest-palindromic-subsequence) |
-| 517   | [超级洗衣机  ](https://leetcode-cn.com/problems/super-washing-machines) | [超级洗衣机  ](https://leetcode-cn.com/problems/super-washing-machines) |
-| 518   | [零钱兑换 II  ](https://leetcode-cn.com/problems/coin-change-2) | [零钱兑换   II  ](https://leetcode-cn.com/problems/coin-change-2) |
-| 519   | [随机翻转矩阵  ](https://leetcode-cn.com/problems/random-flip-matrix) | [随机翻转矩阵  ](https://leetcode-cn.com/problems/random-flip-matrix) |
-| 520   | [检测大写字母  ](https://leetcode-cn.com/problems/detect-capital) | [检测大写字母  ](https://leetcode-cn.com/problems/detect-capital) |
-| 521   | [最长特殊序列   Ⅰ  ](https://leetcode-cn.com/problems/longest-uncommon-subsequence-i) | [最长特殊序列 Ⅰ  ](https://leetcode-cn.com/problems/longest-uncommon-subsequence-i) |
-| 522   | [最长特殊序列   II  ](https://leetcode-cn.com/problems/longest-uncommon-subsequence-ii) | [最长特殊序列 II  ](https://leetcode-cn.com/problems/longest-uncommon-subsequence-ii) |
-| 523   | [连续的子数组和  ](https://leetcode-cn.com/problems/continuous-subarray-sum) | [连续的子数组和  ](https://leetcode-cn.com/problems/continuous-subarray-sum) |
-| 524   | [通过删除字母匹配到字典里最长单词  ](https://leetcode-cn.com/problems/longest-word-in-dictionary-through-deleting) | [通过删除字母匹配到字典里最长单词  ](https://leetcode-cn.com/problems/longest-word-in-dictionary-through-deleting) |
-| 525   | [连续数组  ](https://leetcode-cn.com/problems/contiguous-array) | [连续数组  ](https://leetcode-cn.com/problems/contiguous-array) |
-| 526   | [优美的排列  ](https://leetcode-cn.com/problems/beautiful-arrangement) | [优美的排列  ](https://leetcode-cn.com/problems/beautiful-arrangement) |
-| 527   | [单词缩写  ](https://leetcode-cn.com/problems/word-abbreviation) | [单词缩写  ](https://leetcode-cn.com/problems/word-abbreviation) |
-| 528   | [按权重随机选择  ](https://leetcode-cn.com/problems/random-pick-with-weight) | [按权重随机选择  ](https://leetcode-cn.com/problems/random-pick-with-weight) |
-| 529   | [扫雷游戏  ](https://leetcode-cn.com/problems/minesweeper)   | [扫雷游戏  ](https://leetcode-cn.com/problems/minesweeper)   |
-| 530   | [二叉搜索树的最小绝对差  ](https://leetcode-cn.com/problems/minimum-absolute-difference-in-bst) | [二叉搜索树的最小绝对差  ](https://leetcode-cn.com/problems/minimum-absolute-difference-in-bst) |
-| 531   | [孤独像素 I  ](https://leetcode-cn.com/problems/lonely-pixel-i) | [孤独像素   I  ](https://leetcode-cn.com/problems/lonely-pixel-i) |
-| 532   | [数组中的K-diff数对  ](https://leetcode-cn.com/problems/k-diff-pairs-in-an-array) | [数组中的K-diff数对  ](https://leetcode-cn.com/problems/k-diff-pairs-in-an-array) |
-| 533   | [孤独像素 II  ](https://leetcode-cn.com/problems/lonely-pixel-ii) | [孤独像素   II  ](https://leetcode-cn.com/problems/lonely-pixel-ii) |
-| 534   | [游戏玩法分析 III  ](https://leetcode-cn.com/problems/game-play-analysis-iii) | [游戏玩法分析 III  ](https://leetcode-cn.com/problems/game-play-analysis-iii) |
-| 535   | [TinyURL   的加密与解密  ](https://leetcode-cn.com/problems/encode-and-decode-tinyurl) | [TinyURL 的加密与解密  ](https://leetcode-cn.com/problems/encode-and-decode-tinyurl) |
-| 536   | [从字符串生成二叉树  ](https://leetcode-cn.com/problems/construct-binary-tree-from-string) | [从字符串生成二叉树  ](https://leetcode-cn.com/problems/construct-binary-tree-from-string) |
-| 537   | [复数乘法  ](https://leetcode-cn.com/problems/complex-number-multiplication) | [复数乘法  ](https://leetcode-cn.com/problems/complex-number-multiplication) |
-| 538   | [把二叉搜索树转换为累加树  ](https://leetcode-cn.com/problems/convert-bst-to-greater-tree) | [把二叉搜索树转换为累加树  ](https://leetcode-cn.com/problems/convert-bst-to-greater-tree) |
-| 539   | [最小时间差  ](https://leetcode-cn.com/problems/minimum-time-difference) | [最小时间差  ](https://leetcode-cn.com/problems/minimum-time-difference) |
-| 540   | [有序数组中的单一元素  ](https://leetcode-cn.com/problems/single-element-in-a-sorted-array) | [有序数组中的单一元素  ](https://leetcode-cn.com/problems/single-element-in-a-sorted-array) |
-| 541   | [反转字符串 II  ](https://leetcode-cn.com/problems/reverse-string-ii) | [反转字符串   II  ](https://leetcode-cn.com/problems/reverse-string-ii) |
-| 542   | [01 矩阵  ](https://leetcode-cn.com/problems/01-matrix)      | [01   矩阵  ](https://leetcode-cn.com/problems/01-matrix)    |
-| 543   | [二叉树的直径  ](https://leetcode-cn.com/problems/diameter-of-binary-tree) | [二叉树的直径  ](https://leetcode-cn.com/problems/diameter-of-binary-tree) |
-| 544   | [输出比赛匹配对  ](https://leetcode-cn.com/problems/output-contest-matches) | [输出比赛匹配对  ](https://leetcode-cn.com/problems/output-contest-matches) |
-| 545   | [二叉树的边界  ](https://leetcode-cn.com/problems/boundary-of-binary-tree) | [二叉树的边界  ](https://leetcode-cn.com/problems/boundary-of-binary-tree) |
-| 546   | [移除盒子  ](https://leetcode-cn.com/problems/remove-boxes)  | [移除盒子  ](https://leetcode-cn.com/problems/remove-boxes)  |
-| 547   | [朋友圈  ](https://leetcode-cn.com/problems/friend-circles)  | [朋友圈  ](https://leetcode-cn.com/problems/friend-circles)  |
-| 548   | [将数组分割成和相等的子数组  ](https://leetcode-cn.com/problems/split-array-with-equal-sum) | [将数组分割成和相等的子数组  ](https://leetcode-cn.com/problems/split-array-with-equal-sum) |
-| 549   | [二叉树中最长的连续序列  ](https://leetcode-cn.com/problems/binary-tree-longest-consecutive-sequence-ii) | [二叉树中最长的连续序列  ](https://leetcode-cn.com/problems/binary-tree-longest-consecutive-sequence-ii) |
-| 550   | [游戏玩法分析 IV  ](https://leetcode-cn.com/problems/game-play-analysis-iv) | [游戏玩法分析 IV  ](https://leetcode-cn.com/problems/game-play-analysis-iv) |
-| 551   | [学生出勤记录 I  ](https://leetcode-cn.com/problems/student-attendance-record-i) | [学生出勤记录 I  ](https://leetcode-cn.com/problems/student-attendance-record-i) |
-| 552   | [学生出勤记录   II  ](https://leetcode-cn.com/problems/student-attendance-record-ii) | [学生出勤记录 II  ](https://leetcode-cn.com/problems/student-attendance-record-ii) |
-| 553   | [最优除法  ](https://leetcode-cn.com/problems/optimal-division) | [最优除法  ](https://leetcode-cn.com/problems/optimal-division) |
-| 554   | [砖墙  ](https://leetcode-cn.com/problems/brick-wall)        | [砖墙  ](https://leetcode-cn.com/problems/brick-wall)        |
-| 555   | [分割连接字符串  ](https://leetcode-cn.com/problems/split-concatenated-strings) | [分割连接字符串  ](https://leetcode-cn.com/problems/split-concatenated-strings) |
-| 556   | [下一个更大元素 III  ](https://leetcode-cn.com/problems/next-greater-element-iii) | [下一个更大元素 III  ](https://leetcode-cn.com/problems/next-greater-element-iii) |
-| 557   | [反转字符串中的单词   III  ](https://leetcode-cn.com/problems/reverse-words-in-a-string-iii) | [反转字符串中的单词 III  ](https://leetcode-cn.com/problems/reverse-words-in-a-string-iii) |
-| 558   | [四叉树交集  ](https://leetcode-cn.com/problems/quad-tree-intersection) | [四叉树交集  ](https://leetcode-cn.com/problems/quad-tree-intersection) |
-| 559   | [N叉树的最大深度  ](https://leetcode-cn.com/problems/maximum-depth-of-n-ary-tree) | [N叉树的最大深度  ](https://leetcode-cn.com/problems/maximum-depth-of-n-ary-tree) |
-| 560   | [和为K的子数组  ](https://leetcode-cn.com/problems/subarray-sum-equals-k) | [和为K的子数组  ](https://leetcode-cn.com/problems/subarray-sum-equals-k) |
-| 561   | [数组拆分 I  ](https://leetcode-cn.com/problems/array-partition-i) | [数组拆分   I  ](https://leetcode-cn.com/problems/array-partition-i) |
-| 562   | [矩阵中最长的连续1线段  ](https://leetcode-cn.com/problems/longest-line-of-consecutive-one-in-matrix) | [矩阵中最长的连续1线段  ](https://leetcode-cn.com/problems/longest-line-of-consecutive-one-in-matrix) |
-| 563   | [二叉树的坡度  ](https://leetcode-cn.com/problems/binary-tree-tilt) | [二叉树的坡度  ](https://leetcode-cn.com/problems/binary-tree-tilt) |
-| 564   | [寻找最近的回文数  ](https://leetcode-cn.com/problems/find-the-closest-palindrome) | [寻找最近的回文数  ](https://leetcode-cn.com/problems/find-the-closest-palindrome) |
-| 565   | [数组嵌套  ](https://leetcode-cn.com/problems/array-nesting) | [数组嵌套  ](https://leetcode-cn.com/problems/array-nesting) |
-| 566   | [重塑矩阵  ](https://leetcode-cn.com/problems/reshape-the-matrix) | [重塑矩阵  ](https://leetcode-cn.com/problems/reshape-the-matrix) |
-| 567   | [字符串的排列  ](https://leetcode-cn.com/problems/permutation-in-string) | [字符串的排列  ](https://leetcode-cn.com/problems/permutation-in-string) |
-| 568   | [最大休假天数  ](https://leetcode-cn.com/problems/maximum-vacation-days) | [最大休假天数  ](https://leetcode-cn.com/problems/maximum-vacation-days) |
-| 569   | [员工薪水中位数  ](https://leetcode-cn.com/problems/median-employee-salary) | [员工薪水中位数  ](https://leetcode-cn.com/problems/median-employee-salary) |
-| 570   | [至少有5名直接下属的经理  ](https://leetcode-cn.com/problems/managers-with-at-least-5-direct-reports) | [至少有5名直接下属的经理  ](https://leetcode-cn.com/problems/managers-with-at-least-5-direct-reports) |
-| 571   | [给定数字的频率查询中位数  ](https://leetcode-cn.com/problems/find-median-given-frequency-of-numbers) | [给定数字的频率查询中位数  ](https://leetcode-cn.com/problems/find-median-given-frequency-of-numbers) |
-| 572   | [另一个树的子树  ](https://leetcode-cn.com/problems/subtree-of-another-tree) | [另一个树的子树  ](https://leetcode-cn.com/problems/subtree-of-another-tree) |
-| 573   | [松鼠模拟  ](https://leetcode-cn.com/problems/squirrel-simulation) | [松鼠模拟  ](https://leetcode-cn.com/problems/squirrel-simulation) |
-| 574   | [当选者  ](https://leetcode-cn.com/problems/winning-candidate) | [当选者  ](https://leetcode-cn.com/problems/winning-candidate) |
-| 575   | [分糖果  ](https://leetcode-cn.com/problems/distribute-candies) | [分糖果  ](https://leetcode-cn.com/problems/distribute-candies) |
-| 576   | [出界的路径数  ](https://leetcode-cn.com/problems/out-of-boundary-paths) | [出界的路径数  ](https://leetcode-cn.com/problems/out-of-boundary-paths) |
-| 577   | [员工奖金  ](https://leetcode-cn.com/problems/employee-bonus) | [员工奖金  ](https://leetcode-cn.com/problems/employee-bonus) |
-| 578   | [查询回答率最高的问题  ](https://leetcode-cn.com/problems/get-highest-answer-rate-question) | [查询回答率最高的问题  ](https://leetcode-cn.com/problems/get-highest-answer-rate-question) |
-| 579   | [查询员工的累计薪水  ](https://leetcode-cn.com/problems/find-cumulative-salary-of-an-employee) | [查询员工的累计薪水  ](https://leetcode-cn.com/problems/find-cumulative-salary-of-an-employee) |
-| 580   | [统计各专业学生人数  ](https://leetcode-cn.com/problems/count-student-number-in-departments) | [统计各专业学生人数  ](https://leetcode-cn.com/problems/count-student-number-in-departments) |
-| 581   | [最短无序连续子数组  ](https://leetcode-cn.com/problems/shortest-unsorted-continuous-subarray) | [最短无序连续子数组  ](https://leetcode-cn.com/problems/shortest-unsorted-continuous-subarray) |
-| 582   | [杀死进程  ](https://leetcode-cn.com/problems/kill-process)  | [杀死进程  ](https://leetcode-cn.com/problems/kill-process)  |
-| 583   | [两个字符串的删除操作  ](https://leetcode-cn.com/problems/delete-operation-for-two-strings) | [两个字符串的删除操作  ](https://leetcode-cn.com/problems/delete-operation-for-two-strings) |
-| 584   | [寻找用户推荐人  ](https://leetcode-cn.com/problems/find-customer-referee) | [寻找用户推荐人  ](https://leetcode-cn.com/problems/find-customer-referee) |
-| 585   | [2016年的投资  ](https://leetcode-cn.com/problems/investments-in-2016) | [2016年的投资  ](https://leetcode-cn.com/problems/investments-in-2016) |
-| 586   | [订单最多的客户  ](https://leetcode-cn.com/problems/customer-placing-the-largest-number-of-orders) | [订单最多的客户  ](https://leetcode-cn.com/problems/customer-placing-the-largest-number-of-orders) |
-| 587   | [安装栅栏  ](https://leetcode-cn.com/problems/erect-the-fence) | [安装栅栏  ](https://leetcode-cn.com/problems/erect-the-fence) |
-| 588   | [设计内存文件系统  ](https://leetcode-cn.com/problems/design-in-memory-file-system) | [设计内存文件系统  ](https://leetcode-cn.com/problems/design-in-memory-file-system) |
-| 589   | [N叉树的前序遍历  ](https://leetcode-cn.com/problems/n-ary-tree-preorder-traversal) | [N叉树的前序遍历  ](https://leetcode-cn.com/problems/n-ary-tree-preorder-traversal) |
-| 590   | [N叉树的后序遍历  ](https://leetcode-cn.com/problems/n-ary-tree-postorder-traversal) | [N叉树的后序遍历  ](https://leetcode-cn.com/problems/n-ary-tree-postorder-traversal) |
-| 591   | [标签验证器  ](https://leetcode-cn.com/problems/tag-validator) | [标签验证器  ](https://leetcode-cn.com/problems/tag-validator) |
-| 592   | [分数加减运算  ](https://leetcode-cn.com/problems/fraction-addition-and-subtraction) | [分数加减运算  ](https://leetcode-cn.com/problems/fraction-addition-and-subtraction) |
-| 593   | [有效的正方形  ](https://leetcode-cn.com/problems/valid-square) | [有效的正方形  ](https://leetcode-cn.com/problems/valid-square) |
-| 594   | [最长和谐子序列  ](https://leetcode-cn.com/problems/longest-harmonious-subsequence) | [最长和谐子序列  ](https://leetcode-cn.com/problems/longest-harmonious-subsequence) |
-| 595   | [大的国家  ](https://leetcode-cn.com/problems/big-countries) | [大的国家  ](https://leetcode-cn.com/problems/big-countries) |
-| 596   | [超过5名学生的课  ](https://leetcode-cn.com/problems/classes-more-than-5-students) | [超过5名学生的课  ](https://leetcode-cn.com/problems/classes-more-than-5-students) |
-| 597   | [好友申请   I ：总体通过率  ](https://leetcode-cn.com/problems/friend-requests-i-overall-acceptance-rate) | [好友申请 I ：总体通过率  ](https://leetcode-cn.com/problems/friend-requests-i-overall-acceptance-rate) |
-| 598   | [范围求和 II  ](https://leetcode-cn.com/problems/range-addition-ii) | [范围求和   II  ](https://leetcode-cn.com/problems/range-addition-ii) |
-| 599   | [两个列表的最小索引总和  ](https://leetcode-cn.com/problems/minimum-index-sum-of-two-lists) | [两个列表的最小索引总和  ](https://leetcode-cn.com/problems/minimum-index-sum-of-two-lists) |
-| 600   | [不含连续1的非负整数  ](https://leetcode-cn.com/problems/non-negative-integers-without-consecutive-ones) | [不含连续1的非负整数  ](https://leetcode-cn.com/problems/non-negative-integers-without-consecutive-ones) |
-| 601   | [体育馆的人流量  ](https://leetcode-cn.com/problems/human-traffic-of-stadium) | [体育馆的人流量  ](https://leetcode-cn.com/problems/human-traffic-of-stadium) |
-| 602   | [好友申请   II ：谁有最多的好友  ](https://leetcode-cn.com/problems/friend-requests-ii-who-has-the-most-friends) | [好友申请 II ：谁有最多的好友  ](https://leetcode-cn.com/problems/friend-requests-ii-who-has-the-most-friends) |
-| 603   | [连续空余座位  ](https://leetcode-cn.com/problems/consecutive-available-seats) | [连续空余座位  ](https://leetcode-cn.com/problems/consecutive-available-seats) |
-| 604   | [迭代压缩字符串  ](https://leetcode-cn.com/problems/design-compressed-string-iterator) | [迭代压缩字符串  ](https://leetcode-cn.com/problems/design-compressed-string-iterator) |
-| 605   | [种花问题  ](https://leetcode-cn.com/problems/can-place-flowers) | [种花问题  ](https://leetcode-cn.com/problems/can-place-flowers) |
-| 606   | [根据二叉树创建字符串  ](https://leetcode-cn.com/problems/construct-string-from-binary-tree) | [根据二叉树创建字符串  ](https://leetcode-cn.com/problems/construct-string-from-binary-tree) |
-| 607   | [销售员  ](https://leetcode-cn.com/problems/sales-person)    | [销售员  ](https://leetcode-cn.com/problems/sales-person)    |
-| 608   | [树节点  ](https://leetcode-cn.com/problems/tree-node)       | [树节点  ](https://leetcode-cn.com/problems/tree-node)       |
-| 609   | [在系统中查找重复文件  ](https://leetcode-cn.com/problems/find-duplicate-file-in-system) | [在系统中查找重复文件  ](https://leetcode-cn.com/problems/find-duplicate-file-in-system) |
-| 610   | [判断三角形  ](https://leetcode-cn.com/problems/triangle-judgement) | [判断三角形  ](https://leetcode-cn.com/problems/triangle-judgement) |
-| 611   | [有效三角形的个数  ](https://leetcode-cn.com/problems/valid-triangle-number) | [有效三角形的个数  ](https://leetcode-cn.com/problems/valid-triangle-number) |
-| 612   | [平面上的最近距离  ](https://leetcode-cn.com/problems/shortest-distance-in-a-plane) | [平面上的最近距离  ](https://leetcode-cn.com/problems/shortest-distance-in-a-plane) |
-| 613   | [直线上的最近距离  ](https://leetcode-cn.com/problems/shortest-distance-in-a-line) | [直线上的最近距离  ](https://leetcode-cn.com/problems/shortest-distance-in-a-line) |
-| 614   | [二级关注者  ](https://leetcode-cn.com/problems/second-degree-follower) | [二级关注者  ](https://leetcode-cn.com/problems/second-degree-follower) |
-| 615   | [平均工资：部门与公司比较  ](https://leetcode-cn.com/problems/average-salary-departments-vs-company) | [平均工资：部门与公司比较  ](https://leetcode-cn.com/problems/average-salary-departments-vs-company) |
-| 616   | [给字符串添加加粗标签  ](https://leetcode-cn.com/problems/add-bold-tag-in-string) | [给字符串添加加粗标签  ](https://leetcode-cn.com/problems/add-bold-tag-in-string) |
-| 617   | [合并二叉树  ](https://leetcode-cn.com/problems/merge-two-binary-trees) | [合并二叉树  ](https://leetcode-cn.com/problems/merge-two-binary-trees) |
-| 618   | [学生地理信息报告  ](https://leetcode-cn.com/problems/students-report-by-geography) | [学生地理信息报告  ](https://leetcode-cn.com/problems/students-report-by-geography) |
-| 619   | [只出现一次的最大数字  ](https://leetcode-cn.com/problems/biggest-single-number) | [只出现一次的最大数字  ](https://leetcode-cn.com/problems/biggest-single-number) |
-| 620   | [有趣的电影  ](https://leetcode-cn.com/problems/not-boring-movies) | [有趣的电影  ](https://leetcode-cn.com/problems/not-boring-movies) |
-| 621   | [任务调度器  ](https://leetcode-cn.com/problems/task-scheduler) | [任务调度器  ](https://leetcode-cn.com/problems/task-scheduler) |
-| 622   | [设计循环队列  ](https://leetcode-cn.com/problems/design-circular-queue) | [设计循环队列  ](https://leetcode-cn.com/problems/design-circular-queue) |
-| 623   | [在二叉树中增加一行  ](https://leetcode-cn.com/problems/add-one-row-to-tree) | [在二叉树中增加一行  ](https://leetcode-cn.com/problems/add-one-row-to-tree) |
-| 624   | [数组列表中的最大距离  ](https://leetcode-cn.com/problems/maximum-distance-in-arrays) | [数组列表中的最大距离  ](https://leetcode-cn.com/problems/maximum-distance-in-arrays) |
-| 625   | [最小因式分解  ](https://leetcode-cn.com/problems/minimum-factorization) | [最小因式分解  ](https://leetcode-cn.com/problems/minimum-factorization) |
-| 626   | [换座位  ](https://leetcode-cn.com/problems/exchange-seats)  | [换座位  ](https://leetcode-cn.com/problems/exchange-seats)  |
-| 627   | [交换工资  ](https://leetcode-cn.com/problems/swap-salary)   | [交换工资  ](https://leetcode-cn.com/problems/swap-salary)   |
-| 628   | [三个数的最大乘积  ](https://leetcode-cn.com/problems/maximum-product-of-three-numbers) | [三个数的最大乘积  ](https://leetcode-cn.com/problems/maximum-product-of-three-numbers) |
-| 629   | [K个逆序对数组  ](https://leetcode-cn.com/problems/k-inverse-pairs-array) | [K个逆序对数组  ](https://leetcode-cn.com/problems/k-inverse-pairs-array) |
-| 630   | [课程表 III  ](https://leetcode-cn.com/problems/course-schedule-iii) | [课程表   III  ](https://leetcode-cn.com/problems/course-schedule-iii) |
-| 631   | [设计 Excel   求和公式  ](https://leetcode-cn.com/problems/design-excel-sum-formula) | [设计 Excel 求和公式  ](https://leetcode-cn.com/problems/design-excel-sum-formula) |
-| 632   | [最小区间  ](https://leetcode-cn.com/problems/smallest-range-covering-elements-from-k-lists) | [最小区间  ](https://leetcode-cn.com/problems/smallest-range-covering-elements-from-k-lists) |
-| 633   | [平方数之和  ](https://leetcode-cn.com/problems/sum-of-square-numbers) | [平方数之和  ](https://leetcode-cn.com/problems/sum-of-square-numbers) |
-| 634   | [寻找数组的错位排列  ](https://leetcode-cn.com/problems/find-the-derangement-of-an-array) | [寻找数组的错位排列  ](https://leetcode-cn.com/problems/find-the-derangement-of-an-array) |
-| 635   | [设计日志存储系统  ](https://leetcode-cn.com/problems/design-log-storage-system) | [设计日志存储系统  ](https://leetcode-cn.com/problems/design-log-storage-system) |
-| 636   | [函数的独占时间  ](https://leetcode-cn.com/problems/exclusive-time-of-functions) | [函数的独占时间  ](https://leetcode-cn.com/problems/exclusive-time-of-functions) |
-| 637   | [二叉树的层平均值  ](https://leetcode-cn.com/problems/average-of-levels-in-binary-tree) | [二叉树的层平均值  ](https://leetcode-cn.com/problems/average-of-levels-in-binary-tree) |
-| 638   | [大礼包  ](https://leetcode-cn.com/problems/shopping-offers) | [大礼包  ](https://leetcode-cn.com/problems/shopping-offers) |
-| 639   | [解码方法 2  ](https://leetcode-cn.com/problems/decode-ways-ii) | [解码方法   2  ](https://leetcode-cn.com/problems/decode-ways-ii) |
-| 640   | [求解方程  ](https://leetcode-cn.com/problems/solve-the-equation) | [求解方程  ](https://leetcode-cn.com/problems/solve-the-equation) |
-| 641   | [设计循环双端队列  ](https://leetcode-cn.com/problems/design-circular-deque) | [设计循环双端队列  ](https://leetcode-cn.com/problems/design-circular-deque) |
-| 642   | [设计搜索自动补全系统  ](https://leetcode-cn.com/problems/design-search-autocomplete-system) | [设计搜索自动补全系统  ](https://leetcode-cn.com/problems/design-search-autocomplete-system) |
-| 643   | [子数组最大平均数 I  ](https://leetcode-cn.com/problems/maximum-average-subarray-i) | [子数组最大平均数 I  ](https://leetcode-cn.com/problems/maximum-average-subarray-i) |
-| 644   | [最大平均子段和   II  ](https://leetcode-cn.com/problems/maximum-average-subarray-ii) | [最大平均子段和 II  ](https://leetcode-cn.com/problems/maximum-average-subarray-ii) |
-| 645   | [错误的集合  ](https://leetcode-cn.com/problems/set-mismatch) | [错误的集合  ](https://leetcode-cn.com/problems/set-mismatch) |
-| 646   | [最长数对链  ](https://leetcode-cn.com/problems/maximum-length-of-pair-chain) | [最长数对链  ](https://leetcode-cn.com/problems/maximum-length-of-pair-chain) |
-| 647   | [回文子串  ](https://leetcode-cn.com/problems/palindromic-substrings) | [回文子串  ](https://leetcode-cn.com/problems/palindromic-substrings) |
-| 648   | [单词替换  ](https://leetcode-cn.com/problems/replace-words) | [单词替换  ](https://leetcode-cn.com/problems/replace-words) |
-| 649   | [Dota2 参议院  ](https://leetcode-cn.com/problems/dota2-senate) | [Dota2   参议院  ](https://leetcode-cn.com/problems/dota2-senate) |
-| 650   | [只有两个键的键盘  ](https://leetcode-cn.com/problems/2-keys-keyboard) | [只有两个键的键盘  ](https://leetcode-cn.com/problems/2-keys-keyboard) |
-| 651   | [4键键盘  ](https://leetcode-cn.com/problems/4-keys-keyboard) | [4键键盘  ](https://leetcode-cn.com/problems/4-keys-keyboard) |
-| 652   | [寻找重复的子树  ](https://leetcode-cn.com/problems/find-duplicate-subtrees) | [寻找重复的子树  ](https://leetcode-cn.com/problems/find-duplicate-subtrees) |
-| 653   | [两数之和 IV -   输入 BST  ](https://leetcode-cn.com/problems/two-sum-iv-input-is-a-bst) | [两数之和 IV - 输入 BST  ](https://leetcode-cn.com/problems/two-sum-iv-input-is-a-bst) |
-| 654   | [最大二叉树  ](https://leetcode-cn.com/problems/maximum-binary-tree) | [最大二叉树  ](https://leetcode-cn.com/problems/maximum-binary-tree) |
-| 655   | [输出二叉树  ](https://leetcode-cn.com/problems/print-binary-tree) | [输出二叉树  ](https://leetcode-cn.com/problems/print-binary-tree) |
-| 656   | [金币路径  ](https://leetcode-cn.com/problems/coin-path)     | [金币路径  ](https://leetcode-cn.com/problems/coin-path)     |
-| 657   | [机器人能否返回原点  ](https://leetcode-cn.com/problems/robot-return-to-origin) | [机器人能否返回原点  ](https://leetcode-cn.com/problems/robot-return-to-origin) |
-| 658   | [找到 K 个最接近的元素  ](https://leetcode-cn.com/problems/find-k-closest-elements) | [找到 K 个最接近的元素  ](https://leetcode-cn.com/problems/find-k-closest-elements) |
-| 659   | [分割数组为连续子序列  ](https://leetcode-cn.com/problems/split-array-into-consecutive-subsequences) | [分割数组为连续子序列  ](https://leetcode-cn.com/problems/split-array-into-consecutive-subsequences) |
-| 660   | [移除 9  ](https://leetcode-cn.com/problems/remove-9)        | [移除   9  ](https://leetcode-cn.com/problems/remove-9)      |
-| 661   | [图片平滑器  ](https://leetcode-cn.com/problems/image-smoother) | [图片平滑器  ](https://leetcode-cn.com/problems/image-smoother) |
-| 662   | [二叉树最大宽度  ](https://leetcode-cn.com/problems/maximum-width-of-binary-tree) | [二叉树最大宽度  ](https://leetcode-cn.com/problems/maximum-width-of-binary-tree) |
-| 663   | [均匀树划分  ](https://leetcode-cn.com/problems/equal-tree-partition) | [均匀树划分  ](https://leetcode-cn.com/problems/equal-tree-partition) |
-| 664   | [奇怪的打印机  ](https://leetcode-cn.com/problems/strange-printer) | [奇怪的打印机  ](https://leetcode-cn.com/problems/strange-printer) |
-| 665   | [非递减数列  ](https://leetcode-cn.com/problems/non-decreasing-array) | [非递减数列  ](https://leetcode-cn.com/problems/non-decreasing-array) |
-| 666   | [路径和 IV  ](https://leetcode-cn.com/problems/path-sum-iv)  | [路径和   IV  ](https://leetcode-cn.com/problems/path-sum-iv) |
-| 667   | [优美的排列 II  ](https://leetcode-cn.com/problems/beautiful-arrangement-ii) | [优美的排列 II  ](https://leetcode-cn.com/problems/beautiful-arrangement-ii) |
-| 668   | [乘法表中第k小的数  ](https://leetcode-cn.com/problems/kth-smallest-number-in-multiplication-table) | [乘法表中第k小的数  ](https://leetcode-cn.com/problems/kth-smallest-number-in-multiplication-table) |
-| 669   | [修剪二叉搜索树  ](https://leetcode-cn.com/problems/trim-a-binary-search-tree) | [修剪二叉搜索树  ](https://leetcode-cn.com/problems/trim-a-binary-search-tree) |
-| 670   | [最大交换  ](https://leetcode-cn.com/problems/maximum-swap)  | [最大交换  ](https://leetcode-cn.com/problems/maximum-swap)  |
-| 671   | [二叉树中第二小的节点  ](https://leetcode-cn.com/problems/second-minimum-node-in-a-binary-tree) | [二叉树中第二小的节点  ](https://leetcode-cn.com/problems/second-minimum-node-in-a-binary-tree) |
-| 672   | [灯泡开关 Ⅱ  ](https://leetcode-cn.com/problems/bulb-switcher-ii) | [灯泡开关   Ⅱ  ](https://leetcode-cn.com/problems/bulb-switcher-ii) |
-| 673   | [最长递增子序列的个数  ](https://leetcode-cn.com/problems/number-of-longest-increasing-subsequence) | [最长递增子序列的个数  ](https://leetcode-cn.com/problems/number-of-longest-increasing-subsequence) |
-| 674   | [最长连续递增序列  ](https://leetcode-cn.com/problems/longest-continuous-increasing-subsequence) | [最长连续递增序列  ](https://leetcode-cn.com/problems/longest-continuous-increasing-subsequence) |
-| 675   | [为高尔夫比赛砍树  ](https://leetcode-cn.com/problems/cut-off-trees-for-golf-event) | [为高尔夫比赛砍树  ](https://leetcode-cn.com/problems/cut-off-trees-for-golf-event) |
-| 676   | [实现一个魔法字典  ](https://leetcode-cn.com/problems/implement-magic-dictionary) | [实现一个魔法字典  ](https://leetcode-cn.com/problems/implement-magic-dictionary) |
-| 677   | [键值映射  ](https://leetcode-cn.com/problems/map-sum-pairs) | [键值映射  ](https://leetcode-cn.com/problems/map-sum-pairs) |
-| 678   | [有效的括号字符串  ](https://leetcode-cn.com/problems/valid-parenthesis-string) | [有效的括号字符串  ](https://leetcode-cn.com/problems/valid-parenthesis-string) |
-| 679   | [24 点游戏  ](https://leetcode-cn.com/problems/24-game)      | [24   点游戏  ](https://leetcode-cn.com/problems/24-game)    |
-| 680   | [验证回文字符串 Ⅱ  ](https://leetcode-cn.com/problems/valid-palindrome-ii) | [验证回文字符串   Ⅱ  ](https://leetcode-cn.com/problems/valid-palindrome-ii) |
-| 681   | [最近时刻  ](https://leetcode-cn.com/problems/next-closest-time) | [最近时刻  ](https://leetcode-cn.com/problems/next-closest-time) |
-| 682   | [棒球比赛  ](https://leetcode-cn.com/problems/baseball-game) | [棒球比赛  ](https://leetcode-cn.com/problems/baseball-game) |
-| 683   | [K 个空花盆  ](https://leetcode-cn.com/problems/k-empty-slots) | [K   个空花盆  ](https://leetcode-cn.com/problems/k-empty-slots) |
-| 684   | [冗余连接  ](https://leetcode-cn.com/problems/redundant-connection) | [冗余连接  ](https://leetcode-cn.com/problems/redundant-connection) |
-| 685   | [冗余连接 II  ](https://leetcode-cn.com/problems/redundant-connection-ii) | [冗余连接 II  ](https://leetcode-cn.com/problems/redundant-connection-ii) |
-| 686   | [重复叠加字符串匹配  ](https://leetcode-cn.com/problems/repeated-string-match) | [重复叠加字符串匹配  ](https://leetcode-cn.com/problems/repeated-string-match) |
-| 687   | [最长同值路径  ](https://leetcode-cn.com/problems/longest-univalue-path) | [最长同值路径  ](https://leetcode-cn.com/problems/longest-univalue-path) |
-| 688   | [“马”在棋盘上的概率  ](https://leetcode-cn.com/problems/knight-probability-in-chessboard) | [“马”在棋盘上的概率  ](https://leetcode-cn.com/problems/knight-probability-in-chessboard) |
-| 689   | [三个无重叠子数组的最大和  ](https://leetcode-cn.com/problems/maximum-sum-of-3-non-overlapping-subarrays) | [三个无重叠子数组的最大和  ](https://leetcode-cn.com/problems/maximum-sum-of-3-non-overlapping-subarrays) |
-| 690   | [员工的重要性  ](https://leetcode-cn.com/problems/employee-importance) | [员工的重要性  ](https://leetcode-cn.com/problems/employee-importance) |
-| 691   | [贴纸拼词  ](https://leetcode-cn.com/problems/stickers-to-spell-word) | [贴纸拼词  ](https://leetcode-cn.com/problems/stickers-to-spell-word) |
-| 692   | [前K个高频单词  ](https://leetcode-cn.com/problems/top-k-frequent-words) | [前K个高频单词  ](https://leetcode-cn.com/problems/top-k-frequent-words) |
-| 693   | [交替位二进制数  ](https://leetcode-cn.com/problems/binary-number-with-alternating-bits) | [交替位二进制数  ](https://leetcode-cn.com/problems/binary-number-with-alternating-bits) |
-| 694   | [不同岛屿的数量  ](https://leetcode-cn.com/problems/number-of-distinct-islands) | [不同岛屿的数量  ](https://leetcode-cn.com/problems/number-of-distinct-islands) |
-| 695   | [岛屿的最大面积  ](https://leetcode-cn.com/problems/max-area-of-island) | [岛屿的最大面积  ](https://leetcode-cn.com/problems/max-area-of-island) |
-| 696   | [计数二进制子串  ](https://leetcode-cn.com/problems/count-binary-substrings) | [计数二进制子串  ](https://leetcode-cn.com/problems/count-binary-substrings) |
-| 697   | [数组的度  ](https://leetcode-cn.com/problems/degree-of-an-array) | [数组的度  ](https://leetcode-cn.com/problems/degree-of-an-array) |
-| 698   | [划分为k个相等的子集  ](https://leetcode-cn.com/problems/partition-to-k-equal-sum-subsets) | [划分为k个相等的子集  ](https://leetcode-cn.com/problems/partition-to-k-equal-sum-subsets) |
-| 699   | [掉落的方块  ](https://leetcode-cn.com/problems/falling-squares) | [掉落的方块  ](https://leetcode-cn.com/problems/falling-squares) |
-| 700   | [二叉搜索树中的搜索  ](https://leetcode-cn.com/problems/search-in-a-binary-search-tree) | [二叉搜索树中的搜索  ](https://leetcode-cn.com/problems/search-in-a-binary-search-tree) |
-| 701   | [二叉搜索树中的插入操作  ](https://leetcode-cn.com/problems/insert-into-a-binary-search-tree) | [二叉搜索树中的插入操作  ](https://leetcode-cn.com/problems/insert-into-a-binary-search-tree) |
-| 702   | [搜索长度未知的有序数组  ](https://leetcode-cn.com/problems/search-in-a-sorted-array-of-unknown-size) | [搜索长度未知的有序数组  ](https://leetcode-cn.com/problems/search-in-a-sorted-array-of-unknown-size) |
-| 703   | [数据流中的第K大元素  ](https://leetcode-cn.com/problems/kth-largest-element-in-a-stream) | [数据流中的第K大元素  ](https://leetcode-cn.com/problems/kth-largest-element-in-a-stream) |
-| 704   | [二分查找  ](https://leetcode-cn.com/problems/binary-search) | [二分查找  ](https://leetcode-cn.com/problems/binary-search) |
-| 705   | [设计哈希集合  ](https://leetcode-cn.com/problems/design-hashset) | [设计哈希集合  ](https://leetcode-cn.com/problems/design-hashset) |
-| 706   | [设计哈希映射  ](https://leetcode-cn.com/problems/design-hashmap) | [设计哈希映射  ](https://leetcode-cn.com/problems/design-hashmap) |
-| 707   | [设计链表  ](https://leetcode-cn.com/problems/design-linked-list) | [设计链表  ](https://leetcode-cn.com/problems/design-linked-list) |
-| 708   | [循环有序列表的插入  ](https://leetcode-cn.com/problems/insert-into-a-sorted-circular-linked-list) | [循环有序列表的插入  ](https://leetcode-cn.com/problems/insert-into-a-sorted-circular-linked-list) |
-| 709   | [转换成小写字母  ](https://leetcode-cn.com/problems/to-lower-case) | [转换成小写字母  ](https://leetcode-cn.com/problems/to-lower-case) |
-| 710   | [黑名单中的随机数  ](https://leetcode-cn.com/problems/random-pick-with-blacklist) | [黑名单中的随机数  ](https://leetcode-cn.com/problems/random-pick-with-blacklist) |
-| 711   | [不同岛屿的数量   II  ](https://leetcode-cn.com/problems/number-of-distinct-islands-ii) | [不同岛屿的数量 II  ](https://leetcode-cn.com/problems/number-of-distinct-islands-ii) |
-| 712   | [两个字符串的最小ASCII删除和  ](https://leetcode-cn.com/problems/minimum-ascii-delete-sum-for-two-strings) | [两个字符串的最小ASCII删除和  ](https://leetcode-cn.com/problems/minimum-ascii-delete-sum-for-two-strings) |
-| 713   | [乘积小于K的子数组  ](https://leetcode-cn.com/problems/subarray-product-less-than-k) | [乘积小于K的子数组  ](https://leetcode-cn.com/problems/subarray-product-less-than-k) |
-| 714   | [买卖股票的最佳时机含手续费  ](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee) | [买卖股票的最佳时机含手续费  ](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee) |
-| 715   | [Range 模块  ](https://leetcode-cn.com/problems/range-module) | [Range   模块  ](https://leetcode-cn.com/problems/range-module) |
-| 716   | [最大栈  ](https://leetcode-cn.com/problems/max-stack)       | [最大栈  ](https://leetcode-cn.com/problems/max-stack)       |
-| 717   | [1比特与2比特字符  ](https://leetcode-cn.com/problems/1-bit-and-2-bit-characters) | [1比特与2比特字符  ](https://leetcode-cn.com/problems/1-bit-and-2-bit-characters) |
-| 718   | [最长重复子数组  ](https://leetcode-cn.com/problems/maximum-length-of-repeated-subarray) | [最长重复子数组  ](https://leetcode-cn.com/problems/maximum-length-of-repeated-subarray) |
-| 719   | [找出第   k 小的距离对  ](https://leetcode-cn.com/problems/find-k-th-smallest-pair-distance) | [找出第 k 小的距离对  ](https://leetcode-cn.com/problems/find-k-th-smallest-pair-distance) |
-| 720   | [词典中最长的单词  ](https://leetcode-cn.com/problems/longest-word-in-dictionary) | [词典中最长的单词  ](https://leetcode-cn.com/problems/longest-word-in-dictionary) |
-| 721   | [账户合并  ](https://leetcode-cn.com/problems/accounts-merge) | [账户合并  ](https://leetcode-cn.com/problems/accounts-merge) |
-| 722   | [删除注释  ](https://leetcode-cn.com/problems/remove-comments) | [删除注释  ](https://leetcode-cn.com/problems/remove-comments) |
-| 723   | [粉碎糖果  ](https://leetcode-cn.com/problems/candy-crush)   | [粉碎糖果  ](https://leetcode-cn.com/problems/candy-crush)   |
-| 724   | [寻找数组的中心索引  ](https://leetcode-cn.com/problems/find-pivot-index) | [寻找数组的中心索引  ](https://leetcode-cn.com/problems/find-pivot-index) |
-| 725   | [分隔链表  ](https://leetcode-cn.com/problems/split-linked-list-in-parts) | [分隔链表  ](https://leetcode-cn.com/problems/split-linked-list-in-parts) |
-| 726   | [原子的数量  ](https://leetcode-cn.com/problems/number-of-atoms) | [原子的数量  ](https://leetcode-cn.com/problems/number-of-atoms) |
-| 727   | [最小窗口子序列  ](https://leetcode-cn.com/problems/minimum-window-subsequence) | [最小窗口子序列  ](https://leetcode-cn.com/problems/minimum-window-subsequence) |
-| 728   | [自除数  ](https://leetcode-cn.com/problems/self-dividing-numbers) | [自除数  ](https://leetcode-cn.com/problems/self-dividing-numbers) |
-| 729   | [我的日程安排表 I  ](https://leetcode-cn.com/problems/my-calendar-i) | [我的日程安排表   I  ](https://leetcode-cn.com/problems/my-calendar-i) |
-| 730   | [统计不同回文子字符串  ](https://leetcode-cn.com/problems/count-different-palindromic-subsequences) | [统计不同回文子字符串  ](https://leetcode-cn.com/problems/count-different-palindromic-subsequences) |
-| 731   | [我的日程安排表 II  ](https://leetcode-cn.com/problems/my-calendar-ii) | [我的日程安排表   II  ](https://leetcode-cn.com/problems/my-calendar-ii) |
-| 732   | [我的日程安排表 III  ](https://leetcode-cn.com/problems/my-calendar-iii) | [我的日程安排表   III  ](https://leetcode-cn.com/problems/my-calendar-iii) |
-| 733   | [图像渲染  ](https://leetcode-cn.com/problems/flood-fill)    | [图像渲染  ](https://leetcode-cn.com/problems/flood-fill)    |
-| 734   | [句子相似性  ](https://leetcode-cn.com/problems/sentence-similarity) | [句子相似性  ](https://leetcode-cn.com/problems/sentence-similarity) |
-| 735   | [行星碰撞  ](https://leetcode-cn.com/problems/asteroid-collision) | [行星碰撞  ](https://leetcode-cn.com/problems/asteroid-collision) |
-| 736   | [Lisp 语法解析  ](https://leetcode-cn.com/problems/parse-lisp-expression) | [Lisp 语法解析  ](https://leetcode-cn.com/problems/parse-lisp-expression) |
-| 737   | [句子相似性 II  ](https://leetcode-cn.com/problems/sentence-similarity-ii) | [句子相似性 II  ](https://leetcode-cn.com/problems/sentence-similarity-ii) |
-| 738   | [单调递增的数字  ](https://leetcode-cn.com/problems/monotone-increasing-digits) | [单调递增的数字  ](https://leetcode-cn.com/problems/monotone-increasing-digits) |
-| 739   | [每日温度  ](https://leetcode-cn.com/problems/daily-temperatures) | [每日温度  ](https://leetcode-cn.com/problems/daily-temperatures) |
-| 740   | [删除与获得点数  ](https://leetcode-cn.com/problems/delete-and-earn) | [删除与获得点数  ](https://leetcode-cn.com/problems/delete-and-earn) |
-| 741   | [摘樱桃  ](https://leetcode-cn.com/problems/cherry-pickup)   | [摘樱桃  ](https://leetcode-cn.com/problems/cherry-pickup)   |
-| 742   | [二叉树最近的叶节点  ](https://leetcode-cn.com/problems/closest-leaf-in-a-binary-tree) | [二叉树最近的叶节点  ](https://leetcode-cn.com/problems/closest-leaf-in-a-binary-tree) |
-| 743   | [网络延迟时间  ](https://leetcode-cn.com/problems/network-delay-time) | [网络延迟时间  ](https://leetcode-cn.com/problems/network-delay-time) |
-| 744   | [寻找比目标字母大的最小字母  ](https://leetcode-cn.com/problems/find-smallest-letter-greater-than-target) | [寻找比目标字母大的最小字母  ](https://leetcode-cn.com/problems/find-smallest-letter-greater-than-target) |
-| 745   | [前缀和后缀搜索  ](https://leetcode-cn.com/problems/prefix-and-suffix-search) | [前缀和后缀搜索  ](https://leetcode-cn.com/problems/prefix-and-suffix-search) |
-| 746   | [使用最小花费爬楼梯  ](https://leetcode-cn.com/problems/min-cost-climbing-stairs) | [使用最小花费爬楼梯  ](https://leetcode-cn.com/problems/min-cost-climbing-stairs) |
-| 747   | [至少是其他数字两倍的最大数  ](https://leetcode-cn.com/problems/largest-number-at-least-twice-of-others) | [至少是其他数字两倍的最大数  ](https://leetcode-cn.com/problems/largest-number-at-least-twice-of-others) |
-| 748   | [最短完整词  ](https://leetcode-cn.com/problems/shortest-completing-word) | [最短完整词  ](https://leetcode-cn.com/problems/shortest-completing-word) |
-| 749   | [隔离病毒  ](https://leetcode-cn.com/problems/contain-virus) | [隔离病毒  ](https://leetcode-cn.com/problems/contain-virus) |
-| 750   | [角矩形的数量  ](https://leetcode-cn.com/problems/number-of-corner-rectangles) | [角矩形的数量  ](https://leetcode-cn.com/problems/number-of-corner-rectangles) |
-| 751   | [IP 到 CIDR  ](https://leetcode-cn.com/problems/ip-to-cidr)  | [IP   到 CIDR  ](https://leetcode-cn.com/problems/ip-to-cidr) |
-| 752   | [打开转盘锁  ](https://leetcode-cn.com/problems/open-the-lock) | [打开转盘锁  ](https://leetcode-cn.com/problems/open-the-lock) |
-| 753   | [破解保险箱  ](https://leetcode-cn.com/problems/cracking-the-safe) | [破解保险箱  ](https://leetcode-cn.com/problems/cracking-the-safe) |
-| 754   | [到达终点数字  ](https://leetcode-cn.com/problems/reach-a-number) | [到达终点数字  ](https://leetcode-cn.com/problems/reach-a-number) |
-| 755   | [倒水  ](https://leetcode-cn.com/problems/pour-water)        | [倒水  ](https://leetcode-cn.com/problems/pour-water)        |
-| 756   | [金字塔转换矩阵  ](https://leetcode-cn.com/problems/pyramid-transition-matrix) | [金字塔转换矩阵  ](https://leetcode-cn.com/problems/pyramid-transition-matrix) |
-| 757   | [设置交集大小至少为2  ](https://leetcode-cn.com/problems/set-intersection-size-at-least-two) | [设置交集大小至少为2  ](https://leetcode-cn.com/problems/set-intersection-size-at-least-two) |
-| 758   | [字符串中的加粗单词  ](https://leetcode-cn.com/problems/bold-words-in-string) | [字符串中的加粗单词  ](https://leetcode-cn.com/problems/bold-words-in-string) |
-| 759   | [员工空闲时间  ](https://leetcode-cn.com/problems/employee-free-time) | [员工空闲时间  ](https://leetcode-cn.com/problems/employee-free-time) |
-| 760   | [找出变位映射  ](https://leetcode-cn.com/problems/find-anagram-mappings) | [找出变位映射  ](https://leetcode-cn.com/problems/find-anagram-mappings) |
-| 761   | [特殊的二进制序列  ](https://leetcode-cn.com/problems/special-binary-string) | [特殊的二进制序列  ](https://leetcode-cn.com/problems/special-binary-string) |
-| 762   | [二进制表示中质数个计算置位  ](https://leetcode-cn.com/problems/prime-number-of-set-bits-in-binary-representation) | [二进制表示中质数个计算置位  ](https://leetcode-cn.com/problems/prime-number-of-set-bits-in-binary-representation) |
-| 763   | [划分字母区间  ](https://leetcode-cn.com/problems/partition-labels) | [划分字母区间  ](https://leetcode-cn.com/problems/partition-labels) |
-| 764   | [最大加号标志  ](https://leetcode-cn.com/problems/largest-plus-sign) | [最大加号标志  ](https://leetcode-cn.com/problems/largest-plus-sign) |
-| 765   | [情侣牵手  ](https://leetcode-cn.com/problems/couples-holding-hands) | [情侣牵手  ](https://leetcode-cn.com/problems/couples-holding-hands) |
-| 766   | [托普利茨矩阵  ](https://leetcode-cn.com/problems/toeplitz-matrix) | [托普利茨矩阵  ](https://leetcode-cn.com/problems/toeplitz-matrix) |
-| 767   | [重构字符串  ](https://leetcode-cn.com/problems/reorganize-string) | [重构字符串  ](https://leetcode-cn.com/problems/reorganize-string) |
-| 768   | [最多能完成排序的块   II  ](https://leetcode-cn.com/problems/max-chunks-to-make-sorted-ii) | [最多能完成排序的块 II  ](https://leetcode-cn.com/problems/max-chunks-to-make-sorted-ii) |
-| 769   | [最多能完成排序的块  ](https://leetcode-cn.com/problems/max-chunks-to-make-sorted) | [最多能完成排序的块  ](https://leetcode-cn.com/problems/max-chunks-to-make-sorted) |
-| 770   | [基本计算器 IV  ](https://leetcode-cn.com/problems/basic-calculator-iv) | [基本计算器   IV  ](https://leetcode-cn.com/problems/basic-calculator-iv) |
-| 771   | [宝石与石头  ](https://leetcode-cn.com/problems/jewels-and-stones) | [宝石与石头  ](https://leetcode-cn.com/problems/jewels-and-stones) |
-| 772   | [基本计算器 III  ](https://leetcode-cn.com/problems/basic-calculator-iii) | [基本计算器 III  ](https://leetcode-cn.com/problems/basic-calculator-iii) |
-| 773   | [滑动谜题  ](https://leetcode-cn.com/problems/sliding-puzzle) | [滑动谜题  ](https://leetcode-cn.com/problems/sliding-puzzle) |
-| 774   | [最小化去加油站的最大距离  ](https://leetcode-cn.com/problems/minimize-max-distance-to-gas-station) | [最小化去加油站的最大距离  ](https://leetcode-cn.com/problems/minimize-max-distance-to-gas-station) |
-| 775   | [全局倒置与局部倒置  ](https://leetcode-cn.com/problems/global-and-local-inversions) | [全局倒置与局部倒置  ](https://leetcode-cn.com/problems/global-and-local-inversions) |
-| 776   | [拆分二叉搜索树  ](https://leetcode-cn.com/problems/split-bst) | [拆分二叉搜索树  ](https://leetcode-cn.com/problems/split-bst) |
-| 777   | [在LR字符串中交换相邻字符  ](https://leetcode-cn.com/problems/swap-adjacent-in-lr-string) | [在LR字符串中交换相邻字符  ](https://leetcode-cn.com/problems/swap-adjacent-in-lr-string) |
-| 778   | [水位上升的泳池中游泳  ](https://leetcode-cn.com/problems/swim-in-rising-water) | [水位上升的泳池中游泳  ](https://leetcode-cn.com/problems/swim-in-rising-water) |
-| 779   | [第K个语法符号  ](https://leetcode-cn.com/problems/k-th-symbol-in-grammar) | [第K个语法符号  ](https://leetcode-cn.com/problems/k-th-symbol-in-grammar) |
-| 780   | [到达终点  ](https://leetcode-cn.com/problems/reaching-points) | [到达终点  ](https://leetcode-cn.com/problems/reaching-points) |
-| 781   | [森林中的兔子  ](https://leetcode-cn.com/problems/rabbits-in-forest) | [森林中的兔子  ](https://leetcode-cn.com/problems/rabbits-in-forest) |
-| 782   | [变为棋盘  ](https://leetcode-cn.com/problems/transform-to-chessboard) | [变为棋盘  ](https://leetcode-cn.com/problems/transform-to-chessboard) |
-| 783   | [二叉搜索树结点最小距离  ](https://leetcode-cn.com/problems/minimum-distance-between-bst-nodes) | [二叉搜索树结点最小距离  ](https://leetcode-cn.com/problems/minimum-distance-between-bst-nodes) |
-| 784   | [字母大小写全排列  ](https://leetcode-cn.com/problems/letter-case-permutation) | [字母大小写全排列  ](https://leetcode-cn.com/problems/letter-case-permutation) |
-| 785   | [判断二分图  ](https://leetcode-cn.com/problems/is-graph-bipartite) | [判断二分图  ](https://leetcode-cn.com/problems/is-graph-bipartite) |
-| 786   | [第 K   个最小的素数分数  ](https://leetcode-cn.com/problems/k-th-smallest-prime-fraction) | [第 K 个最小的素数分数  ](https://leetcode-cn.com/problems/k-th-smallest-prime-fraction) |
-| 787   | [K   站中转内最便宜的航班  ](https://leetcode-cn.com/problems/cheapest-flights-within-k-stops) | [K 站中转内最便宜的航班  ](https://leetcode-cn.com/problems/cheapest-flights-within-k-stops) |
-| 788   | [旋转数字  ](https://leetcode-cn.com/problems/rotated-digits) | [旋转数字  ](https://leetcode-cn.com/problems/rotated-digits) |
-| 789   | [逃脱阻碍者  ](https://leetcode-cn.com/problems/escape-the-ghosts) | [逃脱阻碍者  ](https://leetcode-cn.com/problems/escape-the-ghosts) |
-| 790   | [多米诺和托米诺平铺  ](https://leetcode-cn.com/problems/domino-and-tromino-tiling) | [多米诺和托米诺平铺  ](https://leetcode-cn.com/problems/domino-and-tromino-tiling) |
-| 791   | [自定义字符串排序  ](https://leetcode-cn.com/problems/custom-sort-string) | [自定义字符串排序  ](https://leetcode-cn.com/problems/custom-sort-string) |
-| 792   | [匹配子序列的单词数  ](https://leetcode-cn.com/problems/number-of-matching-subsequences) | [匹配子序列的单词数  ](https://leetcode-cn.com/problems/number-of-matching-subsequences) |
-| 793   | [阶乘函数后K个零  ](https://leetcode-cn.com/problems/preimage-size-of-factorial-zeroes-function) | [阶乘函数后K个零  ](https://leetcode-cn.com/problems/preimage-size-of-factorial-zeroes-function) |
-| 794   | [有效的井字游戏  ](https://leetcode-cn.com/problems/valid-tic-tac-toe-state) | [有效的井字游戏  ](https://leetcode-cn.com/problems/valid-tic-tac-toe-state) |
-| 795   | [区间子数组个数  ](https://leetcode-cn.com/problems/number-of-subarrays-with-bounded-maximum) | [区间子数组个数  ](https://leetcode-cn.com/problems/number-of-subarrays-with-bounded-maximum) |
-| 796   | [旋转字符串  ](https://leetcode-cn.com/problems/rotate-string) | [旋转字符串  ](https://leetcode-cn.com/problems/rotate-string) |
-| 797   | [所有可能的路径  ](https://leetcode-cn.com/problems/all-paths-from-source-to-target) | [所有可能的路径  ](https://leetcode-cn.com/problems/all-paths-from-source-to-target) |
-| 798   | [得分最高的最小轮调  ](https://leetcode-cn.com/problems/smallest-rotation-with-highest-score) | [得分最高的最小轮调  ](https://leetcode-cn.com/problems/smallest-rotation-with-highest-score) |
-| 799   | [香槟塔  ](https://leetcode-cn.com/problems/champagne-tower) | [香槟塔  ](https://leetcode-cn.com/problems/champagne-tower) |
-| 800   | [相似 RGB 颜色  ](https://leetcode-cn.com/problems/similar-rgb-color) | [相似   RGB 颜色  ](https://leetcode-cn.com/problems/similar-rgb-color) |
-| 801   | [使序列递增的最小交换次数  ](https://leetcode-cn.com/problems/minimum-swaps-to-make-sequences-increasing) | [使序列递增的最小交换次数  ](https://leetcode-cn.com/problems/minimum-swaps-to-make-sequences-increasing) |
-| 802   | [找到最终的安全状态  ](https://leetcode-cn.com/problems/find-eventual-safe-states) | [找到最终的安全状态  ](https://leetcode-cn.com/problems/find-eventual-safe-states) |
-| 803   | [打砖块  ](https://leetcode-cn.com/problems/bricks-falling-when-hit) | [打砖块  ](https://leetcode-cn.com/problems/bricks-falling-when-hit) |
-| 804   | [唯一摩尔斯密码词  ](https://leetcode-cn.com/problems/unique-morse-code-words) | [唯一摩尔斯密码词  ](https://leetcode-cn.com/problems/unique-morse-code-words) |
-| 805   | [数组的均值分割  ](https://leetcode-cn.com/problems/split-array-with-same-average) | [数组的均值分割  ](https://leetcode-cn.com/problems/split-array-with-same-average) |
-| 806   | [写字符串需要的行数  ](https://leetcode-cn.com/problems/number-of-lines-to-write-string) | [写字符串需要的行数  ](https://leetcode-cn.com/problems/number-of-lines-to-write-string) |
-| 807   | [保持城市天际线  ](https://leetcode-cn.com/problems/max-increase-to-keep-city-skyline) | [保持城市天际线  ](https://leetcode-cn.com/problems/max-increase-to-keep-city-skyline) |
-| 808   | [分汤  ](https://leetcode-cn.com/problems/soup-servings)     | [分汤  ](https://leetcode-cn.com/problems/soup-servings)     |
-| 809   | [情感丰富的文字  ](https://leetcode-cn.com/problems/expressive-words) | [情感丰富的文字  ](https://leetcode-cn.com/problems/expressive-words) |
-| 810   | [黑板异或游戏  ](https://leetcode-cn.com/problems/chalkboard-xor-game) | [黑板异或游戏  ](https://leetcode-cn.com/problems/chalkboard-xor-game) |
-| 811   | [子域名访问计数  ](https://leetcode-cn.com/problems/subdomain-visit-count) | [子域名访问计数  ](https://leetcode-cn.com/problems/subdomain-visit-count) |
-| 812   | [最大三角形面积  ](https://leetcode-cn.com/problems/largest-triangle-area) | [最大三角形面积  ](https://leetcode-cn.com/problems/largest-triangle-area) |
-| 813   | [最大平均值和的分组  ](https://leetcode-cn.com/problems/largest-sum-of-averages) | [最大平均值和的分组  ](https://leetcode-cn.com/problems/largest-sum-of-averages) |
-| 814   | [二叉树剪枝  ](https://leetcode-cn.com/problems/binary-tree-pruning) | [二叉树剪枝  ](https://leetcode-cn.com/problems/binary-tree-pruning) |
-| 815   | [公交路线  ](https://leetcode-cn.com/problems/bus-routes)    | [公交路线  ](https://leetcode-cn.com/problems/bus-routes)    |
-| 816   | [模糊坐标  ](https://leetcode-cn.com/problems/ambiguous-coordinates) | [模糊坐标  ](https://leetcode-cn.com/problems/ambiguous-coordinates) |
-| 817   | [链表组件  ](https://leetcode-cn.com/problems/linked-list-components) | [链表组件  ](https://leetcode-cn.com/problems/linked-list-components) |
-| 818   | [赛车  ](https://leetcode-cn.com/problems/race-car)          | [赛车  ](https://leetcode-cn.com/problems/race-car)          |
-| 819   | [最常见的单词  ](https://leetcode-cn.com/problems/most-common-word) | [最常见的单词  ](https://leetcode-cn.com/problems/most-common-word) |
-| 820   | [单词的压缩编码  ](https://leetcode-cn.com/problems/short-encoding-of-words) | [单词的压缩编码  ](https://leetcode-cn.com/problems/short-encoding-of-words) |
-| 821   | [字符的最短距离  ](https://leetcode-cn.com/problems/shortest-distance-to-a-character) | [字符的最短距离  ](https://leetcode-cn.com/problems/shortest-distance-to-a-character) |
-| 822   | [翻转卡片游戏  ](https://leetcode-cn.com/problems/card-flipping-game) | [翻转卡片游戏  ](https://leetcode-cn.com/problems/card-flipping-game) |
-| 823   | [带因子的二叉树  ](https://leetcode-cn.com/problems/binary-trees-with-factors) | [带因子的二叉树  ](https://leetcode-cn.com/problems/binary-trees-with-factors) |
-| 824   | [山羊拉丁文  ](https://leetcode-cn.com/problems/goat-latin)  | [山羊拉丁文  ](https://leetcode-cn.com/problems/goat-latin)  |
-| 825   | [适龄的朋友  ](https://leetcode-cn.com/problems/friends-of-appropriate-ages) | [适龄的朋友  ](https://leetcode-cn.com/problems/friends-of-appropriate-ages) |
-| 826   | [安排工作以达到最大收益  ](https://leetcode-cn.com/problems/most-profit-assigning-work) | [安排工作以达到最大收益  ](https://leetcode-cn.com/problems/most-profit-assigning-work) |
-| 827   | [最大人工岛  ](https://leetcode-cn.com/problems/making-a-large-island) | [最大人工岛  ](https://leetcode-cn.com/problems/making-a-large-island) |
-| 828   | [独特字符串  ](https://leetcode-cn.com/problems/unique-letter-string) | [独特字符串  ](https://leetcode-cn.com/problems/unique-letter-string) |
-| 829   | [连续整数求和  ](https://leetcode-cn.com/problems/consecutive-numbers-sum) | [连续整数求和  ](https://leetcode-cn.com/problems/consecutive-numbers-sum) |
-| 830   | [较大分组的位置  ](https://leetcode-cn.com/problems/positions-of-large-groups) | [较大分组的位置  ](https://leetcode-cn.com/problems/positions-of-large-groups) |
-| 831   | [隐藏个人信息  ](https://leetcode-cn.com/problems/masking-personal-information) | [隐藏个人信息  ](https://leetcode-cn.com/problems/masking-personal-information) |
-| 832   | [翻转图像  ](https://leetcode-cn.com/problems/flipping-an-image) | [翻转图像  ](https://leetcode-cn.com/problems/flipping-an-image) |
-| 833   | [字符串中的查找与替换  ](https://leetcode-cn.com/problems/find-and-replace-in-string) | [字符串中的查找与替换  ](https://leetcode-cn.com/problems/find-and-replace-in-string) |
-| 834   | [树中距离之和  ](https://leetcode-cn.com/problems/sum-of-distances-in-tree) | [树中距离之和  ](https://leetcode-cn.com/problems/sum-of-distances-in-tree) |
-| 835   | [图像重叠  ](https://leetcode-cn.com/problems/image-overlap) | [图像重叠  ](https://leetcode-cn.com/problems/image-overlap) |
-| 836   | [矩形重叠  ](https://leetcode-cn.com/problems/rectangle-overlap) | [矩形重叠  ](https://leetcode-cn.com/problems/rectangle-overlap) |
-| 837   | [新21点  ](https://leetcode-cn.com/problems/new-21-game)     | [新21点  ](https://leetcode-cn.com/problems/new-21-game)     |
-| 838   | [推多米诺  ](https://leetcode-cn.com/problems/push-dominoes) | [推多米诺  ](https://leetcode-cn.com/problems/push-dominoes) |
-| 839   | [相似字符串组  ](https://leetcode-cn.com/problems/similar-string-groups) | [相似字符串组  ](https://leetcode-cn.com/problems/similar-string-groups) |
-| 840   | [矩阵中的幻方  ](https://leetcode-cn.com/problems/magic-squares-in-grid) | [矩阵中的幻方  ](https://leetcode-cn.com/problems/magic-squares-in-grid) |
-| 841   | [钥匙和房间  ](https://leetcode-cn.com/problems/keys-and-rooms) | [钥匙和房间  ](https://leetcode-cn.com/problems/keys-and-rooms) |
-| 842   | [将数组拆分成斐波那契序列  ](https://leetcode-cn.com/problems/split-array-into-fibonacci-sequence) | [将数组拆分成斐波那契序列  ](https://leetcode-cn.com/problems/split-array-into-fibonacci-sequence) |
-| 843   | [猜猜这个单词  ](https://leetcode-cn.com/problems/guess-the-word) | [猜猜这个单词  ](https://leetcode-cn.com/problems/guess-the-word) |
-| 844   | [比较含退格的字符串  ](https://leetcode-cn.com/problems/backspace-string-compare) | [比较含退格的字符串  ](https://leetcode-cn.com/problems/backspace-string-compare) |
-| 845   | [数组中的最长山脉  ](https://leetcode-cn.com/problems/longest-mountain-in-array) | [数组中的最长山脉  ](https://leetcode-cn.com/problems/longest-mountain-in-array) |
-| 846   | [一手顺子  ](https://leetcode-cn.com/problems/hand-of-straights) | [一手顺子  ](https://leetcode-cn.com/problems/hand-of-straights) |
-| 847   | [访问所有节点的最短路径  ](https://leetcode-cn.com/problems/shortest-path-visiting-all-nodes) | [访问所有节点的最短路径  ](https://leetcode-cn.com/problems/shortest-path-visiting-all-nodes) |
-| 848   | [字母移位  ](https://leetcode-cn.com/problems/shifting-letters) | [字母移位  ](https://leetcode-cn.com/problems/shifting-letters) |
-| 849   | [到最近的人的最大距离  ](https://leetcode-cn.com/problems/maximize-distance-to-closest-person) | [到最近的人的最大距离  ](https://leetcode-cn.com/problems/maximize-distance-to-closest-person) |
-| 850   | [矩形面积 II  ](https://leetcode-cn.com/problems/rectangle-area-ii) | [矩形面积   II  ](https://leetcode-cn.com/problems/rectangle-area-ii) |
-| 851   | [喧闹和富有  ](https://leetcode-cn.com/problems/loud-and-rich) | [喧闹和富有  ](https://leetcode-cn.com/problems/loud-and-rich) |
-| 852   | [山脉数组的峰顶索引  ](https://leetcode-cn.com/problems/peak-index-in-a-mountain-array) | [山脉数组的峰顶索引  ](https://leetcode-cn.com/problems/peak-index-in-a-mountain-array) |
-| 853   | [车队  ](https://leetcode-cn.com/problems/car-fleet)         | [车队  ](https://leetcode-cn.com/problems/car-fleet)         |
-| 854   | [相似度为 K 的字符串  ](https://leetcode-cn.com/problems/k-similar-strings) | [相似度为   K 的字符串  ](https://leetcode-cn.com/problems/k-similar-strings) |
-| 855   | [考场就座  ](https://leetcode-cn.com/problems/exam-room)     | [考场就座  ](https://leetcode-cn.com/problems/exam-room)     |
-| 856   | [括号的分数  ](https://leetcode-cn.com/problems/score-of-parentheses) | [括号的分数  ](https://leetcode-cn.com/problems/score-of-parentheses) |
-| 857   | [雇佣 K   名工人的最低成本  ](https://leetcode-cn.com/problems/minimum-cost-to-hire-k-workers) | [雇佣 K 名工人的最低成本  ](https://leetcode-cn.com/problems/minimum-cost-to-hire-k-workers) |
-| 858   | [镜面反射  ](https://leetcode-cn.com/problems/mirror-reflection) | [镜面反射  ](https://leetcode-cn.com/problems/mirror-reflection) |
-| 859   | [亲密字符串  ](https://leetcode-cn.com/problems/buddy-strings) | [亲密字符串  ](https://leetcode-cn.com/problems/buddy-strings) |
-| 860   | [柠檬水找零  ](https://leetcode-cn.com/problems/lemonade-change) | [柠檬水找零  ](https://leetcode-cn.com/problems/lemonade-change) |
-| 861   | [翻转矩阵后的得分  ](https://leetcode-cn.com/problems/score-after-flipping-matrix) | [翻转矩阵后的得分  ](https://leetcode-cn.com/problems/score-after-flipping-matrix) |
-| 862   | [和至少为   K 的最短子数组  ](https://leetcode-cn.com/problems/shortest-subarray-with-sum-at-least-k) | [和至少为 K 的最短子数组  ](https://leetcode-cn.com/problems/shortest-subarray-with-sum-at-least-k) |
-| 863   | [二叉树中所有距离为   K 的结点  ](https://leetcode-cn.com/problems/all-nodes-distance-k-in-binary-tree) | [二叉树中所有距离为 K 的结点  ](https://leetcode-cn.com/problems/all-nodes-distance-k-in-binary-tree) |
-| 864   | [获取所有钥匙的最短路径  ](https://leetcode-cn.com/problems/shortest-path-to-get-all-keys) | [获取所有钥匙的最短路径  ](https://leetcode-cn.com/problems/shortest-path-to-get-all-keys) |
-| 865   | [具有所有最深结点的最小子树  ](https://leetcode-cn.com/problems/smallest-subtree-with-all-the-deepest-nodes) | [具有所有最深结点的最小子树  ](https://leetcode-cn.com/problems/smallest-subtree-with-all-the-deepest-nodes) |
-| 866   | [回文素数  ](https://leetcode-cn.com/problems/prime-palindrome) | [回文素数  ](https://leetcode-cn.com/problems/prime-palindrome) |
-| 867   | [转置矩阵  ](https://leetcode-cn.com/problems/transpose-matrix) | [转置矩阵  ](https://leetcode-cn.com/problems/transpose-matrix) |
-| 868   | [二进制间距  ](https://leetcode-cn.com/problems/binary-gap)  | [二进制间距  ](https://leetcode-cn.com/problems/binary-gap)  |
-| 869   | [重新排序得到 2 的幂  ](https://leetcode-cn.com/problems/reordered-power-of-2) | [重新排序得到 2 的幂  ](https://leetcode-cn.com/problems/reordered-power-of-2) |
-| 870   | [优势洗牌  ](https://leetcode-cn.com/problems/advantage-shuffle) | [优势洗牌  ](https://leetcode-cn.com/problems/advantage-shuffle) |
-| 871   | [最低加油次数  ](https://leetcode-cn.com/problems/minimum-number-of-refueling-stops) | [最低加油次数  ](https://leetcode-cn.com/problems/minimum-number-of-refueling-stops) |
-| 872   | [叶子相似的树  ](https://leetcode-cn.com/problems/leaf-similar-trees) | [叶子相似的树  ](https://leetcode-cn.com/problems/leaf-similar-trees) |
-| 873   | [最长的斐波那契子序列的长度  ](https://leetcode-cn.com/problems/length-of-longest-fibonacci-subsequence) | [最长的斐波那契子序列的长度  ](https://leetcode-cn.com/problems/length-of-longest-fibonacci-subsequence) |
-| 874   | [模拟行走机器人  ](https://leetcode-cn.com/problems/walking-robot-simulation) | [模拟行走机器人  ](https://leetcode-cn.com/problems/walking-robot-simulation) |
-| 875   | [爱吃香蕉的珂珂  ](https://leetcode-cn.com/problems/koko-eating-bananas) | [爱吃香蕉的珂珂  ](https://leetcode-cn.com/problems/koko-eating-bananas) |
-| 876   | [链表的中间结点  ](https://leetcode-cn.com/problems/middle-of-the-linked-list) | [链表的中间结点  ](https://leetcode-cn.com/problems/middle-of-the-linked-list) |
-| 877   | [石子游戏  ](https://leetcode-cn.com/problems/stone-game)    | [石子游戏  ](https://leetcode-cn.com/problems/stone-game)    |
-| 878   | [第 N 个神奇数字  ](https://leetcode-cn.com/problems/nth-magical-number) | [第   N 个神奇数字  ](https://leetcode-cn.com/problems/nth-magical-number) |
-| 879   | [盈利计划  ](https://leetcode-cn.com/problems/profitable-schemes) | [盈利计划  ](https://leetcode-cn.com/problems/profitable-schemes) |
-| 880   | [索引处的解码字符串  ](https://leetcode-cn.com/problems/decoded-string-at-index) | [索引处的解码字符串  ](https://leetcode-cn.com/problems/decoded-string-at-index) |
-| 881   | [救生艇  ](https://leetcode-cn.com/problems/boats-to-save-people) | [救生艇  ](https://leetcode-cn.com/problems/boats-to-save-people) |
-| 882   | [细分图中的可到达结点  ](https://leetcode-cn.com/problems/reachable-nodes-in-subdivided-graph) | [细分图中的可到达结点  ](https://leetcode-cn.com/problems/reachable-nodes-in-subdivided-graph) |
-| 883   | [三维形体投影面积  ](https://leetcode-cn.com/problems/projection-area-of-3d-shapes) | [三维形体投影面积  ](https://leetcode-cn.com/problems/projection-area-of-3d-shapes) |
-| 884   | [两句话中的不常见单词  ](https://leetcode-cn.com/problems/uncommon-words-from-two-sentences) | [两句话中的不常见单词  ](https://leetcode-cn.com/problems/uncommon-words-from-two-sentences) |
-| 885   | [螺旋矩阵 III  ](https://leetcode-cn.com/problems/spiral-matrix-iii) | [螺旋矩阵   III  ](https://leetcode-cn.com/problems/spiral-matrix-iii) |
-| 886   | [可能的二分法  ](https://leetcode-cn.com/problems/possible-bipartition) | [可能的二分法  ](https://leetcode-cn.com/problems/possible-bipartition) |
-| 887   | [鸡蛋掉落  ](https://leetcode-cn.com/problems/super-egg-drop) | [鸡蛋掉落  ](https://leetcode-cn.com/problems/super-egg-drop) |
-| 888   | [公平的糖果交换  ](https://leetcode-cn.com/problems/fair-candy-swap) | [公平的糖果交换  ](https://leetcode-cn.com/problems/fair-candy-swap) |
-| 889   | [根据前序和后序遍历构造二叉树  ](https://leetcode-cn.com/problems/construct-binary-tree-from-preorder-and-postorder-traversal) | [根据前序和后序遍历构造二叉树  ](https://leetcode-cn.com/problems/construct-binary-tree-from-preorder-and-postorder-traversal) |
-| 890   | [查找和替换模式  ](https://leetcode-cn.com/problems/find-and-replace-pattern) | [查找和替换模式  ](https://leetcode-cn.com/problems/find-and-replace-pattern) |
-| 891   | [子序列宽度之和  ](https://leetcode-cn.com/problems/sum-of-subsequence-widths) | [子序列宽度之和  ](https://leetcode-cn.com/problems/sum-of-subsequence-widths) |
-| 892   | [三维形体的表面积  ](https://leetcode-cn.com/problems/surface-area-of-3d-shapes) | [三维形体的表面积  ](https://leetcode-cn.com/problems/surface-area-of-3d-shapes) |
-| 893   | [特殊等价字符串组  ](https://leetcode-cn.com/problems/groups-of-special-equivalent-strings) | [特殊等价字符串组  ](https://leetcode-cn.com/problems/groups-of-special-equivalent-strings) |
-| 894   | [所有可能的满二叉树  ](https://leetcode-cn.com/problems/all-possible-full-binary-trees) | [所有可能的满二叉树  ](https://leetcode-cn.com/problems/all-possible-full-binary-trees) |
-| 895   | [最大频率栈  ](https://leetcode-cn.com/problems/maximum-frequency-stack) | [最大频率栈  ](https://leetcode-cn.com/problems/maximum-frequency-stack) |
-| 896   | [单调数列  ](https://leetcode-cn.com/problems/monotonic-array) | [单调数列  ](https://leetcode-cn.com/problems/monotonic-array) |
-| 897   | [递增顺序查找树  ](https://leetcode-cn.com/problems/increasing-order-search-tree) | [递增顺序查找树  ](https://leetcode-cn.com/problems/increasing-order-search-tree) |
-| 898   | [子数组按位或操作  ](https://leetcode-cn.com/problems/bitwise-ors-of-subarrays) | [子数组按位或操作  ](https://leetcode-cn.com/problems/bitwise-ors-of-subarrays) |
-| 899   | [有序队列  ](https://leetcode-cn.com/problems/orderly-queue) | [有序队列  ](https://leetcode-cn.com/problems/orderly-queue) |
-| 900   | [RLE 迭代器  ](https://leetcode-cn.com/problems/rle-iterator) | [RLE   迭代器  ](https://leetcode-cn.com/problems/rle-iterator) |
-| 901   | [股票价格跨度  ](https://leetcode-cn.com/problems/online-stock-span) | [股票价格跨度  ](https://leetcode-cn.com/problems/online-stock-span) |
-| 902   | [最大为   N 的数字组合  ](https://leetcode-cn.com/problems/numbers-at-most-n-given-digit-set) | [最大为 N 的数字组合  ](https://leetcode-cn.com/problems/numbers-at-most-n-given-digit-set) |
-| 903   | [DI   序列的有效排列  ](https://leetcode-cn.com/problems/valid-permutations-for-di-sequence) | [DI 序列的有效排列  ](https://leetcode-cn.com/problems/valid-permutations-for-di-sequence) |
-| 904   | [水果成篮  ](https://leetcode-cn.com/problems/fruit-into-baskets) | [水果成篮  ](https://leetcode-cn.com/problems/fruit-into-baskets) |
-| 905   | [按奇偶排序数组  ](https://leetcode-cn.com/problems/sort-array-by-parity) | [按奇偶排序数组  ](https://leetcode-cn.com/problems/sort-array-by-parity) |
-| 906   | [超级回文数  ](https://leetcode-cn.com/problems/super-palindromes) | [超级回文数  ](https://leetcode-cn.com/problems/super-palindromes) |
-| 907   | [子数组的最小值之和  ](https://leetcode-cn.com/problems/sum-of-subarray-minimums) | [子数组的最小值之和  ](https://leetcode-cn.com/problems/sum-of-subarray-minimums) |
-| 908   | [最小差值 I  ](https://leetcode-cn.com/problems/smallest-range-i) | [最小差值   I  ](https://leetcode-cn.com/problems/smallest-range-i) |
-| 909   | [蛇梯棋  ](https://leetcode-cn.com/problems/snakes-and-ladders) | [蛇梯棋  ](https://leetcode-cn.com/problems/snakes-and-ladders) |
-| 910   | [最小差值 II  ](https://leetcode-cn.com/problems/smallest-range-ii) | [最小差值   II  ](https://leetcode-cn.com/problems/smallest-range-ii) |
-| 911   | [在线选举  ](https://leetcode-cn.com/problems/online-election) | [在线选举  ](https://leetcode-cn.com/problems/online-election) |
-| 912   | [排序数组  ](https://leetcode-cn.com/problems/sort-an-array) | [排序数组  ](https://leetcode-cn.com/problems/sort-an-array) |
-| 913   | [猫和老鼠  ](https://leetcode-cn.com/problems/cat-and-mouse) | [猫和老鼠  ](https://leetcode-cn.com/problems/cat-and-mouse) |
-| 914   | [卡牌分组  ](https://leetcode-cn.com/problems/x-of-a-kind-in-a-deck-of-cards) | [卡牌分组  ](https://leetcode-cn.com/problems/x-of-a-kind-in-a-deck-of-cards) |
-| 915   | [分割数组  ](https://leetcode-cn.com/problems/partition-array-into-disjoint-intervals) | [分割数组  ](https://leetcode-cn.com/problems/partition-array-into-disjoint-intervals) |
-| 916   | [单词子集  ](https://leetcode-cn.com/problems/word-subsets)  | [单词子集  ](https://leetcode-cn.com/problems/word-subsets)  |
-| 917   | [仅仅反转字母  ](https://leetcode-cn.com/problems/reverse-only-letters) | [仅仅反转字母  ](https://leetcode-cn.com/problems/reverse-only-letters) |
-| 918   | [环形子数组的最大和  ](https://leetcode-cn.com/problems/maximum-sum-circular-subarray) | [环形子数组的最大和  ](https://leetcode-cn.com/problems/maximum-sum-circular-subarray) |
-| 919   | [完全二叉树插入器  ](https://leetcode-cn.com/problems/complete-binary-tree-inserter) | [完全二叉树插入器  ](https://leetcode-cn.com/problems/complete-binary-tree-inserter) |
-| 920   | [播放列表的数量  ](https://leetcode-cn.com/problems/number-of-music-playlists) | [播放列表的数量  ](https://leetcode-cn.com/problems/number-of-music-playlists) |
-| 921   | [使括号有效的最少添加  ](https://leetcode-cn.com/problems/minimum-add-to-make-parentheses-valid) | [使括号有效的最少添加  ](https://leetcode-cn.com/problems/minimum-add-to-make-parentheses-valid) |
-| 922   | [按奇偶排序数组 II  ](https://leetcode-cn.com/problems/sort-array-by-parity-ii) | [按奇偶排序数组 II  ](https://leetcode-cn.com/problems/sort-array-by-parity-ii) |
-| 923   | [三数之和的多种可能  ](https://leetcode-cn.com/problems/3sum-with-multiplicity) | [三数之和的多种可能  ](https://leetcode-cn.com/problems/3sum-with-multiplicity) |
-| 924   | [尽量减少恶意软件的传播  ](https://leetcode-cn.com/problems/minimize-malware-spread) | [尽量减少恶意软件的传播  ](https://leetcode-cn.com/problems/minimize-malware-spread) |
-| 925   | [长按键入  ](https://leetcode-cn.com/problems/long-pressed-name) | [长按键入  ](https://leetcode-cn.com/problems/long-pressed-name) |
-| 926   | [将字符串翻转到单调递增  ](https://leetcode-cn.com/problems/flip-string-to-monotone-increasing) | [将字符串翻转到单调递增  ](https://leetcode-cn.com/problems/flip-string-to-monotone-increasing) |
-| 927   | [三等分  ](https://leetcode-cn.com/problems/three-equal-parts) | [三等分  ](https://leetcode-cn.com/problems/three-equal-parts) |
-| 928   | [尽量减少恶意软件的传播   II  ](https://leetcode-cn.com/problems/minimize-malware-spread-ii) | [尽量减少恶意软件的传播 II  ](https://leetcode-cn.com/problems/minimize-malware-spread-ii) |
-| 929   | [独特的电子邮件地址  ](https://leetcode-cn.com/problems/unique-email-addresses) | [独特的电子邮件地址  ](https://leetcode-cn.com/problems/unique-email-addresses) |
-| 930   | [和相同的二元子数组  ](https://leetcode-cn.com/problems/binary-subarrays-with-sum) | [和相同的二元子数组  ](https://leetcode-cn.com/problems/binary-subarrays-with-sum) |
-| 931   | [下降路径最小和  ](https://leetcode-cn.com/problems/minimum-falling-path-sum) | [下降路径最小和  ](https://leetcode-cn.com/problems/minimum-falling-path-sum) |
-| 932   | [漂亮数组  ](https://leetcode-cn.com/problems/beautiful-array) | [漂亮数组  ](https://leetcode-cn.com/problems/beautiful-array) |
-| 933   | [最近的请求次数  ](https://leetcode-cn.com/problems/number-of-recent-calls) | [最近的请求次数  ](https://leetcode-cn.com/problems/number-of-recent-calls) |
-| 934   | [最短的桥  ](https://leetcode-cn.com/problems/shortest-bridge) | [最短的桥  ](https://leetcode-cn.com/problems/shortest-bridge) |
-| 935   | [骑士拨号器  ](https://leetcode-cn.com/problems/knight-dialer) | [骑士拨号器  ](https://leetcode-cn.com/problems/knight-dialer) |
-| 936   | [戳印序列  ](https://leetcode-cn.com/problems/stamping-the-sequence) | [戳印序列  ](https://leetcode-cn.com/problems/stamping-the-sequence) |
-| 937   | [重新排列日志文件  ](https://leetcode-cn.com/problems/reorder-data-in-log-files) | [重新排列日志文件  ](https://leetcode-cn.com/problems/reorder-data-in-log-files) |
-| 938   | [二叉搜索树的范围和  ](https://leetcode-cn.com/problems/range-sum-of-bst) | [二叉搜索树的范围和  ](https://leetcode-cn.com/problems/range-sum-of-bst) |
-| 939   | [最小面积矩形  ](https://leetcode-cn.com/problems/minimum-area-rectangle) | [最小面积矩形  ](https://leetcode-cn.com/problems/minimum-area-rectangle) |
-| 940   | [不同的子序列 II  ](https://leetcode-cn.com/problems/distinct-subsequences-ii) | [不同的子序列 II  ](https://leetcode-cn.com/problems/distinct-subsequences-ii) |
-| 941   | [有效的山脉数组  ](https://leetcode-cn.com/problems/valid-mountain-array) | [有效的山脉数组  ](https://leetcode-cn.com/problems/valid-mountain-array) |
-| 942   | [增减字符串匹配  ](https://leetcode-cn.com/problems/di-string-match) | [增减字符串匹配  ](https://leetcode-cn.com/problems/di-string-match) |
-| 943   | [最短超级串  ](https://leetcode-cn.com/problems/find-the-shortest-superstring) | [最短超级串  ](https://leetcode-cn.com/problems/find-the-shortest-superstring) |
-| 944   | [删列造序  ](https://leetcode-cn.com/problems/delete-columns-to-make-sorted) | [删列造序  ](https://leetcode-cn.com/problems/delete-columns-to-make-sorted) |
-| 945   | [使数组唯一的最小增量  ](https://leetcode-cn.com/problems/minimum-increment-to-make-array-unique) | [使数组唯一的最小增量  ](https://leetcode-cn.com/problems/minimum-increment-to-make-array-unique) |
-| 946   | [验证栈序列  ](https://leetcode-cn.com/problems/validate-stack-sequences) | [验证栈序列  ](https://leetcode-cn.com/problems/validate-stack-sequences) |
-| 947   | [移除最多的同行或同列石头  ](https://leetcode-cn.com/problems/most-stones-removed-with-same-row-or-column) | [移除最多的同行或同列石头  ](https://leetcode-cn.com/problems/most-stones-removed-with-same-row-or-column) |
-| 948   | [令牌放置  ](https://leetcode-cn.com/problems/bag-of-tokens) | [令牌放置  ](https://leetcode-cn.com/problems/bag-of-tokens) |
-| 949   | [给定数字能组成的最大时间  ](https://leetcode-cn.com/problems/largest-time-for-given-digits) | [给定数字能组成的最大时间  ](https://leetcode-cn.com/problems/largest-time-for-given-digits) |
-| 950   | [按递增顺序显示卡牌  ](https://leetcode-cn.com/problems/reveal-cards-in-increasing-order) | [按递增顺序显示卡牌  ](https://leetcode-cn.com/problems/reveal-cards-in-increasing-order) |
-| 951   | [翻转等价二叉树  ](https://leetcode-cn.com/problems/flip-equivalent-binary-trees) | [翻转等价二叉树  ](https://leetcode-cn.com/problems/flip-equivalent-binary-trees) |
-| 952   | [按公因数计算最大组件大小  ](https://leetcode-cn.com/problems/largest-component-size-by-common-factor) | [按公因数计算最大组件大小  ](https://leetcode-cn.com/problems/largest-component-size-by-common-factor) |
-| 953   | [验证外星语词典  ](https://leetcode-cn.com/problems/verifying-an-alien-dictionary) | [验证外星语词典  ](https://leetcode-cn.com/problems/verifying-an-alien-dictionary) |
-| 954   | [二倍数对数组  ](https://leetcode-cn.com/problems/array-of-doubled-pairs) | [二倍数对数组  ](https://leetcode-cn.com/problems/array-of-doubled-pairs) |
-| 955   | [删列造序   II  ](https://leetcode-cn.com/problems/delete-columns-to-make-sorted-ii) | [删列造序 II  ](https://leetcode-cn.com/problems/delete-columns-to-make-sorted-ii) |
-| 956   | [最高的广告牌  ](https://leetcode-cn.com/problems/tallest-billboard) | [最高的广告牌  ](https://leetcode-cn.com/problems/tallest-billboard) |
-| 957   | [N 天后的牢房  ](https://leetcode-cn.com/problems/prison-cells-after-n-days) | [N 天后的牢房  ](https://leetcode-cn.com/problems/prison-cells-after-n-days) |
-| 958   | [二叉树的完全性检验  ](https://leetcode-cn.com/problems/check-completeness-of-a-binary-tree) | [二叉树的完全性检验  ](https://leetcode-cn.com/problems/check-completeness-of-a-binary-tree) |
-| 959   | [由斜杠划分区域  ](https://leetcode-cn.com/problems/regions-cut-by-slashes) | [由斜杠划分区域  ](https://leetcode-cn.com/problems/regions-cut-by-slashes) |
-| 960   | [删列造序   III  ](https://leetcode-cn.com/problems/delete-columns-to-make-sorted-iii) | [删列造序 III  ](https://leetcode-cn.com/problems/delete-columns-to-make-sorted-iii) |
-| 961   | [重复   N 次的元素  ](https://leetcode-cn.com/problems/n-repeated-element-in-size-2n-array) | [重复 N 次的元素  ](https://leetcode-cn.com/problems/n-repeated-element-in-size-2n-array) |
-| 962   | [最大宽度坡  ](https://leetcode-cn.com/problems/maximum-width-ramp) | [最大宽度坡  ](https://leetcode-cn.com/problems/maximum-width-ramp) |
-| 963   | [最小面积矩形 II  ](https://leetcode-cn.com/problems/minimum-area-rectangle-ii) | [最小面积矩形 II  ](https://leetcode-cn.com/problems/minimum-area-rectangle-ii) |
-| 964   | [表示数字的最少运算符  ](https://leetcode-cn.com/problems/least-operators-to-express-number) | [表示数字的最少运算符  ](https://leetcode-cn.com/problems/least-operators-to-express-number) |
-| 965   | [单值二叉树  ](https://leetcode-cn.com/problems/univalued-binary-tree) | [单值二叉树  ](https://leetcode-cn.com/problems/univalued-binary-tree) |
-| 966   | [元音拼写检查器  ](https://leetcode-cn.com/problems/vowel-spellchecker) | [元音拼写检查器  ](https://leetcode-cn.com/problems/vowel-spellchecker) |
-| 967   | [连续差相同的数字  ](https://leetcode-cn.com/problems/numbers-with-same-consecutive-differences) | [连续差相同的数字  ](https://leetcode-cn.com/problems/numbers-with-same-consecutive-differences) |
-| 968   | [监控二叉树  ](https://leetcode-cn.com/problems/binary-tree-cameras) | [监控二叉树  ](https://leetcode-cn.com/problems/binary-tree-cameras) |
-| 969   | [煎饼排序  ](https://leetcode-cn.com/problems/pancake-sorting) | [煎饼排序  ](https://leetcode-cn.com/problems/pancake-sorting) |
-| 970   | [强整数  ](https://leetcode-cn.com/problems/powerful-integers) | [强整数  ](https://leetcode-cn.com/problems/powerful-integers) |
-| 971   | [翻转二叉树以匹配先序遍历  ](https://leetcode-cn.com/problems/flip-binary-tree-to-match-preorder-traversal) | [翻转二叉树以匹配先序遍历  ](https://leetcode-cn.com/problems/flip-binary-tree-to-match-preorder-traversal) |
-| 972   | [相等的有理数  ](https://leetcode-cn.com/problems/equal-rational-numbers) | [相等的有理数  ](https://leetcode-cn.com/problems/equal-rational-numbers) |
-| 973   | [最接近原点的 K   个点  ](https://leetcode-cn.com/problems/k-closest-points-to-origin) | [最接近原点的 K 个点  ](https://leetcode-cn.com/problems/k-closest-points-to-origin) |
-| 974   | [和可被 K   整除的子数组  ](https://leetcode-cn.com/problems/subarray-sums-divisible-by-k) | [和可被 K 整除的子数组  ](https://leetcode-cn.com/problems/subarray-sums-divisible-by-k) |
-| 975   | [奇偶跳  ](https://leetcode-cn.com/problems/odd-even-jump)   | [奇偶跳  ](https://leetcode-cn.com/problems/odd-even-jump)   |
-| 976   | [三角形的最大周长  ](https://leetcode-cn.com/problems/largest-perimeter-triangle) | [三角形的最大周长  ](https://leetcode-cn.com/problems/largest-perimeter-triangle) |
-| 977   | [有序数组的平方  ](https://leetcode-cn.com/problems/squares-of-a-sorted-array) | [有序数组的平方  ](https://leetcode-cn.com/problems/squares-of-a-sorted-array) |
-| 978   | [最长湍流子数组  ](https://leetcode-cn.com/problems/longest-turbulent-subarray) | [最长湍流子数组  ](https://leetcode-cn.com/problems/longest-turbulent-subarray) |
-| 979   | [在二叉树中分配硬币  ](https://leetcode-cn.com/problems/distribute-coins-in-binary-tree) | [在二叉树中分配硬币  ](https://leetcode-cn.com/problems/distribute-coins-in-binary-tree) |
-| 980   | [不同路径 III  ](https://leetcode-cn.com/problems/unique-paths-iii) | [不同路径   III  ](https://leetcode-cn.com/problems/unique-paths-iii) |
-| 981   | [基于时间的键值存储  ](https://leetcode-cn.com/problems/time-based-key-value-store) | [基于时间的键值存储  ](https://leetcode-cn.com/problems/time-based-key-value-store) |
-| 982   | [按位与为零的三元组  ](https://leetcode-cn.com/problems/triples-with-bitwise-and-equal-to-zero) | [按位与为零的三元组  ](https://leetcode-cn.com/problems/triples-with-bitwise-and-equal-to-zero) |
-| 983   | [最低票价  ](https://leetcode-cn.com/problems/minimum-cost-for-tickets) | [最低票价  ](https://leetcode-cn.com/problems/minimum-cost-for-tickets) |
-| 984   | [不含 AAA 或   BBB 的字符串  ](https://leetcode-cn.com/problems/string-without-aaa-or-bbb) | [不含 AAA 或 BBB 的字符串  ](https://leetcode-cn.com/problems/string-without-aaa-or-bbb) |
-| 985   | [查询后的偶数和  ](https://leetcode-cn.com/problems/sum-of-even-numbers-after-queries) | [查询后的偶数和  ](https://leetcode-cn.com/problems/sum-of-even-numbers-after-queries) |
-| 986   | [区间列表的交集  ](https://leetcode-cn.com/problems/interval-list-intersections) | [区间列表的交集  ](https://leetcode-cn.com/problems/interval-list-intersections) |
-| 987   | [二叉树的垂序遍历  ](https://leetcode-cn.com/problems/vertical-order-traversal-of-a-binary-tree) | [二叉树的垂序遍历  ](https://leetcode-cn.com/problems/vertical-order-traversal-of-a-binary-tree) |
-| 988   | [从叶结点开始的最小字符串  ](https://leetcode-cn.com/problems/smallest-string-starting-from-leaf) | [从叶结点开始的最小字符串  ](https://leetcode-cn.com/problems/smallest-string-starting-from-leaf) |
-| 989   | [数组形式的整数加法  ](https://leetcode-cn.com/problems/add-to-array-form-of-integer) | [数组形式的整数加法  ](https://leetcode-cn.com/problems/add-to-array-form-of-integer) |
-| 990   | [等式方程的可满足性  ](https://leetcode-cn.com/problems/satisfiability-of-equality-equations) | [等式方程的可满足性  ](https://leetcode-cn.com/problems/satisfiability-of-equality-equations) |
-| 991   | [坏了的计算器  ](https://leetcode-cn.com/problems/broken-calculator) | [坏了的计算器  ](https://leetcode-cn.com/problems/broken-calculator) |
-| 992   | [K   个不同整数的子数组  ](https://leetcode-cn.com/problems/subarrays-with-k-different-integers) | [K 个不同整数的子数组  ](https://leetcode-cn.com/problems/subarrays-with-k-different-integers) |
-| 993   | [二叉树的堂兄弟节点  ](https://leetcode-cn.com/problems/cousins-in-binary-tree) | [二叉树的堂兄弟节点  ](https://leetcode-cn.com/problems/cousins-in-binary-tree) |
-| 994   | [腐烂的橘子  ](https://leetcode-cn.com/problems/rotting-oranges) | [腐烂的橘子  ](https://leetcode-cn.com/problems/rotting-oranges) |
-| 995   | [K   连续位的最小翻转次数  ](https://leetcode-cn.com/problems/minimum-number-of-k-consecutive-bit-flips) | [K 连续位的最小翻转次数  ](https://leetcode-cn.com/problems/minimum-number-of-k-consecutive-bit-flips) |
-| 996   | [正方形数组的数目  ](https://leetcode-cn.com/problems/number-of-squareful-arrays) | [正方形数组的数目  ](https://leetcode-cn.com/problems/number-of-squareful-arrays) |
-| 997   | [找到小镇的法官  ](https://leetcode-cn.com/problems/find-the-town-judge) | [找到小镇的法官  ](https://leetcode-cn.com/problems/find-the-town-judge) |
-| 998   | [最大二叉树 II  ](https://leetcode-cn.com/problems/maximum-binary-tree-ii) | [最大二叉树 II  ](https://leetcode-cn.com/problems/maximum-binary-tree-ii) |
-| 999   | [车的可用捕获量  ](https://leetcode-cn.com/problems/available-captures-for-rook) | [车的可用捕获量  ](https://leetcode-cn.com/problems/available-captures-for-rook) |
-| 1000  | [合并石头的最低成本  ](https://leetcode-cn.com/problems/minimum-cost-to-merge-stones) | [合并石头的最低成本  ](https://leetcode-cn.com/problems/minimum-cost-to-merge-stones) |
-| 1001  | [网格照明  ](https://leetcode-cn.com/problems/grid-illumination) | [网格照明  ](https://leetcode-cn.com/problems/grid-illumination) |
-| 1002  | [查找常用字符  ](https://leetcode-cn.com/problems/find-common-characters) | [查找常用字符  ](https://leetcode-cn.com/problems/find-common-characters) |
-| 1003  | [检查替换后的词是否有效  ](https://leetcode-cn.com/problems/check-if-word-is-valid-after-substitutions) | [检查替换后的词是否有效  ](https://leetcode-cn.com/problems/check-if-word-is-valid-after-substitutions) |
-| 1004  | [最大连续1的个数 III  ](https://leetcode-cn.com/problems/max-consecutive-ones-iii) | [最大连续1的个数 III  ](https://leetcode-cn.com/problems/max-consecutive-ones-iii) |
-| 1005  | [K   次取反后最大化的数组和  ](https://leetcode-cn.com/problems/maximize-sum-of-array-after-k-negations) | [K 次取反后最大化的数组和  ](https://leetcode-cn.com/problems/maximize-sum-of-array-after-k-negations) |
-| 1006  | [笨阶乘  ](https://leetcode-cn.com/problems/clumsy-factorial) | [笨阶乘  ](https://leetcode-cn.com/problems/clumsy-factorial) |
-| 1007  | [行相等的最少多米诺旋转  ](https://leetcode-cn.com/problems/minimum-domino-rotations-for-equal-row) | [行相等的最少多米诺旋转  ](https://leetcode-cn.com/problems/minimum-domino-rotations-for-equal-row) |
-| 1008  | [先序遍历构造二叉树  ](https://leetcode-cn.com/problems/construct-binary-search-tree-from-preorder-traversal) | [先序遍历构造二叉树  ](https://leetcode-cn.com/problems/construct-binary-search-tree-from-preorder-traversal) |
-| 1009  | [十进制整数的反码  ](https://leetcode-cn.com/problems/complement-of-base-10-integer) | [十进制整数的反码  ](https://leetcode-cn.com/problems/complement-of-base-10-integer) |
-| 1010  | [总持续时间可被   60 整除的歌曲  ](https://leetcode-cn.com/problems/pairs-of-songs-with-total-durations-divisible-by-60) | [总持续时间可被 60 整除的歌曲  ](https://leetcode-cn.com/problems/pairs-of-songs-with-total-durations-divisible-by-60) |
-| 1011  | [在   D 天内送达包裹的能力  ](https://leetcode-cn.com/problems/capacity-to-ship-packages-within-d-days) | [在 D 天内送达包裹的能力  ](https://leetcode-cn.com/problems/capacity-to-ship-packages-within-d-days) |
-| 1012  | [至少有 1   位重复的数字  ](https://leetcode-cn.com/problems/numbers-with-repeated-digits) | [至少有 1 位重复的数字  ](https://leetcode-cn.com/problems/numbers-with-repeated-digits) |
-| 1013  | [将数组分成和相等的三个部分  ](https://leetcode-cn.com/problems/partition-array-into-three-parts-with-equal-sum) | [将数组分成和相等的三个部分  ](https://leetcode-cn.com/problems/partition-array-into-three-parts-with-equal-sum) |
-| 1014  | [最佳观光组合  ](https://leetcode-cn.com/problems/best-sightseeing-pair) | [最佳观光组合  ](https://leetcode-cn.com/problems/best-sightseeing-pair) |
-| 1015  | [可被 K   整除的最小整数  ](https://leetcode-cn.com/problems/smallest-integer-divisible-by-k) | [可被 K 整除的最小整数  ](https://leetcode-cn.com/problems/smallest-integer-divisible-by-k) |
-| 1016  | [子串能表示从   1 到 N 数字的二进制串  ](https://leetcode-cn.com/problems/binary-string-with-substrings-representing-1-to-n) | [子串能表示从 1 到 N 数字的二进制串  ](https://leetcode-cn.com/problems/binary-string-with-substrings-representing-1-to-n) |
-| 1017  | [负二进制转换  ](https://leetcode-cn.com/problems/convert-to-base-2) | [负二进制转换  ](https://leetcode-cn.com/problems/convert-to-base-2) |
-| 1018  | [可被 5   整除的二进制前缀  ](https://leetcode-cn.com/problems/binary-prefix-divisible-by-5) | [可被 5 整除的二进制前缀  ](https://leetcode-cn.com/problems/binary-prefix-divisible-by-5) |
-| 1019  | [链表中的下一个更大节点  ](https://leetcode-cn.com/problems/next-greater-node-in-linked-list) | [链表中的下一个更大节点  ](https://leetcode-cn.com/problems/next-greater-node-in-linked-list) |
-| 1020  | [飞地的数量  ](https://leetcode-cn.com/problems/number-of-enclaves) | [飞地的数量  ](https://leetcode-cn.com/problems/number-of-enclaves) |
-| 1021  | [删除最外层的括号  ](https://leetcode-cn.com/problems/remove-outermost-parentheses) | [删除最外层的括号  ](https://leetcode-cn.com/problems/remove-outermost-parentheses) |
-| 1022  | [从根到叶的二进制数之和  ](https://leetcode-cn.com/problems/sum-of-root-to-leaf-binary-numbers) | [从根到叶的二进制数之和  ](https://leetcode-cn.com/problems/sum-of-root-to-leaf-binary-numbers) |
-| 1023  | [驼峰式匹配  ](https://leetcode-cn.com/problems/camelcase-matching) | [驼峰式匹配  ](https://leetcode-cn.com/problems/camelcase-matching) |
-| 1024  | [视频拼接  ](https://leetcode-cn.com/problems/video-stitching) | [视频拼接  ](https://leetcode-cn.com/problems/video-stitching) |
-| 1025  | [除数博弈  ](https://leetcode-cn.com/problems/divisor-game)  | [除数博弈  ](https://leetcode-cn.com/problems/divisor-game)  |
-| 1026  | [节点与其祖先之间的最大差值  ](https://leetcode-cn.com/problems/maximum-difference-between-node-and-ancestor) | [节点与其祖先之间的最大差值  ](https://leetcode-cn.com/problems/maximum-difference-between-node-and-ancestor) |
-| 1027  | [最长等差数列  ](https://leetcode-cn.com/problems/longest-arithmetic-sequence) | [最长等差数列  ](https://leetcode-cn.com/problems/longest-arithmetic-sequence) |
-| 1028  | [从先序遍历还原二叉树  ](https://leetcode-cn.com/problems/recover-a-tree-from-preorder-traversal) | [从先序遍历还原二叉树  ](https://leetcode-cn.com/problems/recover-a-tree-from-preorder-traversal) |
-| 1029  | [两地调度  ](https://leetcode-cn.com/problems/two-city-scheduling) | [两地调度  ](https://leetcode-cn.com/problems/two-city-scheduling) |
-| 1030  | [距离顺序排列矩阵单元格  ](https://leetcode-cn.com/problems/matrix-cells-in-distance-order) | [距离顺序排列矩阵单元格  ](https://leetcode-cn.com/problems/matrix-cells-in-distance-order) |
-| 1031  | [两个非重叠子数组的最大和  ](https://leetcode-cn.com/problems/maximum-sum-of-two-non-overlapping-subarrays) | [两个非重叠子数组的最大和  ](https://leetcode-cn.com/problems/maximum-sum-of-two-non-overlapping-subarrays) |
-| 1032  | [字符流  ](https://leetcode-cn.com/problems/stream-of-characters) | [字符流  ](https://leetcode-cn.com/problems/stream-of-characters) |
-| 1033  | [移动石子直到连续  ](https://leetcode-cn.com/problems/moving-stones-until-consecutive) | [移动石子直到连续  ](https://leetcode-cn.com/problems/moving-stones-until-consecutive) |
-| 1034  | [边框着色  ](https://leetcode-cn.com/problems/coloring-a-border) | [边框着色  ](https://leetcode-cn.com/problems/coloring-a-border) |
-| 1035  | [不相交的线  ](https://leetcode-cn.com/problems/uncrossed-lines) | [不相交的线  ](https://leetcode-cn.com/problems/uncrossed-lines) |
-| 1036  | [逃离大迷宫  ](https://leetcode-cn.com/problems/escape-a-large-maze) | [逃离大迷宫  ](https://leetcode-cn.com/problems/escape-a-large-maze) |
-| 1037  | [有效的回旋镖  ](https://leetcode-cn.com/problems/valid-boomerang) | [有效的回旋镖  ](https://leetcode-cn.com/problems/valid-boomerang) |
-| 1038  | [从二叉搜索树到更大和树  ](https://leetcode-cn.com/problems/binary-search-tree-to-greater-sum-tree) | [从二叉搜索树到更大和树  ](https://leetcode-cn.com/problems/binary-search-tree-to-greater-sum-tree) |
-| 1039  | [多边形三角剖分的最低得分  ](https://leetcode-cn.com/problems/minimum-score-triangulation-of-polygon) | [多边形三角剖分的最低得分  ](https://leetcode-cn.com/problems/minimum-score-triangulation-of-polygon) |
-| 1040  | [移动石子直到连续   II  ](https://leetcode-cn.com/problems/moving-stones-until-consecutive-ii) | [移动石子直到连续 II  ](https://leetcode-cn.com/problems/moving-stones-until-consecutive-ii) |
-| 1041  | [困于环中的机器人  ](https://leetcode-cn.com/problems/robot-bounded-in-circle) | [困于环中的机器人  ](https://leetcode-cn.com/problems/robot-bounded-in-circle) |
-| 1042  | [不邻接植花  ](https://leetcode-cn.com/problems/flower-planting-with-no-adjacent) | [不邻接植花  ](https://leetcode-cn.com/problems/flower-planting-with-no-adjacent) |
-| 1043  | [分隔数组以得到最大和  ](https://leetcode-cn.com/problems/partition-array-for-maximum-sum) | [分隔数组以得到最大和  ](https://leetcode-cn.com/problems/partition-array-for-maximum-sum) |
-| 1044  | [最长重复子串  ](https://leetcode-cn.com/problems/longest-duplicate-substring) | [最长重复子串  ](https://leetcode-cn.com/problems/longest-duplicate-substring) |
-| 1045  | [买下所有产品的客户  ](https://leetcode-cn.com/problems/customers-who-bought-all-products) | [买下所有产品的客户  ](https://leetcode-cn.com/problems/customers-who-bought-all-products) |
-| 1046  | [最后一块石头的重量  ](https://leetcode-cn.com/problems/last-stone-weight) | [最后一块石头的重量  ](https://leetcode-cn.com/problems/last-stone-weight) |
-| 1047  | [删除字符串中的所有相邻重复项  ](https://leetcode-cn.com/problems/remove-all-adjacent-duplicates-in-string) | [删除字符串中的所有相邻重复项  ](https://leetcode-cn.com/problems/remove-all-adjacent-duplicates-in-string) |
-| 1048  | [最长字符串链  ](https://leetcode-cn.com/problems/longest-string-chain) | [最长字符串链  ](https://leetcode-cn.com/problems/longest-string-chain) |
-| 1049  | [最后一块石头的重量 II  ](https://leetcode-cn.com/problems/last-stone-weight-ii) | [最后一块石头的重量 II  ](https://leetcode-cn.com/problems/last-stone-weight-ii) |
-| 1050  | [合作过至少三次的演员和导演  ](https://leetcode-cn.com/problems/actors-and-directors-who-cooperated-at-least-three-times) | [合作过至少三次的演员和导演  ](https://leetcode-cn.com/problems/actors-and-directors-who-cooperated-at-least-three-times) |
-| 1051  | [高度检查器  ](https://leetcode-cn.com/problems/height-checker) | [高度检查器  ](https://leetcode-cn.com/problems/height-checker) |
-| 1052  | [爱生气的书店老板  ](https://leetcode-cn.com/problems/grumpy-bookstore-owner) | [爱生气的书店老板  ](https://leetcode-cn.com/problems/grumpy-bookstore-owner) |
-| 1053  | [交换一次的先前排列  ](https://leetcode-cn.com/problems/previous-permutation-with-one-swap) | [交换一次的先前排列  ](https://leetcode-cn.com/problems/previous-permutation-with-one-swap) |
-| 1054  | [距离相等的条形码  ](https://leetcode-cn.com/problems/distant-barcodes) | [距离相等的条形码  ](https://leetcode-cn.com/problems/distant-barcodes) |
-| 1055  | [形成字符串的最短路径  ](https://leetcode-cn.com/problems/shortest-way-to-form-string) | [形成字符串的最短路径  ](https://leetcode-cn.com/problems/shortest-way-to-form-string) |
-| 1056  | [易混淆数  ](https://leetcode-cn.com/problems/confusing-number) | [易混淆数  ](https://leetcode-cn.com/problems/confusing-number) |
-| 1057  | [校园自行车分配  ](https://leetcode-cn.com/problems/campus-bikes) | [校园自行车分配  ](https://leetcode-cn.com/problems/campus-bikes) |
-| 1058  | [最小化舍入误差以满足目标  ](https://leetcode-cn.com/problems/minimize-rounding-error-to-meet-target) | [最小化舍入误差以满足目标  ](https://leetcode-cn.com/problems/minimize-rounding-error-to-meet-target) |
-| 1059  | [从始点到终点的所有路径  ](https://leetcode-cn.com/problems/all-paths-from-source-lead-to-destination) | [从始点到终点的所有路径  ](https://leetcode-cn.com/problems/all-paths-from-source-lead-to-destination) |
-| 1060  | [有序数组中的缺失元素  ](https://leetcode-cn.com/problems/missing-element-in-sorted-array) | [有序数组中的缺失元素  ](https://leetcode-cn.com/problems/missing-element-in-sorted-array) |
-| 1061  | [按字典序排列最小的等效字符串  ](https://leetcode-cn.com/problems/lexicographically-smallest-equivalent-string) | [按字典序排列最小的等效字符串  ](https://leetcode-cn.com/problems/lexicographically-smallest-equivalent-string) |
-| 1062  | [最长重复子串  ](https://leetcode-cn.com/problems/longest-repeating-substring) | [最长重复子串  ](https://leetcode-cn.com/problems/longest-repeating-substring) |
-| 1063  | [有效子数组的数目  ](https://leetcode-cn.com/problems/number-of-valid-subarrays) | [有效子数组的数目  ](https://leetcode-cn.com/problems/number-of-valid-subarrays) |
-| 1064  | [不动点  ](https://leetcode-cn.com/problems/fixed-point)     | [不动点  ](https://leetcode-cn.com/problems/fixed-point)     |
-| 1065  | [字符串的索引对  ](https://leetcode-cn.com/problems/index-pairs-of-a-string) | [字符串的索引对  ](https://leetcode-cn.com/problems/index-pairs-of-a-string) |
-| 1066  | [校园自行车分配 II  ](https://leetcode-cn.com/problems/campus-bikes-ii) | [校园自行车分配   II  ](https://leetcode-cn.com/problems/campus-bikes-ii) |
-| 1067  | [范围内的数字计数  ](https://leetcode-cn.com/problems/digit-count-in-range) | [范围内的数字计数  ](https://leetcode-cn.com/problems/digit-count-in-range) |
-| 1068  | [产品销售分析 I  ](https://leetcode-cn.com/problems/product-sales-analysis-i) | [产品销售分析 I  ](https://leetcode-cn.com/problems/product-sales-analysis-i) |
-| 1069  | [产品销售分析 II  ](https://leetcode-cn.com/problems/product-sales-analysis-ii) | [产品销售分析 II  ](https://leetcode-cn.com/problems/product-sales-analysis-ii) |
-| 1070  | [产品销售分析 III  ](https://leetcode-cn.com/problems/product-sales-analysis-iii) | [产品销售分析 III  ](https://leetcode-cn.com/problems/product-sales-analysis-iii) |
-| 1071  | [字符串的最大公因子  ](https://leetcode-cn.com/problems/greatest-common-divisor-of-strings) | [字符串的最大公因子  ](https://leetcode-cn.com/problems/greatest-common-divisor-of-strings) |
-| 1072  | [按列翻转得到最大值等行数  ](https://leetcode-cn.com/problems/flip-columns-for-maximum-number-of-equal-rows) | [按列翻转得到最大值等行数  ](https://leetcode-cn.com/problems/flip-columns-for-maximum-number-of-equal-rows) |
-| 1073  | [负二进制数相加  ](https://leetcode-cn.com/problems/adding-two-negabinary-numbers) | [负二进制数相加  ](https://leetcode-cn.com/problems/adding-two-negabinary-numbers) |
-| 1074  | [元素和为目标值的子矩阵数量  ](https://leetcode-cn.com/problems/number-of-submatrices-that-sum-to-target) | [元素和为目标值的子矩阵数量  ](https://leetcode-cn.com/problems/number-of-submatrices-that-sum-to-target) |
-| 1075  | [项目员工 I  ](https://leetcode-cn.com/problems/project-employees-i) | [项目员工   I  ](https://leetcode-cn.com/problems/project-employees-i) |
-| 1076  | [项目员工II  ](https://leetcode-cn.com/problems/project-employees-ii) | [项目员工II  ](https://leetcode-cn.com/problems/project-employees-ii) |
-| 1077  | [项目员工 III  ](https://leetcode-cn.com/problems/project-employees-iii) | [项目员工 III  ](https://leetcode-cn.com/problems/project-employees-iii) |
-| 1078  | [Bigram 分词  ](https://leetcode-cn.com/problems/occurrences-after-bigram) | [Bigram 分词  ](https://leetcode-cn.com/problems/occurrences-after-bigram) |
-| 1079  | [活字印刷  ](https://leetcode-cn.com/problems/letter-tile-possibilities) | [活字印刷  ](https://leetcode-cn.com/problems/letter-tile-possibilities) |
-| 1080  | [根到叶路径上的不足节点  ](https://leetcode-cn.com/problems/insufficient-nodes-in-root-to-leaf-paths) | [根到叶路径上的不足节点  ](https://leetcode-cn.com/problems/insufficient-nodes-in-root-to-leaf-paths) |
-| 1081  | [不同字符的最小子序列  ](https://leetcode-cn.com/problems/smallest-subsequence-of-distinct-characters) | [不同字符的最小子序列  ](https://leetcode-cn.com/problems/smallest-subsequence-of-distinct-characters) |
-| 1082  | [销售分析 I  ](https://leetcode-cn.com/problems/sales-analysis-i) | [销售分析   I  ](https://leetcode-cn.com/problems/sales-analysis-i) |
-| 1083  | [销售分析 II  ](https://leetcode-cn.com/problems/sales-analysis-ii) | [销售分析   II  ](https://leetcode-cn.com/problems/sales-analysis-ii) |
-| 1084  | [销售分析III  ](https://leetcode-cn.com/problems/sales-analysis-iii) | [销售分析III  ](https://leetcode-cn.com/problems/sales-analysis-iii) |
-| 1085  | [最小元素各数位之和  ](https://leetcode-cn.com/problems/sum-of-digits-in-the-minimum-number) | [最小元素各数位之和  ](https://leetcode-cn.com/problems/sum-of-digits-in-the-minimum-number) |
-| 1086  | [前五科的均分  ](https://leetcode-cn.com/problems/high-five) | [前五科的均分  ](https://leetcode-cn.com/problems/high-five) |
-| 1087  | [字母切换  ](https://leetcode-cn.com/problems/brace-expansion) | [字母切换  ](https://leetcode-cn.com/problems/brace-expansion) |
-| 1088  | [易混淆数 II  ](https://leetcode-cn.com/problems/confusing-number-ii) | [易混淆数   II  ](https://leetcode-cn.com/problems/confusing-number-ii) |
-| 1089  | [复写零  ](https://leetcode-cn.com/problems/duplicate-zeros) | [复写零  ](https://leetcode-cn.com/problems/duplicate-zeros) |
-| 1090  | [受标签影响的最大值  ](https://leetcode-cn.com/problems/largest-values-from-labels) | [受标签影响的最大值  ](https://leetcode-cn.com/problems/largest-values-from-labels) |
-| 1091  | [二进制矩阵中的最短路径  ](https://leetcode-cn.com/problems/shortest-path-in-binary-matrix) | [二进制矩阵中的最短路径  ](https://leetcode-cn.com/problems/shortest-path-in-binary-matrix) |
-| 1092  | [最短公共超序列  ](https://leetcode-cn.com/problems/shortest-common-supersequence) | [最短公共超序列  ](https://leetcode-cn.com/problems/shortest-common-supersequence) |
-| 1093  | [大样本统计  ](https://leetcode-cn.com/problems/statistics-from-a-large-sample) | [大样本统计  ](https://leetcode-cn.com/problems/statistics-from-a-large-sample) |
-| 1094  | [拼车  ](https://leetcode-cn.com/problems/car-pooling)       | [拼车  ](https://leetcode-cn.com/problems/car-pooling)       |
-| 1095  | [山脉数组中查找目标值  ](https://leetcode-cn.com/problems/find-in-mountain-array) | [山脉数组中查找目标值  ](https://leetcode-cn.com/problems/find-in-mountain-array) |
-| 1096  | [花括号展开 II  ](https://leetcode-cn.com/problems/brace-expansion-ii) | [花括号展开   II  ](https://leetcode-cn.com/problems/brace-expansion-ii) |
-| 1097  | [游戏玩法分析 V  ](https://leetcode-cn.com/problems/game-play-analysis-v) | [游戏玩法分析 V  ](https://leetcode-cn.com/problems/game-play-analysis-v) |
-| 1098  | [小众书籍  ](https://leetcode-cn.com/problems/unpopular-books) | [小众书籍  ](https://leetcode-cn.com/problems/unpopular-books) |
-| 1099  | [小于 K 的两数之和  ](https://leetcode-cn.com/problems/two-sum-less-than-k) | [小于   K 的两数之和  ](https://leetcode-cn.com/problems/two-sum-less-than-k) |
-| 1100  | [长度为   K 的无重复字符子串  ](https://leetcode-cn.com/problems/find-k-length-substrings-with-no-repeated-characters) | [长度为 K 的无重复字符子串  ](https://leetcode-cn.com/problems/find-k-length-substrings-with-no-repeated-characters) |
-| 1101  | [彼此熟识的最早时间  ](https://leetcode-cn.com/problems/the-earliest-moment-when-everyone-become-friends) | [彼此熟识的最早时间  ](https://leetcode-cn.com/problems/the-earliest-moment-when-everyone-become-friends) |
-| 1102  | [得分最高的路径  ](https://leetcode-cn.com/problems/path-with-maximum-minimum-value) | [得分最高的路径  ](https://leetcode-cn.com/problems/path-with-maximum-minimum-value) |
-| 1103  | [分糖果 II  ](https://leetcode-cn.com/problems/distribute-candies-to-people) | [分糖果 II  ](https://leetcode-cn.com/problems/distribute-candies-to-people) |
-| 1104  | [二叉树寻路  ](https://leetcode-cn.com/problems/path-in-zigzag-labelled-binary-tree) | [二叉树寻路  ](https://leetcode-cn.com/problems/path-in-zigzag-labelled-binary-tree) |
-| 1105  | [填充书架  ](https://leetcode-cn.com/problems/filling-bookcase-shelves) | [填充书架  ](https://leetcode-cn.com/problems/filling-bookcase-shelves) |
-| 1106  | [解析布尔表达式  ](https://leetcode-cn.com/problems/parsing-a-boolean-expression) | [解析布尔表达式  ](https://leetcode-cn.com/problems/parsing-a-boolean-expression) |
-| 1107  | [每日新用户统计  ](https://leetcode-cn.com/problems/new-users-daily-count) | [每日新用户统计  ](https://leetcode-cn.com/problems/new-users-daily-count) |
-| 1108  | [IP 地址无效化  ](https://leetcode-cn.com/problems/defanging-an-ip-address) | [IP 地址无效化  ](https://leetcode-cn.com/problems/defanging-an-ip-address) |
-| 1109  | [航班预订统计  ](https://leetcode-cn.com/problems/corporate-flight-bookings) | [航班预订统计  ](https://leetcode-cn.com/problems/corporate-flight-bookings) |
-| 1110  | [删点成林  ](https://leetcode-cn.com/problems/delete-nodes-and-return-forest) | [删点成林  ](https://leetcode-cn.com/problems/delete-nodes-and-return-forest) |
-| 1111  | [有效括号的嵌套深度  ](https://leetcode-cn.com/problems/maximum-nesting-depth-of-two-valid-parentheses-strings) | [有效括号的嵌套深度  ](https://leetcode-cn.com/problems/maximum-nesting-depth-of-two-valid-parentheses-strings) |
-| 1112  | [每位学生的最高成绩  ](https://leetcode-cn.com/problems/highest-grade-for-each-student) | [每位学生的最高成绩  ](https://leetcode-cn.com/problems/highest-grade-for-each-student) |
-| 1113  | [报告的记录  ](https://leetcode-cn.com/problems/reported-posts) | [报告的记录  ](https://leetcode-cn.com/problems/reported-posts) |
-| 1114  | [按序打印  ](https://leetcode-cn.com/problems/print-in-order) | [按序打印  ](https://leetcode-cn.com/problems/print-in-order) |
-| 1115  | [交替打印FooBar  ](https://leetcode-cn.com/problems/print-foobar-alternately) | [交替打印FooBar  ](https://leetcode-cn.com/problems/print-foobar-alternately) |
-| 1116  | [打印零与奇偶数  ](https://leetcode-cn.com/problems/print-zero-even-odd) | [打印零与奇偶数  ](https://leetcode-cn.com/problems/print-zero-even-odd) |
-| 1117  | [H2O 生成  ](https://leetcode-cn.com/problems/building-h2o)  | [H2O   生成  ](https://leetcode-cn.com/problems/building-h2o) |
-| 1118  | [一月有多少天  ](https://leetcode-cn.com/problems/number-of-days-in-a-month) | [一月有多少天  ](https://leetcode-cn.com/problems/number-of-days-in-a-month) |
-| 1119  | [删去字符串中的元音  ](https://leetcode-cn.com/problems/remove-vowels-from-a-string) | [删去字符串中的元音  ](https://leetcode-cn.com/problems/remove-vowels-from-a-string) |
-| 1120  | [子树的最大平均值  ](https://leetcode-cn.com/problems/maximum-average-subtree) | [子树的最大平均值  ](https://leetcode-cn.com/problems/maximum-average-subtree) |
-| 1121  | [将数组分成几个递增序列  ](https://leetcode-cn.com/problems/divide-array-into-increasing-sequences) | [将数组分成几个递增序列  ](https://leetcode-cn.com/problems/divide-array-into-increasing-sequences) |
-| 1122  | [数组的相对排序  ](https://leetcode-cn.com/problems/relative-sort-array) | [数组的相对排序  ](https://leetcode-cn.com/problems/relative-sort-array) |
-| 1123  | [最深叶节点的最近公共祖先  ](https://leetcode-cn.com/problems/lowest-common-ancestor-of-deepest-leaves) | [最深叶节点的最近公共祖先  ](https://leetcode-cn.com/problems/lowest-common-ancestor-of-deepest-leaves) |
-| 1124  | [表现良好的最长时间段  ](https://leetcode-cn.com/problems/longest-well-performing-interval) | [表现良好的最长时间段  ](https://leetcode-cn.com/problems/longest-well-performing-interval) |
-| 1125  | [最小的必要团队  ](https://leetcode-cn.com/problems/smallest-sufficient-team) | [最小的必要团队  ](https://leetcode-cn.com/problems/smallest-sufficient-team) |
-| 1126  | [查询活跃业务  ](https://leetcode-cn.com/problems/active-businesses) | [查询活跃业务  ](https://leetcode-cn.com/problems/active-businesses) |
-| 1127  | [用户购买平台  ](https://leetcode-cn.com/problems/user-purchase-platform) | [用户购买平台  ](https://leetcode-cn.com/problems/user-purchase-platform) |
-| 1128  | [等价多米诺骨牌对的数量  ](https://leetcode-cn.com/problems/number-of-equivalent-domino-pairs) | [等价多米诺骨牌对的数量  ](https://leetcode-cn.com/problems/number-of-equivalent-domino-pairs) |
-| 1129  | [颜色交替的最短路径  ](https://leetcode-cn.com/problems/shortest-path-with-alternating-colors) | [颜色交替的最短路径  ](https://leetcode-cn.com/problems/shortest-path-with-alternating-colors) |
-| 1130  | [叶值的最小代价生成树  ](https://leetcode-cn.com/problems/minimum-cost-tree-from-leaf-values) | [叶值的最小代价生成树  ](https://leetcode-cn.com/problems/minimum-cost-tree-from-leaf-values) |
-| 1131  | [绝对值表达式的最大值  ](https://leetcode-cn.com/problems/maximum-of-absolute-value-expression) | [绝对值表达式的最大值  ](https://leetcode-cn.com/problems/maximum-of-absolute-value-expression) |
-| 1132  | [报告的记录 II  ](https://leetcode-cn.com/problems/reported-posts-ii) | [报告的记录   II  ](https://leetcode-cn.com/problems/reported-posts-ii) |
-| 1133  | [最大唯一数  ](https://leetcode-cn.com/problems/largest-unique-number) | [最大唯一数  ](https://leetcode-cn.com/problems/largest-unique-number) |
-| 1134  | [阿姆斯特朗数  ](https://leetcode-cn.com/problems/armstrong-number) | [阿姆斯特朗数  ](https://leetcode-cn.com/problems/armstrong-number) |
-| 1135  | [最低成本联通所有城市  ](https://leetcode-cn.com/problems/connecting-cities-with-minimum-cost) | [最低成本联通所有城市  ](https://leetcode-cn.com/problems/connecting-cities-with-minimum-cost) |
-| 1136  | [平行课程  ](https://leetcode-cn.com/problems/parallel-courses) | [平行课程  ](https://leetcode-cn.com/problems/parallel-courses) |
-| 1137  | [第 N 个泰波那契数  ](https://leetcode-cn.com/problems/n-th-tribonacci-number) | [第 N 个泰波那契数  ](https://leetcode-cn.com/problems/n-th-tribonacci-number) |
-| 1138  | [字母板上的路径  ](https://leetcode-cn.com/problems/alphabet-board-path) | [字母板上的路径  ](https://leetcode-cn.com/problems/alphabet-board-path) |
-| 1139  | [最大的以 1   为边界的正方形  ](https://leetcode-cn.com/problems/largest-1-bordered-square) | [最大的以 1 为边界的正方形  ](https://leetcode-cn.com/problems/largest-1-bordered-square) |
-| 1140  | [石子游戏 II  ](https://leetcode-cn.com/problems/stone-game-ii) | [石子游戏   II  ](https://leetcode-cn.com/problems/stone-game-ii) |
-| 1141  | [查询近30天活跃用户数  ](https://leetcode-cn.com/problems/user-activity-for-the-past-30-days-i) | [查询近30天活跃用户数  ](https://leetcode-cn.com/problems/user-activity-for-the-past-30-days-i) |
-| 1142  | [过去30天的用户活动   II  ](https://leetcode-cn.com/problems/user-activity-for-the-past-30-days-ii) | [过去30天的用户活动 II  ](https://leetcode-cn.com/problems/user-activity-for-the-past-30-days-ii) |
-| 1143  | [最长公共子序列  ](https://leetcode-cn.com/problems/longest-common-subsequence) | [最长公共子序列  ](https://leetcode-cn.com/problems/longest-common-subsequence) |
-| 1144  | [递减元素使数组呈锯齿状  ](https://leetcode-cn.com/problems/decrease-elements-to-make-array-zigzag) | [递减元素使数组呈锯齿状  ](https://leetcode-cn.com/problems/decrease-elements-to-make-array-zigzag) |
-| 1145  | [二叉树着色游戏  ](https://leetcode-cn.com/problems/binary-tree-coloring-game) | [二叉树着色游戏  ](https://leetcode-cn.com/problems/binary-tree-coloring-game) |
-| 1146  | [快照数组  ](https://leetcode-cn.com/problems/snapshot-array) | [快照数组  ](https://leetcode-cn.com/problems/snapshot-array) |
-| 1147  | [段式回文  ](https://leetcode-cn.com/problems/longest-chunked-palindrome-decomposition) | [段式回文  ](https://leetcode-cn.com/problems/longest-chunked-palindrome-decomposition) |
-| 1148  | [文章浏览 I  ](https://leetcode-cn.com/problems/article-views-i) | [文章浏览   I  ](https://leetcode-cn.com/problems/article-views-i) |
-| 1149  | [文章浏览 II  ](https://leetcode-cn.com/problems/article-views-ii) | [文章浏览   II  ](https://leetcode-cn.com/problems/article-views-ii) |
-| 1150  | [检查一个数是否在数组中占绝大多数  ](https://leetcode-cn.com/problems/check-if-a-number-is-majority-element-in-a-sorted-array) | [检查一个数是否在数组中占绝大多数  ](https://leetcode-cn.com/problems/check-if-a-number-is-majority-element-in-a-sorted-array) |
-| 1151  | [最少交换次数来组合所有的   1  ](https://leetcode-cn.com/problems/minimum-swaps-to-group-all-1s-together) | [最少交换次数来组合所有的 1  ](https://leetcode-cn.com/problems/minimum-swaps-to-group-all-1s-together) |
-| 1152  | [用户网站访问行为分析  ](https://leetcode-cn.com/problems/analyze-user-website-visit-pattern) | [用户网站访问行为分析  ](https://leetcode-cn.com/problems/analyze-user-website-visit-pattern) |
-| 1153  | [字符串转化  ](https://leetcode-cn.com/problems/string-transforms-into-another-string) | [字符串转化  ](https://leetcode-cn.com/problems/string-transforms-into-another-string) |
-| 1154  | [一年中的第几天  ](https://leetcode-cn.com/problems/day-of-the-year) | [一年中的第几天  ](https://leetcode-cn.com/problems/day-of-the-year) |
-| 1155  | [掷骰子的N种方法  ](https://leetcode-cn.com/problems/number-of-dice-rolls-with-target-sum) | [掷骰子的N种方法  ](https://leetcode-cn.com/problems/number-of-dice-rolls-with-target-sum) |
-| 1156  | [单字符重复子串的最大长度  ](https://leetcode-cn.com/problems/swap-for-longest-repeated-character-substring) | [单字符重复子串的最大长度  ](https://leetcode-cn.com/problems/swap-for-longest-repeated-character-substring) |
-| 1157  | [子数组中占绝大多数的元素  ](https://leetcode-cn.com/problems/online-majority-element-in-subarray) | [子数组中占绝大多数的元素  ](https://leetcode-cn.com/problems/online-majority-element-in-subarray) |
-| 1158  | [市场分析 I  ](https://leetcode-cn.com/problems/market-analysis-i) | [市场分析   I  ](https://leetcode-cn.com/problems/market-analysis-i) |
-| 1159  | [Market Analysis II  ](https://leetcode-cn.com/problems/market-analysis-ii) | [Market   Analysis II  ](https://leetcode-cn.com/problems/market-analysis-ii) |
-| 1160  | [拼写单词  ](https://leetcode-cn.com/problems/find-words-that-can-be-formed-by-characters) | [拼写单词  ](https://leetcode-cn.com/problems/find-words-that-can-be-formed-by-characters) |
-| 1161  | [最大层内元素和  ](https://leetcode-cn.com/problems/maximum-level-sum-of-a-binary-tree) | [最大层内元素和  ](https://leetcode-cn.com/problems/maximum-level-sum-of-a-binary-tree) |
-| 1162  | [地图分析  ](https://leetcode-cn.com/problems/as-far-from-land-as-possible) | [地图分析  ](https://leetcode-cn.com/problems/as-far-from-land-as-possible) |
-| 1163  | [按字典序排在最后的子串  ](https://leetcode-cn.com/problems/last-substring-in-lexicographical-order) | [按字典序排在最后的子串  ](https://leetcode-cn.com/problems/last-substring-in-lexicographical-order) |
-| 1164  | [指定日期的产品价格  ](https://leetcode-cn.com/problems/product-price-at-a-given-date) | [指定日期的产品价格  ](https://leetcode-cn.com/problems/product-price-at-a-given-date) |
-| 1165  | [单行键盘  ](https://leetcode-cn.com/problems/single-row-keyboard) | [单行键盘  ](https://leetcode-cn.com/problems/single-row-keyboard) |
-| 1166  | [设计文件系统  ](https://leetcode-cn.com/problems/design-file-system) | [设计文件系统  ](https://leetcode-cn.com/problems/design-file-system) |
-| 1167  | [连接棒材的最低费用  ](https://leetcode-cn.com/problems/minimum-cost-to-connect-sticks) | [连接棒材的最低费用  ](https://leetcode-cn.com/problems/minimum-cost-to-connect-sticks) |
-| 1168  | [水资源分配优化  ](https://leetcode-cn.com/problems/optimize-water-distribution-in-a-village) | [水资源分配优化  ](https://leetcode-cn.com/problems/optimize-water-distribution-in-a-village) |
-| 1169  | [查询无效交易  ](https://leetcode-cn.com/problems/invalid-transactions) | [查询无效交易  ](https://leetcode-cn.com/problems/invalid-transactions) |
-| 1170  | [比较字符串最小字母出现频次  ](https://leetcode-cn.com/problems/compare-strings-by-frequency-of-the-smallest-character) | [比较字符串最小字母出现频次  ](https://leetcode-cn.com/problems/compare-strings-by-frequency-of-the-smallest-character) |
-| 1171  | [从链表中删去总和值为零的连续节点  ](https://leetcode-cn.com/problems/remove-zero-sum-consecutive-nodes-from-linked-list) | [从链表中删去总和值为零的连续节点  ](https://leetcode-cn.com/problems/remove-zero-sum-consecutive-nodes-from-linked-list) |
-| 1172  | [餐盘栈  ](https://leetcode-cn.com/problems/dinner-plate-stacks) | [餐盘栈  ](https://leetcode-cn.com/problems/dinner-plate-stacks) |
-| 1173  | [即时食物配送 I  ](https://leetcode-cn.com/problems/immediate-food-delivery-i) | [即时食物配送 I  ](https://leetcode-cn.com/problems/immediate-food-delivery-i) |
-| 1174  | [即时食物配送 II  ](https://leetcode-cn.com/problems/immediate-food-delivery-ii) | [即时食物配送 II  ](https://leetcode-cn.com/problems/immediate-food-delivery-ii) |
-| 1175  | [质数排列  ](https://leetcode-cn.com/problems/prime-arrangements) | [质数排列  ](https://leetcode-cn.com/problems/prime-arrangements) |
-| 1176  | [健身计划评估  ](https://leetcode-cn.com/problems/diet-plan-performance) | [健身计划评估  ](https://leetcode-cn.com/problems/diet-plan-performance) |
-| 1177  | [构建回文串检测  ](https://leetcode-cn.com/problems/can-make-palindrome-from-substring) | [构建回文串检测  ](https://leetcode-cn.com/problems/can-make-palindrome-from-substring) |
-| 1178  | [猜字谜  ](https://leetcode-cn.com/problems/number-of-valid-words-for-each-puzzle) | [猜字谜  ](https://leetcode-cn.com/problems/number-of-valid-words-for-each-puzzle) |
-| 1179  | [重新格式化部门表  ](https://leetcode-cn.com/problems/reformat-department-table) | [重新格式化部门表  ](https://leetcode-cn.com/problems/reformat-department-table) |
-| 1180  | [统计只含单一字母的子串  ](https://leetcode-cn.com/problems/count-substrings-with-only-one-distinct-letter) | [统计只含单一字母的子串  ](https://leetcode-cn.com/problems/count-substrings-with-only-one-distinct-letter) |
-| 1181  | [前后拼接  ](https://leetcode-cn.com/problems/before-and-after-puzzle) | [前后拼接  ](https://leetcode-cn.com/problems/before-and-after-puzzle) |
-| 1182  | [与目标颜色间的最短距离  ](https://leetcode-cn.com/problems/shortest-distance-to-target-color) | [与目标颜色间的最短距离  ](https://leetcode-cn.com/problems/shortest-distance-to-target-color) |
-| 1183  | [矩阵中 1 的最大数量  ](https://leetcode-cn.com/problems/maximum-number-of-ones) | [矩阵中 1 的最大数量  ](https://leetcode-cn.com/problems/maximum-number-of-ones) |
-| 1184  | [公交站间的距离  ](https://leetcode-cn.com/problems/distance-between-bus-stops) | [公交站间的距离  ](https://leetcode-cn.com/problems/distance-between-bus-stops) |
-| 1185  | [一周中的第几天  ](https://leetcode-cn.com/problems/day-of-the-week) | [一周中的第几天  ](https://leetcode-cn.com/problems/day-of-the-week) |
-| 1186  | [删除一次得到子数组最大和  ](https://leetcode-cn.com/problems/maximum-subarray-sum-with-one-deletion) | [删除一次得到子数组最大和  ](https://leetcode-cn.com/problems/maximum-subarray-sum-with-one-deletion) |
-| 1187  | [使数组严格递增  ](https://leetcode-cn.com/problems/make-array-strictly-increasing) | [使数组严格递增  ](https://leetcode-cn.com/problems/make-array-strictly-increasing) |
-| 1188  | [设计有限阻塞队列  ](https://leetcode-cn.com/problems/design-bounded-blocking-queue) | [设计有限阻塞队列  ](https://leetcode-cn.com/problems/design-bounded-blocking-queue) |
-| 1189  | [“气球” 的最大数量  ](https://leetcode-cn.com/problems/maximum-number-of-balloons) | [“气球” 的最大数量  ](https://leetcode-cn.com/problems/maximum-number-of-balloons) |
-| 1190  | [反转每对括号间的子串  ](https://leetcode-cn.com/problems/reverse-substrings-between-each-pair-of-parentheses) | [反转每对括号间的子串  ](https://leetcode-cn.com/problems/reverse-substrings-between-each-pair-of-parentheses) |
-| 1191  | [K   次串联后最大子数组之和  ](https://leetcode-cn.com/problems/k-concatenation-maximum-sum) | [K 次串联后最大子数组之和  ](https://leetcode-cn.com/problems/k-concatenation-maximum-sum) |
-| 1192  | [查找集群内的「关键连接」  ](https://leetcode-cn.com/problems/critical-connections-in-a-network) | [查找集群内的「关键连接」  ](https://leetcode-cn.com/problems/critical-connections-in-a-network) |
-| 1193  | [每月交易 I  ](https://leetcode-cn.com/problems/monthly-transactions-i) | [每月交易 I  ](https://leetcode-cn.com/problems/monthly-transactions-i) |
-| 1194  | [锦标赛优胜者  ](https://leetcode-cn.com/problems/tournament-winners) | [锦标赛优胜者  ](https://leetcode-cn.com/problems/tournament-winners) |
-| 1195  | [交替打印字符串  ](https://leetcode-cn.com/problems/fizz-buzz-multithreaded) | [交替打印字符串  ](https://leetcode-cn.com/problems/fizz-buzz-multithreaded) |
-| 1196  | [最多可以买到的苹果数量  ](https://leetcode-cn.com/problems/how-many-apples-can-you-put-into-the-basket) | [最多可以买到的苹果数量  ](https://leetcode-cn.com/problems/how-many-apples-can-you-put-into-the-basket) |
-| 1197  | [进击的骑士  ](https://leetcode-cn.com/problems/minimum-knight-moves) | [进击的骑士  ](https://leetcode-cn.com/problems/minimum-knight-moves) |
-| 1198  | [找出所有行中最小公共元素  ](https://leetcode-cn.com/problems/find-smallest-common-element-in-all-rows) | [找出所有行中最小公共元素  ](https://leetcode-cn.com/problems/find-smallest-common-element-in-all-rows) |
-| 1199  | [建造街区的最短时间  ](https://leetcode-cn.com/problems/minimum-time-to-build-blocks) | [建造街区的最短时间  ](https://leetcode-cn.com/problems/minimum-time-to-build-blocks) |
-| 1200  | [最小绝对差  ](https://leetcode-cn.com/problems/minimum-absolute-difference) | [最小绝对差  ](https://leetcode-cn.com/problems/minimum-absolute-difference) |
-| 1201  | [丑数 III  ](https://leetcode-cn.com/problems/ugly-number-iii) | [丑数   III  ](https://leetcode-cn.com/problems/ugly-number-iii) |
-| 1202  | [交换字符串中的元素  ](https://leetcode-cn.com/problems/smallest-string-with-swaps) | [交换字符串中的元素  ](https://leetcode-cn.com/problems/smallest-string-with-swaps) |
-| 1203  | [项目管理  ](https://leetcode-cn.com/problems/sort-items-by-groups-respecting-dependencies) | [项目管理  ](https://leetcode-cn.com/problems/sort-items-by-groups-respecting-dependencies) |
-| 1204  | [Last   Person to Fit in the Elevator  ](https://leetcode-cn.com/problems/last-person-to-fit-in-the-elevator) | [Last Person to Fit in the Elevator  ](https://leetcode-cn.com/problems/last-person-to-fit-in-the-elevator) |
-| 1205  | [每月交易II  ](https://leetcode-cn.com/problems/monthly-transactions-ii) | [每月交易II  ](https://leetcode-cn.com/problems/monthly-transactions-ii) |
-| 1206  | [设计跳表  ](https://leetcode-cn.com/problems/design-skiplist) | [设计跳表  ](https://leetcode-cn.com/problems/design-skiplist) |
-| 1207  | [独一无二的出现次数  ](https://leetcode-cn.com/problems/unique-number-of-occurrences) | [独一无二的出现次数  ](https://leetcode-cn.com/problems/unique-number-of-occurrences) |
-| 1208  | [尽可能使字符串相等  ](https://leetcode-cn.com/problems/get-equal-substrings-within-budget) | [尽可能使字符串相等  ](https://leetcode-cn.com/problems/get-equal-substrings-within-budget) |
-| 1209  | [删除字符串中的所有相邻重复项   II  ](https://leetcode-cn.com/problems/remove-all-adjacent-duplicates-in-string-ii) | [删除字符串中的所有相邻重复项 II  ](https://leetcode-cn.com/problems/remove-all-adjacent-duplicates-in-string-ii) |
-| 1210  | [穿过迷宫的最少移动次数  ](https://leetcode-cn.com/problems/minimum-moves-to-reach-target-with-rotations) | [穿过迷宫的最少移动次数  ](https://leetcode-cn.com/problems/minimum-moves-to-reach-target-with-rotations) |
-| 1211  | [Queries   Quality and Percentage  ](https://leetcode-cn.com/problems/queries-quality-and-percentage) | [Queries Quality and Percentage  ](https://leetcode-cn.com/problems/queries-quality-and-percentage) |
-| 1212  | [查询球队积分  ](https://leetcode-cn.com/problems/team-scores-in-football-tournament) | [查询球队积分  ](https://leetcode-cn.com/problems/team-scores-in-football-tournament) |
-| 1213  | [三个有序数组的交集  ](https://leetcode-cn.com/problems/intersection-of-three-sorted-arrays) | [三个有序数组的交集  ](https://leetcode-cn.com/problems/intersection-of-three-sorted-arrays) |
-| 1214  | [查找两棵二叉搜索树之和  ](https://leetcode-cn.com/problems/two-sum-bsts) | [查找两棵二叉搜索树之和  ](https://leetcode-cn.com/problems/two-sum-bsts) |
-| 1215  | [步进数  ](https://leetcode-cn.com/problems/stepping-numbers) | [步进数  ](https://leetcode-cn.com/problems/stepping-numbers) |
-| 1216  | [验证回文字符串 III  ](https://leetcode-cn.com/problems/valid-palindrome-iii) | [验证回文字符串 III  ](https://leetcode-cn.com/problems/valid-palindrome-iii) |
-| 1217  | [玩筹码  ](https://leetcode-cn.com/problems/play-with-chips) | [玩筹码  ](https://leetcode-cn.com/problems/play-with-chips) |
-| 1218  | [最长定差子序列  ](https://leetcode-cn.com/problems/longest-arithmetic-subsequence-of-given-difference) | [最长定差子序列  ](https://leetcode-cn.com/problems/longest-arithmetic-subsequence-of-given-difference) |
-| 1219  | [黄金矿工  ](https://leetcode-cn.com/problems/path-with-maximum-gold) | [黄金矿工  ](https://leetcode-cn.com/problems/path-with-maximum-gold) |
-| 1220  | [统计元音字母序列的数目  ](https://leetcode-cn.com/problems/count-vowels-permutation) | [统计元音字母序列的数目  ](https://leetcode-cn.com/problems/count-vowels-permutation) |
-| 1221  | [分割平衡字符串  ](https://leetcode-cn.com/problems/split-a-string-in-balanced-strings) | [分割平衡字符串  ](https://leetcode-cn.com/problems/split-a-string-in-balanced-strings) |
-| 1222  | [可以攻击国王的皇后  ](https://leetcode-cn.com/problems/queens-that-can-attack-the-king) | [可以攻击国王的皇后  ](https://leetcode-cn.com/problems/queens-that-can-attack-the-king) |
-| 1223  | [掷骰子模拟  ](https://leetcode-cn.com/problems/dice-roll-simulation) | [掷骰子模拟  ](https://leetcode-cn.com/problems/dice-roll-simulation) |
-| 1224  | [最大相等频率  ](https://leetcode-cn.com/problems/maximum-equal-frequency) | [最大相等频率  ](https://leetcode-cn.com/problems/maximum-equal-frequency) |
-| 1225  | [报告系统状态的连续日期  ](https://leetcode-cn.com/problems/report-contiguous-dates) | [报告系统状态的连续日期  ](https://leetcode-cn.com/problems/report-contiguous-dates) |
-| 1226  | [哲学家进餐  ](https://leetcode-cn.com/problems/the-dining-philosophers) | [哲学家进餐  ](https://leetcode-cn.com/problems/the-dining-philosophers) |
-| 1227  | [飞机座位分配概率  ](https://leetcode-cn.com/problems/airplane-seat-assignment-probability) | [飞机座位分配概率  ](https://leetcode-cn.com/problems/airplane-seat-assignment-probability) |
-| 1228  | [等差数列中缺失的数字  ](https://leetcode-cn.com/problems/missing-number-in-arithmetic-progression) | [等差数列中缺失的数字  ](https://leetcode-cn.com/problems/missing-number-in-arithmetic-progression) |
-| 1229  | [安排会议日程  ](https://leetcode-cn.com/problems/meeting-scheduler) | [安排会议日程  ](https://leetcode-cn.com/problems/meeting-scheduler) |
-| 1230  | [抛掷硬币  ](https://leetcode-cn.com/problems/toss-strange-coins) | [抛掷硬币  ](https://leetcode-cn.com/problems/toss-strange-coins) |
-| 1231  | [分享巧克力  ](https://leetcode-cn.com/problems/divide-chocolate) | [分享巧克力  ](https://leetcode-cn.com/problems/divide-chocolate) |
-| 1232  | [缀点成线  ](https://leetcode-cn.com/problems/check-if-it-is-a-straight-line) | [缀点成线  ](https://leetcode-cn.com/problems/check-if-it-is-a-straight-line) |
-| 1233  | [删除子文件夹  ](https://leetcode-cn.com/problems/remove-sub-folders-from-the-filesystem) | [删除子文件夹  ](https://leetcode-cn.com/problems/remove-sub-folders-from-the-filesystem) |
-| 1234  | [替换子串得到平衡字符串  ](https://leetcode-cn.com/problems/replace-the-substring-for-balanced-string) | [替换子串得到平衡字符串  ](https://leetcode-cn.com/problems/replace-the-substring-for-balanced-string) |
-| 1235  | [规划兼职工作  ](https://leetcode-cn.com/problems/maximum-profit-in-job-scheduling) | [规划兼职工作  ](https://leetcode-cn.com/problems/maximum-profit-in-job-scheduling) |
-| 1236  | [网络爬虫  ](https://leetcode-cn.com/problems/web-crawler)   | [网络爬虫  ](https://leetcode-cn.com/problems/web-crawler)   |
-| 1237  | [找出给定方程的正整数解  ](https://leetcode-cn.com/problems/find-positive-integer-solution-for-a-given-equation) | [找出给定方程的正整数解  ](https://leetcode-cn.com/problems/find-positive-integer-solution-for-a-given-equation) |
-| 1238  | [循环码排列  ](https://leetcode-cn.com/problems/circular-permutation-in-binary-representation) | [循环码排列  ](https://leetcode-cn.com/problems/circular-permutation-in-binary-representation) |
-| 1239  | [串联字符串的最大长度  ](https://leetcode-cn.com/problems/maximum-length-of-a-concatenated-string-with-unique-characters) | [串联字符串的最大长度  ](https://leetcode-cn.com/problems/maximum-length-of-a-concatenated-string-with-unique-characters) |
-| 1240  | [铺瓷砖  ](https://leetcode-cn.com/problems/tiling-a-rectangle-with-the-fewest-squares) | [铺瓷砖  ](https://leetcode-cn.com/problems/tiling-a-rectangle-with-the-fewest-squares) |
-| 1241  | [每个帖子的评论数  ](https://leetcode-cn.com/problems/number-of-comments-per-post) | [每个帖子的评论数  ](https://leetcode-cn.com/problems/number-of-comments-per-post) |
-| 1242  | [多线程网页爬虫  ](https://leetcode-cn.com/problems/web-crawler-multithreaded) | [多线程网页爬虫  ](https://leetcode-cn.com/problems/web-crawler-multithreaded) |
-| 1243  | [数组变换  ](https://leetcode-cn.com/problems/array-transformation) | [数组变换  ](https://leetcode-cn.com/problems/array-transformation) |
-| 1244  | [力扣排行榜  ](https://leetcode-cn.com/problems/design-a-leaderboard) | [力扣排行榜  ](https://leetcode-cn.com/problems/design-a-leaderboard) |
-| 1245  | [树的直径  ](https://leetcode-cn.com/problems/tree-diameter) | [树的直径  ](https://leetcode-cn.com/problems/tree-diameter) |
-| 1246  | [删除回文子数组  ](https://leetcode-cn.com/problems/palindrome-removal) | [删除回文子数组  ](https://leetcode-cn.com/problems/palindrome-removal) |
-| 1247  | [交换字符使得字符串相同  ](https://leetcode-cn.com/problems/minimum-swaps-to-make-strings-equal) | [交换字符使得字符串相同  ](https://leetcode-cn.com/problems/minimum-swaps-to-make-strings-equal) |
-| 1248  | [统计「优美子数组」  ](https://leetcode-cn.com/problems/count-number-of-nice-subarrays) | [统计「优美子数组」  ](https://leetcode-cn.com/problems/count-number-of-nice-subarrays) |
-| 1249  | [移除无效的括号  ](https://leetcode-cn.com/problems/minimum-remove-to-make-valid-parentheses) | [移除无效的括号  ](https://leetcode-cn.com/problems/minimum-remove-to-make-valid-parentheses) |
-| 1250  | [检查「好数组」  ](https://leetcode-cn.com/problems/check-if-it-is-a-good-array) | [检查「好数组」  ](https://leetcode-cn.com/problems/check-if-it-is-a-good-array) |
-| 1251  | [平均售价  ](https://leetcode-cn.com/problems/average-selling-price) | [平均售价  ](https://leetcode-cn.com/problems/average-selling-price) |
-| 1252  | [奇数值单元格的数目  ](https://leetcode-cn.com/problems/cells-with-odd-values-in-a-matrix) | [奇数值单元格的数目  ](https://leetcode-cn.com/problems/cells-with-odd-values-in-a-matrix) |
-| 1253  | [重构   2 行二进制矩阵  ](https://leetcode-cn.com/problems/reconstruct-a-2-row-binary-matrix) | [重构 2 行二进制矩阵  ](https://leetcode-cn.com/problems/reconstruct-a-2-row-binary-matrix) |
-| 1254  | [统计封闭岛屿的数目  ](https://leetcode-cn.com/problems/number-of-closed-islands) | [统计封闭岛屿的数目  ](https://leetcode-cn.com/problems/number-of-closed-islands) |
-| 1255  | [得分最高的单词集合  ](https://leetcode-cn.com/problems/maximum-score-words-formed-by-letters) | [得分最高的单词集合  ](https://leetcode-cn.com/problems/maximum-score-words-formed-by-letters) |
-| 1256  | [加密数字  ](https://leetcode-cn.com/problems/encode-number) | [加密数字  ](https://leetcode-cn.com/problems/encode-number) |
-| 1257  | [最小公共区域  ](https://leetcode-cn.com/problems/smallest-common-region) | [最小公共区域  ](https://leetcode-cn.com/problems/smallest-common-region) |
-| 1258  | [近义词句子  ](https://leetcode-cn.com/problems/synonymous-sentences) | [近义词句子  ](https://leetcode-cn.com/problems/synonymous-sentences) |
-| 1259  | [不相交的握手  ](https://leetcode-cn.com/problems/handshakes-that-dont-cross) | [不相交的握手  ](https://leetcode-cn.com/problems/handshakes-that-dont-cross) |
-| 1260  | [二维网格迁移  ](https://leetcode-cn.com/problems/shift-2d-grid) | [二维网格迁移  ](https://leetcode-cn.com/problems/shift-2d-grid) |
-| 1261  | [在受污染的二叉树中查找元素  ](https://leetcode-cn.com/problems/find-elements-in-a-contaminated-binary-tree) | [在受污染的二叉树中查找元素  ](https://leetcode-cn.com/problems/find-elements-in-a-contaminated-binary-tree) |
-| 1262  | [可被三整除的最大和  ](https://leetcode-cn.com/problems/greatest-sum-divisible-by-three) | [可被三整除的最大和  ](https://leetcode-cn.com/problems/greatest-sum-divisible-by-three) |
-| 1263  | [推箱子  ](https://leetcode-cn.com/problems/minimum-moves-to-move-a-box-to-their-target-location) | [推箱子  ](https://leetcode-cn.com/problems/minimum-moves-to-move-a-box-to-their-target-location) |
-| 1264  | [页面推荐  ](https://leetcode-cn.com/problems/page-recommendations) | [页面推荐  ](https://leetcode-cn.com/problems/page-recommendations) |
-| 1265  | [逆序打印不可变链表  ](https://leetcode-cn.com/problems/print-immutable-linked-list-in-reverse) | [逆序打印不可变链表  ](https://leetcode-cn.com/problems/print-immutable-linked-list-in-reverse) |
-| 1266  | [访问所有点的最小时间  ](https://leetcode-cn.com/problems/minimum-time-visiting-all-points) | [访问所有点的最小时间  ](https://leetcode-cn.com/problems/minimum-time-visiting-all-points) |
-| 1267  | [统计参与通信的服务器  ](https://leetcode-cn.com/problems/count-servers-that-communicate) | [统计参与通信的服务器  ](https://leetcode-cn.com/problems/count-servers-that-communicate) |
-| 1268  | [搜索推荐系统  ](https://leetcode-cn.com/problems/search-suggestions-system) | [搜索推荐系统  ](https://leetcode-cn.com/problems/search-suggestions-system) |
-| 1269  | [停在原地的方案数  ](https://leetcode-cn.com/problems/number-of-ways-to-stay-in-the-same-place-after-some-steps) | [停在原地的方案数  ](https://leetcode-cn.com/problems/number-of-ways-to-stay-in-the-same-place-after-some-steps) |
-| 1270  | [向公司CEO汇报工作的所有人  ](https://leetcode-cn.com/problems/all-people-report-to-the-given-manager) | [向公司CEO汇报工作的所有人  ](https://leetcode-cn.com/problems/all-people-report-to-the-given-manager) |
-| 1271  | [十六进制魔术数字  ](https://leetcode-cn.com/problems/hexspeak) | [十六进制魔术数字  ](https://leetcode-cn.com/problems/hexspeak) |
-| 1272  | [删除区间  ](https://leetcode-cn.com/problems/remove-interval) | [删除区间  ](https://leetcode-cn.com/problems/remove-interval) |
-| 1273  | [删除树节点  ](https://leetcode-cn.com/problems/delete-tree-nodes) | [删除树节点  ](https://leetcode-cn.com/problems/delete-tree-nodes) |
-| 1274  | [矩形内船只的数目  ](https://leetcode-cn.com/problems/number-of-ships-in-a-rectangle) | [矩形内船只的数目  ](https://leetcode-cn.com/problems/number-of-ships-in-a-rectangle) |
-| 1275  | [找出井字棋的获胜者  ](https://leetcode-cn.com/problems/find-winner-on-a-tic-tac-toe-game) | [找出井字棋的获胜者  ](https://leetcode-cn.com/problems/find-winner-on-a-tic-tac-toe-game) |
-| 1276  | [不浪费原料的汉堡制作方案  ](https://leetcode-cn.com/problems/number-of-burgers-with-no-waste-of-ingredients) | [不浪费原料的汉堡制作方案  ](https://leetcode-cn.com/problems/number-of-burgers-with-no-waste-of-ingredients) |
-| 1277  | [统计全为   1 的正方形子矩阵  ](https://leetcode-cn.com/problems/count-square-submatrices-with-all-ones) | [统计全为 1 的正方形子矩阵  ](https://leetcode-cn.com/problems/count-square-submatrices-with-all-ones) |
-| 1278  | [分割回文串 III  ](https://leetcode-cn.com/problems/palindrome-partitioning-iii) | [分割回文串 III  ](https://leetcode-cn.com/problems/palindrome-partitioning-iii) |
-| 1279  | [红绿灯路口  ](https://leetcode-cn.com/problems/traffic-light-controlled-intersection) | [红绿灯路口  ](https://leetcode-cn.com/problems/traffic-light-controlled-intersection) |
-| 1280  | [学生们参加各科测试的次数  ](https://leetcode-cn.com/problems/students-and-examinations) | [学生们参加各科测试的次数  ](https://leetcode-cn.com/problems/students-and-examinations) |
-| 1281  | [整数的各位积和之差  ](https://leetcode-cn.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer) | [整数的各位积和之差  ](https://leetcode-cn.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer) |
-| 1282  | [用户分组  ](https://leetcode-cn.com/problems/group-the-people-given-the-group-size-they-belong-to) | [用户分组  ](https://leetcode-cn.com/problems/group-the-people-given-the-group-size-they-belong-to) |
-| 1283  | [使结果不超过阈值的最小除数  ](https://leetcode-cn.com/problems/find-the-smallest-divisor-given-a-threshold) | [使结果不超过阈值的最小除数  ](https://leetcode-cn.com/problems/find-the-smallest-divisor-given-a-threshold) |
-| 1284  | [转化为全零矩阵的最少反转次数  ](https://leetcode-cn.com/problems/minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix) | [转化为全零矩阵的最少反转次数  ](https://leetcode-cn.com/problems/minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix) |
-| 1285  | [找到连续区间的开始和结束数字  ](https://leetcode-cn.com/problems/find-the-start-and-end-number-of-continuous-ranges) | [找到连续区间的开始和结束数字  ](https://leetcode-cn.com/problems/find-the-start-and-end-number-of-continuous-ranges) |
-| 1286  | [字母组合迭代器  ](https://leetcode-cn.com/problems/iterator-for-combination) | [字母组合迭代器  ](https://leetcode-cn.com/problems/iterator-for-combination) |
-| 1287  | [有序数组中出现次数超过25%的元素  ](https://leetcode-cn.com/problems/element-appearing-more-than-25-in-sorted-array) | [有序数组中出现次数超过25%的元素  ](https://leetcode-cn.com/problems/element-appearing-more-than-25-in-sorted-array) |
-| 1288  | [删除被覆盖区间  ](https://leetcode-cn.com/problems/remove-covered-intervals) | [删除被覆盖区间  ](https://leetcode-cn.com/problems/remove-covered-intervals) |
-| 1289  | [下降路径最小和   II  ](https://leetcode-cn.com/problems/minimum-falling-path-sum-ii) | [下降路径最小和 II  ](https://leetcode-cn.com/problems/minimum-falling-path-sum-ii) |
-| 1290  | [二进制链表转整数  ](https://leetcode-cn.com/problems/convert-binary-number-in-a-linked-list-to-integer) | [二进制链表转整数  ](https://leetcode-cn.com/problems/convert-binary-number-in-a-linked-list-to-integer) |
-| 1291  | [顺次数  ](https://leetcode-cn.com/problems/sequential-digits) | [顺次数  ](https://leetcode-cn.com/problems/sequential-digits) |
-| 1292  | [元素和小于等于阈值的正方形的最大边长  ](https://leetcode-cn.com/problems/maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) | [元素和小于等于阈值的正方形的最大边长  ](https://leetcode-cn.com/problems/maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
-| 1293  | [网格中的最短路径  ](https://leetcode-cn.com/problems/shortest-path-in-a-grid-with-obstacles-elimination) | [网格中的最短路径  ](https://leetcode-cn.com/problems/shortest-path-in-a-grid-with-obstacles-elimination) |
-| 1294  | [不同国家的天气类型  ](https://leetcode-cn.com/problems/weather-type-in-each-country) | [不同国家的天气类型  ](https://leetcode-cn.com/problems/weather-type-in-each-country) |
-| 1295  | [统计位数为偶数的数字  ](https://leetcode-cn.com/problems/find-numbers-with-even-number-of-digits) | [统计位数为偶数的数字  ](https://leetcode-cn.com/problems/find-numbers-with-even-number-of-digits) |
-| 1296  | [划分数组为连续数字的集合  ](https://leetcode-cn.com/problems/divide-array-in-sets-of-k-consecutive-numbers) | [划分数组为连续数字的集合  ](https://leetcode-cn.com/problems/divide-array-in-sets-of-k-consecutive-numbers) |
-| 1297  | [子串的最大出现次数  ](https://leetcode-cn.com/problems/maximum-number-of-occurrences-of-a-substring) | [子串的最大出现次数  ](https://leetcode-cn.com/problems/maximum-number-of-occurrences-of-a-substring) |
-| 1298  | [你能从盒子里获得的最大糖果数  ](https://leetcode-cn.com/problems/maximum-candies-you-can-get-from-boxes) | [你能从盒子里获得的最大糖果数  ](https://leetcode-cn.com/problems/maximum-candies-you-can-get-from-boxes) |
-| 1299  | [将每个元素替换为右侧最大元素  ](https://leetcode-cn.com/problems/replace-elements-with-greatest-element-on-right-side) | [将每个元素替换为右侧最大元素  ](https://leetcode-cn.com/problems/replace-elements-with-greatest-element-on-right-side) |
-| 1300  | [转变数组后最接近目标值的数组和  ](https://leetcode-cn.com/problems/sum-of-mutated-array-closest-to-target) | [转变数组后最接近目标值的数组和  ](https://leetcode-cn.com/problems/sum-of-mutated-array-closest-to-target) |
-| 1301  | [最大得分的路径数目  ](https://leetcode-cn.com/problems/number-of-paths-with-max-score) | [最大得分的路径数目  ](https://leetcode-cn.com/problems/number-of-paths-with-max-score) |
-| 1302  | [层数最深叶子节点的和  ](https://leetcode-cn.com/problems/deepest-leaves-sum) | [层数最深叶子节点的和  ](https://leetcode-cn.com/problems/deepest-leaves-sum) |
-| 1303  | [求团队人数  ](https://leetcode-cn.com/problems/find-the-team-size) | [求团队人数  ](https://leetcode-cn.com/problems/find-the-team-size) |
-| 1304  | [和为零的N个唯一整数  ](https://leetcode-cn.com/problems/find-n-unique-integers-sum-up-to-zero) | [和为零的N个唯一整数  ](https://leetcode-cn.com/problems/find-n-unique-integers-sum-up-to-zero) |
-| 1305  | [两棵二叉搜索树中的所有元素  ](https://leetcode-cn.com/problems/all-elements-in-two-binary-search-trees) | [两棵二叉搜索树中的所有元素  ](https://leetcode-cn.com/problems/all-elements-in-two-binary-search-trees) |
-| 1306  | [跳跃游戏 III  ](https://leetcode-cn.com/problems/jump-game-iii) | [跳跃游戏   III  ](https://leetcode-cn.com/problems/jump-game-iii) |
-| 1307  | [口算难题  ](https://leetcode-cn.com/problems/verbal-arithmetic-puzzle) | [口算难题  ](https://leetcode-cn.com/problems/verbal-arithmetic-puzzle) |
-| 1309  | [解码字母到整数映射  ](https://leetcode-cn.com/problems/decrypt-string-from-alphabet-to-integer-mapping) | [解码字母到整数映射  ](https://leetcode-cn.com/problems/decrypt-string-from-alphabet-to-integer-mapping) |
-| 1310  | [子数组异或查询  ](https://leetcode-cn.com/problems/xor-queries-of-a-subarray) | [子数组异或查询  ](https://leetcode-cn.com/problems/xor-queries-of-a-subarray) |
-| 1311  | [获取你好友已观看的视频  ](https://leetcode-cn.com/problems/get-watched-videos-by-your-friends) | [获取你好友已观看的视频  ](https://leetcode-cn.com/problems/get-watched-videos-by-your-friends) |
-| 1312  | [让字符串成为回文串的最少插入次数  ](https://leetcode-cn.com/problems/minimum-insertion-steps-to-make-a-string-palindrome) | [让字符串成为回文串的最少插入次数  ](https://leetcode-cn.com/problems/minimum-insertion-steps-to-make-a-string-palindrome) |
-| 1313  | [解压缩编码列表  ](https://leetcode-cn.com/problems/decompress-run-length-encoded-list) | [解压缩编码列表  ](https://leetcode-cn.com/problems/decompress-run-length-encoded-list) |
-| 1314  | [矩阵区域和  ](https://leetcode-cn.com/problems/matrix-block-sum) | [矩阵区域和  ](https://leetcode-cn.com/problems/matrix-block-sum) |
-| 1315  | [祖父节点值为偶数的节点和  ](https://leetcode-cn.com/problems/sum-of-nodes-with-even-valued-grandparent) | [祖父节点值为偶数的节点和  ](https://leetcode-cn.com/problems/sum-of-nodes-with-even-valued-grandparent) |
-| 1316  | [不同的循环子字符串  ](https://leetcode-cn.com/problems/distinct-echo-substrings) | [不同的循环子字符串  ](https://leetcode-cn.com/problems/distinct-echo-substrings) |
-| 1317  | [将整数转换为两个无零整数的和  ](https://leetcode-cn.com/problems/convert-integer-to-the-sum-of-two-no-zero-integers) | [将整数转换为两个无零整数的和  ](https://leetcode-cn.com/problems/convert-integer-to-the-sum-of-two-no-zero-integers) |
-| 1318  | [或运算的最小翻转次数  ](https://leetcode-cn.com/problems/minimum-flips-to-make-a-or-b-equal-to-c) | [或运算的最小翻转次数  ](https://leetcode-cn.com/problems/minimum-flips-to-make-a-or-b-equal-to-c) |
-| 1319  | [连通网络的操作次数  ](https://leetcode-cn.com/problems/number-of-operations-to-make-network-connected) | [连通网络的操作次数  ](https://leetcode-cn.com/problems/number-of-operations-to-make-network-connected) |
-| 1320  | [二指输入的的最小距离  ](https://leetcode-cn.com/problems/minimum-distance-to-type-a-word-using-two-fingers) | [二指输入的的最小距离  ](https://leetcode-cn.com/problems/minimum-distance-to-type-a-word-using-two-fingers) |
-| LCP 1 | [猜数字  ](https://leetcode-cn.com/problems/guess-numbers)   | [猜数字  ](https://leetcode-cn.com/problems/guess-numbers)   |
-| LCP 2 | [分式化简  ](https://leetcode-cn.com/problems/deep-dark-fraction) | [分式化简  ](https://leetcode-cn.com/problems/deep-dark-fraction) |
-| LCP 3 | [机器人大冒险  ](https://leetcode-cn.com/problems/programmable-robot) | [机器人大冒险  ](https://leetcode-cn.com/problems/programmable-robot) |
-| LCP 4 | [覆盖  ](https://leetcode-cn.com/problems/broken-board-dominoes) | [覆盖  ](https://leetcode-cn.com/problems/broken-board-dominoes) |
-| LCP 5 | [发 LeetCoin  ](https://leetcode-cn.com/problems/coin-bonus) | [发   LeetCoin  ](https://leetcode-cn.com/problems/coin-bonus) |
+| 1     | [两数之和  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0001%5D%20Two%20Sum.md)| [两数之和  ](https://leetcode-cn.com/problems/two-sum)       |
+| 2     | [两数相加  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0002%5D%20Add%20Two%20Numbers.md)| [两数相加  ](https://leetcode-cn.com/problems/add-two-numbers) |
+| 3     | [无重复字符的最长子串  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0003%5D%20Longest%20Substring%20Without%20Repeating%20Characters.md)| [无重复字符的最长子串  ](https://leetcode-cn.com/problems/longest-substring-without-repeating-characters) |
+| 4     | [寻找两个有序数组的中位数  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0004%5D%20Median%20of%20Two%20Sorted%20Arrays.md)| [寻找两个有序数组的中位数  ](https://leetcode-cn.com/problems/median-of-two-sorted-arrays) |
+| 5     | [最长回文子串  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0005%5D%20Longest%20Palindromic%20Substring.md)| [最长回文子串  ](https://leetcode-cn.com/problems/longest-palindromic-substring) |
+| 6     | [Z 字形变换  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0006%5D%20ZigZag%20Conversion.md)| [Z   字形变换  ](https://leetcode-cn.com/problems/zigzag-conversion) |
+| 7     | [整数反转  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0007%5D%20Reverse%20Integer.md)| [整数反转  ](https://leetcode-cn.com/problems/reverse-integer) |
+| 8     | [字符串转换整数 (atoi)  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0008%5D%20String%20to%20Integer%20%28atoi%29.md)| [字符串转换整数 (atoi)  ](https://leetcode-cn.com/problems/string-to-integer-atoi) |
+| 9     | [回文数  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0009%5D%20Palindrome%20Number.md)| [回文数  ](https://leetcode-cn.com/problems/palindrome-number) |
+| 10    | [正则表达式匹配  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0010%5D%20Regular%20Expression%20Matching.md)| [正则表达式匹配  ](https://leetcode-cn.com/problems/regular-expression-matching) |
+| 11    | [盛最多水的容器  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0011%5D%20Container%20With%20Most%20Water.md)| [盛最多水的容器  ](https://leetcode-cn.com/problems/container-with-most-water) |
+| 12    | [整数转罗马数字  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0012%5D%20Integer%20to%20Roman.md)| [整数转罗马数字  ](https://leetcode-cn.com/problems/integer-to-roman) |
+| 13    | [罗马数字转整数  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0013%5D%20Roman%20to%20Integer.md)| [罗马数字转整数  ](https://leetcode-cn.com/problems/roman-to-integer) |
+| 14    | [最长公共前缀  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0014%5D%20Longest%20Common%20Prefix.md)| [最长公共前缀  ](https://leetcode-cn.com/problems/longest-common-prefix) |
+| 15    | [三数之和  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0015%5D%203Sum.md)| [三数之和  ](https://leetcode-cn.com/problems/3sum)          |
+| 16    | [最接近的三数之和  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0016%5D%203Sum%20Closest.md)| [最接近的三数之和  ](https://leetcode-cn.com/problems/3sum-closest) |
+| 17    | [电话号码的字母组合  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0017%5D%20Letter%20Combinations%20of%20a%20Phone%20Number.md)| [电话号码的字母组合  ](https://leetcode-cn.com/problems/letter-combinations-of-a-phone-number) |
+| 18    | [四数之和  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0018%5D%204Sum.md)| [四数之和  ](https://leetcode-cn.com/problems/4sum)          |
+| 19    | [删除链表的倒数第N个节点  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0019%5D%20Remove%20Nth%20Node%20From%20End%20of%20List.md)| [删除链表的倒数第N个节点  ](https://leetcode-cn.com/problems/remove-nth-node-from-end-of-list) |
+| 20    | [有效的括号  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0020%5D%20Valid%20Parentheses.md)| [有效的括号  ](https://leetcode-cn.com/problems/valid-parentheses) |
+| 21    | [合并两个有序链表  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0021%5D%20Merge%20Two%20Sorted%20Lists.md)| [合并两个有序链表  ](https://leetcode-cn.com/problems/merge-two-sorted-lists) |
+| 22    | [括号生成  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0022%5D%20Generate%20Parentheses.md)| [括号生成  ](https://leetcode-cn.com/problems/generate-parentheses) |
+| 23    | [合并K个排序链表  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0023%5D%20Merge%20k%20Sorted%20Lists.md)| [合并K个排序链表  ](https://leetcode-cn.com/problems/merge-k-sorted-lists) |
+| 24    | [两两交换链表中的节点  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0024%5D%20Swap%20Nodes%20in%20Pairs.md)| [两两交换链表中的节点  ](https://leetcode-cn.com/problems/swap-nodes-in-pairs) |
+| 25    | [K 个一组翻转链表  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0025%5D%20Reverse%20Nodes%20in%20k-Group.md)| [K 个一组翻转链表  ](https://leetcode-cn.com/problems/reverse-nodes-in-k-group) |
+| 26    | [删除排序数组中的重复项  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0026%5D%20Remove%20Duplicates%20from%20Sorted%20Array.md)| [删除排序数组中的重复项  ](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array) |
+| 27    | [移除元素  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0027%5D%20Remove%20Element.md)| [移除元素  ](https://leetcode-cn.com/problems/remove-element) |
+| 28    | [实现 strStr()  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0028%5D%20Implement%20strStr%28%29.md)| [实现   strStr()  ](https://leetcode-cn.com/problems/implement-strstr) |
+| 29    | [两数相除  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0029%5D%20Divide%20Two%20Integers.md)| [两数相除  ](https://leetcode-cn.com/problems/divide-two-integers) |
+| 30    | [串联所有单词的子串  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0030%5D%20Substring%20with%20Concatenation%20of%20All%20Words.md)| [串联所有单词的子串  ](https://leetcode-cn.com/problems/substring-with-concatenation-of-all-words) |
+| 31    | [下一个排列  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0031%5D%20Next%20Permutation.md)| [下一个排列  ](https://leetcode-cn.com/problems/next-permutation) |
+| 32    | [最长有效括号  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0032%5D%20Longest%20Valid%20Parentheses.md)| [最长有效括号  ](https://leetcode-cn.com/problems/longest-valid-parentheses) |
+| 33    | [搜索旋转排序数组  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0033%5D%20Search%20in%20Rotated%20Sorted%20Array.md)| [搜索旋转排序数组  ](https://leetcode-cn.com/problems/search-in-rotated-sorted-array) |
+| 34    | [在排序数组中查找元素的第一个和最后一个位置  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0034%5D%20Find%20First%20and%20Last%20Position%20of%20Element%20in%20Sorted%20Array.md)| [在排序数组中查找元素的第一个和最后一个位置  ](https://leetcode-cn.com/problems/find-first-and-last-position-of-element-in-sorted-array) |
+| 35    | [搜索插入位置  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0035%5D%20Search%20Insert%20Position.md)| [搜索插入位置  ](https://leetcode-cn.com/problems/search-insert-position) |
+| 36    | [有效的数独  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0036%5D%20Valid%20Sudoku.md)| [有效的数独  ](https://leetcode-cn.com/problems/valid-sudoku) |
+| 37    | [解数独  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0037%5D%20Sudoku%20Solver.md)| [解数独  ](https://leetcode-cn.com/problems/sudoku-solver)   |
+| 38    | [外观数列  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0038%5D%20Count%20and%20Say.md)| [外观数列  ](https://leetcode-cn.com/problems/count-and-say) |
+| 39    | [组合总和  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0039%5D%20Combination%20Sum.md)| [组合总和  ](https://leetcode-cn.com/problems/combination-sum) |
+| 40    | [组合总和 II  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0040%5D%20Combination%20Sum%20II.md)| [组合总和   II  ](https://leetcode-cn.com/problems/combination-sum-ii) |
+| 41    | [缺失的第一个正数  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0041%5D%20First%20Missing%20Positive.md)| [缺失的第一个正数  ](https://leetcode-cn.com/problems/first-missing-positive) |
+| 42    | [接雨水  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0042%5D%20Trapping%20Rain%20Water.md)| [接雨水  ](https://leetcode-cn.com/problems/trapping-rain-water) |
+| 43    | [字符串相乘  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0043%5D%20Multiply%20Strings.md)| [字符串相乘  ](https://leetcode-cn.com/problems/multiply-strings) |
+| 44    | [通配符匹配  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0044%5D%20Wildcard%20Matching.md)| [通配符匹配  ](https://leetcode-cn.com/problems/wildcard-matching) |
+| 45    | [跳跃游戏 II  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0045%5D%20Jump%20Game%20II.md)| [跳跃游戏   II  ](https://leetcode-cn.com/problems/jump-game-ii) |
+| 46    | [全排列  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0046%5D%20Permutations.md)| [全排列  ](https://leetcode-cn.com/problems/permutations)    |
+| 47    | [全排列 II  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0047%5D%20Permutations%20II.md)| [全排列   II  ](https://leetcode-cn.com/problems/permutations-ii) |
+| 48    | [旋转图像  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0048%5D%20Rotate%20Image.md)| [旋转图像  ](https://leetcode-cn.com/problems/rotate-image)  |
+| 49    | [字母异位词分组  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0049%5D%20Group%20Anagrams.md)| [字母异位词分组  ](https://leetcode-cn.com/problems/group-anagrams) |
+| 50    | [Pow(x, n)  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0050%5D%20Pow%28x%2C%20n%29.md)| [Pow(x,   n)  ](https://leetcode-cn.com/problems/powx-n)     |
+| 51    | [N皇后  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0051%5D%20N-Queens.md)| [N皇后  ](https://leetcode-cn.com/problems/n-queens)         |
+| 52    | [N皇后 II  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0052%5D%20N-Queens%20II.md)| [N皇后   II  ](https://leetcode-cn.com/problems/n-queens-ii) |
+| 53    | [最大子序和  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0053%5D%20Maximum%20Subarray.md)| [最大子序和  ](https://leetcode-cn.com/problems/maximum-subarray) |
+| 54    | [螺旋矩阵  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0054%5D%20Spiral%20Matrix.md)| [螺旋矩阵  ](https://leetcode-cn.com/problems/spiral-matrix) |
+| 55    | [跳跃游戏  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0055%5D%20Jump%20Game.md)| [跳跃游戏  ](https://leetcode-cn.com/problems/jump-game)     |
+| 56    | [合并区间  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0056%5D%20Merge%20Intervals.md)| [合并区间  ](https://leetcode-cn.com/problems/merge-intervals) |
+| 57    | [插入区间  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0057%5D%20Insert%20Interval.md)| [插入区间  ](https://leetcode-cn.com/problems/insert-interval) |
+| 58    | [最后一个单词的长度  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0058%5D%20Length%20of%20Last%20Word.md)| [最后一个单词的长度  ](https://leetcode-cn.com/problems/length-of-last-word) |
+| 59    | [螺旋矩阵 II  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0059%5D%20Spiral%20Matrix%20II.md)| [螺旋矩阵   II  ](https://leetcode-cn.com/problems/spiral-matrix-ii) |
+| 60    | [第k个排列  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0060%5D%20Permutation%20Sequence.md)| [第k个排列  ](https://leetcode-cn.com/problems/permutation-sequence) |
+| 61    | [旋转链表  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0061%5D%20Rotate%20List.md)| [旋转链表  ](https://leetcode-cn.com/problems/rotate-list)   |
+| 62    | [不同路径  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0062%5D%20Unique%20Paths.md)| [不同路径  ](https://leetcode-cn.com/problems/unique-paths)  |
+| 63    | [不同路径 II  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0063%5D%20Unique%20Paths%20II.md)| [不同路径   II  ](https://leetcode-cn.com/problems/unique-paths-ii) |
+| 64    | [最小路径和  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0064%5D%20Minimum%20Path%20Sum.md)| [最小路径和  ](https://leetcode-cn.com/problems/minimum-path-sum) |
+| 65    | [有效数字  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0065%5D%20Valid%20Number.md)| [有效数字  ](https://leetcode-cn.com/problems/valid-number)  |
+| 66    | [加一  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0066%5D%20Plus%20One.md)| [加一  ](https://leetcode-cn.com/problems/plus-one)          |
+| 67    | [二进制求和  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0067%5D%20Add%20Binary.md)| [二进制求和  ](https://leetcode-cn.com/problems/add-binary)  |
+| 68    | [文本左右对齐  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0068%5D%20Text%20Justification.md)| [文本左右对齐  ](https://leetcode-cn.com/problems/text-justification) |
+| 69    | [x 的平方根  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0069%5D%20Sqrt%28x%29.md)| [x   的平方根  ](https://leetcode-cn.com/problems/sqrtx)     |
+| 70    | [爬楼梯  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0070%5D%20Climbing%20Stairs.md)| [爬楼梯  ](https://leetcode-cn.com/problems/climbing-stairs) |
+| 71    | [简化路径  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0071%5D%20Simplify%20Path.md)| [简化路径  ](https://leetcode-cn.com/problems/simplify-path) |
+| 72    | [编辑距离  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0072%5D%20Edit%20Distance.md)| [编辑距离  ](https://leetcode-cn.com/problems/edit-distance) |
+| 73    | [矩阵置零  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0073%5D%20Set%20Matrix%20Zeroes.md)| [矩阵置零  ](https://leetcode-cn.com/problems/set-matrix-zeroes) |
+| 74    | [搜索二维矩阵  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0074%5D%20Search%20a%202D%20Matrix.md)| [搜索二维矩阵  ](https://leetcode-cn.com/problems/search-a-2d-matrix) |
+| 75    | [颜色分类  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0075%5D%20Sort%20Colors.md)| [颜色分类  ](https://leetcode-cn.com/problems/sort-colors)   |
+| 76    | [最小覆盖子串  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0076%5D%20Minimum%20Window%20Substring.md)| [最小覆盖子串  ](https://leetcode-cn.com/problems/minimum-window-substring) |
+| 77    | [组合  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0077%5D%20Combinations.md)| [组合  ](https://leetcode-cn.com/problems/combinations)      |
+| 78    | [子集  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0078%5D%20Subsets.md)| [子集  ](https://leetcode-cn.com/problems/subsets)           |
+| 79    | [单词搜索  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0079%5D%20Word%20Search.md)| [单词搜索  ](https://leetcode-cn.com/problems/word-search)   |
+| 80    | [删除排序数组中的重复项   II  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0080%5D%20Remove%20Duplicates%20from%20Sorted%20Array%20II.md)| [删除排序数组中的重复项 II  ](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array-ii) |
+| 81    | [搜索旋转排序数组   II  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0081%5D%20Search%20in%20Rotated%20Sorted%20Array%20II.md)| [搜索旋转排序数组 II  ](https://leetcode-cn.com/problems/search-in-rotated-sorted-array-ii) |
+| 82    | [删除排序链表中的重复元素   II  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0082%5D%20Remove%20Duplicates%20from%20Sorted%20List%20II.md)| [删除排序链表中的重复元素 II  ](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-list-ii) |
+| 83    | [删除排序链表中的重复元素  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0083%5D%20Remove%20Duplicates%20from%20Sorted%20List.md)| [删除排序链表中的重复元素  ](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-list) |
+| 84    | [柱状图中最大的矩形  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0084%5D%20Largest%20Rectangle%20in%20Histogram.md)| [柱状图中最大的矩形  ](https://leetcode-cn.com/problems/largest-rectangle-in-histogram) |
+| 85    | [最大矩形  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0085%5D%20Maximal%20Rectangle.md)| [最大矩形  ](https://leetcode-cn.com/problems/maximal-rectangle) |
+| 86    | [分隔链表  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0086%5D%20Partition%20List.md)| [分隔链表  ](https://leetcode-cn.com/problems/partition-list) |
+| 87    | [扰乱字符串  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0087%5D%20Scramble%20String.md)| [扰乱字符串  ](https://leetcode-cn.com/problems/scramble-string) |
+| 88    | [合并两个有序数组  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0088%5D%20Merge%20Sorted%20Array.md)| [合并两个有序数组  ](https://leetcode-cn.com/problems/merge-sorted-array) |
+| 89    | [格雷编码  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0089%5D%20Gray%20Code.md)| [格雷编码  ](https://leetcode-cn.com/problems/gray-code)     |
+| 90    | [子集 II  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0090%5D%20Subsets%20II.md)| [子集   II  ](https://leetcode-cn.com/problems/subsets-ii)   |
+| 91    | [解码方法  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0091%5D%20Decode%20Ways.md)| [解码方法  ](https://leetcode-cn.com/problems/decode-ways)   |
+| 92    | [反转链表 II  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0092%5D%20Reverse%20Linked%20List%20II.md)| [反转链表 II  ](https://leetcode-cn.com/problems/reverse-linked-list-ii) |
+| 93    | [复原IP地址  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0093%5D%20Restore%20IP%20Addresses.md)| [复原IP地址  ](https://leetcode-cn.com/problems/restore-ip-addresses) |
+| 94    | [二叉树的中序遍历  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0094%5D%20Binary%20Tree%20Inorder%20Traversal.md)| [二叉树的中序遍历  ](https://leetcode-cn.com/problems/binary-tree-inorder-traversal) |
+| 95    | [不同的二叉搜索树   II  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0095%5D%20Unique%20Binary%20Search%20Trees%20II.md)| [不同的二叉搜索树 II  ](https://leetcode-cn.com/problems/unique-binary-search-trees-ii) |
+| 96    | [不同的二叉搜索树  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0096%5D%20Unique%20Binary%20Search%20Trees.md)| [不同的二叉搜索树  ](https://leetcode-cn.com/problems/unique-binary-search-trees) |
+| 97    | [交错字符串  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0097%5D%20Interleaving%20String.md)| [交错字符串  ](https://leetcode-cn.com/problems/interleaving-string) |
+| 98    | [验证二叉搜索树  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0098%5D%20Validate%20Binary%20Search%20Tree.md)| [验证二叉搜索树  ](https://leetcode-cn.com/problems/validate-binary-search-tree) |
+| 99    | [恢复二叉搜索树  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0099%5D%20Recover%20Binary%20Search%20Tree.md)| [恢复二叉搜索树  ](https://leetcode-cn.com/problems/recover-binary-search-tree) |
+| 100   | [相同的树  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0100%5D%20Same%20Tree.md)| [相同的树  ](https://leetcode-cn.com/problems/same-tree)     |
+| 101   | [对称二叉树  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0101%5D%20Symmetric%20Tree.md)| [对称二叉树  ](https://leetcode-cn.com/problems/symmetric-tree) |
+| 102   | [二叉树的层次遍历  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0102%5D%20Binary%20Tree%20Level%20Order%20Traversal.md)| [二叉树的层次遍历  ](https://leetcode-cn.com/problems/binary-tree-level-order-traversal) |
+| 103   | [二叉树的锯齿形层次遍历  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0103%5D%20Binary%20Tree%20Zigzag%20Level%20Order%20Traversal.md)| [二叉树的锯齿形层次遍历  ](https://leetcode-cn.com/problems/binary-tree-zigzag-level-order-traversal) |
+| 104   | [二叉树的最大深度  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0104%5D%20Maximum%20Depth%20of%20Binary%20Tree.md)| [二叉树的最大深度  ](https://leetcode-cn.com/problems/maximum-depth-of-binary-tree) |
+| 105   | [从前序与中序遍历序列构造二叉树  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0105%5D%20Construct%20Binary%20Tree%20from%20Preorder%20and%20Inorder%20Traversal.md)| [从前序与中序遍历序列构造二叉树  ](https://leetcode-cn.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal) |
+| 106   | [从中序与后序遍历序列构造二叉树  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0106%5D%20Construct%20Binary%20Tree%20from%20Inorder%20and%20Postorder%20Traversal.md)| [从中序与后序遍历序列构造二叉树  ](https://leetcode-cn.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal) |
+| 107   | [二叉树的层次遍历   II  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0107%5D%20Binary%20Tree%20Level%20Order%20Traversal%20II.md)| [二叉树的层次遍历 II  ](https://leetcode-cn.com/problems/binary-tree-level-order-traversal-ii) |
+| 108   | [将有序数组转换为二叉搜索树  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0108%5D%20Convert%20Sorted%20Array%20to%20Binary%20Search%20Tree.md)| [将有序数组转换为二叉搜索树  ](https://leetcode-cn.com/problems/convert-sorted-array-to-binary-search-tree) |
+| 109   | [有序链表转换二叉搜索树  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0109%5D%20Convert%20Sorted%20List%20to%20Binary%20Search%20Tree.md)| [有序链表转换二叉搜索树  ](https://leetcode-cn.com/problems/convert-sorted-list-to-binary-search-tree) |
+| 110   | [平衡二叉树  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0110%5D%20Balanced%20Binary%20Tree.md)| [平衡二叉树  ](https://leetcode-cn.com/problems/balanced-binary-tree) |
+| 111   | [二叉树的最小深度  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0111%5D%20Minimum%20Depth%20of%20Binary%20Tree.md)| [二叉树的最小深度  ](https://leetcode-cn.com/problems/minimum-depth-of-binary-tree) |
+| 112   | [路径总和  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0112%5D%20Path%20Sum.md)| [路径总和  ](https://leetcode-cn.com/problems/path-sum)      |
+| 113   | [路径总和 II  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0113%5D%20Path%20Sum%20II.md)| [路径总和   II  ](https://leetcode-cn.com/problems/path-sum-ii) |
+| 114   | [二叉树展开为链表  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0114%5D%20Flatten%20Binary%20Tree%20to%20Linked%20List.md)| [二叉树展开为链表  ](https://leetcode-cn.com/problems/flatten-binary-tree-to-linked-list) |
+| 115   | [不同的子序列  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0115%5D%20Distinct%20Subsequences.md)| [不同的子序列  ](https://leetcode-cn.com/problems/distinct-subsequences) |
+| 116   | [填充每个节点的下一个右侧节点指针  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0116%5D%20Populating%20Next%20Right%20Pointers%20in%20Each%20Node.md)| [填充每个节点的下一个右侧节点指针  ](https://leetcode-cn.com/problems/populating-next-right-pointers-in-each-node) |
+| 117   | [填充每个节点的下一个右侧节点指针   II  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0117%5D%20Populating%20Next%20Right%20Pointers%20in%20Each%20Node%20II.md)| [填充每个节点的下一个右侧节点指针 II  ](https://leetcode-cn.com/problems/populating-next-right-pointers-in-each-node-ii) |
+| 118   | [杨辉三角  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0118%5D%20Pascal%27s%20Triangle.md)| [杨辉三角  ](https://leetcode-cn.com/problems/pascals-triangle) |
+| 119   | [杨辉三角 II  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0119%5D%20Pascal%27s%20Triangle%20II.md)| [杨辉三角   II  ](https://leetcode-cn.com/problems/pascals-triangle-ii) |
+| 120   | [三角形最小路径和  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0120%5D%20Triangle.md)| [三角形最小路径和  ](https://leetcode-cn.com/problems/triangle) |
+| 121   | [买卖股票的最佳时机  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0121%5D%20Best%20Time%20to%20Buy%20and%20Sell%20Stock.md)| [买卖股票的最佳时机  ](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock) |
+| 122   | [买卖股票的最佳时机   II  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0122%5D%20Best%20Time%20to%20Buy%20and%20Sell%20Stock%20II.md)| [买卖股票的最佳时机 II  ](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-ii) |
+| 123   | [买卖股票的最佳时机   III  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0123%5D%20Best%20Time%20to%20Buy%20and%20Sell%20Stock%20III.md)| [买卖股票的最佳时机 III  ](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-iii) |
+| 124   | [二叉树中的最大路径和  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0124%5D%20Binary%20Tree%20Maximum%20Path%20Sum.md)| [二叉树中的最大路径和  ](https://leetcode-cn.com/problems/binary-tree-maximum-path-sum) |
+| 125   | [验证回文串  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0125%5D%20Valid%20Palindrome.md)| [验证回文串  ](https://leetcode-cn.com/problems/valid-palindrome) |
+| 126   | [单词接龙 II  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0126%5D%20Word%20Ladder%20II.md)| [单词接龙   II  ](https://leetcode-cn.com/problems/word-ladder-ii) |
+| 127   | [单词接龙  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0127%5D%20Word%20Ladder.md)| [单词接龙  ](https://leetcode-cn.com/problems/word-ladder)   |
+| 128   | [最长连续序列  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0128%5D%20Longest%20Consecutive%20Sequence.md)| [最长连续序列  ](https://leetcode-cn.com/problems/longest-consecutive-sequence) |
+| 129   | [求根到叶子节点数字之和  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0129%5D%20Sum%20Root%20to%20Leaf%20Numbers.md)| [求根到叶子节点数字之和  ](https://leetcode-cn.com/problems/sum-root-to-leaf-numbers) |
+| 130   | [被围绕的区域  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0130%5D%20Surrounded%20Regions.md)| [被围绕的区域  ](https://leetcode-cn.com/problems/surrounded-regions) |
+| 131   | [分割回文串  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0131%5D%20Palindrome%20Partitioning.md)| [分割回文串  ](https://leetcode-cn.com/problems/palindrome-partitioning) |
+| 132   | [分割回文串 II  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0132%5D%20Palindrome%20Partitioning%20II.md)| [分割回文串 II  ](https://leetcode-cn.com/problems/palindrome-partitioning-ii) |
+| 133   | [克隆图  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0133%5D%20Clone%20Graph.md)| [克隆图  ](https://leetcode-cn.com/problems/clone-graph)     |
+| 134   | [加油站  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0134%5D%20Gas%20Station.md)| [加油站  ](https://leetcode-cn.com/problems/gas-station)     |
+| 135   | [分发糖果  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0135%5D%20Candy.md)| [分发糖果  ](https://leetcode-cn.com/problems/candy)         |
+| 136   | [只出现一次的数字  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0136%5D%20Single%20Number.md)| [只出现一次的数字  ](https://leetcode-cn.com/problems/single-number) |
+| 137   | [只出现一次的数字 II  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0137%5D%20Single%20Number%20II.md)| [只出现一次的数字   II  ](https://leetcode-cn.com/problems/single-number-ii) |
+| 138   | [复制带随机指针的链表  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0138%5D%20Copy%20List%20with%20Random%20Pointer.md)| [复制带随机指针的链表  ](https://leetcode-cn.com/problems/copy-list-with-random-pointer) |
+| 139   | [单词拆分  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0139%5D%20Word%20Break.md)| [单词拆分  ](https://leetcode-cn.com/problems/word-break)    |
+| 140   | [单词拆分 II  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0140%5D%20Word%20Break%20II.md)| [单词拆分   II  ](https://leetcode-cn.com/problems/word-break-ii) |
+| 141   | [环形链表  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0141%5D%20Linked%20List%20Cycle.md)| [环形链表  ](https://leetcode-cn.com/problems/linked-list-cycle) |
+| 142   | [环形链表 II  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0142%5D%20Linked%20List%20Cycle%20II.md)| [环形链表 II  ](https://leetcode-cn.com/problems/linked-list-cycle-ii) |
+| 143   | [重排链表  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0143%5D%20Reorder%20List.md)| [重排链表  ](https://leetcode-cn.com/problems/reorder-list)  |
+| 144   | [二叉树的前序遍历  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0144%5D%20Binary%20Tree%20Preorder%20Traversal.md)| [二叉树的前序遍历  ](https://leetcode-cn.com/problems/binary-tree-preorder-traversal) |
+| 145   | [二叉树的后序遍历  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0145%5D%20Binary%20Tree%20Postorder%20Traversal.md)| [二叉树的后序遍历  ](https://leetcode-cn.com/problems/binary-tree-postorder-traversal) |
+| 146   | [LRU缓存机制  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0146%5D%20LRU%20Cache.md)| [LRU缓存机制  ](https://leetcode-cn.com/problems/lru-cache)  |
+| 147   | [对链表进行插入排序  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0147%5D%20Insertion%20Sort%20List.md)| [对链表进行插入排序  ](https://leetcode-cn.com/problems/insertion-sort-list) |
+| 148   | [排序链表  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0148%5D%20Sort%20List.md)| [排序链表  ](https://leetcode-cn.com/problems/sort-list)     |
+| 149   | [直线上最多的点数  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0149%5D%20Max%20Points%20on%20a%20Line.md)| [直线上最多的点数  ](https://leetcode-cn.com/problems/max-points-on-a-line) |
+| 150   | [逆波兰表达式求值  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0150%5D%20Evaluate%20Reverse%20Polish%20Notation.md)| [逆波兰表达式求值  ](https://leetcode-cn.com/problems/evaluate-reverse-polish-notation) |
+| 151   | [翻转字符串里的单词  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0151%5D%20Reverse%20Words%20in%20a%20String.md)| [翻转字符串里的单词  ](https://leetcode-cn.com/problems/reverse-words-in-a-string) |
+| 152   | [乘积最大子序列  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0152%5D%20Maximum%20Product%20Subarray.md)| [乘积最大子序列  ](https://leetcode-cn.com/problems/maximum-product-subarray) |
+| 153   | [寻找旋转排序数组中的最小值  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0153%5D%20Find%20Minimum%20in%20Rotated%20Sorted%20Array.md)| [寻找旋转排序数组中的最小值  ](https://leetcode-cn.com/problems/find-minimum-in-rotated-sorted-array) |
+| 154   | [寻找旋转排序数组中的最小值   II  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0154%5D%20Find%20Minimum%20in%20Rotated%20Sorted%20Array%20II.md)| [寻找旋转排序数组中的最小值 II  ](https://leetcode-cn.com/problems/find-minimum-in-rotated-sorted-array-ii) |
+| 155   | [最小栈  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0155%5D%20Min%20Stack.md)| [最小栈  ](https://leetcode-cn.com/problems/min-stack)       |
+| 156   | [上下翻转二叉树  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0156%5D%20Binary%20Tree%20Upside%20Down.md)| [上下翻转二叉树  ](https://leetcode-cn.com/problems/binary-tree-upside-down) |
+| 157   | [用 Read4   读取 N 个字符  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0157%5D%20Read%20N%20Characters%20Given%20Read4.md)| [用 Read4 读取 N 个字符  ](https://leetcode-cn.com/problems/read-n-characters-given-read4) |
+| 158   | [用   Read4 读取 N 个字符 II  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0158%5D%20Read%20N%20Characters%20Given%20Read4%20II%20-%20Call%20multiple%20times.md)| [用 Read4 读取 N 个字符 II  ](https://leetcode-cn.com/problems/read-n-characters-given-read4-ii-call-multiple-times) |
+| 159   | [至多包含两个不同字符的最长子串  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0159%5D%20Longest%20Substring%20with%20At%20Most%20Two%20Distinct%20Characters.md)| [至多包含两个不同字符的最长子串  ](https://leetcode-cn.com/problems/longest-substring-with-at-most-two-distinct-characters) |
+| 160   | [相交链表  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0160%5D%20Intersection%20of%20Two%20Linked%20Lists.md)| [相交链表  ](https://leetcode-cn.com/problems/intersection-of-two-linked-lists) |
+| 161   | [相隔为 1 的编辑距离  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0161%5D%20One%20Edit%20Distance.md)| [相隔为   1 的编辑距离  ](https://leetcode-cn.com/problems/one-edit-distance) |
+| 162   | [寻找峰值  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0162%5D%20Find%20Peak%20Element.md)| [寻找峰值  ](https://leetcode-cn.com/problems/find-peak-element) |
+| 163   | [缺失的区间  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0163%5D%20Missing%20Ranges.md)| [缺失的区间  ](https://leetcode-cn.com/problems/missing-ranges) |
+| 164   | [最大间距  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0164%5D%20Maximum%20Gap.md)| [最大间距  ](https://leetcode-cn.com/problems/maximum-gap)   |
+| 165   | [比较版本号  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0165%5D%20Compare%20Version%20Numbers.md)| [比较版本号  ](https://leetcode-cn.com/problems/compare-version-numbers) |
+| 166   | [分数到小数  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0166%5D%20Fraction%20to%20Recurring%20Decimal.md)| [分数到小数  ](https://leetcode-cn.com/problems/fraction-to-recurring-decimal) |
+| 167   | [两数之和   II - 输入有序数组  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0167%5D%20Two%20Sum%20II%20-%20Input%20array%20is%20sorted.md)| [两数之和 II - 输入有序数组  ](https://leetcode-cn.com/problems/two-sum-ii-input-array-is-sorted) |
+| 168   | [Excel表列名称  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0168%5D%20Excel%20Sheet%20Column%20Title.md)| [Excel表列名称  ](https://leetcode-cn.com/problems/excel-sheet-column-title) |
+| 169   | [多数元素  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0169%5D%20Majority%20Element.md)| [多数元素  ](https://leetcode-cn.com/problems/majority-element) |
+| 170   | [两数之和   III - 数据结构设计  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0170%5D%20Two%20Sum%20III%20-%20Data%20structure%20design.md)| [两数之和 III - 数据结构设计  ](https://leetcode-cn.com/problems/two-sum-iii-data-structure-design) |
+| 171   | [Excel表列序号  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0171%5D%20Excel%20Sheet%20Column%20Number.md)| [Excel表列序号  ](https://leetcode-cn.com/problems/excel-sheet-column-number) |
+| 172   | [阶乘后的零  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0172%5D%20Factorial%20Trailing%20Zeroes.md)| [阶乘后的零  ](https://leetcode-cn.com/problems/factorial-trailing-zeroes) |
+| 173   | [二叉搜索树迭代器  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0173%5D%20Binary%20Search%20Tree%20Iterator.md)| [二叉搜索树迭代器  ](https://leetcode-cn.com/problems/binary-search-tree-iterator) |
+| 174   | [地下城游戏  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0174%5D%20Dungeon%20Game.md)| [地下城游戏  ](https://leetcode-cn.com/problems/dungeon-game) |
+| 175   | [组合两个表  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0175%5D%20Combine%20Two%20Tables.md)| [组合两个表  ](https://leetcode-cn.com/problems/combine-two-tables) |
+| 176   | [第二高的薪水  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0176%5D%20Second%20Highest%20Salary.md)| [第二高的薪水  ](https://leetcode-cn.com/problems/second-highest-salary) |
+| 177   | [第N高的薪水  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0177%5D%20Nth%20Highest%20Salary.md)| [第N高的薪水  ](https://leetcode-cn.com/problems/nth-highest-salary) |
+| 178   | [分数排名  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0178%5D%20Rank%20Scores.md)| [分数排名  ](https://leetcode-cn.com/problems/rank-scores)   |
+| 179   | [最大数  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0179%5D%20Largest%20Number.md)| [最大数  ](https://leetcode-cn.com/problems/largest-number)  |
+| 180   | [连续出现的数字  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0180%5D%20Consecutive%20Numbers.md)| [连续出现的数字  ](https://leetcode-cn.com/problems/consecutive-numbers) |
+| 181   | [超过经理收入的员工  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0181%5D%20Employees%20Earning%20More%20Than%20Their%20Managers.md)| [超过经理收入的员工  ](https://leetcode-cn.com/problems/employees-earning-more-than-their-managers) |
+| 182   | [查找重复的电子邮箱  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0182%5D%20Duplicate%20Emails.md)| [查找重复的电子邮箱  ](https://leetcode-cn.com/problems/duplicate-emails) |
+| 183   | [从不订购的客户  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0183%5D%20Customers%20Who%20Never%20Order.md)| [从不订购的客户  ](https://leetcode-cn.com/problems/customers-who-never-order) |
+| 184   | [部门工资最高的员工  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0184%5D%20Department%20Highest%20Salary.md)| [部门工资最高的员工  ](https://leetcode-cn.com/problems/department-highest-salary) |
+| 185   | [部门工资前三高的所有员工  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0185%5D%20Department%20Top%20Three%20Salaries.md)| [部门工资前三高的所有员工  ](https://leetcode-cn.com/problems/department-top-three-salaries) |
+| 186   | [翻转字符串里的单词   II  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0186%5D%20Reverse%20Words%20in%20a%20String%20II.md)| [翻转字符串里的单词 II  ](https://leetcode-cn.com/problems/reverse-words-in-a-string-ii) |
+| 187   | [重复的DNA序列  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0187%5D%20Repeated%20DNA%20Sequences.md)| [重复的DNA序列  ](https://leetcode-cn.com/problems/repeated-dna-sequences) |
+| 188   | [买卖股票的最佳时机   IV  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0188%5D%20Best%20Time%20to%20Buy%20and%20Sell%20Stock%20IV.md)| [买卖股票的最佳时机 IV  ](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-iv) |
+| 189   | [旋转数组  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0189%5D%20Rotate%20Array.md)| [旋转数组  ](https://leetcode-cn.com/problems/rotate-array)  |
+| 190   | [颠倒二进制位  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0190%5D%20Reverse%20Bits.md)| [颠倒二进制位  ](https://leetcode-cn.com/problems/reverse-bits) |
+| 191   | [位1的个数  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0191%5D%20Number%20of%201%20Bits.md)| [位1的个数  ](https://leetcode-cn.com/problems/number-of-1-bits) |
+| 192   | [统计词频  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0192%5D%20Word%20Frequency.md)| [统计词频  ](https://leetcode-cn.com/problems/word-frequency) |
+| 193   | [有效电话号码  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0193%5D%20Valid%20Phone%20Numbers.md)| [有效电话号码  ](https://leetcode-cn.com/problems/valid-phone-numbers) |
+| 194   | [转置文件  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0194%5D%20Transpose%20File.md)| [转置文件  ](https://leetcode-cn.com/problems/transpose-file) |
+| 195   | [第十行  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0195%5D%20Tenth%20Line.md)| [第十行  ](https://leetcode-cn.com/problems/tenth-line)      |
+| 196   | [删除重复的电子邮箱  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0196%5D%20Delete%20Duplicate%20Emails.md)| [删除重复的电子邮箱  ](https://leetcode-cn.com/problems/delete-duplicate-emails) |
+| 197   | [上升的温度  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0197%5D%20Rising%20Temperature.md)| [上升的温度  ](https://leetcode-cn.com/problems/rising-temperature) |
+| 198   | [打家劫舍  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0198%5D%20House%20Robber.md)| [打家劫舍  ](https://leetcode-cn.com/problems/house-robber)  |
+| 199   | [二叉树的右视图  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0199%5D%20Binary%20Tree%20Right%20Side%20View.md)| [二叉树的右视图  ](https://leetcode-cn.com/problems/binary-tree-right-side-view) |
+| 200   | [岛屿数量  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0200%5D%20Number%20of%20Islands.md)| [岛屿数量  ](https://leetcode-cn.com/problems/number-of-islands) |
+| 201   | [数字范围按位与  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0201%5D%20Bitwise%20AND%20of%20Numbers%20Range.md)| [数字范围按位与  ](https://leetcode-cn.com/problems/bitwise-and-of-numbers-range) |
+| 202   | [快乐数  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0202%5D%20Happy%20Number.md)| [快乐数  ](https://leetcode-cn.com/problems/happy-number)    |
+| 203   | [移除链表元素  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0203%5D%20Remove%20Linked%20List%20Elements.md)| [移除链表元素  ](https://leetcode-cn.com/problems/remove-linked-list-elements) |
+| 204   | [计数质数  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0204%5D%20Count%20Primes.md)| [计数质数  ](https://leetcode-cn.com/problems/count-primes)  |
+| 205   | [同构字符串  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0205%5D%20Isomorphic%20Strings.md)| [同构字符串  ](https://leetcode-cn.com/problems/isomorphic-strings) |
+| 206   | [反转链表  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0206%5D%20Reverse%20Linked%20List.md)| [反转链表  ](https://leetcode-cn.com/problems/reverse-linked-list) |
+| 207   | [课程表  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0207%5D%20Course%20Schedule.md)| [课程表  ](https://leetcode-cn.com/problems/course-schedule) |
+| 208   | [实现 Trie   (前缀树)  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0208%5D%20Implement%20Trie%20%28Prefix%20Tree%29.md)| [实现 Trie (前缀树)  ](https://leetcode-cn.com/problems/implement-trie-prefix-tree) |
+| 209   | [长度最小的子数组  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0209%5D%20Minimum%20Size%20Subarray%20Sum.md)| [长度最小的子数组  ](https://leetcode-cn.com/problems/minimum-size-subarray-sum) |
+| 210   | [课程表 II  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0210%5D%20Course%20Schedule%20II.md)| [课程表   II  ](https://leetcode-cn.com/problems/course-schedule-ii) |
+| 211   | [添加与搜索单词   - 数据结构设计  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0211%5D%20Add%20and%20Search%20Word%20-%20Data%20structure%20design.md)| [添加与搜索单词 - 数据结构设计  ](https://leetcode-cn.com/problems/add-and-search-word-data-structure-design) |
+| 212   | [单词搜索 II  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0212%5D%20Word%20Search%20II.md)| [单词搜索   II  ](https://leetcode-cn.com/problems/word-search-ii) |
+| 213   | [打家劫舍 II  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0213%5D%20House%20Robber%20II.md)| [打家劫舍   II  ](https://leetcode-cn.com/problems/house-robber-ii) |
+| 214   | [最短回文串  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0214%5D%20Shortest%20Palindrome.md)| [最短回文串  ](https://leetcode-cn.com/problems/shortest-palindrome) |
+| 215   | [数组中的第K个最大元素  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0215%5D%20Kth%20Largest%20Element%20in%20an%20Array.md)| [数组中的第K个最大元素  ](https://leetcode-cn.com/problems/kth-largest-element-in-an-array) |
+| 216   | [组合总和 III  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0216%5D%20Combination%20Sum%20III.md)| [组合总和   III  ](https://leetcode-cn.com/problems/combination-sum-iii) |
+| 217   | [存在重复元素  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0217%5D%20Contains%20Duplicate.md)| [存在重复元素  ](https://leetcode-cn.com/problems/contains-duplicate) |
+| 218   | [天际线问题  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0218%5D%20The%20Skyline%20Problem.md)| [天际线问题  ](https://leetcode-cn.com/problems/the-skyline-problem) |
+| 219   | [存在重复元素 II  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0219%5D%20Contains%20Duplicate%20II.md)| [存在重复元素 II  ](https://leetcode-cn.com/problems/contains-duplicate-ii) |
+| 220   | [存在重复元素 III  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0220%5D%20Contains%20Duplicate%20III.md)| [存在重复元素 III  ](https://leetcode-cn.com/problems/contains-duplicate-iii) |
+| 221   | [最大正方形  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0221%5D%20Maximal%20Square.md)| [最大正方形  ](https://leetcode-cn.com/problems/maximal-square) |
+| 222   | [完全二叉树的节点个数  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0222%5D%20Count%20Complete%20Tree%20Nodes.md)| [完全二叉树的节点个数  ](https://leetcode-cn.com/problems/count-complete-tree-nodes) |
+| 223   | [矩形面积  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0223%5D%20Rectangle%20Area.md)| [矩形面积  ](https://leetcode-cn.com/problems/rectangle-area) |
+| 224   | [基本计算器  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0224%5D%20Basic%20Calculator.md)| [基本计算器  ](https://leetcode-cn.com/problems/basic-calculator) |
+| 225   | [用队列实现栈  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0225%5D%20Implement%20Stack%20using%20Queues.md)| [用队列实现栈  ](https://leetcode-cn.com/problems/implement-stack-using-queues) |
+| 226   | [翻转二叉树  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0226%5D%20Invert%20Binary%20Tree.md)| [翻转二叉树  ](https://leetcode-cn.com/problems/invert-binary-tree) |
+| 227   | [基本计算器 II  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0227%5D%20Basic%20Calculator%20II.md)| [基本计算器   II  ](https://leetcode-cn.com/problems/basic-calculator-ii) |
+| 228   | [汇总区间  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0228%5D%20Summary%20Ranges.md)| [汇总区间  ](https://leetcode-cn.com/problems/summary-ranges) |
+| 229   | [求众数 II  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0229%5D%20Majority%20Element%20II.md)| [求众数   II  ](https://leetcode-cn.com/problems/majority-element-ii) |
+| 230   | [二叉搜索树中第K小的元素  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0230%5D%20Kth%20Smallest%20Element%20in%20a%20BST.md)| [二叉搜索树中第K小的元素  ](https://leetcode-cn.com/problems/kth-smallest-element-in-a-bst) |
+| 231   | [2的幂  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0231%5D%20Power%20of%20Two.md)| [2的幂  ](https://leetcode-cn.com/problems/power-of-two)     |
+| 232   | [用栈实现队列  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0232%5D%20Implement%20Queue%20using%20Stacks.md)| [用栈实现队列  ](https://leetcode-cn.com/problems/implement-queue-using-stacks) |
+| 233   | [数字 1 的个数  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0233%5D%20Number%20of%20Digit%20One.md)| [数字   1 的个数  ](https://leetcode-cn.com/problems/number-of-digit-one) |
+| 234   | [回文链表  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0234%5D%20Palindrome%20Linked%20List.md)| [回文链表  ](https://leetcode-cn.com/problems/palindrome-linked-list) |
+| 235   | [二叉搜索树的最近公共祖先  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0235%5D%20Lowest%20Common%20Ancestor%20of%20a%20Binary%20Search%20Tree.md)| [二叉搜索树的最近公共祖先  ](https://leetcode-cn.com/problems/lowest-common-ancestor-of-a-binary-search-tree) |
+| 236   | [二叉树的最近公共祖先  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0236%5D%20Lowest%20Common%20Ancestor%20of%20a%20Binary%20Tree.md)| [二叉树的最近公共祖先  ](https://leetcode-cn.com/problems/lowest-common-ancestor-of-a-binary-tree) |
+| 237   | [删除链表中的节点  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0237%5D%20Delete%20Node%20in%20a%20Linked%20List.md)| [删除链表中的节点  ](https://leetcode-cn.com/problems/delete-node-in-a-linked-list) |
+| 238   | [除自身以外数组的乘积  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0238%5D%20Product%20of%20Array%20Except%20Self.md)| [除自身以外数组的乘积  ](https://leetcode-cn.com/problems/product-of-array-except-self) |
+| 239   | [滑动窗口最大值  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0239%5D%20Sliding%20Window%20Maximum.md)| [滑动窗口最大值  ](https://leetcode-cn.com/problems/sliding-window-maximum) |
+| 240   | [搜索二维矩阵 II  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0240%5D%20Search%20a%202D%20Matrix%20II.md)| [搜索二维矩阵 II  ](https://leetcode-cn.com/problems/search-a-2d-matrix-ii) |
+| 241   | [为运算表达式设计优先级  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0241%5D%20Different%20Ways%20to%20Add%20Parentheses.md)| [为运算表达式设计优先级  ](https://leetcode-cn.com/problems/different-ways-to-add-parentheses) |
+| 242   | [有效的字母异位词  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0242%5D%20Valid%20Anagram.md)| [有效的字母异位词  ](https://leetcode-cn.com/problems/valid-anagram) |
+| 243   | [最短单词距离  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0243%5D%20Shortest%20Word%20Distance.md)| [最短单词距离  ](https://leetcode-cn.com/problems/shortest-word-distance) |
+| 244   | [最短单词距离 II  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0244%5D%20Shortest%20Word%20Distance%20II.md)| [最短单词距离 II  ](https://leetcode-cn.com/problems/shortest-word-distance-ii) |
+| 245   | [最短单词距离 III  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0245%5D%20Shortest%20Word%20Distance%20III.md)| [最短单词距离 III  ](https://leetcode-cn.com/problems/shortest-word-distance-iii) |
+| 246   | [中心对称数  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0246%5D%20Strobogrammatic%20Number.md)| [中心对称数  ](https://leetcode-cn.com/problems/strobogrammatic-number) |
+| 247   | [中心对称数 II  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0247%5D%20Strobogrammatic%20Number%20II.md)| [中心对称数 II  ](https://leetcode-cn.com/problems/strobogrammatic-number-ii) |
+| 248   | [中心对称数 III  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0248%5D%20Strobogrammatic%20Number%20III.md)| [中心对称数 III  ](https://leetcode-cn.com/problems/strobogrammatic-number-iii) |
+| 249   | [移位字符串分组  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0249%5D%20Group%20Shifted%20Strings.md)| [移位字符串分组  ](https://leetcode-cn.com/problems/group-shifted-strings) |
+| 250   | [统计同值子树  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0250%5D%20Count%20Univalue%20Subtrees.md)| [统计同值子树  ](https://leetcode-cn.com/problems/count-univalue-subtrees) |
+| 251   | [展开二维向量  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0251%5D%20Flatten%202D%20Vector.md)| [展开二维向量  ](https://leetcode-cn.com/problems/flatten-2d-vector) |
+| 252   | [会议室  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0252%5D%20Meeting%20Rooms.md)| [会议室  ](https://leetcode-cn.com/problems/meeting-rooms)   |
+| 253   | [会议室 II  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0253%5D%20Meeting%20Rooms%20II.md)| [会议室   II  ](https://leetcode-cn.com/problems/meeting-rooms-ii) |
+| 254   | [因子的组合  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0254%5D%20Factor%20Combinations.md)| [因子的组合  ](https://leetcode-cn.com/problems/factor-combinations) |
+| 255   | [验证前序遍历序列二叉搜索树  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0255%5D%20Verify%20Preorder%20Sequence%20in%20Binary%20Search%20Tree.md)| [验证前序遍历序列二叉搜索树  ](https://leetcode-cn.com/problems/verify-preorder-sequence-in-binary-search-tree) |
+| 256   | [粉刷房子  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0256%5D%20Paint%20House.md)| [粉刷房子  ](https://leetcode-cn.com/problems/paint-house)   |
+| 257   | [二叉树的所有路径  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0257%5D%20Binary%20Tree%20Paths.md)| [二叉树的所有路径  ](https://leetcode-cn.com/problems/binary-tree-paths) |
+| 258   | [各位相加  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0258%5D%20Add%20Digits.md)| [各位相加  ](https://leetcode-cn.com/problems/add-digits)    |
+| 259   | [较小的三数之和  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0259%5D%203Sum%20Smaller.md)| [较小的三数之和  ](https://leetcode-cn.com/problems/3sum-smaller) |
+| 260   | [只出现一次的数字 III  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0260%5D%20Single%20Number%20III.md)| [只出现一次的数字   III  ](https://leetcode-cn.com/problems/single-number-iii) |
+| 261   | [以图判树  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0261%5D%20Graph%20Valid%20Tree.md)| [以图判树  ](https://leetcode-cn.com/problems/graph-valid-tree) |
+| 262   | [行程和用户  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0262%5D%20Trips%20and%20Users.md)| [行程和用户  ](https://leetcode-cn.com/problems/trips-and-users) |
+| 263   | [丑数  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0263%5D%20Ugly%20Number.md)| [丑数  ](https://leetcode-cn.com/problems/ugly-number)       |
+| 264   | [丑数 II  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0264%5D%20Ugly%20Number%20II.md)| [丑数   II  ](https://leetcode-cn.com/problems/ugly-number-ii) |
+| 265   | [粉刷房子 II  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0265%5D%20Paint%20House%20II.md)| [粉刷房子   II  ](https://leetcode-cn.com/problems/paint-house-ii) |
+| 266   | [回文排列  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0266%5D%20Palindrome%20Permutation.md)| [回文排列  ](https://leetcode-cn.com/problems/palindrome-permutation) |
+| 267   | [回文排列 II  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0267%5D%20Palindrome%20Permutation%20II.md)| [回文排列 II  ](https://leetcode-cn.com/problems/palindrome-permutation-ii) |
+| 268   | [缺失数字  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0268%5D%20Missing%20Number.md)| [缺失数字  ](https://leetcode-cn.com/problems/missing-number) |
+| 269   | [火星词典  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0269%5D%20Alien%20Dictionary.md)| [火星词典  ](https://leetcode-cn.com/problems/alien-dictionary) |
+| 270   | [最接近的二叉搜索树值  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0270%5D%20Closest%20Binary%20Search%20Tree%20Value.md)| [最接近的二叉搜索树值  ](https://leetcode-cn.com/problems/closest-binary-search-tree-value) |
+| 271   | [字符串的编码与解码  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0271%5D%20Encode%20and%20Decode%20Strings.md)| [字符串的编码与解码  ](https://leetcode-cn.com/problems/encode-and-decode-strings) |
+| 272   | [最接近的二叉搜索树值   II  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0272%5D%20Closest%20Binary%20Search%20Tree%20Value%20II.md)| [最接近的二叉搜索树值 II  ](https://leetcode-cn.com/problems/closest-binary-search-tree-value-ii) |
+| 273   | [整数转换英文表示  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0273%5D%20Integer%20to%20English%20Words.md)| [整数转换英文表示  ](https://leetcode-cn.com/problems/integer-to-english-words) |
+| 274   | [H指数  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0274%5D%20H-Index.md)| [H指数  ](https://leetcode-cn.com/problems/h-index)          |
+| 275   | [H指数 II  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0275%5D%20H-Index%20II.md)| [H指数   II  ](https://leetcode-cn.com/problems/h-index-ii)  |
+| 276   | [栅栏涂色  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0276%5D%20Paint%20Fence.md)| [栅栏涂色  ](https://leetcode-cn.com/problems/paint-fence)   |
+| 277   | [搜寻名人  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0277%5D%20Find%20the%20Celebrity.md)| [搜寻名人  ](https://leetcode-cn.com/problems/find-the-celebrity) |
+| 278   | [第一个错误的版本  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0278%5D%20First%20Bad%20Version.md)| [第一个错误的版本  ](https://leetcode-cn.com/problems/first-bad-version) |
+| 279   | [完全平方数  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0279%5D%20Perfect%20Squares.md)| [完全平方数  ](https://leetcode-cn.com/problems/perfect-squares) |
+| 280   | [摆动排序  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0280%5D%20Wiggle%20Sort.md)| [摆动排序  ](https://leetcode-cn.com/problems/wiggle-sort)   |
+| 281   | [锯齿迭代器  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0281%5D%20Zigzag%20Iterator.md)| [锯齿迭代器  ](https://leetcode-cn.com/problems/zigzag-iterator) |
+| 282   | [给表达式添加运算符  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0282%5D%20Expression%20Add%20Operators.md)| [给表达式添加运算符  ](https://leetcode-cn.com/problems/expression-add-operators) |
+| 283   | [移动零  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0283%5D%20Move%20Zeroes.md)| [移动零  ](https://leetcode-cn.com/problems/move-zeroes)     |
+| 284   | [顶端迭代器  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0284%5D%20Peeking%20Iterator.md)| [顶端迭代器  ](https://leetcode-cn.com/problems/peeking-iterator) |
+| 285   | [二叉搜索树中的顺序后继  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0285%5D%20Inorder%20Successor%20in%20BST.md)| [二叉搜索树中的顺序后继  ](https://leetcode-cn.com/problems/inorder-successor-in-bst) |
+| 286   | [墙与门  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0286%5D%20Walls%20and%20Gates.md)| [墙与门  ](https://leetcode-cn.com/problems/walls-and-gates) |
+| 287   | [寻找重复数  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0287%5D%20Find%20the%20Duplicate%20Number.md)| [寻找重复数  ](https://leetcode-cn.com/problems/find-the-duplicate-number) |
+| 288   | [单词的唯一缩写  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0288%5D%20Unique%20Word%20Abbreviation.md)| [单词的唯一缩写  ](https://leetcode-cn.com/problems/unique-word-abbreviation) |
+| 289   | [生命游戏  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0289%5D%20Game%20of%20Life.md)| [生命游戏  ](https://leetcode-cn.com/problems/game-of-life)  |
+| 290   | [单词规律  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0290%5D%20Word%20Pattern.md)| [单词规律  ](https://leetcode-cn.com/problems/word-pattern)  |
+| 291   | [单词规律 II  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0291%5D%20Word%20Pattern%20II.md)| [单词规律   II  ](https://leetcode-cn.com/problems/word-pattern-ii) |
+| 292   | [Nim 游戏  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0292%5D%20Nim%20Game.md)| [Nim   游戏  ](https://leetcode-cn.com/problems/nim-game)    |
+| 293   | [翻转游戏  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0293%5D%20Flip%20Game.md)| [翻转游戏  ](https://leetcode-cn.com/problems/flip-game)     |
+| 294   | [翻转游戏 II  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0294%5D%20Flip%20Game%20II.md)| [翻转游戏   II  ](https://leetcode-cn.com/problems/flip-game-ii) |
+| 295   | [数据流的中位数  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0295%5D%20Find%20Median%20from%20Data%20Stream.md)| [数据流的中位数  ](https://leetcode-cn.com/problems/find-median-from-data-stream) |
+| 296   | [最佳的碰头地点  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0296%5D%20Best%20Meeting%20Point.md)| [最佳的碰头地点  ](https://leetcode-cn.com/problems/best-meeting-point) |
+| 297   | [二叉树的序列化与反序列化  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0297%5D%20Serialize%20and%20Deserialize%20Binary%20Tree.md)| [二叉树的序列化与反序列化  ](https://leetcode-cn.com/problems/serialize-and-deserialize-binary-tree) |
+| 298   | [二叉树最长连续序列  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0298%5D%20Binary%20Tree%20Longest%20Consecutive%20Sequence.md)| [二叉树最长连续序列  ](https://leetcode-cn.com/problems/binary-tree-longest-consecutive-sequence) |
+| 299   | [猜数字游戏  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0299%5D%20Bulls%20and%20Cows.md)| [猜数字游戏  ](https://leetcode-cn.com/problems/bulls-and-cows) |
+| 300   | [最长上升子序列  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0300%5D%20Longest%20Increasing%20Subsequence.md)| [最长上升子序列  ](https://leetcode-cn.com/problems/longest-increasing-subsequence) |
+| 301   | [删除无效的括号  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0301%5D%20Remove%20Invalid%20Parentheses.md)| [删除无效的括号  ](https://leetcode-cn.com/problems/remove-invalid-parentheses) |
+| 302   | [包含全部黑色像素的最小矩形  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0302%5D%20Smallest%20Rectangle%20Enclosing%20Black%20Pixels.md)| [包含全部黑色像素的最小矩形  ](https://leetcode-cn.com/problems/smallest-rectangle-enclosing-black-pixels) |
+| 303   | [区域和检索 -   数组不可变  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0303%5D%20Range%20Sum%20Query%20-%20Immutable.md)| [区域和检索 - 数组不可变  ](https://leetcode-cn.com/problems/range-sum-query-immutable) |
+| 304   | [二维区域和检索   - 矩阵不可变  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0304%5D%20Range%20Sum%20Query%202D%20-%20Immutable.md)| [二维区域和检索 - 矩阵不可变  ](https://leetcode-cn.com/problems/range-sum-query-2d-immutable) |
+| 305   | [岛屿数量 II  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0305%5D%20Number%20of%20Islands%20II.md)| [岛屿数量 II  ](https://leetcode-cn.com/problems/number-of-islands-ii) |
+| 306   | [累加数  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0306%5D%20Additive%20Number.md)| [累加数  ](https://leetcode-cn.com/problems/additive-number) |
+| 307   | [区域和检索 - 数组可修改  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0307%5D%20Range%20Sum%20Query%20-%20Mutable.md)| [区域和检索 - 数组可修改  ](https://leetcode-cn.com/problems/range-sum-query-mutable) |
+| 308   | [二维区域和检索 -   可变  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0308%5D%20Range%20Sum%20Query%202D%20-%20Mutable.md)| [二维区域和检索 - 可变  ](https://leetcode-cn.com/problems/range-sum-query-2d-mutable) |
+| 309   | [最佳买卖股票时机含冷冻期  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0309%5D%20Best%20Time%20to%20Buy%20and%20Sell%20Stock%20with%20Cooldown.md)| [最佳买卖股票时机含冷冻期  ](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-with-cooldown) |
+| 310   | [最小高度树  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0310%5D%20Minimum%20Height%20Trees.md)| [最小高度树  ](https://leetcode-cn.com/problems/minimum-height-trees) |
+| 311   | [稀疏矩阵的乘法  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0311%5D%20Sparse%20Matrix%20Multiplication.md)| [稀疏矩阵的乘法  ](https://leetcode-cn.com/problems/sparse-matrix-multiplication) |
+| 312   | [戳气球  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0312%5D%20Burst%20Balloons.md)| [戳气球  ](https://leetcode-cn.com/problems/burst-balloons)  |
+| 313   | [超级丑数  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0313%5D%20Super%20Ugly%20Number.md)| [超级丑数  ](https://leetcode-cn.com/problems/super-ugly-number) |
+| 314   | [二叉树的垂直遍历  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0314%5D%20Binary%20Tree%20Vertical%20Order%20Traversal.md)| [二叉树的垂直遍历  ](https://leetcode-cn.com/problems/binary-tree-vertical-order-traversal) |
+| 315   | [计算右侧小于当前元素的个数  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0315%5D%20Count%20of%20Smaller%20Numbers%20After%20Self.md)| [计算右侧小于当前元素的个数  ](https://leetcode-cn.com/problems/count-of-smaller-numbers-after-self) |
+| 316   | [去除重复字母  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0316%5D%20Remove%20Duplicate%20Letters.md)| [去除重复字母  ](https://leetcode-cn.com/problems/remove-duplicate-letters) |
+| 317   | [离建筑物最近的距离  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0317%5D%20Shortest%20Distance%20from%20All%20Buildings.md)| [离建筑物最近的距离  ](https://leetcode-cn.com/problems/shortest-distance-from-all-buildings) |
+| 318   | [最大单词长度乘积  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0318%5D%20Maximum%20Product%20of%20Word%20Lengths.md)| [最大单词长度乘积  ](https://leetcode-cn.com/problems/maximum-product-of-word-lengths) |
+| 319   | [灯泡开关  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0319%5D%20Bulb%20Switcher.md)| [灯泡开关  ](https://leetcode-cn.com/problems/bulb-switcher) |
+| 320   | [列举单词的全部缩写  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0320%5D%20Generalized%20Abbreviation.md)| [列举单词的全部缩写  ](https://leetcode-cn.com/problems/generalized-abbreviation) |
+| 321   | [拼接最大数  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0321%5D%20Create%20Maximum%20Number.md)| [拼接最大数  ](https://leetcode-cn.com/problems/create-maximum-number) |
+| 322   | [零钱兑换  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0322%5D%20Coin%20Change.md)| [零钱兑换  ](https://leetcode-cn.com/problems/coin-change)   |
+| 323   | [无向图中连通分量的数目  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0323%5D%20Number%20of%20Connected%20Components%20in%20an%20Undirected%20Graph.md)| [无向图中连通分量的数目  ](https://leetcode-cn.com/problems/number-of-connected-components-in-an-undirected-graph) |
+| 324   | [摆动排序 II  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0324%5D%20Wiggle%20Sort%20II.md)| [摆动排序   II  ](https://leetcode-cn.com/problems/wiggle-sort-ii) |
+| 325   | [和等于   k 的最长子数组长度  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0325%5D%20Maximum%20Size%20Subarray%20Sum%20Equals%20k.md)| [和等于 k 的最长子数组长度  ](https://leetcode-cn.com/problems/maximum-size-subarray-sum-equals-k) |
+| 326   | [3的幂  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0326%5D%20Power%20of%20Three.md)| [3的幂  ](https://leetcode-cn.com/problems/power-of-three)   |
+| 327   | [区间和的个数  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0327%5D%20Count%20of%20Range%20Sum.md)| [区间和的个数  ](https://leetcode-cn.com/problems/count-of-range-sum) |
+| 328   | [奇偶链表  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0328%5D%20Odd%20Even%20Linked%20List.md)| [奇偶链表  ](https://leetcode-cn.com/problems/odd-even-linked-list) |
+| 329   | [矩阵中的最长递增路径  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0329%5D%20Longest%20Increasing%20Path%20in%20a%20Matrix.md)| [矩阵中的最长递增路径  ](https://leetcode-cn.com/problems/longest-increasing-path-in-a-matrix) |
+| 330   | [按要求补齐数组  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0330%5D%20Patching%20Array.md)| [按要求补齐数组  ](https://leetcode-cn.com/problems/patching-array) |
+| 331   | [验证二叉树的前序序列化  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0331%5D%20Verify%20Preorder%20Serialization%20of%20a%20Binary%20Tree.md)| [验证二叉树的前序序列化  ](https://leetcode-cn.com/problems/verify-preorder-serialization-of-a-binary-tree) |
+| 332   | [重新安排行程  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0332%5D%20Reconstruct%20Itinerary.md)| [重新安排行程  ](https://leetcode-cn.com/problems/reconstruct-itinerary) |
+| 333   | [最大 BST 子树  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0333%5D%20Largest%20BST%20Subtree.md)| [最大   BST 子树  ](https://leetcode-cn.com/problems/largest-bst-subtree) |
+| 334   | [递增的三元子序列  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0334%5D%20Increasing%20Triplet%20Subsequence.md)| [递增的三元子序列  ](https://leetcode-cn.com/problems/increasing-triplet-subsequence) |
+| 335   | [路径交叉  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0335%5D%20Self%20Crossing.md)| [路径交叉  ](https://leetcode-cn.com/problems/self-crossing) |
+| 336   | [回文对  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0336%5D%20Palindrome%20Pairs.md)| [回文对  ](https://leetcode-cn.com/problems/palindrome-pairs) |
+| 337   | [打家劫舍 III  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0337%5D%20House%20Robber%20III.md)| [打家劫舍   III  ](https://leetcode-cn.com/problems/house-robber-iii) |
+| 338   | [比特位计数  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0338%5D%20Counting%20Bits.md)| [比特位计数  ](https://leetcode-cn.com/problems/counting-bits) |
+| 339   | [嵌套列表权重和  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0339%5D%20Nested%20List%20Weight%20Sum.md)| [嵌套列表权重和  ](https://leetcode-cn.com/problems/nested-list-weight-sum) |
+| 340   | [至多包含   K 个不同字符的最长子串  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0340%5D%20Longest%20Substring%20with%20At%20Most%20K%20Distinct%20Characters.md)| [至多包含 K 个不同字符的最长子串  ](https://leetcode-cn.com/problems/longest-substring-with-at-most-k-distinct-characters) |
+| 341   | [扁平化嵌套列表迭代器  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0341%5D%20Flatten%20Nested%20List%20Iterator.md)| [扁平化嵌套列表迭代器  ](https://leetcode-cn.com/problems/flatten-nested-list-iterator) |
+| 342   | [4的幂  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0342%5D%20Power%20of%20Four.md)| [4的幂  ](https://leetcode-cn.com/problems/power-of-four)    |
+| 343   | [整数拆分  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0343%5D%20Integer%20Break.md)| [整数拆分  ](https://leetcode-cn.com/problems/integer-break) |
+| 344   | [反转字符串  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0344%5D%20Reverse%20String.md)| [反转字符串  ](https://leetcode-cn.com/problems/reverse-string) |
+| 345   | [反转字符串中的元音字母  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0345%5D%20Reverse%20Vowels%20of%20a%20String.md)| [反转字符串中的元音字母  ](https://leetcode-cn.com/problems/reverse-vowels-of-a-string) |
+| 346   | [数据流中的移动平均值  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0346%5D%20Moving%20Average%20from%20Data%20Stream.md)| [数据流中的移动平均值  ](https://leetcode-cn.com/problems/moving-average-from-data-stream) |
+| 347   | [前 K 个高频元素  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0347%5D%20Top%20K%20Frequent%20Elements.md)| [前 K 个高频元素  ](https://leetcode-cn.com/problems/top-k-frequent-elements) |
+| 348   | [判定井字棋胜负  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0348%5D%20Design%20Tic-Tac-Toe.md)| [判定井字棋胜负  ](https://leetcode-cn.com/problems/design-tic-tac-toe) |
+| 349   | [两个数组的交集  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0349%5D%20Intersection%20of%20Two%20Arrays.md)| [两个数组的交集  ](https://leetcode-cn.com/problems/intersection-of-two-arrays) |
+| 350   | [两个数组的交集   II  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0350%5D%20Intersection%20of%20Two%20Arrays%20II.md)| [两个数组的交集 II  ](https://leetcode-cn.com/problems/intersection-of-two-arrays-ii) |
+| 351   | [安卓系统手势解锁  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0351%5D%20Android%20Unlock%20Patterns.md)| [安卓系统手势解锁  ](https://leetcode-cn.com/problems/android-unlock-patterns) |
+| 352   | [将数据流变为多个不相交区间  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0352%5D%20Data%20Stream%20as%20Disjoint%20Intervals.md)| [将数据流变为多个不相交区间  ](https://leetcode-cn.com/problems/data-stream-as-disjoint-intervals) |
+| 353   | [贪吃蛇  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0353%5D%20Design%20Snake%20Game.md)| [贪吃蛇  ](https://leetcode-cn.com/problems/design-snake-game) |
+| 354   | [俄罗斯套娃信封问题  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0354%5D%20Russian%20Doll%20Envelopes.md)| [俄罗斯套娃信封问题  ](https://leetcode-cn.com/problems/russian-doll-envelopes) |
+| 355   | [设计推特  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0355%5D%20Design%20Twitter.md)| [设计推特  ](https://leetcode-cn.com/problems/design-twitter) |
+| 356   | [直线镜像  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0356%5D%20Line%20Reflection.md)| [直线镜像  ](https://leetcode-cn.com/problems/line-reflection) |
+| 357   | [计算各个位数不同的数字个数  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0357%5D%20Count%20Numbers%20with%20Unique%20Digits.md)| [计算各个位数不同的数字个数  ](https://leetcode-cn.com/problems/count-numbers-with-unique-digits) |
+| 358   | [K   距离间隔重排字符串  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0358%5D%20Rearrange%20String%20k%20Distance%20Apart.md)| [K 距离间隔重排字符串  ](https://leetcode-cn.com/problems/rearrange-string-k-distance-apart) |
+| 359   | [日志速率限制器  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0359%5D%20Logger%20Rate%20Limiter.md)| [日志速率限制器  ](https://leetcode-cn.com/problems/logger-rate-limiter) |
+| 360   | [有序转化数组  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0360%5D%20Sort%20Transformed%20Array.md)| [有序转化数组  ](https://leetcode-cn.com/problems/sort-transformed-array) |
+| 361   | [轰炸敌人  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0361%5D%20Bomb%20Enemy.md)| [轰炸敌人  ](https://leetcode-cn.com/problems/bomb-enemy)    |
+| 362   | [敲击计数器  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0362%5D%20Design%20Hit%20Counter.md)| [敲击计数器  ](https://leetcode-cn.com/problems/design-hit-counter) |
+| 363   | [矩形区域不超过   K 的最大数值和  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0363%5D%20Max%20Sum%20of%20Rectangle%20No%20Larger%20Than%20K.md)| [矩形区域不超过 K 的最大数值和  ](https://leetcode-cn.com/problems/max-sum-of-rectangle-no-larger-than-k) |
+| 364   | [加权嵌套序列和 II  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0364%5D%20Nested%20List%20Weight%20Sum%20II.md)| [加权嵌套序列和 II  ](https://leetcode-cn.com/problems/nested-list-weight-sum-ii) |
+| 365   | [水壶问题  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0365%5D%20Water%20and%20Jug%20Problem.md)| [水壶问题  ](https://leetcode-cn.com/problems/water-and-jug-problem) |
+| 366   | [寻找完全二叉树的叶子节点  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0366%5D%20Find%20Leaves%20of%20Binary%20Tree.md)| [寻找完全二叉树的叶子节点  ](https://leetcode-cn.com/problems/find-leaves-of-binary-tree) |
+| 367   | [有效的完全平方数  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0367%5D%20Valid%20Perfect%20Square.md)| [有效的完全平方数  ](https://leetcode-cn.com/problems/valid-perfect-square) |
+| 368   | [最大整除子集  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0368%5D%20Largest%20Divisible%20Subset.md)| [最大整除子集  ](https://leetcode-cn.com/problems/largest-divisible-subset) |
+| 369   | [给单链表加一  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0369%5D%20Plus%20One%20Linked%20List.md)| [给单链表加一  ](https://leetcode-cn.com/problems/plus-one-linked-list) |
+| 370   | [区间加法  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0370%5D%20Range%20Addition.md)| [区间加法  ](https://leetcode-cn.com/problems/range-addition) |
+| 371   | [两整数之和  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0371%5D%20Sum%20of%20Two%20Integers.md)| [两整数之和  ](https://leetcode-cn.com/problems/sum-of-two-integers) |
+| 372   | [超级次方  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0372%5D%20Super%20Pow.md)| [超级次方  ](https://leetcode-cn.com/problems/super-pow)     |
+| 373   | [查找和最小的K对数字  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0373%5D%20Find%20K%20Pairs%20with%20Smallest%20Sums.md)| [查找和最小的K对数字  ](https://leetcode-cn.com/problems/find-k-pairs-with-smallest-sums) |
+| 374   | [猜数字大小  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0374%5D%20Guess%20Number%20Higher%20or%20Lower.md)| [猜数字大小  ](https://leetcode-cn.com/problems/guess-number-higher-or-lower) |
+| 375   | [猜数字大小   II  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0375%5D%20Guess%20Number%20Higher%20or%20Lower%20II.md)| [猜数字大小 II  ](https://leetcode-cn.com/problems/guess-number-higher-or-lower-ii) |
+| 376   | [摆动序列  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0376%5D%20Wiggle%20Subsequence.md)| [摆动序列  ](https://leetcode-cn.com/problems/wiggle-subsequence) |
+| 377   | [组合总和 Ⅳ  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0377%5D%20Combination%20Sum%20IV.md)| [组合总和   Ⅳ  ](https://leetcode-cn.com/problems/combination-sum-iv) |
+| 378   | [有序矩阵中第K小的元素  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0378%5D%20Kth%20Smallest%20Element%20in%20a%20Sorted%20Matrix.md)| [有序矩阵中第K小的元素  ](https://leetcode-cn.com/problems/kth-smallest-element-in-a-sorted-matrix) |
+| 379   | [电话目录管理系统  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0379%5D%20Design%20Phone%20Directory.md)| [电话目录管理系统  ](https://leetcode-cn.com/problems/design-phone-directory) |
+| 380   | [常数时间插入、删除和获取随机元素  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0380%5D%20Insert%20Delete%20GetRandom%20O%281%29.md)| [常数时间插入、删除和获取随机元素  ](https://leetcode-cn.com/problems/insert-delete-getrandom-o1) |
+| 381   | [O(1)   时间插入、删除和获取随机元素 - 允许重复  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0381%5D%20Insert%20Delete%20GetRandom%20O%281%29%20-%20Duplicates%20allowed.md)| [O(1) 时间插入、删除和获取随机元素 - 允许重复  ](https://leetcode-cn.com/problems/insert-delete-getrandom-o1-duplicates-allowed) |
+| 382   | [链表随机节点  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0382%5D%20Linked%20List%20Random%20Node.md)| [链表随机节点  ](https://leetcode-cn.com/problems/linked-list-random-node) |
+| 383   | [赎金信  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0383%5D%20Ransom%20Note.md)| [赎金信  ](https://leetcode-cn.com/problems/ransom-note)     |
+| 384   | [打乱数组  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0384%5D%20Shuffle%20an%20Array.md)| [打乱数组  ](https://leetcode-cn.com/problems/shuffle-an-array) |
+| 385   | [迷你语法分析器  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0385%5D%20Mini%20Parser.md)| [迷你语法分析器  ](https://leetcode-cn.com/problems/mini-parser) |
+| 386   | [字典序排数  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0386%5D%20Lexicographical%20Numbers.md)| [字典序排数  ](https://leetcode-cn.com/problems/lexicographical-numbers) |
+| 387   | [字符串中的第一个唯一字符  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0387%5D%20First%20Unique%20Character%20in%20a%20String.md)| [字符串中的第一个唯一字符  ](https://leetcode-cn.com/problems/first-unique-character-in-a-string) |
+| 388   | [文件的最长绝对路径  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0388%5D%20Longest%20Absolute%20File%20Path.md)| [文件的最长绝对路径  ](https://leetcode-cn.com/problems/longest-absolute-file-path) |
+| 389   | [找不同  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0389%5D%20Find%20the%20Difference.md)| [找不同  ](https://leetcode-cn.com/problems/find-the-difference) |
+| 390   | [消除游戏  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0390%5D%20Elimination%20Game.md)| [消除游戏  ](https://leetcode-cn.com/problems/elimination-game) |
+| 391   | [完美矩形  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0391%5D%20Perfect%20Rectangle.md)| [完美矩形  ](https://leetcode-cn.com/problems/perfect-rectangle) |
+| 392   | [判断子序列  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0392%5D%20Is%20Subsequence.md)| [判断子序列  ](https://leetcode-cn.com/problems/is-subsequence) |
+| 393   | [UTF-8 编码验证  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0393%5D%20UTF-8%20Validation.md)| [UTF-8   编码验证  ](https://leetcode-cn.com/problems/utf-8-validation) |
+| 394   | [字符串解码  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0394%5D%20Decode%20String.md)| [字符串解码  ](https://leetcode-cn.com/problems/decode-string) |
+| 395   | [至少有K个重复字符的最长子串  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0395%5D%20Longest%20Substring%20with%20At%20Least%20K%20Repeating%20Characters.md)| [至少有K个重复字符的最长子串  ](https://leetcode-cn.com/problems/longest-substring-with-at-least-k-repeating-characters) |
+| 396   | [旋转函数  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0396%5D%20Rotate%20Function.md)| [旋转函数  ](https://leetcode-cn.com/problems/rotate-function) |
+| 397   | [整数替换  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0397%5D%20Integer%20Replacement.md)| [整数替换  ](https://leetcode-cn.com/problems/integer-replacement) |
+| 398   | [随机数索引  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0398%5D%20Random%20Pick%20Index.md)| [随机数索引  ](https://leetcode-cn.com/problems/random-pick-index) |
+| 399   | [除法求值  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0399%5D%20Evaluate%20Division.md)| [除法求值  ](https://leetcode-cn.com/problems/evaluate-division) |
+| 400   | [第N个数字  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0400%5D%20Nth%20Digit.md)| [第N个数字  ](https://leetcode-cn.com/problems/nth-digit)    |
+| 401   | [二进制手表  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0401%5D%20Binary%20Watch.md)| [二进制手表  ](https://leetcode-cn.com/problems/binary-watch) |
+| 402   | [移掉K位数字  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0402%5D%20Remove%20K%20Digits.md)| [移掉K位数字  ](https://leetcode-cn.com/problems/remove-k-digits) |
+| 403   | [青蛙过河  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0403%5D%20Frog%20Jump.md)| [青蛙过河  ](https://leetcode-cn.com/problems/frog-jump)     |
+| 404   | [左叶子之和  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0404%5D%20Sum%20of%20Left%20Leaves.md)| [左叶子之和  ](https://leetcode-cn.com/problems/sum-of-left-leaves) |
+| 405   | [数字转换为十六进制数  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0405%5D%20Convert%20a%20Number%20to%20Hexadecimal.md)| [数字转换为十六进制数  ](https://leetcode-cn.com/problems/convert-a-number-to-hexadecimal) |
+| 406   | [根据身高重建队列  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0406%5D%20Queue%20Reconstruction%20by%20Height.md)| [根据身高重建队列  ](https://leetcode-cn.com/problems/queue-reconstruction-by-height) |
+| 407   | [接雨水 II  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0407%5D%20Trapping%20Rain%20Water%20II.md)| [接雨水 II  ](https://leetcode-cn.com/problems/trapping-rain-water-ii) |
+| 408   | [有效单词缩写  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0408%5D%20Valid%20Word%20Abbreviation.md)| [有效单词缩写  ](https://leetcode-cn.com/problems/valid-word-abbreviation) |
+| 409   | [最长回文串  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0409%5D%20Longest%20Palindrome.md)| [最长回文串  ](https://leetcode-cn.com/problems/longest-palindrome) |
+| 410   | [分割数组的最大值  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0410%5D%20Split%20Array%20Largest%20Sum.md)| [分割数组的最大值  ](https://leetcode-cn.com/problems/split-array-largest-sum) |
+| 411   | [最短特异单词缩写  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0411%5D%20Minimum%20Unique%20Word%20Abbreviation.md)| [最短特异单词缩写  ](https://leetcode-cn.com/problems/minimum-unique-word-abbreviation) |
+| 412   | [Fizz Buzz  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0412%5D%20Fizz%20Buzz.md)| [Fizz   Buzz  ](https://leetcode-cn.com/problems/fizz-buzz)  |
+| 413   | [等差数列划分  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0413%5D%20Arithmetic%20Slices.md)| [等差数列划分  ](https://leetcode-cn.com/problems/arithmetic-slices) |
+| 414   | [第三大的数  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0414%5D%20Third%20Maximum%20Number.md)| [第三大的数  ](https://leetcode-cn.com/problems/third-maximum-number) |
+| 415   | [字符串相加  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0415%5D%20Add%20Strings.md)| [字符串相加  ](https://leetcode-cn.com/problems/add-strings) |
+| 416   | [分割等和子集  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0416%5D%20Partition%20Equal%20Subset%20Sum.md)| [分割等和子集  ](https://leetcode-cn.com/problems/partition-equal-subset-sum) |
+| 417   | [太平洋大西洋水流问题  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0417%5D%20Pacific%20Atlantic%20Water%20Flow.md)| [太平洋大西洋水流问题  ](https://leetcode-cn.com/problems/pacific-atlantic-water-flow) |
+| 418   | [屏幕可显示句子的数量  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0418%5D%20Sentence%20Screen%20Fitting.md)| [屏幕可显示句子的数量  ](https://leetcode-cn.com/problems/sentence-screen-fitting) |
+| 419   | [甲板上的战舰  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0419%5D%20Battleships%20in%20a%20Board.md)| [甲板上的战舰  ](https://leetcode-cn.com/problems/battleships-in-a-board) |
+| 420   | [强密码检验器  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0420%5D%20Strong%20Password%20Checker.md)| [强密码检验器  ](https://leetcode-cn.com/problems/strong-password-checker) |
+| 421   | [数组中两个数的最大异或值  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0421%5D%20Maximum%20XOR%20of%20Two%20Numbers%20in%20an%20Array.md)| [数组中两个数的最大异或值  ](https://leetcode-cn.com/problems/maximum-xor-of-two-numbers-in-an-array) |
+| 422   | [有效的单词方块  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0422%5D%20Valid%20Word%20Square.md)| [有效的单词方块  ](https://leetcode-cn.com/problems/valid-word-square) |
+| 423   | [从英文中重建数字  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0423%5D%20Reconstruct%20Original%20Digits%20from%20English.md)| [从英文中重建数字  ](https://leetcode-cn.com/problems/reconstruct-original-digits-from-english) |
+| 424   | [替换后的最长重复字符  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0424%5D%20Longest%20Repeating%20Character%20Replacement.md)| [替换后的最长重复字符  ](https://leetcode-cn.com/problems/longest-repeating-character-replacement) |
+| 425   | [单词方块  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0425%5D%20Word%20Squares.md)| [单词方块  ](https://leetcode-cn.com/problems/word-squares)  |
+| 426   | [将二叉搜索树转化为排序的双向链表  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0426%5D%20Convert%20Binary%20Search%20Tree%20to%20Sorted%20Doubly%20Linked%20List.md)| [将二叉搜索树转化为排序的双向链表  ](https://leetcode-cn.com/problems/convert-binary-search-tree-to-sorted-doubly-linked-list) |
+| 427   | [建立四叉树  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0427%5D%20Construct%20Quad%20Tree.md)| [建立四叉树  ](https://leetcode-cn.com/problems/construct-quad-tree) |
+| 428   | [序列化和反序列化   N 叉树  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0428%5D%20Serialize%20and%20Deserialize%20N-ary%20Tree.md)| [序列化和反序列化 N 叉树  ](https://leetcode-cn.com/problems/serialize-and-deserialize-n-ary-tree) |
+| 429   | [N叉树的层序遍历  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0429%5D%20N-ary%20Tree%20Level%20Order%20Traversal.md)| [N叉树的层序遍历  ](https://leetcode-cn.com/problems/n-ary-tree-level-order-traversal) |
+| 430   | [扁平化多级双向链表  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0430%5D%20Flatten%20a%20Multilevel%20Doubly%20Linked%20List.md)| [扁平化多级双向链表  ](https://leetcode-cn.com/problems/flatten-a-multilevel-doubly-linked-list) |
+| 431   | [将 N   叉树编码为二叉树  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0431%5D%20Encode%20N-ary%20Tree%20to%20Binary%20Tree.md)| [将 N 叉树编码为二叉树  ](https://leetcode-cn.com/problems/encode-n-ary-tree-to-binary-tree) |
+| 432   | [全 O(1) 的数据结构  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0432%5D%20All%20O%60one%20Data%20Structure.md)| [全 O(1) 的数据结构  ](https://leetcode-cn.com/problems/all-oone-data-structure) |
+| 433   | [最小基因变化  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0433%5D%20Minimum%20Genetic%20Mutation.md)| [最小基因变化  ](https://leetcode-cn.com/problems/minimum-genetic-mutation) |
+| 434   | [字符串中的单词数  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0434%5D%20Number%20of%20Segments%20in%20a%20String.md)| [字符串中的单词数  ](https://leetcode-cn.com/problems/number-of-segments-in-a-string) |
+| 435   | [无重叠区间  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0435%5D%20Non-overlapping%20Intervals.md)| [无重叠区间  ](https://leetcode-cn.com/problems/non-overlapping-intervals) |
+| 436   | [寻找右区间  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0436%5D%20Find%20Right%20Interval.md)| [寻找右区间  ](https://leetcode-cn.com/problems/find-right-interval) |
+| 437   | [路径总和 III  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0437%5D%20Path%20Sum%20III.md)| [路径总和   III  ](https://leetcode-cn.com/problems/path-sum-iii) |
+| 438   | [找到字符串中所有字母异位词  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0438%5D%20Find%20All%20Anagrams%20in%20a%20String.md)| [找到字符串中所有字母异位词  ](https://leetcode-cn.com/problems/find-all-anagrams-in-a-string) |
+| 439   | [三元表达式解析器  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0439%5D%20Ternary%20Expression%20Parser.md)| [三元表达式解析器  ](https://leetcode-cn.com/problems/ternary-expression-parser) |
+| 440   | [字典序的第K小数字  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0440%5D%20K-th%20Smallest%20in%20Lexicographical%20Order.md)| [字典序的第K小数字  ](https://leetcode-cn.com/problems/k-th-smallest-in-lexicographical-order) |
+| 441   | [排列硬币  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0441%5D%20Arranging%20Coins.md)| [排列硬币  ](https://leetcode-cn.com/problems/arranging-coins) |
+| 442   | [数组中重复的数据  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0442%5D%20Find%20All%20Duplicates%20in%20an%20Array.md)| [数组中重复的数据  ](https://leetcode-cn.com/problems/find-all-duplicates-in-an-array) |
+| 443   | [压缩字符串  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0443%5D%20String%20Compression.md)| [压缩字符串  ](https://leetcode-cn.com/problems/string-compression) |
+| 444   | [序列重建  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0444%5D%20Sequence%20Reconstruction.md)| [序列重建  ](https://leetcode-cn.com/problems/sequence-reconstruction) |
+| 445   | [两数相加 II  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0445%5D%20Add%20Two%20Numbers%20II.md)| [两数相加   II  ](https://leetcode-cn.com/problems/add-two-numbers-ii) |
+| 446   | [等差数列划分   II - 子序列  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0446%5D%20Arithmetic%20Slices%20II%20-%20Subsequence.md)| [等差数列划分 II - 子序列  ](https://leetcode-cn.com/problems/arithmetic-slices-ii-subsequence) |
+| 447   | [回旋镖的数量  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0447%5D%20Number%20of%20Boomerangs.md)| [回旋镖的数量  ](https://leetcode-cn.com/problems/number-of-boomerangs) |
+| 448   | [找到所有数组中消失的数字  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0448%5D%20Find%20All%20Numbers%20Disappeared%20in%20an%20Array.md)| [找到所有数组中消失的数字  ](https://leetcode-cn.com/problems/find-all-numbers-disappeared-in-an-array) |
+| 449   | [序列化和反序列化二叉搜索树  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0449%5D%20Serialize%20and%20Deserialize%20BST.md)| [序列化和反序列化二叉搜索树  ](https://leetcode-cn.com/problems/serialize-and-deserialize-bst) |
+| 450   | [删除二叉搜索树中的节点  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0450%5D%20Delete%20Node%20in%20a%20BST.md)| [删除二叉搜索树中的节点  ](https://leetcode-cn.com/problems/delete-node-in-a-bst) |
+| 451   | [根据字符出现频率排序  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0451%5D%20Sort%20Characters%20By%20Frequency.md)| [根据字符出现频率排序  ](https://leetcode-cn.com/problems/sort-characters-by-frequency) |
+| 452   | [用最少数量的箭引爆气球  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0452%5D%20Minimum%20Number%20of%20Arrows%20to%20Burst%20Balloons.md)| [用最少数量的箭引爆气球  ](https://leetcode-cn.com/problems/minimum-number-of-arrows-to-burst-balloons) |
+| 453   | [最小移动次数使数组元素相等  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0453%5D%20Minimum%20Moves%20to%20Equal%20Array%20Elements.md)| [最小移动次数使数组元素相等  ](https://leetcode-cn.com/problems/minimum-moves-to-equal-array-elements) |
+| 454   | [四数相加 II  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0454%5D%204Sum%20II.md)| [四数相加   II  ](https://leetcode-cn.com/problems/4sum-ii)  |
+| 455   | [分发饼干  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0455%5D%20Assign%20Cookies.md)| [分发饼干  ](https://leetcode-cn.com/problems/assign-cookies) |
+| 456   | [132模式  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0456%5D%20132%20Pattern.md)| [132模式  ](https://leetcode-cn.com/problems/132-pattern)    |
+| 457   | [环形数组循环  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0457%5D%20Circular%20Array%20Loop.md)| [环形数组循环  ](https://leetcode-cn.com/problems/circular-array-loop) |
+| 458   | [可怜的小猪  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0458%5D%20Poor%20Pigs.md)| [可怜的小猪  ](https://leetcode-cn.com/problems/poor-pigs)   |
+| 459   | [重复的子字符串  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0459%5D%20Repeated%20Substring%20Pattern.md)| [重复的子字符串  ](https://leetcode-cn.com/problems/repeated-substring-pattern) |
+| 460   | [LFU缓存  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0460%5D%20LFU%20Cache.md)| [LFU缓存  ](https://leetcode-cn.com/problems/lfu-cache)      |
+| 461   | [汉明距离  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0461%5D%20Hamming%20Distance.md)| [汉明距离  ](https://leetcode-cn.com/problems/hamming-distance) |
+| 462   | [最少移动次数使数组元素相等   II  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0462%5D%20Minimum%20Moves%20to%20Equal%20Array%20Elements%20II.md)| [最少移动次数使数组元素相等 II  ](https://leetcode-cn.com/problems/minimum-moves-to-equal-array-elements-ii) |
+| 463   | [岛屿的周长  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0463%5D%20Island%20Perimeter.md)| [岛屿的周长  ](https://leetcode-cn.com/problems/island-perimeter) |
+| 464   | [我能赢吗  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0464%5D%20Can%20I%20Win.md)| [我能赢吗  ](https://leetcode-cn.com/problems/can-i-win)     |
+| 465   | [最优账单平衡  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0465%5D%20Optimal%20Account%20Balancing.md)| [最优账单平衡  ](https://leetcode-cn.com/problems/optimal-account-balancing) |
+| 466   | [统计重复个数  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0466%5D%20Count%20The%20Repetitions.md)| [统计重复个数  ](https://leetcode-cn.com/problems/count-the-repetitions) |
+| 467   | [环绕字符串中唯一的子字符串  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0467%5D%20Unique%20Substrings%20in%20Wraparound%20String.md)| [环绕字符串中唯一的子字符串  ](https://leetcode-cn.com/problems/unique-substrings-in-wraparound-string) |
+| 468   | [验证IP地址  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0468%5D%20Validate%20IP%20Address.md)| [验证IP地址  ](https://leetcode-cn.com/problems/validate-ip-address) |
+| 469   | [凸多边形  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0469%5D%20Convex%20Polygon.md)| [凸多边形  ](https://leetcode-cn.com/problems/convex-polygon) |
+| 470   | [用   Rand7() 实现 Rand10()  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0470%5D%20Implement%20Rand10%28%29%20Using%20Rand7%28%29.md)| [用 Rand7() 实现 Rand10()  ](https://leetcode-cn.com/problems/implement-rand10-using-rand7) |
+| 471   | [编码最短长度的字符串  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0471%5D%20Encode%20String%20with%20Shortest%20Length.md)| [编码最短长度的字符串  ](https://leetcode-cn.com/problems/encode-string-with-shortest-length) |
+| 472   | [连接词  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0472%5D%20Concatenated%20Words.md)| [连接词  ](https://leetcode-cn.com/problems/concatenated-words) |
+| 473   | [火柴拼正方形  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0473%5D%20Matchsticks%20to%20Square.md)| [火柴拼正方形  ](https://leetcode-cn.com/problems/matchsticks-to-square) |
+| 474   | [一和零  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0474%5D%20Ones%20and%20Zeroes.md)| [一和零  ](https://leetcode-cn.com/problems/ones-and-zeroes) |
+| 475   | [供暖器  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0475%5D%20Heaters.md)| [供暖器  ](https://leetcode-cn.com/problems/heaters)         |
+| 476   | [数字的补数  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0476%5D%20Number%20Complement.md)| [数字的补数  ](https://leetcode-cn.com/problems/number-complement) |
+| 477   | [汉明距离总和  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0477%5D%20Total%20Hamming%20Distance.md)| [汉明距离总和  ](https://leetcode-cn.com/problems/total-hamming-distance) |
+| 478   | [在圆内随机生成点  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0478%5D%20Generate%20Random%20Point%20in%20a%20Circle.md)| [在圆内随机生成点  ](https://leetcode-cn.com/problems/generate-random-point-in-a-circle) |
+| 479   | [最大回文数乘积  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0479%5D%20Largest%20Palindrome%20Product.md)| [最大回文数乘积  ](https://leetcode-cn.com/problems/largest-palindrome-product) |
+| 480   | [滑动窗口中位数  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0480%5D%20Sliding%20Window%20Median.md)| [滑动窗口中位数  ](https://leetcode-cn.com/problems/sliding-window-median) |
+| 481   | [神奇字符串  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0481%5D%20Magical%20String.md)| [神奇字符串  ](https://leetcode-cn.com/problems/magical-string) |
+| 482   | [密钥格式化  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0482%5D%20License%20Key%20Formatting.md)| [密钥格式化  ](https://leetcode-cn.com/problems/license-key-formatting) |
+| 483   | [最小好进制  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0483%5D%20Smallest%20Good%20Base.md)| [最小好进制  ](https://leetcode-cn.com/problems/smallest-good-base) |
+| 484   | [寻找排列  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0484%5D%20Find%20Permutation.md)| [寻找排列  ](https://leetcode-cn.com/problems/find-permutation) |
+| 485   | [最大连续1的个数  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0485%5D%20Max%20Consecutive%20Ones.md)| [最大连续1的个数  ](https://leetcode-cn.com/problems/max-consecutive-ones) |
+| 486   | [预测赢家  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0486%5D%20Predict%20the%20Winner.md)| [预测赢家  ](https://leetcode-cn.com/problems/predict-the-winner) |
+| 487   | [最大连续1的个数 II  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0487%5D%20Max%20Consecutive%20Ones%20II.md)| [最大连续1的个数 II  ](https://leetcode-cn.com/problems/max-consecutive-ones-ii) |
+| 488   | [祖玛游戏  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0488%5D%20Zuma%20Game.md)| [祖玛游戏  ](https://leetcode-cn.com/problems/zuma-game)     |
+| 489   | [扫地机器人  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0489%5D%20Robot%20Room%20Cleaner.md)| [扫地机器人  ](https://leetcode-cn.com/problems/robot-room-cleaner) |
+| 490   | [迷宫  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0490%5D%20The%20Maze.md)| [迷宫  ](https://leetcode-cn.com/problems/the-maze)          |
+| 491   | [递增子序列  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0491%5D%20Increasing%20Subsequences.md)| [递增子序列  ](https://leetcode-cn.com/problems/increasing-subsequences) |
+| 492   | [构造矩形  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0492%5D%20Construct%20the%20Rectangle.md)| [构造矩形  ](https://leetcode-cn.com/problems/construct-the-rectangle) |
+| 493   | [翻转对  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0493%5D%20Reverse%20Pairs.md)| [翻转对  ](https://leetcode-cn.com/problems/reverse-pairs)   |
+| 494   | [目标和  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0494%5D%20Target%20Sum.md)| [目标和  ](https://leetcode-cn.com/problems/target-sum)      |
+| 495   | [提莫攻击  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0495%5D%20Teemo%20Attacking.md)| [提莫攻击  ](https://leetcode-cn.com/problems/teemo-attacking) |
+| 496   | [下一个更大元素 I  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0496%5D%20Next%20Greater%20Element%20I.md)| [下一个更大元素 I  ](https://leetcode-cn.com/problems/next-greater-element-i) |
+| 497   | [非重叠矩形中的随机点  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0497%5D%20Random%20Point%20in%20Non-overlapping%20Rectangles.md)| [非重叠矩形中的随机点  ](https://leetcode-cn.com/problems/random-point-in-non-overlapping-rectangles) |
+| 498   | [对角线遍历  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0498%5D%20Diagonal%20Traverse.md)| [对角线遍历  ](https://leetcode-cn.com/problems/diagonal-traverse) |
+| 499   | [迷宫 III  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0499%5D%20The%20Maze%20III.md)| [迷宫   III  ](https://leetcode-cn.com/problems/the-maze-iii) |
+| 500   | [键盘行  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0500%5D%20Keyboard%20Row.md)| [键盘行  ](https://leetcode-cn.com/problems/keyboard-row)    |
+| 501   | [二叉搜索树中的众数  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0501%5D%20Find%20Mode%20in%20Binary%20Search%20Tree.md)| [二叉搜索树中的众数  ](https://leetcode-cn.com/problems/find-mode-in-binary-search-tree) |
+| 502   | [IPO  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0502%5D%20IPO.md)| [IPO  ](https://leetcode-cn.com/problems/ipo)                |
+| 503   | [下一个更大元素 II  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0503%5D%20Next%20Greater%20Element%20II.md)| [下一个更大元素 II  ](https://leetcode-cn.com/problems/next-greater-element-ii) |
+| 504   | [七进制数  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0504%5D%20Base%207.md)| [七进制数  ](https://leetcode-cn.com/problems/base-7)        |
+| 505   | [迷宫 II  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0505%5D%20The%20Maze%20II.md)| [迷宫   II  ](https://leetcode-cn.com/problems/the-maze-ii)  |
+| 506   | [相对名次  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0506%5D%20Relative%20Ranks.md)| [相对名次  ](https://leetcode-cn.com/problems/relative-ranks) |
+| 507   | [完美数  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0507%5D%20Perfect%20Number.md)| [完美数  ](https://leetcode-cn.com/problems/perfect-number)  |
+| 508   | [出现次数最多的子树元素和  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0508%5D%20Most%20Frequent%20Subtree%20Sum.md)| [出现次数最多的子树元素和  ](https://leetcode-cn.com/problems/most-frequent-subtree-sum) |
+| 509   | [斐波那契数  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0509%5D%20Fibonacci%20Number.md)| [斐波那契数  ](https://leetcode-cn.com/problems/fibonacci-number) |
+| 510   | [二叉搜索树中的中序后继   II  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0510%5D%20Inorder%20Successor%20in%20BST%20II.md)| [二叉搜索树中的中序后继 II  ](https://leetcode-cn.com/problems/inorder-successor-in-bst-ii) |
+| 511   | [游戏玩法分析 I  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0511%5D%20Game%20Play%20Analysis%20I.md)| [游戏玩法分析 I  ](https://leetcode-cn.com/problems/game-play-analysis-i) |
+| 512   | [游戏玩法分析 II  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0512%5D%20Game%20Play%20Analysis%20II.md)| [游戏玩法分析 II  ](https://leetcode-cn.com/problems/game-play-analysis-ii) |
+| 513   | [找树左下角的值  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0513%5D%20Find%20Bottom%20Left%20Tree%20Value.md)| [找树左下角的值  ](https://leetcode-cn.com/problems/find-bottom-left-tree-value) |
+| 514   | [自由之路  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0514%5D%20Freedom%20Trail.md)| [自由之路  ](https://leetcode-cn.com/problems/freedom-trail) |
+| 515   | [在每个树行中找最大值  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0515%5D%20Find%20Largest%20Value%20in%20Each%20Tree%20Row.md)| [在每个树行中找最大值  ](https://leetcode-cn.com/problems/find-largest-value-in-each-tree-row) |
+| 516   | [最长回文子序列  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0516%5D%20Longest%20Palindromic%20Subsequence.md)| [最长回文子序列  ](https://leetcode-cn.com/problems/longest-palindromic-subsequence) |
+| 517   | [超级洗衣机  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0517%5D%20Super%20Washing%20Machines.md)| [超级洗衣机  ](https://leetcode-cn.com/problems/super-washing-machines) |
+| 518   | [零钱兑换 II  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0518%5D%20Coin%20Change%202.md)| [零钱兑换   II  ](https://leetcode-cn.com/problems/coin-change-2) |
+| 519   | [随机翻转矩阵  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0519%5D%20Random%20Flip%20Matrix.md)| [随机翻转矩阵  ](https://leetcode-cn.com/problems/random-flip-matrix) |
+| 520   | [检测大写字母  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0520%5D%20Detect%20Capital.md)| [检测大写字母  ](https://leetcode-cn.com/problems/detect-capital) |
+| 521   | [最长特殊序列   Ⅰ  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0521%5D%20Longest%20Uncommon%20Subsequence%20I%20.md)| [最长特殊序列 Ⅰ  ](https://leetcode-cn.com/problems/longest-uncommon-subsequence-i) |
+| 522   | [最长特殊序列   II  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0522%5D%20Longest%20Uncommon%20Subsequence%20II.md)| [最长特殊序列 II  ](https://leetcode-cn.com/problems/longest-uncommon-subsequence-ii) |
+| 523   | [连续的子数组和  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0523%5D%20Continuous%20Subarray%20Sum.md)| [连续的子数组和  ](https://leetcode-cn.com/problems/continuous-subarray-sum) |
+| 524   | [通过删除字母匹配到字典里最长单词  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0524%5D%20Longest%20Word%20in%20Dictionary%20through%20Deleting.md)| [通过删除字母匹配到字典里最长单词  ](https://leetcode-cn.com/problems/longest-word-in-dictionary-through-deleting) |
+| 525   | [连续数组  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0525%5D%20Contiguous%20Array.md)| [连续数组  ](https://leetcode-cn.com/problems/contiguous-array) |
+| 526   | [优美的排列  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0526%5D%20Beautiful%20Arrangement.md)| [优美的排列  ](https://leetcode-cn.com/problems/beautiful-arrangement) |
+| 527   | [单词缩写  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0527%5D%20Word%20Abbreviation.md)| [单词缩写  ](https://leetcode-cn.com/problems/word-abbreviation) |
+| 528   | [按权重随机选择  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0528%5D%20Random%20Pick%20with%20Weight.md)| [按权重随机选择  ](https://leetcode-cn.com/problems/random-pick-with-weight) |
+| 529   | [扫雷游戏  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0529%5D%20Minesweeper.md)| [扫雷游戏  ](https://leetcode-cn.com/problems/minesweeper)   |
+| 530   | [二叉搜索树的最小绝对差  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0530%5D%20Minimum%20Absolute%20Difference%20in%20BST.md)| [二叉搜索树的最小绝对差  ](https://leetcode-cn.com/problems/minimum-absolute-difference-in-bst) |
+| 531   | [孤独像素 I  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0531%5D%20Lonely%20Pixel%20I.md)| [孤独像素   I  ](https://leetcode-cn.com/problems/lonely-pixel-i) |
+| 532   | [数组中的K-diff数对  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0532%5D%20K-diff%20Pairs%20in%20an%20Array.md)| [数组中的K-diff数对  ](https://leetcode-cn.com/problems/k-diff-pairs-in-an-array) |
+| 533   | [孤独像素 II  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0533%5D%20Lonely%20Pixel%20II.md)| [孤独像素   II  ](https://leetcode-cn.com/problems/lonely-pixel-ii) |
+| 534   | [游戏玩法分析 III  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0534%5D%20Game%20Play%20Analysis%20III.md)| [游戏玩法分析 III  ](https://leetcode-cn.com/problems/game-play-analysis-iii) |
+| 535   | [TinyURL   的加密与解密  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0535%5D%20Encode%20and%20Decode%20TinyURL.md)| [TinyURL 的加密与解密  ](https://leetcode-cn.com/problems/encode-and-decode-tinyurl) |
+| 536   | [从字符串生成二叉树  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0536%5D%20Construct%20Binary%20Tree%20from%20String.md)| [从字符串生成二叉树  ](https://leetcode-cn.com/problems/construct-binary-tree-from-string) |
+| 537   | [复数乘法  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0537%5D%20Complex%20Number%20Multiplication.md)| [复数乘法  ](https://leetcode-cn.com/problems/complex-number-multiplication) |
+| 538   | [把二叉搜索树转换为累加树  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0538%5D%20Convert%20BST%20to%20Greater%20Tree.md)| [把二叉搜索树转换为累加树  ](https://leetcode-cn.com/problems/convert-bst-to-greater-tree) |
+| 539   | [最小时间差  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0539%5D%20Minimum%20Time%20Difference.md)| [最小时间差  ](https://leetcode-cn.com/problems/minimum-time-difference) |
+| 540   | [有序数组中的单一元素  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0540%5D%20Single%20Element%20in%20a%20Sorted%20Array.md)| [有序数组中的单一元素  ](https://leetcode-cn.com/problems/single-element-in-a-sorted-array) |
+| 541   | [反转字符串 II  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0541%5D%20Reverse%20String%20II.md)| [反转字符串   II  ](https://leetcode-cn.com/problems/reverse-string-ii) |
+| 542   | [01 矩阵  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0542%5D%2001%20Matrix.md)| [01   矩阵  ](https://leetcode-cn.com/problems/01-matrix)    |
+| 543   | [二叉树的直径  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0543%5D%20Diameter%20of%20Binary%20Tree.md)| [二叉树的直径  ](https://leetcode-cn.com/problems/diameter-of-binary-tree) |
+| 544   | [输出比赛匹配对  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0544%5D%20Output%20Contest%20Matches.md)| [输出比赛匹配对  ](https://leetcode-cn.com/problems/output-contest-matches) |
+| 545   | [二叉树的边界  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0545%5D%20Boundary%20of%20Binary%20Tree.md)| [二叉树的边界  ](https://leetcode-cn.com/problems/boundary-of-binary-tree) |
+| 546   | [移除盒子  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0546%5D%20Remove%20Boxes.md)| [移除盒子  ](https://leetcode-cn.com/problems/remove-boxes)  |
+| 547   | [朋友圈  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0547%5D%20Friend%20Circles.md)| [朋友圈  ](https://leetcode-cn.com/problems/friend-circles)  |
+| 548   | [将数组分割成和相等的子数组  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0548%5D%20Split%20Array%20with%20Equal%20Sum.md)| [将数组分割成和相等的子数组  ](https://leetcode-cn.com/problems/split-array-with-equal-sum) |
+| 549   | [二叉树中最长的连续序列  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0549%5D%20Binary%20Tree%20Longest%20Consecutive%20Sequence%20II.md)| [二叉树中最长的连续序列  ](https://leetcode-cn.com/problems/binary-tree-longest-consecutive-sequence-ii) |
+| 550   | [游戏玩法分析 IV  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0550%5D%20Game%20Play%20Analysis%20IV.md)| [游戏玩法分析 IV  ](https://leetcode-cn.com/problems/game-play-analysis-iv) |
+| 551   | [学生出勤记录 I  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0551%5D%20Student%20Attendance%20Record%20I.md)| [学生出勤记录 I  ](https://leetcode-cn.com/problems/student-attendance-record-i) |
+| 552   | [学生出勤记录   II  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0552%5D%20Student%20Attendance%20Record%20II.md)| [学生出勤记录 II  ](https://leetcode-cn.com/problems/student-attendance-record-ii) |
+| 553   | [最优除法  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0553%5D%20Optimal%20Division.md)| [最优除法  ](https://leetcode-cn.com/problems/optimal-division) |
+| 554   | [砖墙  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0554%5D%20Brick%20Wall.md)| [砖墙  ](https://leetcode-cn.com/problems/brick-wall)        |
+| 555   | [分割连接字符串  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0555%5D%20Split%20Concatenated%20Strings.md)| [分割连接字符串  ](https://leetcode-cn.com/problems/split-concatenated-strings) |
+| 556   | [下一个更大元素 III  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0556%5D%20Next%20Greater%20Element%20III.md)| [下一个更大元素 III  ](https://leetcode-cn.com/problems/next-greater-element-iii) |
+| 557   | [反转字符串中的单词   III  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0557%5D%20Reverse%20Words%20in%20a%20String%20III.md)| [反转字符串中的单词 III  ](https://leetcode-cn.com/problems/reverse-words-in-a-string-iii) |
+| 558   | [四叉树交集  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0558%5D%20Quad%20Tree%20Intersection.md)| [四叉树交集  ](https://leetcode-cn.com/problems/quad-tree-intersection) |
+| 559   | [N叉树的最大深度  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0559%5D%20Maximum%20Depth%20of%20N-ary%20Tree.md)| [N叉树的最大深度  ](https://leetcode-cn.com/problems/maximum-depth-of-n-ary-tree) |
+| 560   | [和为K的子数组  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0560%5D%20Subarray%20Sum%20Equals%20K.md)| [和为K的子数组  ](https://leetcode-cn.com/problems/subarray-sum-equals-k) |
+| 561   | [数组拆分 I  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0561%5D%20Array%20Partition%20I.md)| [数组拆分   I  ](https://leetcode-cn.com/problems/array-partition-i) |
+| 562   | [矩阵中最长的连续1线段  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0562%5D%20Longest%20Line%20of%20Consecutive%20One%20in%20Matrix.md)| [矩阵中最长的连续1线段  ](https://leetcode-cn.com/problems/longest-line-of-consecutive-one-in-matrix) |
+| 563   | [二叉树的坡度  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0563%5D%20Binary%20Tree%20Tilt.md)| [二叉树的坡度  ](https://leetcode-cn.com/problems/binary-tree-tilt) |
+| 564   | [寻找最近的回文数  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0564%5D%20Find%20the%20Closest%20Palindrome.md)| [寻找最近的回文数  ](https://leetcode-cn.com/problems/find-the-closest-palindrome) |
+| 565   | [数组嵌套  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0565%5D%20Array%20Nesting.md)| [数组嵌套  ](https://leetcode-cn.com/problems/array-nesting) |
+| 566   | [重塑矩阵  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0566%5D%20Reshape%20the%20Matrix.md)| [重塑矩阵  ](https://leetcode-cn.com/problems/reshape-the-matrix) |
+| 567   | [字符串的排列  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0567%5D%20Permutation%20in%20String.md)| [字符串的排列  ](https://leetcode-cn.com/problems/permutation-in-string) |
+| 568   | [最大休假天数  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0568%5D%20Maximum%20Vacation%20Days.md)| [最大休假天数  ](https://leetcode-cn.com/problems/maximum-vacation-days) |
+| 569   | [员工薪水中位数  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0569%5D%20Median%20Employee%20Salary.md)| [员工薪水中位数  ](https://leetcode-cn.com/problems/median-employee-salary) |
+| 570   | [至少有5名直接下属的经理  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0570%5D%20Managers%20with%20at%20Least%205%20Direct%20Reports.md)| [至少有5名直接下属的经理  ](https://leetcode-cn.com/problems/managers-with-at-least-5-direct-reports) |
+| 571   | [给定数字的频率查询中位数  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0571%5D%20Find%20Median%20Given%20Frequency%20of%20Numbers.md)| [给定数字的频率查询中位数  ](https://leetcode-cn.com/problems/find-median-given-frequency-of-numbers) |
+| 572   | [另一个树的子树  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0572%5D%20Subtree%20of%20Another%20Tree.md)| [另一个树的子树  ](https://leetcode-cn.com/problems/subtree-of-another-tree) |
+| 573   | [松鼠模拟  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0573%5D%20Squirrel%20Simulation.md)| [松鼠模拟  ](https://leetcode-cn.com/problems/squirrel-simulation) |
+| 574   | [当选者  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0574%5D%20Winning%20Candidate.md)| [当选者  ](https://leetcode-cn.com/problems/winning-candidate) |
+| 575   | [分糖果  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0575%5D%20Distribute%20Candies.md)| [分糖果  ](https://leetcode-cn.com/problems/distribute-candies) |
+| 576   | [出界的路径数  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0576%5D%20Out%20of%20Boundary%20Paths.md)| [出界的路径数  ](https://leetcode-cn.com/problems/out-of-boundary-paths) |
+| 577   | [员工奖金  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0577%5D%20Employee%20Bonus.md)| [员工奖金  ](https://leetcode-cn.com/problems/employee-bonus) |
+| 578   | [查询回答率最高的问题  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0578%5D%20Get%20Highest%20Answer%20Rate%20Question.md)| [查询回答率最高的问题  ](https://leetcode-cn.com/problems/get-highest-answer-rate-question) |
+| 579   | [查询员工的累计薪水  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0579%5D%20Find%20Cumulative%20Salary%20of%20an%20Employee.md)| [查询员工的累计薪水  ](https://leetcode-cn.com/problems/find-cumulative-salary-of-an-employee) |
+| 580   | [统计各专业学生人数  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0580%5D%20Count%20Student%20Number%20in%20Departments.md)| [统计各专业学生人数  ](https://leetcode-cn.com/problems/count-student-number-in-departments) |
+| 581   | [最短无序连续子数组  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0581%5D%20Shortest%20Unsorted%20Continuous%20Subarray.md)| [最短无序连续子数组  ](https://leetcode-cn.com/problems/shortest-unsorted-continuous-subarray) |
+| 582   | [杀死进程  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0582%5D%20Kill%20Process.md)| [杀死进程  ](https://leetcode-cn.com/problems/kill-process)  |
+| 583   | [两个字符串的删除操作  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0583%5D%20Delete%20Operation%20for%20Two%20Strings.md)| [两个字符串的删除操作  ](https://leetcode-cn.com/problems/delete-operation-for-two-strings) |
+| 584   | [寻找用户推荐人  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0584%5D%20Find%20Customer%20Referee.md)| [寻找用户推荐人  ](https://leetcode-cn.com/problems/find-customer-referee) |
+| 585   | [2016年的投资  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0585%5D%20Investments%20in%202016.md)| [2016年的投资  ](https://leetcode-cn.com/problems/investments-in-2016) |
+| 586   | [订单最多的客户  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0586%5D%20Customer%20Placing%20the%20Largest%20Number%20of%20Orders.md)| [订单最多的客户  ](https://leetcode-cn.com/problems/customer-placing-the-largest-number-of-orders) |
+| 587   | [安装栅栏  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0587%5D%20Erect%20the%20Fence.md)| [安装栅栏  ](https://leetcode-cn.com/problems/erect-the-fence) |
+| 588   | [设计内存文件系统  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0588%5D%20Design%20In-Memory%20File%20System.md)| [设计内存文件系统  ](https://leetcode-cn.com/problems/design-in-memory-file-system) |
+| 589   | [N叉树的前序遍历  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0589%5D%20N-ary%20Tree%20Preorder%20Traversal.md)| [N叉树的前序遍历  ](https://leetcode-cn.com/problems/n-ary-tree-preorder-traversal) |
+| 590   | [N叉树的后序遍历  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0590%5D%20N-ary%20Tree%20Postorder%20Traversal.md)| [N叉树的后序遍历  ](https://leetcode-cn.com/problems/n-ary-tree-postorder-traversal) |
+| 591   | [标签验证器  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0591%5D%20Tag%20Validator.md)| [标签验证器  ](https://leetcode-cn.com/problems/tag-validator) |
+| 592   | [分数加减运算  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0592%5D%20Fraction%20Addition%20and%20Subtraction.md)| [分数加减运算  ](https://leetcode-cn.com/problems/fraction-addition-and-subtraction) |
+| 593   | [有效的正方形  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0593%5D%20Valid%20Square.md)| [有效的正方形  ](https://leetcode-cn.com/problems/valid-square) |
+| 594   | [最长和谐子序列  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0594%5D%20Longest%20Harmonious%20Subsequence.md)| [最长和谐子序列  ](https://leetcode-cn.com/problems/longest-harmonious-subsequence) |
+| 595   | [大的国家  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0595%5D%20Big%20Countries.md)| [大的国家  ](https://leetcode-cn.com/problems/big-countries) |
+| 596   | [超过5名学生的课  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0596%5D%20Classes%20More%20Than%205%20Students.md)| [超过5名学生的课  ](https://leetcode-cn.com/problems/classes-more-than-5-students) |
+| 597   | [好友申请   I ：总体通过率  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0597%5D%20Friend%20Requests%20I-Overall%20Acceptance%20Rate.md)| [好友申请 I ：总体通过率  ](https://leetcode-cn.com/problems/friend-requests-i-overall-acceptance-rate) |
+| 598   | [范围求和 II  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0598%5D%20Range%20Addition%20II.md)| [范围求和   II  ](https://leetcode-cn.com/problems/range-addition-ii) |
+| 599   | [两个列表的最小索引总和  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0599%5D%20Minimum%20Index%20Sum%20of%20Two%20Lists.md)| [两个列表的最小索引总和  ](https://leetcode-cn.com/problems/minimum-index-sum-of-two-lists) |
+| 600   | [不含连续1的非负整数  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0600%5D%20Non-negative%20Integers%20without%20Consecutive%20Ones.md)| [不含连续1的非负整数  ](https://leetcode-cn.com/problems/non-negative-integers-without-consecutive-ones) |
+| 601   | [体育馆的人流量  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0601%5D%20Human%20Traffic%20of%20Stadium.md)| [体育馆的人流量  ](https://leetcode-cn.com/problems/human-traffic-of-stadium) |
+| 602   | [好友申请   II ：谁有最多的好友  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0602%5D%20Friend%20Requests%20II%20-%20who%20Has%20the%20Most%20Friends.md)| [好友申请 II ：谁有最多的好友  ](https://leetcode-cn.com/problems/friend-requests-ii-who-has-the-most-friends) |
+| 603   | [连续空余座位  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0603%5D%20Consecutive%20Available%20Seats.md)| [连续空余座位  ](https://leetcode-cn.com/problems/consecutive-available-seats) |
+| 604   | [迭代压缩字符串  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0604%5D%20Design%20Compressed%20String%20Iterator.md)| [迭代压缩字符串  ](https://leetcode-cn.com/problems/design-compressed-string-iterator) |
+| 605   | [种花问题  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0605%5D%20Can%20Place%20Flowers.md)| [种花问题  ](https://leetcode-cn.com/problems/can-place-flowers) |
+| 606   | [根据二叉树创建字符串  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0606%5D%20Construct%20String%20from%20Binary%20Tree.md)| [根据二叉树创建字符串  ](https://leetcode-cn.com/problems/construct-string-from-binary-tree) |
+| 607   | [销售员  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0607%5D%20Sales%20Person.md)| [销售员  ](https://leetcode-cn.com/problems/sales-person)    |
+| 608   | [树节点  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0608%5D%20Tree%20Node.md)| [树节点  ](https://leetcode-cn.com/problems/tree-node)       |
+| 609   | [在系统中查找重复文件  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0609%5D%20Find%20Duplicate%20File%20in%20System.md)| [在系统中查找重复文件  ](https://leetcode-cn.com/problems/find-duplicate-file-in-system) |
+| 610   | [判断三角形  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0610%5D%20Triangle%20Judgement.md)| [判断三角形  ](https://leetcode-cn.com/problems/triangle-judgement) |
+| 611   | [有效三角形的个数  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0611%5D%20Valid%20Triangle%20Number.md)| [有效三角形的个数  ](https://leetcode-cn.com/problems/valid-triangle-number) |
+| 612   | [平面上的最近距离  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0612%5D%20Shortest%20Distance%20in%20a%20Plane.md)| [平面上的最近距离  ](https://leetcode-cn.com/problems/shortest-distance-in-a-plane) |
+| 613   | [直线上的最近距离  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0613%5D%20Shortest%20Distance%20in%20a%20Line.md)| [直线上的最近距离  ](https://leetcode-cn.com/problems/shortest-distance-in-a-line) |
+| 614   | [二级关注者  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0614%5D%20Second%20Degree%20Follower.md)| [二级关注者  ](https://leetcode-cn.com/problems/second-degree-follower) |
+| 615   | [平均工资：部门与公司比较  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0615%5D%20Average%20Salary%20-%20Departments%20VS%20Company.md)| [平均工资：部门与公司比较  ](https://leetcode-cn.com/problems/average-salary-departments-vs-company) |
+| 616   | [给字符串添加加粗标签  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0616%5D%20Add%20Bold%20Tag%20in%20String.md)| [给字符串添加加粗标签  ](https://leetcode-cn.com/problems/add-bold-tag-in-string) |
+| 617   | [合并二叉树  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0617%5D%20Merge%20Two%20Binary%20Trees.md)| [合并二叉树  ](https://leetcode-cn.com/problems/merge-two-binary-trees) |
+| 618   | [学生地理信息报告  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0618%5D%20Students%20Report%20By%20Geography.md)| [学生地理信息报告  ](https://leetcode-cn.com/problems/students-report-by-geography) |
+| 619   | [只出现一次的最大数字  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0619%5D%20Biggest%20Single%20Number.md)| [只出现一次的最大数字  ](https://leetcode-cn.com/problems/biggest-single-number) |
+| 620   | [有趣的电影  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0620%5D%20Not%20Boring%20Movies.md)| [有趣的电影  ](https://leetcode-cn.com/problems/not-boring-movies) |
+| 621   | [任务调度器  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0621%5D%20Task%20Scheduler.md)| [任务调度器  ](https://leetcode-cn.com/problems/task-scheduler) |
+| 622   | [设计循环队列  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0622%5D%20Design%20Circular%20Queue.md)| [设计循环队列  ](https://leetcode-cn.com/problems/design-circular-queue) |
+| 623   | [在二叉树中增加一行  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0623%5D%20Add%20One%20Row%20to%20Tree.md)| [在二叉树中增加一行  ](https://leetcode-cn.com/problems/add-one-row-to-tree) |
+| 624   | [数组列表中的最大距离  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0624%5D%20Maximum%20Distance%20in%20Arrays.md)| [数组列表中的最大距离  ](https://leetcode-cn.com/problems/maximum-distance-in-arrays) |
+| 625   | [最小因式分解  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0625%5D%20Minimum%20Factorization.md)| [最小因式分解  ](https://leetcode-cn.com/problems/minimum-factorization) |
+| 626   | [换座位  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0626%5D%20Exchange%20Seats.md)| [换座位  ](https://leetcode-cn.com/problems/exchange-seats)  |
+| 627   | [交换工资  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0627%5D%20Swap%20Salary.md)| [交换工资  ](https://leetcode-cn.com/problems/swap-salary)   |
+| 628   | [三个数的最大乘积  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0628%5D%20Maximum%20Product%20of%20Three%20Numbers.md)| [三个数的最大乘积  ](https://leetcode-cn.com/problems/maximum-product-of-three-numbers) |
+| 629   | [K个逆序对数组  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0629%5D%20K%20Inverse%20Pairs%20Array.md)| [K个逆序对数组  ](https://leetcode-cn.com/problems/k-inverse-pairs-array) |
+| 630   | [课程表 III  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0630%5D%20Course%20Schedule%20III.md)| [课程表   III  ](https://leetcode-cn.com/problems/course-schedule-iii) |
+| 631   | [设计 Excel   求和公式  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0631%5D%20Design%20Excel%20Sum%20Formula.md)| [设计 Excel 求和公式  ](https://leetcode-cn.com/problems/design-excel-sum-formula) |
+| 632   | [最小区间  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0632%5D%20Smallest%20Range%20Covering%20Elements%20from%20K%20Lists.md)| [最小区间  ](https://leetcode-cn.com/problems/smallest-range-covering-elements-from-k-lists) |
+| 633   | [平方数之和  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0633%5D%20Sum%20of%20Square%20Numbers.md)| [平方数之和  ](https://leetcode-cn.com/problems/sum-of-square-numbers) |
+| 634   | [寻找数组的错位排列  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0634%5D%20Find%20the%20Derangement%20of%20An%20Array.md)| [寻找数组的错位排列  ](https://leetcode-cn.com/problems/find-the-derangement-of-an-array) |
+| 635   | [设计日志存储系统  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0635%5D%20Design%20Log%20Storage%20System.md)| [设计日志存储系统  ](https://leetcode-cn.com/problems/design-log-storage-system) |
+| 636   | [函数的独占时间  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0636%5D%20Exclusive%20Time%20of%20Functions.md)| [函数的独占时间  ](https://leetcode-cn.com/problems/exclusive-time-of-functions) |
+| 637   | [二叉树的层平均值  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0637%5D%20Average%20of%20Levels%20in%20Binary%20Tree.md)| [二叉树的层平均值  ](https://leetcode-cn.com/problems/average-of-levels-in-binary-tree) |
+| 638   | [大礼包  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0638%5D%20Shopping%20Offers.md)| [大礼包  ](https://leetcode-cn.com/problems/shopping-offers) |
+| 639   | [解码方法 2  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0639%5D%20Decode%20Ways%20II.md)| [解码方法   2  ](https://leetcode-cn.com/problems/decode-ways-ii) |
+| 640   | [求解方程  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0640%5D%20Solve%20the%20Equation.md)| [求解方程  ](https://leetcode-cn.com/problems/solve-the-equation) |
+| 641   | [设计循环双端队列  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0641%5D%20Design%20Circular%20Deque.md)| [设计循环双端队列  ](https://leetcode-cn.com/problems/design-circular-deque) |
+| 642   | [设计搜索自动补全系统  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0642%5D%20Design%20Search%20Autocomplete%20System.md)| [设计搜索自动补全系统  ](https://leetcode-cn.com/problems/design-search-autocomplete-system) |
+| 643   | [子数组最大平均数 I  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0643%5D%20Maximum%20Average%20Subarray%20I.md)| [子数组最大平均数 I  ](https://leetcode-cn.com/problems/maximum-average-subarray-i) |
+| 644   | [最大平均子段和   II  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0644%5D%20Maximum%20Average%20Subarray%20II.md)| [最大平均子段和 II  ](https://leetcode-cn.com/problems/maximum-average-subarray-ii) |
+| 645   | [错误的集合  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0645%5D%20Set%20Mismatch.md)| [错误的集合  ](https://leetcode-cn.com/problems/set-mismatch) |
+| 646   | [最长数对链  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0646%5D%20Maximum%20Length%20of%20Pair%20Chain.md)| [最长数对链  ](https://leetcode-cn.com/problems/maximum-length-of-pair-chain) |
+| 647   | [回文子串  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0647%5D%20Palindromic%20Substrings.md)| [回文子串  ](https://leetcode-cn.com/problems/palindromic-substrings) |
+| 648   | [单词替换  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0648%5D%20Replace%20Words.md)| [单词替换  ](https://leetcode-cn.com/problems/replace-words) |
+| 649   | [Dota2 参议院  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0649%5D%20Dota2%20Senate.md)| [Dota2   参议院  ](https://leetcode-cn.com/problems/dota2-senate) |
+| 650   | [只有两个键的键盘  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0650%5D%202%20Keys%20Keyboard.md)| [只有两个键的键盘  ](https://leetcode-cn.com/problems/2-keys-keyboard) |
+| 651   | [4键键盘  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0651%5D%204%20Keys%20Keyboard.md)| [4键键盘  ](https://leetcode-cn.com/problems/4-keys-keyboard) |
+| 652   | [寻找重复的子树  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0652%5D%20Find%20Duplicate%20Subtrees.md)| [寻找重复的子树  ](https://leetcode-cn.com/problems/find-duplicate-subtrees) |
+| 653   | [两数之和 IV -   输入 BST  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0653%5D%20Two%20Sum%20IV%20-%20Input%20is%20a%20BST.md)| [两数之和 IV - 输入 BST  ](https://leetcode-cn.com/problems/two-sum-iv-input-is-a-bst) |
+| 654   | [最大二叉树  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0654%5D%20Maximum%20Binary%20Tree.md)| [最大二叉树  ](https://leetcode-cn.com/problems/maximum-binary-tree) |
+| 655   | [输出二叉树  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0655%5D%20Print%20Binary%20Tree.md)| [输出二叉树  ](https://leetcode-cn.com/problems/print-binary-tree) |
+| 656   | [金币路径  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0656%5D%20Coin%20Path.md)| [金币路径  ](https://leetcode-cn.com/problems/coin-path)     |
+| 657   | [机器人能否返回原点  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0657%5D%20Robot%20Return%20to%20Origin.md)| [机器人能否返回原点  ](https://leetcode-cn.com/problems/robot-return-to-origin) |
+| 658   | [找到 K 个最接近的元素  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0658%5D%20Find%20K%20Closest%20Elements.md)| [找到 K 个最接近的元素  ](https://leetcode-cn.com/problems/find-k-closest-elements) |
+| 659   | [分割数组为连续子序列  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0659%5D%20Split%20Array%20into%20Consecutive%20Subsequences.md)| [分割数组为连续子序列  ](https://leetcode-cn.com/problems/split-array-into-consecutive-subsequences) |
+| 660   | [移除 9  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0660%5D%20Remove%209.md)| [移除   9  ](https://leetcode-cn.com/problems/remove-9)      |
+| 661   | [图片平滑器  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0661%5D%20Image%20Smoother.md)| [图片平滑器  ](https://leetcode-cn.com/problems/image-smoother) |
+| 662   | [二叉树最大宽度  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0662%5D%20Maximum%20Width%20of%20Binary%20Tree.md)| [二叉树最大宽度  ](https://leetcode-cn.com/problems/maximum-width-of-binary-tree) |
+| 663   | [均匀树划分  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0663%5D%20Equal%20Tree%20Partition.md)| [均匀树划分  ](https://leetcode-cn.com/problems/equal-tree-partition) |
+| 664   | [奇怪的打印机  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0664%5D%20Strange%20Printer.md)| [奇怪的打印机  ](https://leetcode-cn.com/problems/strange-printer) |
+| 665   | [非递减数列  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0665%5D%20Non-decreasing%20Array.md)| [非递减数列  ](https://leetcode-cn.com/problems/non-decreasing-array) |
+| 666   | [路径和 IV  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0666%5D%20Path%20Sum%20IV.md)| [路径和   IV  ](https://leetcode-cn.com/problems/path-sum-iv) |
+| 667   | [优美的排列 II  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0667%5D%20Beautiful%20Arrangement%20II.md)| [优美的排列 II  ](https://leetcode-cn.com/problems/beautiful-arrangement-ii) |
+| 668   | [乘法表中第k小的数  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0668%5D%20Kth%20Smallest%20Number%20in%20Multiplication%20Table.md)| [乘法表中第k小的数  ](https://leetcode-cn.com/problems/kth-smallest-number-in-multiplication-table) |
+| 669   | [修剪二叉搜索树  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0669%5D%20Trim%20a%20Binary%20Search%20Tree.md)| [修剪二叉搜索树  ](https://leetcode-cn.com/problems/trim-a-binary-search-tree) |
+| 670   | [最大交换  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0670%5D%20Maximum%20Swap.md)| [最大交换  ](https://leetcode-cn.com/problems/maximum-swap)  |
+| 671   | [二叉树中第二小的节点  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0671%5D%20Second%20Minimum%20Node%20In%20a%20Binary%20Tree.md)| [二叉树中第二小的节点  ](https://leetcode-cn.com/problems/second-minimum-node-in-a-binary-tree) |
+| 672   | [灯泡开关 Ⅱ  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0672%5D%20Bulb%20Switcher%20II.md)| [灯泡开关   Ⅱ  ](https://leetcode-cn.com/problems/bulb-switcher-ii) |
+| 673   | [最长递增子序列的个数  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0673%5D%20Number%20of%20Longest%20Increasing%20Subsequence.md)| [最长递增子序列的个数  ](https://leetcode-cn.com/problems/number-of-longest-increasing-subsequence) |
+| 674   | [最长连续递增序列  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0674%5D%20Longest%20Continuous%20Increasing%20Subsequence.md)| [最长连续递增序列  ](https://leetcode-cn.com/problems/longest-continuous-increasing-subsequence) |
+| 675   | [为高尔夫比赛砍树  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0675%5D%20Cut%20Off%20Trees%20for%20Golf%20Event.md)| [为高尔夫比赛砍树  ](https://leetcode-cn.com/problems/cut-off-trees-for-golf-event) |
+| 676   | [实现一个魔法字典  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0676%5D%20Implement%20Magic%20Dictionary.md)| [实现一个魔法字典  ](https://leetcode-cn.com/problems/implement-magic-dictionary) |
+| 677   | [键值映射  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0677%5D%20Map%20Sum%20Pairs.md)| [键值映射  ](https://leetcode-cn.com/problems/map-sum-pairs) |
+| 678   | [有效的括号字符串  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0678%5D%20Valid%20Parenthesis%20String.md)| [有效的括号字符串  ](https://leetcode-cn.com/problems/valid-parenthesis-string) |
+| 679   | [24 点游戏  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0679%5D%2024%20Game.md)| [24   点游戏  ](https://leetcode-cn.com/problems/24-game)    |
+| 680   | [验证回文字符串 Ⅱ  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0680%5D%20Valid%20Palindrome%20II.md)| [验证回文字符串   Ⅱ  ](https://leetcode-cn.com/problems/valid-palindrome-ii) |
+| 681   | [最近时刻  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0681%5D%20Next%20Closest%20Time.md)| [最近时刻  ](https://leetcode-cn.com/problems/next-closest-time) |
+| 682   | [棒球比赛  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0682%5D%20Baseball%20Game.md)| [棒球比赛  ](https://leetcode-cn.com/problems/baseball-game) |
+| 683   | [K 个空花盆  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0683%5D%20K%20Empty%20Slots.md)| [K   个空花盆  ](https://leetcode-cn.com/problems/k-empty-slots) |
+| 684   | [冗余连接  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0684%5D%20Redundant%20Connection.md)| [冗余连接  ](https://leetcode-cn.com/problems/redundant-connection) |
+| 685   | [冗余连接 II  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0685%5D%20Redundant%20Connection%20II.md)| [冗余连接 II  ](https://leetcode-cn.com/problems/redundant-connection-ii) |
+| 686   | [重复叠加字符串匹配  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0686%5D%20Repeated%20String%20Match.md)| [重复叠加字符串匹配  ](https://leetcode-cn.com/problems/repeated-string-match) |
+| 687   | [最长同值路径  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0687%5D%20Longest%20Univalue%20Path.md)| [最长同值路径  ](https://leetcode-cn.com/problems/longest-univalue-path) |
+| 688   | [“马”在棋盘上的概率  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0688%5D%20Knight%20Probability%20in%20Chessboard.md)| [“马”在棋盘上的概率  ](https://leetcode-cn.com/problems/knight-probability-in-chessboard) |
+| 689   | [三个无重叠子数组的最大和  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0689%5D%20Maximum%20Sum%20of%203%20Non-Overlapping%20Subarrays.md)| [三个无重叠子数组的最大和  ](https://leetcode-cn.com/problems/maximum-sum-of-3-non-overlapping-subarrays) |
+| 690   | [员工的重要性  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0690%5D%20Employee%20Importance.md)| [员工的重要性  ](https://leetcode-cn.com/problems/employee-importance) |
+| 691   | [贴纸拼词  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0691%5D%20Stickers%20to%20Spell%20Word.md)| [贴纸拼词  ](https://leetcode-cn.com/problems/stickers-to-spell-word) |
+| 692   | [前K个高频单词  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0692%5D%20Top%20K%20Frequent%20Words.md)| [前K个高频单词  ](https://leetcode-cn.com/problems/top-k-frequent-words) |
+| 693   | [交替位二进制数  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0693%5D%20Binary%20Number%20with%20Alternating%20Bits.md)| [交替位二进制数  ](https://leetcode-cn.com/problems/binary-number-with-alternating-bits) |
+| 694   | [不同岛屿的数量  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0694%5D%20Number%20of%20Distinct%20Islands.md)| [不同岛屿的数量  ](https://leetcode-cn.com/problems/number-of-distinct-islands) |
+| 695   | [岛屿的最大面积  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0695%5D%20Max%20Area%20of%20Island.md)| [岛屿的最大面积  ](https://leetcode-cn.com/problems/max-area-of-island) |
+| 696   | [计数二进制子串  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0696%5D%20Count%20Binary%20Substrings.md)| [计数二进制子串  ](https://leetcode-cn.com/problems/count-binary-substrings) |
+| 697   | [数组的度  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0697%5D%20Degree%20of%20an%20Array.md)| [数组的度  ](https://leetcode-cn.com/problems/degree-of-an-array) |
+| 698   | [划分为k个相等的子集  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0698%5D%20Partition%20to%20K%20Equal%20Sum%20Subsets.md)| [划分为k个相等的子集  ](https://leetcode-cn.com/problems/partition-to-k-equal-sum-subsets) |
+| 699   | [掉落的方块  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0699%5D%20Falling%20Squares.md)| [掉落的方块  ](https://leetcode-cn.com/problems/falling-squares) |
+| 700   | [二叉搜索树中的搜索  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0700%5D%20Search%20in%20a%20Binary%20Search%20Tree.md)| [二叉搜索树中的搜索  ](https://leetcode-cn.com/problems/search-in-a-binary-search-tree) |
+| 701   | [二叉搜索树中的插入操作  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0701%5D%20Insert%20into%20a%20Binary%20Search%20Tree.md)| [二叉搜索树中的插入操作  ](https://leetcode-cn.com/problems/insert-into-a-binary-search-tree) |
+| 702   | [搜索长度未知的有序数组  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0702%5D%20Search%20in%20a%20Sorted%20Array%20of%20Unknown%20Size.md)| [搜索长度未知的有序数组  ](https://leetcode-cn.com/problems/search-in-a-sorted-array-of-unknown-size) |
+| 703   | [数据流中的第K大元素  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0703%5D%20Kth%20Largest%20Element%20in%20a%20Stream.md)| [数据流中的第K大元素  ](https://leetcode-cn.com/problems/kth-largest-element-in-a-stream) |
+| 704   | [二分查找  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0704%5D%20Binary%20Search.md)| [二分查找  ](https://leetcode-cn.com/problems/binary-search) |
+| 705   | [设计哈希集合  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0705%5D%20Design%20HashSet.md)| [设计哈希集合  ](https://leetcode-cn.com/problems/design-hashset) |
+| 706   | [设计哈希映射  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0706%5D%20Design%20HashMap.md)| [设计哈希映射  ](https://leetcode-cn.com/problems/design-hashmap) |
+| 707   | [设计链表  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0707%5D%20Design%20Linked%20List.md)| [设计链表  ](https://leetcode-cn.com/problems/design-linked-list) |
+| 708   | [循环有序列表的插入  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0708%5D%20Insert%20into%20a%20Sorted%20Circular%20Linked%20List.md)| [循环有序列表的插入  ](https://leetcode-cn.com/problems/insert-into-a-sorted-circular-linked-list) |
+| 709   | [转换成小写字母  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0709%5D%20To%20Lower%20Case.md)| [转换成小写字母  ](https://leetcode-cn.com/problems/to-lower-case) |
+| 710   | [黑名单中的随机数  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0710%5D%20Random%20Pick%20with%20Blacklist.md)| [黑名单中的随机数  ](https://leetcode-cn.com/problems/random-pick-with-blacklist) |
+| 711   | [不同岛屿的数量   II  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0711%5D%20Number%20of%20Distinct%20Islands%20II.md)| [不同岛屿的数量 II  ](https://leetcode-cn.com/problems/number-of-distinct-islands-ii) |
+| 712   | [两个字符串的最小ASCII删除和  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0712%5D%20Minimum%20ASCII%20Delete%20Sum%20for%20Two%20Strings.md)| [两个字符串的最小ASCII删除和  ](https://leetcode-cn.com/problems/minimum-ascii-delete-sum-for-two-strings) |
+| 713   | [乘积小于K的子数组  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0713%5D%20Subarray%20Product%20Less%20Than%20K.md)| [乘积小于K的子数组  ](https://leetcode-cn.com/problems/subarray-product-less-than-k) |
+| 714   | [买卖股票的最佳时机含手续费  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0714%5D%20Best%20Time%20to%20Buy%20and%20Sell%20Stock%20with%20Transaction%20Fee.md)| [买卖股票的最佳时机含手续费  ](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| 715   | [Range 模块  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0715%5D%20Range%20Module.md)| [Range   模块  ](https://leetcode-cn.com/problems/range-module) |
+| 716   | [最大栈  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0716%5D%20Max%20Stack.md)| [最大栈  ](https://leetcode-cn.com/problems/max-stack)       |
+| 717   | [1比特与2比特字符  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0717%5D%201-bit%20and%202-bit%20Characters.md)| [1比特与2比特字符  ](https://leetcode-cn.com/problems/1-bit-and-2-bit-characters) |
+| 718   | [最长重复子数组  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0718%5D%20Maximum%20Length%20of%20Repeated%20Subarray.md)| [最长重复子数组  ](https://leetcode-cn.com/problems/maximum-length-of-repeated-subarray) |
+| 719   | [找出第   k 小的距离对  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0719%5D%20Find%20K-th%20Smallest%20Pair%20Distance.md)| [找出第 k 小的距离对  ](https://leetcode-cn.com/problems/find-k-th-smallest-pair-distance) |
+| 720   | [词典中最长的单词  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0720%5D%20Longest%20Word%20in%20Dictionary.md)| [词典中最长的单词  ](https://leetcode-cn.com/problems/longest-word-in-dictionary) |
+| 721   | [账户合并  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0721%5D%20Accounts%20Merge.md)| [账户合并  ](https://leetcode-cn.com/problems/accounts-merge) |
+| 722   | [删除注释  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0722%5D%20Remove%20Comments.md)| [删除注释  ](https://leetcode-cn.com/problems/remove-comments) |
+| 723   | [粉碎糖果  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0723%5D%20Candy%20Crush.md)| [粉碎糖果  ](https://leetcode-cn.com/problems/candy-crush)   |
+| 724   | [寻找数组的中心索引  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0724%5D%20Find%20Pivot%20Index.md)| [寻找数组的中心索引  ](https://leetcode-cn.com/problems/find-pivot-index) |
+| 725   | [分隔链表  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0725%5D%20Split%20Linked%20List%20in%20Parts.md)| [分隔链表  ](https://leetcode-cn.com/problems/split-linked-list-in-parts) |
+| 726   | [原子的数量  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0726%5D%20Number%20of%20Atoms.md)| [原子的数量  ](https://leetcode-cn.com/problems/number-of-atoms) |
+| 727   | [最小窗口子序列  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0727%5D%20Minimum%20Window%20Subsequence.md)| [最小窗口子序列  ](https://leetcode-cn.com/problems/minimum-window-subsequence) |
+| 728   | [自除数  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0728%5D%20Self%20Dividing%20Numbers.md)| [自除数  ](https://leetcode-cn.com/problems/self-dividing-numbers) |
+| 729   | [我的日程安排表 I  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0729%5D%20My%20Calendar%20I.md)| [我的日程安排表   I  ](https://leetcode-cn.com/problems/my-calendar-i) |
+| 730   | [统计不同回文子字符串  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0730%5D%20Count%20Different%20Palindromic%20Subsequences.md)| [统计不同回文子字符串  ](https://leetcode-cn.com/problems/count-different-palindromic-subsequences) |
+| 731   | [我的日程安排表 II  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0731%5D%20My%20Calendar%20II.md)| [我的日程安排表   II  ](https://leetcode-cn.com/problems/my-calendar-ii) |
+| 732   | [我的日程安排表 III  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0732%5D%20My%20Calendar%20III.md)| [我的日程安排表   III  ](https://leetcode-cn.com/problems/my-calendar-iii) |
+| 733   | [图像渲染  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0733%5D%20Flood%20Fill.md)| [图像渲染  ](https://leetcode-cn.com/problems/flood-fill)    |
+| 734   | [句子相似性  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0734%5D%20Sentence%20Similarity.md)| [句子相似性  ](https://leetcode-cn.com/problems/sentence-similarity) |
+| 735   | [行星碰撞  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0735%5D%20Asteroid%20Collision.md)| [行星碰撞  ](https://leetcode-cn.com/problems/asteroid-collision) |
+| 736   | [Lisp 语法解析  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0736%5D%20Parse%20Lisp%20Expression.md)| [Lisp 语法解析  ](https://leetcode-cn.com/problems/parse-lisp-expression) |
+| 737   | [句子相似性 II  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0737%5D%20Sentence%20Similarity%20II.md)| [句子相似性 II  ](https://leetcode-cn.com/problems/sentence-similarity-ii) |
+| 738   | [单调递增的数字  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0738%5D%20Monotone%20Increasing%20Digits.md)| [单调递增的数字  ](https://leetcode-cn.com/problems/monotone-increasing-digits) |
+| 739   | [每日温度  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0739%5D%20Daily%20Temperatures.md)| [每日温度  ](https://leetcode-cn.com/problems/daily-temperatures) |
+| 740   | [删除与获得点数  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0740%5D%20Delete%20and%20Earn.md)| [删除与获得点数  ](https://leetcode-cn.com/problems/delete-and-earn) |
+| 741   | [摘樱桃  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0741%5D%20Cherry%20Pickup.md)| [摘樱桃  ](https://leetcode-cn.com/problems/cherry-pickup)   |
+| 742   | [二叉树最近的叶节点  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0742%5D%20Closest%20Leaf%20in%20a%20Binary%20Tree.md)| [二叉树最近的叶节点  ](https://leetcode-cn.com/problems/closest-leaf-in-a-binary-tree) |
+| 743   | [网络延迟时间  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0743%5D%20Network%20Delay%20Time.md)| [网络延迟时间  ](https://leetcode-cn.com/problems/network-delay-time) |
+| 744   | [寻找比目标字母大的最小字母  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0744%5D%20Find%20Smallest%20Letter%20Greater%20Than%20Target.md)| [寻找比目标字母大的最小字母  ](https://leetcode-cn.com/problems/find-smallest-letter-greater-than-target) |
+| 745   | [前缀和后缀搜索  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0745%5D%20Prefix%20and%20Suffix%20Search.md)| [前缀和后缀搜索  ](https://leetcode-cn.com/problems/prefix-and-suffix-search) |
+| 746   | [使用最小花费爬楼梯  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0746%5D%20Min%20Cost%20Climbing%20Stairs.md)| [使用最小花费爬楼梯  ](https://leetcode-cn.com/problems/min-cost-climbing-stairs) |
+| 747   | [至少是其他数字两倍的最大数  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0747%5D%20Largest%20Number%20At%20Least%20Twice%20of%20Others.md)| [至少是其他数字两倍的最大数  ](https://leetcode-cn.com/problems/largest-number-at-least-twice-of-others) |
+| 748   | [最短完整词  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0748%5D%20Shortest%20Completing%20Word.md)| [最短完整词  ](https://leetcode-cn.com/problems/shortest-completing-word) |
+| 749   | [隔离病毒  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0749%5D%20Contain%20Virus.md)| [隔离病毒  ](https://leetcode-cn.com/problems/contain-virus) |
+| 750   | [角矩形的数量  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0750%5D%20Number%20Of%20Corner%20Rectangles.md)| [角矩形的数量  ](https://leetcode-cn.com/problems/number-of-corner-rectangles) |
+| 751   | [IP 到 CIDR  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0751%5D%20IP%20to%20CIDR.md)| [IP   到 CIDR  ](https://leetcode-cn.com/problems/ip-to-cidr) |
+| 752   | [打开转盘锁  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0752%5D%20Open%20the%20Lock.md)| [打开转盘锁  ](https://leetcode-cn.com/problems/open-the-lock) |
+| 753   | [破解保险箱  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0753%5D%20Cracking%20the%20Safe.md)| [破解保险箱  ](https://leetcode-cn.com/problems/cracking-the-safe) |
+| 754   | [到达终点数字  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0754%5D%20Reach%20a%20Number.md)| [到达终点数字  ](https://leetcode-cn.com/problems/reach-a-number) |
+| 755   | [倒水  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0755%5D%20Pour%20Water.md)| [倒水  ](https://leetcode-cn.com/problems/pour-water)        |
+| 756   | [金字塔转换矩阵  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0756%5D%20Pyramid%20Transition%20Matrix.md)| [金字塔转换矩阵  ](https://leetcode-cn.com/problems/pyramid-transition-matrix) |
+| 757   | [设置交集大小至少为2  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0757%5D%20Set%20Intersection%20Size%20At%20Least%20Two.md)| [设置交集大小至少为2  ](https://leetcode-cn.com/problems/set-intersection-size-at-least-two) |
+| 758   | [字符串中的加粗单词  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0758%5D%20Bold%20Words%20in%20String.md)| [字符串中的加粗单词  ](https://leetcode-cn.com/problems/bold-words-in-string) |
+| 759   | [员工空闲时间  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0759%5D%20Employee%20Free%20Time.md)| [员工空闲时间  ](https://leetcode-cn.com/problems/employee-free-time) |
+| 760   | [找出变位映射  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0760%5D%20Find%20Anagram%20Mappings.md)| [找出变位映射  ](https://leetcode-cn.com/problems/find-anagram-mappings) |
+| 761   | [特殊的二进制序列  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0761%5D%20Special%20Binary%20String.md)| [特殊的二进制序列  ](https://leetcode-cn.com/problems/special-binary-string) |
+| 762   | [二进制表示中质数个计算置位  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0762%5D%20Prime%20Number%20of%20Set%20Bits%20in%20Binary%20Representation.md)| [二进制表示中质数个计算置位  ](https://leetcode-cn.com/problems/prime-number-of-set-bits-in-binary-representation) |
+| 763   | [划分字母区间  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0763%5D%20Partition%20Labels.md)| [划分字母区间  ](https://leetcode-cn.com/problems/partition-labels) |
+| 764   | [最大加号标志  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0764%5D%20Largest%20Plus%20Sign.md)| [最大加号标志  ](https://leetcode-cn.com/problems/largest-plus-sign) |
+| 765   | [情侣牵手  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0765%5D%20Couples%20Holding%20Hands.md)| [情侣牵手  ](https://leetcode-cn.com/problems/couples-holding-hands) |
+| 766   | [托普利茨矩阵  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0766%5D%20Toeplitz%20Matrix.md)| [托普利茨矩阵  ](https://leetcode-cn.com/problems/toeplitz-matrix) |
+| 767   | [重构字符串  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0767%5D%20Reorganize%20String.md)| [重构字符串  ](https://leetcode-cn.com/problems/reorganize-string) |
+| 768   | [最多能完成排序的块   II  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0768%5D%20Max%20Chunks%20To%20Make%20Sorted%20II.md)| [最多能完成排序的块 II  ](https://leetcode-cn.com/problems/max-chunks-to-make-sorted-ii) |
+| 769   | [最多能完成排序的块  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0769%5D%20Max%20Chunks%20To%20Make%20Sorted.md)| [最多能完成排序的块  ](https://leetcode-cn.com/problems/max-chunks-to-make-sorted) |
+| 770   | [基本计算器 IV  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0770%5D%20Basic%20Calculator%20IV.md)| [基本计算器   IV  ](https://leetcode-cn.com/problems/basic-calculator-iv) |
+| 771   | [宝石与石头  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0771%5D%20Jewels%20and%20Stones.md)| [宝石与石头  ](https://leetcode-cn.com/problems/jewels-and-stones) |
+| 772   | [基本计算器 III  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0772%5D%20Basic%20Calculator%20III.md)| [基本计算器 III  ](https://leetcode-cn.com/problems/basic-calculator-iii) |
+| 773   | [滑动谜题  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0773%5D%20Sliding%20Puzzle.md)| [滑动谜题  ](https://leetcode-cn.com/problems/sliding-puzzle) |
+| 774   | [最小化去加油站的最大距离  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0774%5D%20Minimize%20Max%20Distance%20to%20Gas%20Station.md)| [最小化去加油站的最大距离  ](https://leetcode-cn.com/problems/minimize-max-distance-to-gas-station) |
+| 775   | [全局倒置与局部倒置  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0775%5D%20Global%20and%20Local%20Inversions.md)| [全局倒置与局部倒置  ](https://leetcode-cn.com/problems/global-and-local-inversions) |
+| 776   | [拆分二叉搜索树  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0776%5D%20Split%20BST.md)| [拆分二叉搜索树  ](https://leetcode-cn.com/problems/split-bst) |
+| 777   | [在LR字符串中交换相邻字符  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0777%5D%20Swap%20Adjacent%20in%20LR%20String.md)| [在LR字符串中交换相邻字符  ](https://leetcode-cn.com/problems/swap-adjacent-in-lr-string) |
+| 778   | [水位上升的泳池中游泳  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0778%5D%20Swim%20in%20Rising%20Water.md)| [水位上升的泳池中游泳  ](https://leetcode-cn.com/problems/swim-in-rising-water) |
+| 779   | [第K个语法符号  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0779%5D%20K-th%20Symbol%20in%20Grammar.md)| [第K个语法符号  ](https://leetcode-cn.com/problems/k-th-symbol-in-grammar) |
+| 780   | [到达终点  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0780%5D%20Reaching%20Points.md)| [到达终点  ](https://leetcode-cn.com/problems/reaching-points) |
+| 781   | [森林中的兔子  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0781%5D%20Rabbits%20in%20Forest.md)| [森林中的兔子  ](https://leetcode-cn.com/problems/rabbits-in-forest) |
+| 782   | [变为棋盘  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0782%5D%20Transform%20to%20Chessboard.md)| [变为棋盘  ](https://leetcode-cn.com/problems/transform-to-chessboard) |
+| 783   | [二叉搜索树结点最小距离  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0783%5D%20Minimum%20Distance%20Between%20BST%20Nodes.md)| [二叉搜索树结点最小距离  ](https://leetcode-cn.com/problems/minimum-distance-between-bst-nodes) |
+| 784   | [字母大小写全排列  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0784%5D%20Letter%20Case%20Permutation.md)| [字母大小写全排列  ](https://leetcode-cn.com/problems/letter-case-permutation) |
+| 785   | [判断二分图  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0785%5D%20Is%20Graph%20Dipartite.md)| [判断二分图  ](https://leetcode-cn.com/problems/is-graph-bipartite) |
+| 786   | [第 K   个最小的素数分数  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0786%5D%20K-th%20Smallest%20Prime%20Fraction.md)| [第 K 个最小的素数分数  ](https://leetcode-cn.com/problems/k-th-smallest-prime-fraction) |
+| 787   | [K   站中转内最便宜的航班  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0787%5D%20Cheapest%20Flights%20Within%20K%20Stops.md)| [K 站中转内最便宜的航班  ](https://leetcode-cn.com/problems/cheapest-flights-within-k-stops) |
+| 788   | [旋转数字  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0788%5D%20Rotated%20Digits.md)| [旋转数字  ](https://leetcode-cn.com/problems/rotated-digits) |
+| 789   | [逃脱阻碍者  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0789%5D%20Escape%20The%20Ghosts.md)| [逃脱阻碍者  ](https://leetcode-cn.com/problems/escape-the-ghosts) |
+| 790   | [多米诺和托米诺平铺  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0790%5D%20Domino%20and%20Tromino%20Tiling.md)| [多米诺和托米诺平铺  ](https://leetcode-cn.com/problems/domino-and-tromino-tiling) |
+| 791   | [自定义字符串排序  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0791%5D%20Custom%20Sort%20String.md)| [自定义字符串排序  ](https://leetcode-cn.com/problems/custom-sort-string) |
+| 792   | [匹配子序列的单词数  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0792%5D%20Number%20of%20Matching%20Subsequences.md)| [匹配子序列的单词数  ](https://leetcode-cn.com/problems/number-of-matching-subsequences) |
+| 793   | [阶乘函数后K个零  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0793%5D%20Preimage%20Size%20of%20Factorial%20Zeroes%20Function.md)| [阶乘函数后K个零  ](https://leetcode-cn.com/problems/preimage-size-of-factorial-zeroes-function) |
+| 794   | [有效的井字游戏  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0794%5D%20Valid%20Tic-Tac-Toe%20State.md)| [有效的井字游戏  ](https://leetcode-cn.com/problems/valid-tic-tac-toe-state) |
+| 795   | [区间子数组个数  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0795%5D%20Number%20of%20Subarrays%20with%20Bounded%20Maximum.md)| [区间子数组个数  ](https://leetcode-cn.com/problems/number-of-subarrays-with-bounded-maximum) |
+| 796   | [旋转字符串  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0796%5D%20Rotate%20String.md)| [旋转字符串  ](https://leetcode-cn.com/problems/rotate-string) |
+| 797   | [所有可能的路径  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0797%5D%20All%20Paths%20From%20Source%20to%20Target.md)| [所有可能的路径  ](https://leetcode-cn.com/problems/all-paths-from-source-to-target) |
+| 798   | [得分最高的最小轮调  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0798%5D%20Smallest%20Rotation%20with%20Highest%20Score.md)| [得分最高的最小轮调  ](https://leetcode-cn.com/problems/smallest-rotation-with-highest-score) |
+| 799   | [香槟塔  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0799%5D%20Champagne%20Tower.md)| [香槟塔  ](https://leetcode-cn.com/problems/champagne-tower) |
+| 800   | [相似 RGB 颜色  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0800%5D%20Similar%20RGB%20Color.md)| [相似   RGB 颜色  ](https://leetcode-cn.com/problems/similar-rgb-color) |
+| 801   | [使序列递增的最小交换次数  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0801%5D%20Minimum%20Swaps%20To%20Make%20Sequences%20Increasing.md)| [使序列递增的最小交换次数  ](https://leetcode-cn.com/problems/minimum-swaps-to-make-sequences-increasing) |
+| 802   | [找到最终的安全状态  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0802%5D%20Find%20Eventual%20Safe%20States.md)| [找到最终的安全状态  ](https://leetcode-cn.com/problems/find-eventual-safe-states) |
+| 803   | [打砖块  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0803%5D%20Bricks%20Falling%20When%20Hit.md)| [打砖块  ](https://leetcode-cn.com/problems/bricks-falling-when-hit) |
+| 804   | [唯一摩尔斯密码词  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0804%5D%20Unique%20Morse%20Code%20Words.md)| [唯一摩尔斯密码词  ](https://leetcode-cn.com/problems/unique-morse-code-words) |
+| 805   | [数组的均值分割  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0805%5D%20Split%20Array%20With%20Same%20Average.md)| [数组的均值分割  ](https://leetcode-cn.com/problems/split-array-with-same-average) |
+| 806   | [写字符串需要的行数  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0806%5D%20Number%20of%20Lines%20To%20Write%20String.md)| [写字符串需要的行数  ](https://leetcode-cn.com/problems/number-of-lines-to-write-string) |
+| 807   | [保持城市天际线  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0807%5D%20Max%20Increase%20to%20Keep%20City%20Skyline.md)| [保持城市天际线  ](https://leetcode-cn.com/problems/max-increase-to-keep-city-skyline) |
+| 808   | [分汤  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0808%5D%20Soup%20Servings.md)| [分汤  ](https://leetcode-cn.com/problems/soup-servings)     |
+| 809   | [情感丰富的文字  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0809%5D%20Expressive%20Words.md)| [情感丰富的文字  ](https://leetcode-cn.com/problems/expressive-words) |
+| 810   | [黑板异或游戏  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0810%5D%20Chalkboard%20XOR%20Game.md)| [黑板异或游戏  ](https://leetcode-cn.com/problems/chalkboard-xor-game) |
+| 811   | [子域名访问计数  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0811%5D%20Subdomain%20Visit%20Count.md)| [子域名访问计数  ](https://leetcode-cn.com/problems/subdomain-visit-count) |
+| 812   | [最大三角形面积  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0812%5D%20Largest%20Triangle%20Area.md)| [最大三角形面积  ](https://leetcode-cn.com/problems/largest-triangle-area) |
+| 813   | [最大平均值和的分组  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0813%5D%20Largest%20Sum%20of%20Averages.md)| [最大平均值和的分组  ](https://leetcode-cn.com/problems/largest-sum-of-averages) |
+| 814   | [二叉树剪枝  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0814%5D%20Binary%20Tree%20Pruning.md)| [二叉树剪枝  ](https://leetcode-cn.com/problems/binary-tree-pruning) |
+| 815   | [公交路线  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0815%5D%20Bus%20Routes.md)| [公交路线  ](https://leetcode-cn.com/problems/bus-routes)    |
+| 816   | [模糊坐标  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0816%5D%20Ambiguous%20Coordinates.md)| [模糊坐标  ](https://leetcode-cn.com/problems/ambiguous-coordinates) |
+| 817   | [链表组件  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0817%5D%20Linked%20List%20Components.md)| [链表组件  ](https://leetcode-cn.com/problems/linked-list-components) |
+| 818   | [赛车  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0818%5D%20Race%20Car.md)| [赛车  ](https://leetcode-cn.com/problems/race-car)          |
+| 819   | [最常见的单词  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0819%5D%20Most%20Common%20Word.md)| [最常见的单词  ](https://leetcode-cn.com/problems/most-common-word) |
+| 820   | [单词的压缩编码  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0820%5D%20Short%20Encoding%20of%20Words.md)| [单词的压缩编码  ](https://leetcode-cn.com/problems/short-encoding-of-words) |
+| 821   | [字符的最短距离  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0821%5D%20Shortest%20Distance%20to%20a%20Character.md)| [字符的最短距离  ](https://leetcode-cn.com/problems/shortest-distance-to-a-character) |
+| 822   | [翻转卡片游戏  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0822%5D%20Card%20Flipping%20Game.md)| [翻转卡片游戏  ](https://leetcode-cn.com/problems/card-flipping-game) |
+| 823   | [带因子的二叉树  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0823%5D%20Binary%20Trees%20With%20Factors.md)| [带因子的二叉树  ](https://leetcode-cn.com/problems/binary-trees-with-factors) |
+| 824   | [山羊拉丁文  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0824%5D%20Goat%20Latin.md)| [山羊拉丁文  ](https://leetcode-cn.com/problems/goat-latin)  |
+| 825   | [适龄的朋友  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0825%5D%20Friends%20Of%20Appropriate%20Ages.md)| [适龄的朋友  ](https://leetcode-cn.com/problems/friends-of-appropriate-ages) |
+| 826   | [安排工作以达到最大收益  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0826%5D%20Most%20Profit%20Assigning%20Work.md)| [安排工作以达到最大收益  ](https://leetcode-cn.com/problems/most-profit-assigning-work) |
+| 827   | [最大人工岛  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0827%5D%20Making%20A%20Large%20Island.md)| [最大人工岛  ](https://leetcode-cn.com/problems/making-a-large-island) |
+| 828   | [独特字符串  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0828%5D%20Unique%20Letter%20String.md)| [独特字符串  ](https://leetcode-cn.com/problems/unique-letter-string) |
+| 829   | [连续整数求和  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0829%5D%20Consecutive%20Numbers%20Sum.md)| [连续整数求和  ](https://leetcode-cn.com/problems/consecutive-numbers-sum) |
+| 830   | [较大分组的位置  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0830%5D%20Positions%20of%20Large%20Groups.md)| [较大分组的位置  ](https://leetcode-cn.com/problems/positions-of-large-groups) |
+| 831   | [隐藏个人信息  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0831%5D%20Masking%20Personal%20Information.md)| [隐藏个人信息  ](https://leetcode-cn.com/problems/masking-personal-information) |
+| 832   | [翻转图像  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0832%5D%20Flipping%20an%20Image.md)| [翻转图像  ](https://leetcode-cn.com/problems/flipping-an-image) |
+| 833   | [字符串中的查找与替换  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0833%5D%20Find%20And%20Replace%20in%20String.md)| [字符串中的查找与替换  ](https://leetcode-cn.com/problems/find-and-replace-in-string) |
+| 834   | [树中距离之和  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0834%5D%20Sum%20of%20Distances%20in%20Tree.md)| [树中距离之和  ](https://leetcode-cn.com/problems/sum-of-distances-in-tree) |
+| 835   | [图像重叠  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0835%5D%20Image%20Overlap.md)| [图像重叠  ](https://leetcode-cn.com/problems/image-overlap) |
+| 836   | [矩形重叠  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0836%5D%20Rectangle%20Overlap.md)| [矩形重叠  ](https://leetcode-cn.com/problems/rectangle-overlap) |
+| 837   | [新21点  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0837%5D%20New%2021%20Game.md)| [新21点  ](https://leetcode-cn.com/problems/new-21-game)     |
+| 838   | [推多米诺  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0838%5D%20Push%20Dominoes.md)| [推多米诺  ](https://leetcode-cn.com/problems/push-dominoes) |
+| 839   | [相似字符串组  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0839%5D%20Similar%20String%20Groups.md)| [相似字符串组  ](https://leetcode-cn.com/problems/similar-string-groups) |
+| 840   | [矩阵中的幻方  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0840%5D%20Magic%20Squares%20In%20Grid.md)| [矩阵中的幻方  ](https://leetcode-cn.com/problems/magic-squares-in-grid) |
+| 841   | [钥匙和房间  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0841%5D%20Keys%20and%20Rooms.md)| [钥匙和房间  ](https://leetcode-cn.com/problems/keys-and-rooms) |
+| 842   | [将数组拆分成斐波那契序列  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0842%5D%20Split%20Array%20into%20Fibonacci%20Sequence.md)| [将数组拆分成斐波那契序列  ](https://leetcode-cn.com/problems/split-array-into-fibonacci-sequence) |
+| 843   | [猜猜这个单词  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0843%5D%20Guess%20the%20Word.md)| [猜猜这个单词  ](https://leetcode-cn.com/problems/guess-the-word) |
+| 844   | [比较含退格的字符串  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0844%5D%20Backspace%20String%20Compare.md)| [比较含退格的字符串  ](https://leetcode-cn.com/problems/backspace-string-compare) |
+| 845   | [数组中的最长山脉  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0845%5D%20Longest%20Mountain%20in%20Array.md)| [数组中的最长山脉  ](https://leetcode-cn.com/problems/longest-mountain-in-array) |
+| 846   | [一手顺子  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0846%5D%20Hand%20of%20Straights.md)| [一手顺子  ](https://leetcode-cn.com/problems/hand-of-straights) |
+| 847   | [访问所有节点的最短路径  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0847%5D%20Shortest%20Path%20Visiting%20All%20Nodes.md)| [访问所有节点的最短路径  ](https://leetcode-cn.com/problems/shortest-path-visiting-all-nodes) |
+| 848   | [字母移位  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0848%5D%20Shifting%20Letters.md)| [字母移位  ](https://leetcode-cn.com/problems/shifting-letters) |
+| 849   | [到最近的人的最大距离  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0849%5D%20Maximize%20Distance%20to%20Closest%20Person.md)| [到最近的人的最大距离  ](https://leetcode-cn.com/problems/maximize-distance-to-closest-person) |
+| 850   | [矩形面积 II  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0850%5D%20Rectangle%20Area%20II.md)| [矩形面积   II  ](https://leetcode-cn.com/problems/rectangle-area-ii) |
+| 851   | [喧闹和富有  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0851%5D%20Loud%20and%20Rich.md)| [喧闹和富有  ](https://leetcode-cn.com/problems/loud-and-rich) |
+| 852   | [山脉数组的峰顶索引  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0852%5D%20Peak%20Index%20in%20a%20Mountain%20Array.md)| [山脉数组的峰顶索引  ](https://leetcode-cn.com/problems/peak-index-in-a-mountain-array) |
+| 853   | [车队  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0853%5D%20Car%20Fleet.md)| [车队  ](https://leetcode-cn.com/problems/car-fleet)         |
+| 854   | [相似度为 K 的字符串  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0854%5D%20K-Similar%20Strings.md)| [相似度为   K 的字符串  ](https://leetcode-cn.com/problems/k-similar-strings) |
+| 855   | [考场就座  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0855%5D%20Exam%20Room.md)| [考场就座  ](https://leetcode-cn.com/problems/exam-room)     |
+| 856   | [括号的分数  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0856%5D%20Score%20of%20Parentheses.md)| [括号的分数  ](https://leetcode-cn.com/problems/score-of-parentheses) |
+| 857   | [雇佣 K   名工人的最低成本  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0857%5D%20Minimum%20Cost%20to%20Hire%20K%20Workers.md)| [雇佣 K 名工人的最低成本  ](https://leetcode-cn.com/problems/minimum-cost-to-hire-k-workers) |
+| 858   | [镜面反射  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0858%5D%20Mirror%20Reflection.md)| [镜面反射  ](https://leetcode-cn.com/problems/mirror-reflection) |
+| 859   | [亲密字符串  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0859%5D%20Buddy%20Strings.md)| [亲密字符串  ](https://leetcode-cn.com/problems/buddy-strings) |
+| 860   | [柠檬水找零  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0860%5D%20Lemonade%20Change.md)| [柠檬水找零  ](https://leetcode-cn.com/problems/lemonade-change) |
+| 861   | [翻转矩阵后的得分  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0861%5D%20Score%20After%20Flipping%20Matrix.md)| [翻转矩阵后的得分  ](https://leetcode-cn.com/problems/score-after-flipping-matrix) |
+| 862   | [和至少为   K 的最短子数组  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0862%5D%20Shortest%20Subarray%20with%20Sum%20at%20Least%20K.md)| [和至少为 K 的最短子数组  ](https://leetcode-cn.com/problems/shortest-subarray-with-sum-at-least-k) |
+| 863   | [二叉树中所有距离为   K 的结点  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0863%5D%20All%20Nodes%20Distance%20K%20in%20Binary%20Tree.md)| [二叉树中所有距离为 K 的结点  ](https://leetcode-cn.com/problems/all-nodes-distance-k-in-binary-tree) |
+| 864   | [获取所有钥匙的最短路径  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0864%5D%20Shortest%20Path%20to%20Get%20All%20Keys.md)| [获取所有钥匙的最短路径  ](https://leetcode-cn.com/problems/shortest-path-to-get-all-keys) |
+| 865   | [具有所有最深结点的最小子树  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0865%5D%20Smallest%20Subtree%20with%20all%20the%20Deepest%20Nodes.md)| [具有所有最深结点的最小子树  ](https://leetcode-cn.com/problems/smallest-subtree-with-all-the-deepest-nodes) |
+| 866   | [回文素数  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0866%5D%20Prime%20Palindrome.md)| [回文素数  ](https://leetcode-cn.com/problems/prime-palindrome) |
+| 867   | [转置矩阵  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0867%5D%20Transpose%20Matrix.md)| [转置矩阵  ](https://leetcode-cn.com/problems/transpose-matrix) |
+| 868   | [二进制间距  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0868%5D%20Binary%20Gap.md)| [二进制间距  ](https://leetcode-cn.com/problems/binary-gap)  |
+| 869   | [重新排序得到 2 的幂  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0869%5D%20Reordered%20Power%20of%202.md)| [重新排序得到 2 的幂  ](https://leetcode-cn.com/problems/reordered-power-of-2) |
+| 870   | [优势洗牌  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0870%5D%20Advantage%20Shuffle.md)| [优势洗牌  ](https://leetcode-cn.com/problems/advantage-shuffle) |
+| 871   | [最低加油次数  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0871%5D%20Minimum%20Number%20of%20Refueling%20Stops.md)| [最低加油次数  ](https://leetcode-cn.com/problems/minimum-number-of-refueling-stops) |
+| 872   | [叶子相似的树  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0872%5D%20Leaf-Similar%20Trees.md)| [叶子相似的树  ](https://leetcode-cn.com/problems/leaf-similar-trees) |
+| 873   | [最长的斐波那契子序列的长度  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0873%5D%20Length%20of%20Longest%20Fibonacci%20Subsequence.md)| [最长的斐波那契子序列的长度  ](https://leetcode-cn.com/problems/length-of-longest-fibonacci-subsequence) |
+| 874   | [模拟行走机器人  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0874%5D%20Walking%20Robot%20Simulation.md)| [模拟行走机器人  ](https://leetcode-cn.com/problems/walking-robot-simulation) |
+| 875   | [爱吃香蕉的珂珂  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0875%5D%20Koko%20Eating%20Bananas.md)| [爱吃香蕉的珂珂  ](https://leetcode-cn.com/problems/koko-eating-bananas) |
+| 876   | [链表的中间结点  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0876%5D%20Middle%20of%20the%20Linked%20List.md)| [链表的中间结点  ](https://leetcode-cn.com/problems/middle-of-the-linked-list) |
+| 877   | [石子游戏  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0877%5D%20Stone%20Game.md)| [石子游戏  ](https://leetcode-cn.com/problems/stone-game)    |
+| 878   | [第 N 个神奇数字  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0878%5D%20Nth%20Magical%20Number.md)| [第   N 个神奇数字  ](https://leetcode-cn.com/problems/nth-magical-number) |
+| 879   | [盈利计划  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0879%5D%20Profitable%20Schemes.md)| [盈利计划  ](https://leetcode-cn.com/problems/profitable-schemes) |
+| 880   | [索引处的解码字符串  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0880%5D%20Decoded%20String%20at%20Index.md)| [索引处的解码字符串  ](https://leetcode-cn.com/problems/decoded-string-at-index) |
+| 881   | [救生艇  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0881%5D%20Boats%20to%20Save%20People.md)| [救生艇  ](https://leetcode-cn.com/problems/boats-to-save-people) |
+| 882   | [细分图中的可到达结点  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0882%5D%20Reachable%20Nodes%20In%20Subdivided%20Graph.md)| [细分图中的可到达结点  ](https://leetcode-cn.com/problems/reachable-nodes-in-subdivided-graph) |
+| 883   | [三维形体投影面积  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0883%5D%20Projection%20Area%20of%203D%20Shapes.md)| [三维形体投影面积  ](https://leetcode-cn.com/problems/projection-area-of-3d-shapes) |
+| 884   | [两句话中的不常见单词  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0884%5D%20Uncommon%20Words%20from%20Two%20Sentences.md)| [两句话中的不常见单词  ](https://leetcode-cn.com/problems/uncommon-words-from-two-sentences) |
+| 885   | [螺旋矩阵 III  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0885%5D%20Spiral%20Matrix%20III.md)| [螺旋矩阵   III  ](https://leetcode-cn.com/problems/spiral-matrix-iii) |
+| 886   | [可能的二分法  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0886%5D%20Possible%20Bipartition.md)| [可能的二分法  ](https://leetcode-cn.com/problems/possible-bipartition) |
+| 887   | [鸡蛋掉落  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0887%5D%20Super%20Egg%20Drop.md)| [鸡蛋掉落  ](https://leetcode-cn.com/problems/super-egg-drop) |
+| 888   | [公平的糖果交换  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0888%5D%20Fair%20Candy%20Swap.md)| [公平的糖果交换  ](https://leetcode-cn.com/problems/fair-candy-swap) |
+| 889   | [根据前序和后序遍历构造二叉树  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0889%5D%20Construct%20Binary%20Tree%20from%20Preorder%20and%20Postorder%20Traversal.md)| [根据前序和后序遍历构造二叉树  ](https://leetcode-cn.com/problems/construct-binary-tree-from-preorder-and-postorder-traversal) |
+| 890   | [查找和替换模式  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0890%5D%20Find%20and%20Replace%20Pattern.md)| [查找和替换模式  ](https://leetcode-cn.com/problems/find-and-replace-pattern) |
+| 891   | [子序列宽度之和  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0891%5D%20Sum%20of%20Subsequence%20Widths.md)| [子序列宽度之和  ](https://leetcode-cn.com/problems/sum-of-subsequence-widths) |
+| 892   | [三维形体的表面积  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0892%5D%20Surface%20Area%20of%203D%20Shapes.md)| [三维形体的表面积  ](https://leetcode-cn.com/problems/surface-area-of-3d-shapes) |
+| 893   | [特殊等价字符串组  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0893%5D%20Groups%20of%20Special-Equivalent%20Strings.md)| [特殊等价字符串组  ](https://leetcode-cn.com/problems/groups-of-special-equivalent-strings) |
+| 894   | [所有可能的满二叉树  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0894%5D%20All%20Possible%20Full%20Binary%20Trees.md)| [所有可能的满二叉树  ](https://leetcode-cn.com/problems/all-possible-full-binary-trees) |
+| 895   | [最大频率栈  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0895%5D%20Maximum%20Frequency%20Stack.md)| [最大频率栈  ](https://leetcode-cn.com/problems/maximum-frequency-stack) |
+| 896   | [单调数列  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0896%5D%20Monotonic%20Array.md)| [单调数列  ](https://leetcode-cn.com/problems/monotonic-array) |
+| 897   | [递增顺序查找树  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0897%5D%20Increasing%20Order%20Search%20Tree.md)| [递增顺序查找树  ](https://leetcode-cn.com/problems/increasing-order-search-tree) |
+| 898   | [子数组按位或操作  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0898%5D%20Bitwise%20ORs%20of%20Subarrays.md)| [子数组按位或操作  ](https://leetcode-cn.com/problems/bitwise-ors-of-subarrays) |
+| 899   | [有序队列  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0899%5D%20Orderly%20Queue.md)| [有序队列  ](https://leetcode-cn.com/problems/orderly-queue) |
+| 900   | [RLE 迭代器  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0900%5D%20RLE%20Iterator.md)| [RLE   迭代器  ](https://leetcode-cn.com/problems/rle-iterator) |
+| 901   | [股票价格跨度  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0901%5D%20Online%20Stock%20Span.md)| [股票价格跨度  ](https://leetcode-cn.com/problems/online-stock-span) |
+| 902   | [最大为   N 的数字组合  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0902%5D%20Numbers%20At%20Most%20N%20Given%20Digit%20Set.md)| [最大为 N 的数字组合  ](https://leetcode-cn.com/problems/numbers-at-most-n-given-digit-set) |
+| 903   | [DI   序列的有效排列  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0903%5D%20Valid%20Permutations%20for%20DI%20Sequence.md)| [DI 序列的有效排列  ](https://leetcode-cn.com/problems/valid-permutations-for-di-sequence) |
+| 904   | [水果成篮  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0904%5D%20Fruit%20Into%20Baskets.md)| [水果成篮  ](https://leetcode-cn.com/problems/fruit-into-baskets) |
+| 905   | [按奇偶排序数组  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0905%5D%20Sort%20Array%20By%20Parity.md)| [按奇偶排序数组  ](https://leetcode-cn.com/problems/sort-array-by-parity) |
+| 906   | [超级回文数  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0906%5D%20Super%20Palindromes.md)| [超级回文数  ](https://leetcode-cn.com/problems/super-palindromes) |
+| 907   | [子数组的最小值之和  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0907%5D%20Sum%20of%20Subarray%20Minimums.md)| [子数组的最小值之和  ](https://leetcode-cn.com/problems/sum-of-subarray-minimums) |
+| 908   | [最小差值 I  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0908%5D%20Smallest%20Range%20I.md)| [最小差值   I  ](https://leetcode-cn.com/problems/smallest-range-i) |
+| 909   | [蛇梯棋  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0909%5D%20Snakes%20and%20Ladders.md)| [蛇梯棋  ](https://leetcode-cn.com/problems/snakes-and-ladders) |
+| 910   | [最小差值 II  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0910%5D%20Smallest%20Range%20II.md)| [最小差值   II  ](https://leetcode-cn.com/problems/smallest-range-ii) |
+| 911   | [在线选举  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0911%5D%20Online%20Election.md)| [在线选举  ](https://leetcode-cn.com/problems/online-election) |
+| 912   | [排序数组  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0912%5D%20Sort%20an%20Array.md)| [排序数组  ](https://leetcode-cn.com/problems/sort-an-array) |
+| 913   | [猫和老鼠  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0913%5D%20Cat%20and%20Mouse.md)| [猫和老鼠  ](https://leetcode-cn.com/problems/cat-and-mouse) |
+| 914   | [卡牌分组  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0914%5D%20X%20of%20a%20Kind%20in%20a%20Deck%20of%20Cards.md)| [卡牌分组  ](https://leetcode-cn.com/problems/x-of-a-kind-in-a-deck-of-cards) |
+| 915   | [分割数组  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0915%5D%20Partition%20Array%20into%20Disjoint%20Intervals.md)| [分割数组  ](https://leetcode-cn.com/problems/partition-array-into-disjoint-intervals) |
+| 916   | [单词子集  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0916%5D%20Word%20Subsets.md)| [单词子集  ](https://leetcode-cn.com/problems/word-subsets)  |
+| 917   | [仅仅反转字母  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0917%5D%20Reverse%20Only%20Letters.md)| [仅仅反转字母  ](https://leetcode-cn.com/problems/reverse-only-letters) |
+| 918   | [环形子数组的最大和  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0918%5D%20Maximum%20Sum%20Circular%20Subarray.md)| [环形子数组的最大和  ](https://leetcode-cn.com/problems/maximum-sum-circular-subarray) |
+| 919   | [完全二叉树插入器  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0919%5D%20Complete%20Binary%20Tree%20Inserter.md)| [完全二叉树插入器  ](https://leetcode-cn.com/problems/complete-binary-tree-inserter) |
+| 920   | [播放列表的数量  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0920%5D%20Number%20of%20Music%20Playlists.md)| [播放列表的数量  ](https://leetcode-cn.com/problems/number-of-music-playlists) |
+| 921   | [使括号有效的最少添加  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0921%5D%20Minimum%20Add%20to%20Make%20Parentheses%20Valid.md)| [使括号有效的最少添加  ](https://leetcode-cn.com/problems/minimum-add-to-make-parentheses-valid) |
+| 922   | [按奇偶排序数组 II  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0922%5D%20Sort%20Array%20By%20Parity%20II.md)| [按奇偶排序数组 II  ](https://leetcode-cn.com/problems/sort-array-by-parity-ii) |
+| 923   | [三数之和的多种可能  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0923%5D%203Sum%20With%20Multiplicity.md)| [三数之和的多种可能  ](https://leetcode-cn.com/problems/3sum-with-multiplicity) |
+| 924   | [尽量减少恶意软件的传播  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0924%5D%20Minimize%20Malware%20Spread.md)| [尽量减少恶意软件的传播  ](https://leetcode-cn.com/problems/minimize-malware-spread) |
+| 925   | [长按键入  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0925%5D%20Long%20Pressed%20Name.md)| [长按键入  ](https://leetcode-cn.com/problems/long-pressed-name) |
+| 926   | [将字符串翻转到单调递增  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0926%5D%20Flip%20String%20to%20Monotone%20Increasing.md)| [将字符串翻转到单调递增  ](https://leetcode-cn.com/problems/flip-string-to-monotone-increasing) |
+| 927   | [三等分  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0927%5D%20Three%20Equal%20Parts.md)| [三等分  ](https://leetcode-cn.com/problems/three-equal-parts) |
+| 928   | [尽量减少恶意软件的传播   II  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0928%5D%20Minimize%20Malware%20Spread%20II.md)| [尽量减少恶意软件的传播 II  ](https://leetcode-cn.com/problems/minimize-malware-spread-ii) |
+| 929   | [独特的电子邮件地址  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0929%5D%20Unique%20Email%20Addresses.md)| [独特的电子邮件地址  ](https://leetcode-cn.com/problems/unique-email-addresses) |
+| 930   | [和相同的二元子数组  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0930%5D%20Binary%20Subarrays%20With%20Sum.md)| [和相同的二元子数组  ](https://leetcode-cn.com/problems/binary-subarrays-with-sum) |
+| 931   | [下降路径最小和  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0931%5D%20Minimum%20Falling%20Path%20Sum.md)| [下降路径最小和  ](https://leetcode-cn.com/problems/minimum-falling-path-sum) |
+| 932   | [漂亮数组  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0932%5D%20Beautiful%20Array.md)| [漂亮数组  ](https://leetcode-cn.com/problems/beautiful-array) |
+| 933   | [最近的请求次数  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0933%5D%20Number%20of%20Recent%20Calls.md)| [最近的请求次数  ](https://leetcode-cn.com/problems/number-of-recent-calls) |
+| 934   | [最短的桥  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0934%5D%20Shortest%20Bridge.md)| [最短的桥  ](https://leetcode-cn.com/problems/shortest-bridge) |
+| 935   | [骑士拨号器  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0935%5D%20Knight%20Dialer.md)| [骑士拨号器  ](https://leetcode-cn.com/problems/knight-dialer) |
+| 936   | [戳印序列  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0936%5D%20Stamping%20The%20Sequence.md)| [戳印序列  ](https://leetcode-cn.com/problems/stamping-the-sequence) |
+| 937   | [重新排列日志文件  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0937%5D%20Reorder%20Data%20in%20Log%20Files.md)| [重新排列日志文件  ](https://leetcode-cn.com/problems/reorder-data-in-log-files) |
+| 938   | [二叉搜索树的范围和  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0938%5D%20Range%20Sum%20of%20BST.md)| [二叉搜索树的范围和  ](https://leetcode-cn.com/problems/range-sum-of-bst) |
+| 939   | [最小面积矩形  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0939%5D%20Minimum%20Area%20Rectangle.md)| [最小面积矩形  ](https://leetcode-cn.com/problems/minimum-area-rectangle) |
+| 940   | [不同的子序列 II  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0940%5D%20Distinct%20Subsequences%20II.md)| [不同的子序列 II  ](https://leetcode-cn.com/problems/distinct-subsequences-ii) |
+| 941   | [有效的山脉数组  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0941%5D%20Valid%20Mountain%20Array.md)| [有效的山脉数组  ](https://leetcode-cn.com/problems/valid-mountain-array) |
+| 942   | [增减字符串匹配  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0942%5D%20DI%20String%20Match.md)| [增减字符串匹配  ](https://leetcode-cn.com/problems/di-string-match) |
+| 943   | [最短超级串  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0943%5D%20Find%20the%20Shortest%20Superstring.md)| [最短超级串  ](https://leetcode-cn.com/problems/find-the-shortest-superstring) |
+| 944   | [删列造序  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0944%5D%20Delete%20Columns%20to%20Make%20Sorted.md)| [删列造序  ](https://leetcode-cn.com/problems/delete-columns-to-make-sorted) |
+| 945   | [使数组唯一的最小增量  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0945%5D%20Minimum%20Increment%20to%20Make%20Array%20Unique.md)| [使数组唯一的最小增量  ](https://leetcode-cn.com/problems/minimum-increment-to-make-array-unique) |
+| 946   | [验证栈序列  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0946%5D%20Validate%20Stack%20Sequences.md)| [验证栈序列  ](https://leetcode-cn.com/problems/validate-stack-sequences) |
+| 947   | [移除最多的同行或同列石头  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0947%5D%20Most%20Stones%20Removed%20with%20Same%20Row%20or%20Column.md)| [移除最多的同行或同列石头  ](https://leetcode-cn.com/problems/most-stones-removed-with-same-row-or-column) |
+| 948   | [令牌放置  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0948%5D%20Bag%20of%20Tokens.md)| [令牌放置  ](https://leetcode-cn.com/problems/bag-of-tokens) |
+| 949   | [给定数字能组成的最大时间  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0949%5D%20Largest%20Time%20for%20Given%20Digits.md)| [给定数字能组成的最大时间  ](https://leetcode-cn.com/problems/largest-time-for-given-digits) |
+| 950   | [按递增顺序显示卡牌  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0950%5D%20Reveal%20Cards%20In%20Increasing%20Order.md)| [按递增顺序显示卡牌  ](https://leetcode-cn.com/problems/reveal-cards-in-increasing-order) |
+| 951   | [翻转等价二叉树  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0951%5D%20Flip%20Equivalent%20Binary%20Trees.md)| [翻转等价二叉树  ](https://leetcode-cn.com/problems/flip-equivalent-binary-trees) |
+| 952   | [按公因数计算最大组件大小  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0952%5D%20Largest%20Component%20Size%20by%20Common%20Factor.md)| [按公因数计算最大组件大小  ](https://leetcode-cn.com/problems/largest-component-size-by-common-factor) |
+| 953   | [验证外星语词典  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0953%5D%20Verifying%20an%20Alien%20Dictionary.md)| [验证外星语词典  ](https://leetcode-cn.com/problems/verifying-an-alien-dictionary) |
+| 954   | [二倍数对数组  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0954%5D%20Array%20of%20Doubled%20Pairs.md)| [二倍数对数组  ](https://leetcode-cn.com/problems/array-of-doubled-pairs) |
+| 955   | [删列造序   II  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0955%5D%20Delete%20Columns%20to%20Make%20Sorted%20II.md)| [删列造序 II  ](https://leetcode-cn.com/problems/delete-columns-to-make-sorted-ii) |
+| 956   | [最高的广告牌  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0956%5D%20Tallest%20Billboard.md)| [最高的广告牌  ](https://leetcode-cn.com/problems/tallest-billboard) |
+| 957   | [N 天后的牢房  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0957%5D%20Prison%20Cells%20After%20N%20Days.md)| [N 天后的牢房  ](https://leetcode-cn.com/problems/prison-cells-after-n-days) |
+| 958   | [二叉树的完全性检验  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0958%5D%20Check%20Completeness%20of%20a%20Binary%20Tree.md)| [二叉树的完全性检验  ](https://leetcode-cn.com/problems/check-completeness-of-a-binary-tree) |
+| 959   | [由斜杠划分区域  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0959%5D%20Regions%20Cut%20By%20Slashes.md)| [由斜杠划分区域  ](https://leetcode-cn.com/problems/regions-cut-by-slashes) |
+| 960   | [删列造序   III  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0960%5D%20Delete%20Columns%20to%20Make%20Sorted%20III.md)| [删列造序 III  ](https://leetcode-cn.com/problems/delete-columns-to-make-sorted-iii) |
+| 961   | [重复   N 次的元素  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0961%5D%20N-Repeated%20Element%20in%20Size%202N%20Array.md)| [重复 N 次的元素  ](https://leetcode-cn.com/problems/n-repeated-element-in-size-2n-array) |
+| 962   | [最大宽度坡  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0962%5D%20Maximum%20Width%20Ramp.md)| [最大宽度坡  ](https://leetcode-cn.com/problems/maximum-width-ramp) |
+| 963   | [最小面积矩形 II  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0963%5D%20Minimum%20Area%20Rectangle%20II.md)| [最小面积矩形 II  ](https://leetcode-cn.com/problems/minimum-area-rectangle-ii) |
+| 964   | [表示数字的最少运算符  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0964%5D%20Least%20Operators%20to%20Express%20Number.md)| [表示数字的最少运算符  ](https://leetcode-cn.com/problems/least-operators-to-express-number) |
+| 965   | [单值二叉树  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0965%5D%20Univalued%20Binary%20Tree.md)| [单值二叉树  ](https://leetcode-cn.com/problems/univalued-binary-tree) |
+| 966   | [元音拼写检查器  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0966%5D%20Vowel%20Spellchecker.md)| [元音拼写检查器  ](https://leetcode-cn.com/problems/vowel-spellchecker) |
+| 967   | [连续差相同的数字  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0967%5D%20Numbers%20With%20Same%20Consecutive%20Differences.md)| [连续差相同的数字  ](https://leetcode-cn.com/problems/numbers-with-same-consecutive-differences) |
+| 968   | [监控二叉树  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0968%5D%20Binary%20Tree%20Cameras.md)| [监控二叉树  ](https://leetcode-cn.com/problems/binary-tree-cameras) |
+| 969   | [煎饼排序  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0969%5D%20Pancake%20Sorting.md)| [煎饼排序  ](https://leetcode-cn.com/problems/pancake-sorting) |
+| 970   | [强整数  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0970%5D%20Powerful%20Integers.md)| [强整数  ](https://leetcode-cn.com/problems/powerful-integers) |
+| 971   | [翻转二叉树以匹配先序遍历  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0971%5D%20Flip%20Binary%20Tree%20To%20Match%20Preorder%20Traversal.md)| [翻转二叉树以匹配先序遍历  ](https://leetcode-cn.com/problems/flip-binary-tree-to-match-preorder-traversal) |
+| 972   | [相等的有理数  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0972%5D%20Equal%20Rational%20Numbers.md)| [相等的有理数  ](https://leetcode-cn.com/problems/equal-rational-numbers) |
+| 973   | [最接近原点的 K   个点  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0973%5D%20K%20Closest%20Points%20to%20Origin.md)| [最接近原点的 K 个点  ](https://leetcode-cn.com/problems/k-closest-points-to-origin) |
+| 974   | [和可被 K   整除的子数组  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0974%5D%20Subarray%20Sums%20Divisible%20by%20K.md)| [和可被 K 整除的子数组  ](https://leetcode-cn.com/problems/subarray-sums-divisible-by-k) |
+| 975   | [奇偶跳  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0975%5D%20Odd%20Even%20Jump.md)| [奇偶跳  ](https://leetcode-cn.com/problems/odd-even-jump)   |
+| 976   | [三角形的最大周长  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0976%5D%20Largest%20Perimeter%20Triangle.md)| [三角形的最大周长  ](https://leetcode-cn.com/problems/largest-perimeter-triangle) |
+| 977   | [有序数组的平方  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0977%5D%20Squares%20of%20a%20Sorted%20Array.md)| [有序数组的平方  ](https://leetcode-cn.com/problems/squares-of-a-sorted-array) |
+| 978   | [最长湍流子数组  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0978%5D%20Longest%20Turbulent%20Subarray.md)| [最长湍流子数组  ](https://leetcode-cn.com/problems/longest-turbulent-subarray) |
+| 979   | [在二叉树中分配硬币  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0979%5D%20Distribute%20Coins%20in%20Binary%20Tree.md)| [在二叉树中分配硬币  ](https://leetcode-cn.com/problems/distribute-coins-in-binary-tree) |
+| 980   | [不同路径 III  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0980%5D%20Unique%20Paths%20III.md)| [不同路径   III  ](https://leetcode-cn.com/problems/unique-paths-iii) |
+| 981   | [基于时间的键值存储  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0981%5D%20Time%20Based%20Key-Value%20Store.md)| [基于时间的键值存储  ](https://leetcode-cn.com/problems/time-based-key-value-store) |
+| 982   | [按位与为零的三元组  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0982%5D%20Triples%20with%20Bitwise%20AND%20Equal%20To%20Zero.md)| [按位与为零的三元组  ](https://leetcode-cn.com/problems/triples-with-bitwise-and-equal-to-zero) |
+| 983   | [最低票价  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0983%5D%20Minimum%20Cost%20For%20Tickets.md)| [最低票价  ](https://leetcode-cn.com/problems/minimum-cost-for-tickets) |
+| 984   | [不含 AAA 或   BBB 的字符串  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0984%5D%20String%20Without%20AAA%20or%20BBB.md)| [不含 AAA 或 BBB 的字符串  ](https://leetcode-cn.com/problems/string-without-aaa-or-bbb) |
+| 985   | [查询后的偶数和  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0985%5D%20Sum%20of%20Even%20Numbers%20After%20Queries.md)| [查询后的偶数和  ](https://leetcode-cn.com/problems/sum-of-even-numbers-after-queries) |
+| 986   | [区间列表的交集  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0986%5D%20Interval%20List%20Intersections.md)| [区间列表的交集  ](https://leetcode-cn.com/problems/interval-list-intersections) |
+| 987   | [二叉树的垂序遍历  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0987%5D%20Vertical%20Order%20Traversal%20of%20a%20Binary%20Tree.md)| [二叉树的垂序遍历  ](https://leetcode-cn.com/problems/vertical-order-traversal-of-a-binary-tree) |
+| 988   | [从叶结点开始的最小字符串  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0988%5D%20Smallest%20String%20Starting%20From%20Leaf.md)| [从叶结点开始的最小字符串  ](https://leetcode-cn.com/problems/smallest-string-starting-from-leaf) |
+| 989   | [数组形式的整数加法  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0989%5D%20Add%20to%20Array-Form%20of%20Integer.md)| [数组形式的整数加法  ](https://leetcode-cn.com/problems/add-to-array-form-of-integer) |
+| 990   | [等式方程的可满足性  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0990%5D%20Satisfiability%20of%20Equality%20Equations.md)| [等式方程的可满足性  ](https://leetcode-cn.com/problems/satisfiability-of-equality-equations) |
+| 991   | [坏了的计算器  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0991%5D%20Broken%20Calculator.md)| [坏了的计算器  ](https://leetcode-cn.com/problems/broken-calculator) |
+| 992   | [K   个不同整数的子数组  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0992%5D%20Subarrays%20with%20K%20Different%20Integers.md)| [K 个不同整数的子数组  ](https://leetcode-cn.com/problems/subarrays-with-k-different-integers) |
+| 993   | [二叉树的堂兄弟节点  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0993%5D%20Cousins%20in%20Binary%20Tree.md)| [二叉树的堂兄弟节点  ](https://leetcode-cn.com/problems/cousins-in-binary-tree) |
+| 994   | [腐烂的橘子  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0994%5D%20Rotting%20Oranges.md)| [腐烂的橘子  ](https://leetcode-cn.com/problems/rotting-oranges) |
+| 995   | [K   连续位的最小翻转次数  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0995%5D%20Minimum%20Number%20of%20K%20Consecutive%20Bit%20Flips.md)| [K 连续位的最小翻转次数  ](https://leetcode-cn.com/problems/minimum-number-of-k-consecutive-bit-flips) |
+| 996   | [正方形数组的数目  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0996%5D%20Number%20of%20Squareful%20Arrays.md)| [正方形数组的数目  ](https://leetcode-cn.com/problems/number-of-squareful-arrays) |
+| 997   | [找到小镇的法官  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0997%5D%20Find%20the%20Town%20Judge.md)| [找到小镇的法官  ](https://leetcode-cn.com/problems/find-the-town-judge) |
+| 998   | [最大二叉树 II  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0998%5D%20Maximum%20Binary%20Tree%20II.md)| [最大二叉树 II  ](https://leetcode-cn.com/problems/maximum-binary-tree-ii) |
+| 999   | [车的可用捕获量  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B0999%5D%20Available%20Captures%20for%20Rook.md)| [车的可用捕获量  ](https://leetcode-cn.com/problems/available-captures-for-rook) |
+| 1000  | [合并石头的最低成本  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B1000%5D%20Minimum%20Cost%20to%20Merge%20Stones.md)| [合并石头的最低成本  ](https://leetcode-cn.com/problems/minimum-cost-to-merge-stones) |
+| 1001  | [网格照明  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B1001%5D%20Grid%20Illumination.md)| [网格照明  ](https://leetcode-cn.com/problems/grid-illumination) |
+| 1002  | [查找常用字符  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B1002%5D%20Find%20Common%20Characters.md)| [查找常用字符  ](https://leetcode-cn.com/problems/find-common-characters) |
+| 1003  | [检查替换后的词是否有效  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B1003%5D%20Check%20If%20Word%20Is%20Valid%20After%20Substitutions.md)| [检查替换后的词是否有效  ](https://leetcode-cn.com/problems/check-if-word-is-valid-after-substitutions) |
+| 1004  | [最大连续1的个数 III  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B1004%5D%20Max%20Consecutive%20Ones%20III.md)| [最大连续1的个数 III  ](https://leetcode-cn.com/problems/max-consecutive-ones-iii) |
+| 1005  | [K   次取反后最大化的数组和  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B1005%5D%20Maximize%20Sum%20Of%20Array%20After%20K%20Negations.md)| [K 次取反后最大化的数组和  ](https://leetcode-cn.com/problems/maximize-sum-of-array-after-k-negations) |
+| 1006  | [笨阶乘  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B1006%5D%20Clumsy%20Factorial.md)| [笨阶乘  ](https://leetcode-cn.com/problems/clumsy-factorial) |
+| 1007  | [行相等的最少多米诺旋转  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B1007%5D%20Minimum%20Domino%20Rotations%20For%20Equal%20Row.md)| [行相等的最少多米诺旋转  ](https://leetcode-cn.com/problems/minimum-domino-rotations-for-equal-row) |
+| 1008  | [先序遍历构造二叉树  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B1008%5D%20Construct%20Binary%20Search%20Tree%20from%20Preorder%20Traversal.md)| [先序遍历构造二叉树  ](https://leetcode-cn.com/problems/construct-binary-search-tree-from-preorder-traversal) |
+| 1009  | [十进制整数的反码  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B1009%5D%20Complement%20of%20Base%2010%20Integer.md)| [十进制整数的反码  ](https://leetcode-cn.com/problems/complement-of-base-10-integer) |
+| 1010  | [总持续时间可被   60 整除的歌曲  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B1010%5D%20Pairs%20of%20Songs%20With%20Total%20Durations%20Divisible%20by%2060.md)| [总持续时间可被 60 整除的歌曲  ](https://leetcode-cn.com/problems/pairs-of-songs-with-total-durations-divisible-by-60) |
+| 1011  | [在   D 天内送达包裹的能力  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B1011%5D%20Capacity%20To%20Ship%20Packages%20Within%20D%20Days.md)| [在 D 天内送达包裹的能力  ](https://leetcode-cn.com/problems/capacity-to-ship-packages-within-d-days) |
+| 1012  | [至少有 1   位重复的数字  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B1012%5D%20Numbers%20With%20Repeated%20Digits.md)| [至少有 1 位重复的数字  ](https://leetcode-cn.com/problems/numbers-with-repeated-digits) |
+| 1013  | [将数组分成和相等的三个部分  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B1013%5D%20Partition%20Array%20Into%20Three%20Parts%20With%20Equal%20Sum.md)| [将数组分成和相等的三个部分  ](https://leetcode-cn.com/problems/partition-array-into-three-parts-with-equal-sum) |
+| 1014  | [最佳观光组合  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B1014%5D%20Best%20Sightseeing%20Pair.md)| [最佳观光组合  ](https://leetcode-cn.com/problems/best-sightseeing-pair) |
+| 1015  | [可被 K   整除的最小整数  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B1015%5D%20Smallest%20Integer%20Divisible%20by%20K.md)| [可被 K 整除的最小整数  ](https://leetcode-cn.com/problems/smallest-integer-divisible-by-k) |
+| 1016  | [子串能表示从   1 到 N 数字的二进制串  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B1016%5D%20Binary%20String%20With%20Substrings%20Representing%201%20To%20N.md)| [子串能表示从 1 到 N 数字的二进制串  ](https://leetcode-cn.com/problems/binary-string-with-substrings-representing-1-to-n) |
+| 1017  | [负二进制转换  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B1017%5D%20Convert%20to%20Base%20-2.md)| [负二进制转换  ](https://leetcode-cn.com/problems/convert-to-base-2) |
+| 1018  | [可被 5   整除的二进制前缀  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B1018%5D%20Binary%20Prefix%20Divisible%20By%205.md)| [可被 5 整除的二进制前缀  ](https://leetcode-cn.com/problems/binary-prefix-divisible-by-5) |
+| 1019  | [链表中的下一个更大节点  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B1019%5D%20Next%20Greater%20Node%20In%20Linked%20List.md)| [链表中的下一个更大节点  ](https://leetcode-cn.com/problems/next-greater-node-in-linked-list) |
+| 1020  | [飞地的数量  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B1020%5D%20Number%20of%20Enclaves.md)| [飞地的数量  ](https://leetcode-cn.com/problems/number-of-enclaves) |
+| 1021  | [删除最外层的括号  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B1021%5D%20Remove%20Outermost%20Parentheses.md)| [删除最外层的括号  ](https://leetcode-cn.com/problems/remove-outermost-parentheses) |
+| 1022  | [从根到叶的二进制数之和  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B1022%5D%20Sum%20of%20Root%20To%20Leaf%20Binary%20Numbers.md)| [从根到叶的二进制数之和  ](https://leetcode-cn.com/problems/sum-of-root-to-leaf-binary-numbers) |
+| 1023  | [驼峰式匹配  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B1023%5D%20Camelcase%20Matching.md)| [驼峰式匹配  ](https://leetcode-cn.com/problems/camelcase-matching) |
+| 1024  | [视频拼接  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B1024%5D%20Video%20Stitching.md)| [视频拼接  ](https://leetcode-cn.com/problems/video-stitching) |
+| 1025  | [除数博弈  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B1025%5D%20Divisor%20Game.md)| [除数博弈  ](https://leetcode-cn.com/problems/divisor-game)  |
+| 1026  | [节点与其祖先之间的最大差值  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B1026%5D%20Maximum%20Difference%20Between%20Node%20and%20Ancestor.md)| [节点与其祖先之间的最大差值  ](https://leetcode-cn.com/problems/maximum-difference-between-node-and-ancestor) |
+| 1027  | [最长等差数列  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B1027%5D%20Longest%20Arithmetic%20Sequence.md)| [最长等差数列  ](https://leetcode-cn.com/problems/longest-arithmetic-sequence) |
+| 1028  | [从先序遍历还原二叉树  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B1028%5D%20Recover%20a%20Tree%20From%20Preorder%20Traversal.md)| [从先序遍历还原二叉树  ](https://leetcode-cn.com/problems/recover-a-tree-from-preorder-traversal) |
+| 1029  | [两地调度  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B1029%5D%20Two%20City%20Scheduling.md)| [两地调度  ](https://leetcode-cn.com/problems/two-city-scheduling) |
+| 1030  | [距离顺序排列矩阵单元格  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B1030%5D%20Matrix%20Cells%20in%20Distance%20Order.md)| [距离顺序排列矩阵单元格  ](https://leetcode-cn.com/problems/matrix-cells-in-distance-order) |
+| 1031  | [两个非重叠子数组的最大和  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B1031%5D%20Maximum%20Sum%20of%20Two%20Non-Overlapping%20Subarrays.md)| [两个非重叠子数组的最大和  ](https://leetcode-cn.com/problems/maximum-sum-of-two-non-overlapping-subarrays) |
+| 1032  | [字符流  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B1032%5D%20Stream%20of%20Characters.md)| [字符流  ](https://leetcode-cn.com/problems/stream-of-characters) |
+| 1033  | [移动石子直到连续  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B1033%5D%20Moving%20Stones%20Until%20Consecutive.md)| [移动石子直到连续  ](https://leetcode-cn.com/problems/moving-stones-until-consecutive) |
+| 1034  | [边框着色  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B1034%5D%20Coloring%20A%20Border.md)| [边框着色  ](https://leetcode-cn.com/problems/coloring-a-border) |
+| 1035  | [不相交的线  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B1035%5D%20Uncrossed%20Lines.md)| [不相交的线  ](https://leetcode-cn.com/problems/uncrossed-lines) |
+| 1036  | [逃离大迷宫  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B1036%5D%20Escape%20a%20Large%20Maze.md)| [逃离大迷宫  ](https://leetcode-cn.com/problems/escape-a-large-maze) |
+| 1037  | [有效的回旋镖  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B1037%5D%20Valid%20Boomerang.md)| [有效的回旋镖  ](https://leetcode-cn.com/problems/valid-boomerang) |
+| 1038  | [从二叉搜索树到更大和树  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B1038%5D%20Binary%20Search%20Tree%20to%20Greater%20Sum%20Tree.md)| [从二叉搜索树到更大和树  ](https://leetcode-cn.com/problems/binary-search-tree-to-greater-sum-tree) |
+| 1039  | [多边形三角剖分的最低得分  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B1039%5D%20Minimum%20Score%20Triangulation%20of%20Polygon.md)| [多边形三角剖分的最低得分  ](https://leetcode-cn.com/problems/minimum-score-triangulation-of-polygon) |
+| 1040  | [移动石子直到连续   II  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B1040%5D%20Moving%20Stones%20Until%20Consecutive%20II.md)| [移动石子直到连续 II  ](https://leetcode-cn.com/problems/moving-stones-until-consecutive-ii) |
+| 1041  | [困于环中的机器人  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B1041%5D%20Robot%20Bounded%20In%20Circle.md)| [困于环中的机器人  ](https://leetcode-cn.com/problems/robot-bounded-in-circle) |
+| 1042  | [不邻接植花  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B1042%5D%20Flower%20Planting%20With%20No%20Adjacent.md)| [不邻接植花  ](https://leetcode-cn.com/problems/flower-planting-with-no-adjacent) |
+| 1043  | [分隔数组以得到最大和  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B1043%5D%20Partition%20Array%20for%20Maximum%20Sum.md)| [分隔数组以得到最大和  ](https://leetcode-cn.com/problems/partition-array-for-maximum-sum) |
+| 1044  | [最长重复子串  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B1044%5D%20Longest%20Duplicate%20Substring.md)| [最长重复子串  ](https://leetcode-cn.com/problems/longest-duplicate-substring) |
+| 1045  | [买下所有产品的客户  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B1045%5D%20Customers%20Who%20Bought%20All%20Products.md)| [买下所有产品的客户  ](https://leetcode-cn.com/problems/customers-who-bought-all-products) |
+| 1046  | [最后一块石头的重量  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B1046%5D%20Last%20Stone%20Weight.md)| [最后一块石头的重量  ](https://leetcode-cn.com/problems/last-stone-weight) |
+| 1047  | [删除字符串中的所有相邻重复项  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B1047%5D%20Remove%20All%20Adjacent%20Duplicates%20In%20String.md)| [删除字符串中的所有相邻重复项  ](https://leetcode-cn.com/problems/remove-all-adjacent-duplicates-in-string) |
+| 1048  | [最长字符串链  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B1048%5D%20Longest%20String%20Chain.md)| [最长字符串链  ](https://leetcode-cn.com/problems/longest-string-chain) |
+| 1049  | [最后一块石头的重量 II  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B1049%5D%20Last%20Stone%20Weight%20II.md)| [最后一块石头的重量 II  ](https://leetcode-cn.com/problems/last-stone-weight-ii) |
+| 1050  | [合作过至少三次的演员和导演  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B1050%5D%20Actors%20and%20Directors%20Who%20Cooperated%20At%20Least%20Three%20Times.md)| [合作过至少三次的演员和导演  ](https://leetcode-cn.com/problems/actors-and-directors-who-cooperated-at-least-three-times) |
+| 1051  | [高度检查器  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B1051%5D%20Height%20Checker.md)| [高度检查器  ](https://leetcode-cn.com/problems/height-checker) |
+| 1052  | [爱生气的书店老板  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B1052%5D%20Grumpy%20Bookstore%20Owner.md)| [爱生气的书店老板  ](https://leetcode-cn.com/problems/grumpy-bookstore-owner) |
+| 1053  | [交换一次的先前排列  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B1053%5D%20Previous%20Permutation%20With%20One%20Swap.md)| [交换一次的先前排列  ](https://leetcode-cn.com/problems/previous-permutation-with-one-swap) |
+| 1054  | [距离相等的条形码  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B1054%5D%20Distant%20Barcodes.md)| [距离相等的条形码  ](https://leetcode-cn.com/problems/distant-barcodes) |
+| 1055  | [形成字符串的最短路径  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B1055%5D%20Shortest%20Way%20to%20Form%20String.md)| [形成字符串的最短路径  ](https://leetcode-cn.com/problems/shortest-way-to-form-string) |
+| 1056  | [易混淆数  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B1056%5D%20Confusing%20Number.md)| [易混淆数  ](https://leetcode-cn.com/problems/confusing-number) |
+| 1057  | [校园自行车分配  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B1057%5D%20Campus%20Bikes.md)| [校园自行车分配  ](https://leetcode-cn.com/problems/campus-bikes) |
+| 1058  | [最小化舍入误差以满足目标  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B1058%5D%20Minimize%20Rounding%20Error%20to%20Meet%20Target.md)| [最小化舍入误差以满足目标  ](https://leetcode-cn.com/problems/minimize-rounding-error-to-meet-target) |
+| 1059  | [从始点到终点的所有路径  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B1059%5D%20All%20Paths%20from%20Source%20Lead%20to%20Destination.md)| [从始点到终点的所有路径  ](https://leetcode-cn.com/problems/all-paths-from-source-lead-to-destination) |
+| 1060  | [有序数组中的缺失元素  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B1060%5D%20Missing%20Element%20in%20Sorted%20Array.md)| [有序数组中的缺失元素  ](https://leetcode-cn.com/problems/missing-element-in-sorted-array) |
+| 1061  | [按字典序排列最小的等效字符串  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B1061%5D%20Lexicographically%20Smallest%20Equivalent%20String.md)| [按字典序排列最小的等效字符串  ](https://leetcode-cn.com/problems/lexicographically-smallest-equivalent-string) |
+| 1062  | [最长重复子串  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B1062%5D%20Longest%20Repeating%20Substring.md)| [最长重复子串  ](https://leetcode-cn.com/problems/longest-repeating-substring) |
+| 1063  | [有效子数组的数目  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B1063%5D%20Number%20of%20Valid%20Subarrays.md)| [有效子数组的数目  ](https://leetcode-cn.com/problems/number-of-valid-subarrays) |
+| 1064  | [不动点  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B1064%5D%20Fixed%20Point.md)| [不动点  ](https://leetcode-cn.com/problems/fixed-point)     |
+| 1065  | [字符串的索引对  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B1065%5D%20Index%20Pairs%20of%20a%20String.md)| [字符串的索引对  ](https://leetcode-cn.com/problems/index-pairs-of-a-string) |
+| 1066  | [校园自行车分配 II  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B1066%5D%20Campus%20Bikes%20II.md)| [校园自行车分配   II  ](https://leetcode-cn.com/problems/campus-bikes-ii) |
+| 1067  | [范围内的数字计数  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B1067%5D%20Digit%20Count%20in%20Range.md)| [范围内的数字计数  ](https://leetcode-cn.com/problems/digit-count-in-range) |
+| 1068  | [产品销售分析 I  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B1068%5D%20Product%20Sales%20Analysis%20I.md)| [产品销售分析 I  ](https://leetcode-cn.com/problems/product-sales-analysis-i) |
+| 1069  | [产品销售分析 II  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B1069%5D%20Product%20Sales%20Analysis%20II.md)| [产品销售分析 II  ](https://leetcode-cn.com/problems/product-sales-analysis-ii) |
+| 1070  | [产品销售分析 III  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B1070%5D%20Product%20Sales%20Analysis%20III.md)| [产品销售分析 III  ](https://leetcode-cn.com/problems/product-sales-analysis-iii) |
+| 1071  | [字符串的最大公因子  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B1071%5D%20Greatest%20Common%20Divisor%20of%20Strings.md)| [字符串的最大公因子  ](https://leetcode-cn.com/problems/greatest-common-divisor-of-strings) |
+| 1072  | [按列翻转得到最大值等行数  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B1072%5D%20Flip%20Columns%20For%20Maximum%20Number%20of%20Equal%20Rows.md)| [按列翻转得到最大值等行数  ](https://leetcode-cn.com/problems/flip-columns-for-maximum-number-of-equal-rows) |
+| 1073  | [负二进制数相加  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B1073%5D%20Adding%20Two%20Negabinary%20Numbers.md)| [负二进制数相加  ](https://leetcode-cn.com/problems/adding-two-negabinary-numbers) |
+| 1074  | [元素和为目标值的子矩阵数量  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B1074%5D%20Number%20of%20Submatrices%20That%20Sum%20to%20Target.md)| [元素和为目标值的子矩阵数量  ](https://leetcode-cn.com/problems/number-of-submatrices-that-sum-to-target) |
+| 1075  | [项目员工 I  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B1075%5D%20Project%20Employees%20I.md)| [项目员工   I  ](https://leetcode-cn.com/problems/project-employees-i) |
+| 1076  | [项目员工II  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B1076%5D%20Project%20Employees%20II.md)| [项目员工II  ](https://leetcode-cn.com/problems/project-employees-ii) |
+| 1077  | [项目员工 III  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B1077%5D%20Project%20Employees%20III.md)| [项目员工 III  ](https://leetcode-cn.com/problems/project-employees-iii) |
+| 1078  | [Bigram 分词  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B1078%5D%20Occurrences%20After%20Bigram.md)| [Bigram 分词  ](https://leetcode-cn.com/problems/occurrences-after-bigram) |
+| 1079  | [活字印刷  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B1079%5D%20Letter%20Tile%20Possibilities.md)| [活字印刷  ](https://leetcode-cn.com/problems/letter-tile-possibilities) |
+| 1080  | [根到叶路径上的不足节点  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B1080%5D%20Insufficient%20Nodes%20in%20Root%20to%20Leaf%20Paths.md)| [根到叶路径上的不足节点  ](https://leetcode-cn.com/problems/insufficient-nodes-in-root-to-leaf-paths) |
+| 1081  | [不同字符的最小子序列  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B1081%5D%20Smallest%20Subsequence%20of%20Distinct%20Characters.md)| [不同字符的最小子序列  ](https://leetcode-cn.com/problems/smallest-subsequence-of-distinct-characters) |
+| 1082  | [销售分析 I  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B1082%5D%20Sales%20Analysis%20I.md)| [销售分析   I  ](https://leetcode-cn.com/problems/sales-analysis-i) |
+| 1083  | [销售分析 II  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B1083%5D%20Sales%20Analysis%20II.md)| [销售分析   II  ](https://leetcode-cn.com/problems/sales-analysis-ii) |
+| 1084  | [销售分析III  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B1084%5D%20Sales%20Analysis%20III.md)| [销售分析III  ](https://leetcode-cn.com/problems/sales-analysis-iii) |
+| 1085  | [最小元素各数位之和  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B1085%5D%20Sum%20of%20Digits%20in%20the%20Minimum%20Number.md)| [最小元素各数位之和  ](https://leetcode-cn.com/problems/sum-of-digits-in-the-minimum-number) |
+| 1086  | [前五科的均分  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B1086%5D%20High%20Five.md)| [前五科的均分  ](https://leetcode-cn.com/problems/high-five) |
+| 1087  | [字母切换  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B1087%5D%20Brace%20Expansion.md)| [字母切换  ](https://leetcode-cn.com/problems/brace-expansion) |
+| 1088  | [易混淆数 II  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B1088%5D%20Confusing%20Number%20II.md)| [易混淆数   II  ](https://leetcode-cn.com/problems/confusing-number-ii) |
+| 1089  | [复写零  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B1089%5D%20Duplicate%20Zeros.md)| [复写零  ](https://leetcode-cn.com/problems/duplicate-zeros) |
+| 1090  | [受标签影响的最大值  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B1090%5D%20Largest%20Values%20From%20Labels.md)| [受标签影响的最大值  ](https://leetcode-cn.com/problems/largest-values-from-labels) |
+| 1091  | [二进制矩阵中的最短路径  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B1091%5D%20Shortest%20Path%20in%20Binary%20Matrix.md)| [二进制矩阵中的最短路径  ](https://leetcode-cn.com/problems/shortest-path-in-binary-matrix) |
+| 1092  | [最短公共超序列  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B1092%5D%20Shortest%20Common%20Supersequence%20.md)| [最短公共超序列  ](https://leetcode-cn.com/problems/shortest-common-supersequence) |
+| 1093  | [大样本统计  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B1093%5D%20Statistics%20from%20a%20Large%20Sample.md)| [大样本统计  ](https://leetcode-cn.com/problems/statistics-from-a-large-sample) |
+| 1094  | [拼车  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B1094%5D%20Car%20Pooling.md)| [拼车  ](https://leetcode-cn.com/problems/car-pooling)       |
+| 1095  | [山脉数组中查找目标值  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B1095%5D%20Find%20in%20Mountain%20Array.md)| [山脉数组中查找目标值  ](https://leetcode-cn.com/problems/find-in-mountain-array) |
+| 1096  | [花括号展开 II  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B1096%5D%20Brace%20Expansion%20II.md)| [花括号展开   II  ](https://leetcode-cn.com/problems/brace-expansion-ii) |
+| 1097  | [游戏玩法分析 V  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B1097%5D%20Game%20Play%20Analysis%20V.md)| [游戏玩法分析 V  ](https://leetcode-cn.com/problems/game-play-analysis-v) |
+| 1098  | [小众书籍  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B1098%5D%20Unpopular%20Books.md)| [小众书籍  ](https://leetcode-cn.com/problems/unpopular-books) |
+| 1099  | [小于 K 的两数之和  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B1099%5D%20Two%20Sum%20Less%20Than%20K.md)| [小于   K 的两数之和  ](https://leetcode-cn.com/problems/two-sum-less-than-k) |
+| 1100  | [长度为   K 的无重复字符子串  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B1100%5D%20Find%20K-Length%20Substrings%20With%20No%20Repeated%20Characters.md)| [长度为 K 的无重复字符子串  ](https://leetcode-cn.com/problems/find-k-length-substrings-with-no-repeated-characters) |
+| 1101  | [彼此熟识的最早时间  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B1101%5D%20The%20Earliest%20Moment%20When%20Everyone%20Become%20Friends.md)| [彼此熟识的最早时间  ](https://leetcode-cn.com/problems/the-earliest-moment-when-everyone-become-friends) |
+| 1102  | [得分最高的路径  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B1102%5D%20Path%20With%20Maximum%20Minimum%20Value.md)| [得分最高的路径  ](https://leetcode-cn.com/problems/path-with-maximum-minimum-value) |
+| 1103  | [分糖果 II  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B1103%5D%20Distribute%20Candies%20to%20People.md)| [分糖果 II  ](https://leetcode-cn.com/problems/distribute-candies-to-people) |
+| 1104  | [二叉树寻路  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B1104%5D%20Path%20In%20Zigzag%20Labelled%20Binary%20Tree.md)| [二叉树寻路  ](https://leetcode-cn.com/problems/path-in-zigzag-labelled-binary-tree) |
+| 1105  | [填充书架  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B1105%5D%20Filling%20Bookcase%20Shelves.md)| [填充书架  ](https://leetcode-cn.com/problems/filling-bookcase-shelves) |
+| 1106  | [解析布尔表达式  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B1106%5D%20Parsing%20A%20Boolean%20Expression.md)| [解析布尔表达式  ](https://leetcode-cn.com/problems/parsing-a-boolean-expression) |
+| 1107  | [每日新用户统计  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B1107%5D%20New%20Users%20Daily%20Count.md)| [每日新用户统计  ](https://leetcode-cn.com/problems/new-users-daily-count) |
+| 1108  | [IP 地址无效化  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B1108%5D%20Defanging%20an%20IP%20Address.md)| [IP 地址无效化  ](https://leetcode-cn.com/problems/defanging-an-ip-address) |
+| 1109  | [航班预订统计  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B1109%5D%20Corporate%20Flight%20Bookings.md)| [航班预订统计  ](https://leetcode-cn.com/problems/corporate-flight-bookings) |
+| 1110  | [删点成林  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B1110%5D%20Delete%20Nodes%20And%20Return%20Forest.md)| [删点成林  ](https://leetcode-cn.com/problems/delete-nodes-and-return-forest) |
+| 1111  | [有效括号的嵌套深度  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B1111%5D%20Maximum%20Nesting%20Depth%20of%20Two%20Valid%20Parentheses%20Strings.md)| [有效括号的嵌套深度  ](https://leetcode-cn.com/problems/maximum-nesting-depth-of-two-valid-parentheses-strings) |
+| 1112  | [每位学生的最高成绩  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B1112%5D%20Highest%20Grade%20For%20Each%20Student.md)| [每位学生的最高成绩  ](https://leetcode-cn.com/problems/highest-grade-for-each-student) |
+| 1113  | [报告的记录  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B1113%5D%20Reported%20Posts.md)| [报告的记录  ](https://leetcode-cn.com/problems/reported-posts) |
+| 1114  | [按序打印  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B1114%5D%20Print%20in%20Order.md)| [按序打印  ](https://leetcode-cn.com/problems/print-in-order) |
+| 1115  | [交替打印FooBar  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B1115%5D%20Print%20FooBar%20Alternately.md)| [交替打印FooBar  ](https://leetcode-cn.com/problems/print-foobar-alternately) |
+| 1116  | [打印零与奇偶数  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B1116%5D%20Print%20Zero%20Even%20Odd.md)| [打印零与奇偶数  ](https://leetcode-cn.com/problems/print-zero-even-odd) |
+| 1117  | [H2O 生成  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B1117%5D%20Building%20H2O.md)| [H2O   生成  ](https://leetcode-cn.com/problems/building-h2o) |
+| 1118  | [一月有多少天  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B1118%5D%20Number%20of%20Days%20in%20a%20Month.md)| [一月有多少天  ](https://leetcode-cn.com/problems/number-of-days-in-a-month) |
+| 1119  | [删去字符串中的元音  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B1119%5D%20Remove%20Vowels%20from%20a%20String.md)| [删去字符串中的元音  ](https://leetcode-cn.com/problems/remove-vowels-from-a-string) |
+| 1120  | [子树的最大平均值  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B1120%5D%20Maximum%20Average%20Subtree.md)| [子树的最大平均值  ](https://leetcode-cn.com/problems/maximum-average-subtree) |
+| 1121  | [将数组分成几个递增序列  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B1121%5D%20Divide%20Array%20Into%20Increasing%20Sequences.md)| [将数组分成几个递增序列  ](https://leetcode-cn.com/problems/divide-array-into-increasing-sequences) |
+| 1122  | [数组的相对排序  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B1122%5D%20Relative%20Sort%20Array.md)| [数组的相对排序  ](https://leetcode-cn.com/problems/relative-sort-array) |
+| 1123  | [最深叶节点的最近公共祖先  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B1123%5D%20Lowest%20Common%20Ancestor%20of%20Deepest%20Leaves.md)| [最深叶节点的最近公共祖先  ](https://leetcode-cn.com/problems/lowest-common-ancestor-of-deepest-leaves) |
+| 1124  | [表现良好的最长时间段  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B1124%5D%20Longest%20Well-Performing%20Interval.md)| [表现良好的最长时间段  ](https://leetcode-cn.com/problems/longest-well-performing-interval) |
+| 1125  | [最小的必要团队  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B1125%5D%20Smallest%20Sufficient%20Team.md)| [最小的必要团队  ](https://leetcode-cn.com/problems/smallest-sufficient-team) |
+| 1126  | [查询活跃业务  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B1126%5D%20Active%20Businesses.md)| [查询活跃业务  ](https://leetcode-cn.com/problems/active-businesses) |
+| 1127  | [用户购买平台  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B1127%5D%20User%20Purchase%20Platform.md)| [用户购买平台  ](https://leetcode-cn.com/problems/user-purchase-platform) |
+| 1128  | [等价多米诺骨牌对的数量  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B1128%5D%20Number%20of%20Equivalent%20Domino%20Pairs.md)| [等价多米诺骨牌对的数量  ](https://leetcode-cn.com/problems/number-of-equivalent-domino-pairs) |
+| 1129  | [颜色交替的最短路径  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B1129%5D%20Shortest%20Path%20with%20Alternating%20Colors.md)| [颜色交替的最短路径  ](https://leetcode-cn.com/problems/shortest-path-with-alternating-colors) |
+| 1130  | [叶值的最小代价生成树  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B1130%5D%20Minimum%20Cost%20Tree%20From%20Leaf%20Values.md)| [叶值的最小代价生成树  ](https://leetcode-cn.com/problems/minimum-cost-tree-from-leaf-values) |
+| 1131  | [绝对值表达式的最大值  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B1131%5D%20Maximum%20of%20Absolute%20Value%20Expression.md)| [绝对值表达式的最大值  ](https://leetcode-cn.com/problems/maximum-of-absolute-value-expression) |
+| 1132  | [报告的记录 II  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B1132%5D%20Reported%20Posts%20II.md)| [报告的记录   II  ](https://leetcode-cn.com/problems/reported-posts-ii) |
+| 1133  | [最大唯一数  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B1133%5D%20Largest%20Unique%20Number.md)| [最大唯一数  ](https://leetcode-cn.com/problems/largest-unique-number) |
+| 1134  | [阿姆斯特朗数  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B1134%5D%20Armstrong%20Number.md)| [阿姆斯特朗数  ](https://leetcode-cn.com/problems/armstrong-number) |
+| 1135  | [最低成本联通所有城市  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B1135%5D%20Connecting%20Cities%20With%20Minimum%20Cost.md)| [最低成本联通所有城市  ](https://leetcode-cn.com/problems/connecting-cities-with-minimum-cost) |
+| 1136  | [平行课程  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B1136%5D%20Parallel%20Courses.md)| [平行课程  ](https://leetcode-cn.com/problems/parallel-courses) |
+| 1137  | [第 N 个泰波那契数  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B1137%5D%20N-th%20Tribonacci%20Number.md)| [第 N 个泰波那契数  ](https://leetcode-cn.com/problems/n-th-tribonacci-number) |
+| 1138  | [字母板上的路径  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B1138%5D%20Alphabet%20Board%20Path.md)| [字母板上的路径  ](https://leetcode-cn.com/problems/alphabet-board-path) |
+| 1139  | [最大的以 1   为边界的正方形  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B1139%5D%20Largest%201-Bordered%20Square.md)| [最大的以 1 为边界的正方形  ](https://leetcode-cn.com/problems/largest-1-bordered-square) |
+| 1140  | [石子游戏 II  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B1140%5D%20Stone%20Game%20II.md)| [石子游戏   II  ](https://leetcode-cn.com/problems/stone-game-ii) |
+| 1141  | [查询近30天活跃用户数  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B1141%5D%20User%20Activity%20for%20the%20Past%2030%20Days%20I.md)| [查询近30天活跃用户数  ](https://leetcode-cn.com/problems/user-activity-for-the-past-30-days-i) |
+| 1142  | [过去30天的用户活动   II  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B1142%5D%20User%20Activity%20for%20the%20Past%2030%20Days%20II.md)| [过去30天的用户活动 II  ](https://leetcode-cn.com/problems/user-activity-for-the-past-30-days-ii) |
+| 1143  | [最长公共子序列  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B1143%5D%20Longest%20Common%20Subsequence.md)| [最长公共子序列  ](https://leetcode-cn.com/problems/longest-common-subsequence) |
+| 1144  | [递减元素使数组呈锯齿状  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B1144%5D%20Decrease%20Elements%20To%20Make%20Array%20Zigzag.md)| [递减元素使数组呈锯齿状  ](https://leetcode-cn.com/problems/decrease-elements-to-make-array-zigzag) |
+| 1145  | [二叉树着色游戏  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B1145%5D%20Binary%20Tree%20Coloring%20Game.md)| [二叉树着色游戏  ](https://leetcode-cn.com/problems/binary-tree-coloring-game) |
+| 1146  | [快照数组  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B1146%5D%20Snapshot%20Array.md)| [快照数组  ](https://leetcode-cn.com/problems/snapshot-array) |
+| 1147  | [段式回文  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B1147%5D%20Longest%20Chunked%20Palindrome%20Decomposition.md)| [段式回文  ](https://leetcode-cn.com/problems/longest-chunked-palindrome-decomposition) |
+| 1148  | [文章浏览 I  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B1148%5D%20Article%20Views%20I.md)| [文章浏览   I  ](https://leetcode-cn.com/problems/article-views-i) |
+| 1149  | [文章浏览 II  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B1149%5D%20Article%20Views%20II.md)| [文章浏览   II  ](https://leetcode-cn.com/problems/article-views-ii) |
+| 1150  | [检查一个数是否在数组中占绝大多数  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B1150%5D%20Check%20If%20a%20Number%20Is%20Majority%20Element%20in%20a%20Sorted%20Array.md)| [检查一个数是否在数组中占绝大多数  ](https://leetcode-cn.com/problems/check-if-a-number-is-majority-element-in-a-sorted-array) |
+| 1151  | [最少交换次数来组合所有的   1  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B1151%5D%20Minimum%20Swaps%20to%20Group%20All%201%27s%20Together.md)| [最少交换次数来组合所有的 1  ](https://leetcode-cn.com/problems/minimum-swaps-to-group-all-1s-together) |
+| 1152  | [用户网站访问行为分析  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B1152%5D%20Analyze%20User%20Website%20Visit%20Pattern.md)| [用户网站访问行为分析  ](https://leetcode-cn.com/problems/analyze-user-website-visit-pattern) |
+| 1153  | [字符串转化  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B1153%5D%20String%20Transforms%20Into%20Another%20String.md)| [字符串转化  ](https://leetcode-cn.com/problems/string-transforms-into-another-string) |
+| 1154  | [一年中的第几天  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B1154%5D%20Day%20of%20the%20Year.md)| [一年中的第几天  ](https://leetcode-cn.com/problems/day-of-the-year) |
+| 1155  | [掷骰子的N种方法  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B1155%5D%20Number%20of%20Dice%20Rolls%20With%20Target%20Sum.md)| [掷骰子的N种方法  ](https://leetcode-cn.com/problems/number-of-dice-rolls-with-target-sum) |
+| 1156  | [单字符重复子串的最大长度  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B1156%5D%20Swap%20For%20Longest%20Repeated%20Character%20Substring.md)| [单字符重复子串的最大长度  ](https://leetcode-cn.com/problems/swap-for-longest-repeated-character-substring) |
+| 1157  | [子数组中占绝大多数的元素  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B1157%5D%20Online%20Majority%20Element%20In%20Subarray.md)| [子数组中占绝大多数的元素  ](https://leetcode-cn.com/problems/online-majority-element-in-subarray) |
+| 1158  | [市场分析 I  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B1158%5D%20Market%20Analysis%20I.md)| [市场分析   I  ](https://leetcode-cn.com/problems/market-analysis-i) |
+| 1159  | [Market Analysis II  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B1159%5D%20Market%20Analysis%20II.md)| [Market   Analysis II  ](https://leetcode-cn.com/problems/market-analysis-ii) |
+| 1160  | [拼写单词  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B1160%5D%20Find%20Words%20That%20Can%20Be%20Formed%20by%20Characters.md)| [拼写单词  ](https://leetcode-cn.com/problems/find-words-that-can-be-formed-by-characters) |
+| 1161  | [最大层内元素和  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B1161%5D%20Maximum%20Level%20Sum%20of%20a%20Binary%20Tree.md)| [最大层内元素和  ](https://leetcode-cn.com/problems/maximum-level-sum-of-a-binary-tree) |
+| 1162  | [地图分析  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B1162%5D%20As%20Far%20from%20Land%20as%20Possible.md)| [地图分析  ](https://leetcode-cn.com/problems/as-far-from-land-as-possible) |
+| 1163  | [按字典序排在最后的子串  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B1163%5D%20Last%20Substring%20in%20Lexicographical%20Order.md)| [按字典序排在最后的子串  ](https://leetcode-cn.com/problems/last-substring-in-lexicographical-order) |
+| 1164  | [指定日期的产品价格  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B1164%5D%20Product%20Price%20at%20a%20Given%20Date.md)| [指定日期的产品价格  ](https://leetcode-cn.com/problems/product-price-at-a-given-date) |
+| 1165  | [单行键盘  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B1165%5D%20Single-Row%20Keyboard.md)| [单行键盘  ](https://leetcode-cn.com/problems/single-row-keyboard) |
+| 1166  | [设计文件系统  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B1166%5D%20Design%20File%20System.md)| [设计文件系统  ](https://leetcode-cn.com/problems/design-file-system) |
+| 1167  | [连接棒材的最低费用  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B1167%5D%20Minimum%20Cost%20to%20Connect%20Sticks.md)| [连接棒材的最低费用  ](https://leetcode-cn.com/problems/minimum-cost-to-connect-sticks) |
+| 1168  | [水资源分配优化  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B1168%5D%20Optimize%20Water%20Distribution%20in%20a%20Village.md)| [水资源分配优化  ](https://leetcode-cn.com/problems/optimize-water-distribution-in-a-village) |
+| 1169  | [查询无效交易  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B1169%5D%20Invalid%20Transactions.md)| [查询无效交易  ](https://leetcode-cn.com/problems/invalid-transactions) |
+| 1170  | [比较字符串最小字母出现频次  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B1170%5D%20Compare%20Strings%20by%20Frequency%20of%20the%20Smallest%20Character.md)| [比较字符串最小字母出现频次  ](https://leetcode-cn.com/problems/compare-strings-by-frequency-of-the-smallest-character) |
+| 1171  | [从链表中删去总和值为零的连续节点  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B1171%5D%20Remove%20Zero%20Sum%20Consecutive%20Nodes%20from%20Linked%20List.md)| [从链表中删去总和值为零的连续节点  ](https://leetcode-cn.com/problems/remove-zero-sum-consecutive-nodes-from-linked-list) |
+| 1172  | [餐盘栈  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B1172%5D%20Dinner%20Plate%20Stacks.md)| [餐盘栈  ](https://leetcode-cn.com/problems/dinner-plate-stacks) |
+| 1173  | [即时食物配送 I  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B1173%5D%20Immediate%20Food%20Delivery%20I.md)| [即时食物配送 I  ](https://leetcode-cn.com/problems/immediate-food-delivery-i) |
+| 1174  | [即时食物配送 II  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B1174%5D%20Immediate%20Food%20Delivery%20II.md)| [即时食物配送 II  ](https://leetcode-cn.com/problems/immediate-food-delivery-ii) |
+| 1175  | [质数排列  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B1175%5D%20Prime%20Arrangements.md)| [质数排列  ](https://leetcode-cn.com/problems/prime-arrangements) |
+| 1176  | [健身计划评估  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B1176%5D%20Diet%20Plan%20Performance.md)| [健身计划评估  ](https://leetcode-cn.com/problems/diet-plan-performance) |
+| 1177  | [构建回文串检测  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B1177%5D%20Can%20Make%20Palindrome%20from%20Substring.md)| [构建回文串检测  ](https://leetcode-cn.com/problems/can-make-palindrome-from-substring) |
+| 1178  | [猜字谜  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B1178%5D%20Number%20of%20Valid%20Words%20for%20Each%20Puzzle.md)| [猜字谜  ](https://leetcode-cn.com/problems/number-of-valid-words-for-each-puzzle) |
+| 1179  | [重新格式化部门表  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B1179%5D%20Reformat%20Department%20Table.md)| [重新格式化部门表  ](https://leetcode-cn.com/problems/reformat-department-table) |
+| 1180  | [统计只含单一字母的子串  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B1180%5D%20Count%20Substrings%20with%20Only%20One%20Distinct%20Letter.md)| [统计只含单一字母的子串  ](https://leetcode-cn.com/problems/count-substrings-with-only-one-distinct-letter) |
+| 1181  | [前后拼接  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B1181%5D%20Before%20and%20After%20Puzzle.md)| [前后拼接  ](https://leetcode-cn.com/problems/before-and-after-puzzle) |
+| 1182  | [与目标颜色间的最短距离  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B1182%5D%20Shortest%20Distance%20to%20Target%20Color.md)| [与目标颜色间的最短距离  ](https://leetcode-cn.com/problems/shortest-distance-to-target-color) |
+| 1183  | [矩阵中 1 的最大数量  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B1183%5D%20Maximum%20Number%20of%20Ones.md)| [矩阵中 1 的最大数量  ](https://leetcode-cn.com/problems/maximum-number-of-ones) |
+| 1184  | [公交站间的距离  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B1184%5D%20Distance%20Between%20Bus%20Stops.md)| [公交站间的距离  ](https://leetcode-cn.com/problems/distance-between-bus-stops) |
+| 1185  | [一周中的第几天  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B1185%5D%20Day%20of%20the%20Week.md)| [一周中的第几天  ](https://leetcode-cn.com/problems/day-of-the-week) |
+| 1186  | [删除一次得到子数组最大和  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B1186%5D%20Maximum%20Subarray%20Sum%20with%20One%20Deletion.md)| [删除一次得到子数组最大和  ](https://leetcode-cn.com/problems/maximum-subarray-sum-with-one-deletion) |
+| 1187  | [使数组严格递增  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B1187%5D%20Make%20Array%20Strictly%20Increasing.md)| [使数组严格递增  ](https://leetcode-cn.com/problems/make-array-strictly-increasing) |
+| 1188  | [设计有限阻塞队列  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B1188%5D%20Design%20Bounded%20Blocking%20Queue.md)| [设计有限阻塞队列  ](https://leetcode-cn.com/problems/design-bounded-blocking-queue) |
+| 1189  | [“气球” 的最大数量  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B1189%5D%20Maximum%20Number%20of%20Balloons.md)| [“气球” 的最大数量  ](https://leetcode-cn.com/problems/maximum-number-of-balloons) |
+| 1190  | [反转每对括号间的子串  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B1190%5D%20Reverse%20Substrings%20Between%20Each%20Pair%20of%20Parentheses.md)| [反转每对括号间的子串  ](https://leetcode-cn.com/problems/reverse-substrings-between-each-pair-of-parentheses) |
+| 1191  | [K   次串联后最大子数组之和  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B1191%5D%20K-Concatenation%20Maximum%20Sum.md)| [K 次串联后最大子数组之和  ](https://leetcode-cn.com/problems/k-concatenation-maximum-sum) |
+| 1192  | [查找集群内的「关键连接」  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B1192%5D%20Critical%20Connections%20in%20a%20Network.md)| [查找集群内的「关键连接」  ](https://leetcode-cn.com/problems/critical-connections-in-a-network) |
+| 1193  | [每月交易 I  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B1193%5D%20Monthly%20Transactions%20I.md)| [每月交易 I  ](https://leetcode-cn.com/problems/monthly-transactions-i) |
+| 1194  | [锦标赛优胜者  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B1194%5D%20Tournament%20Winners.md)| [锦标赛优胜者  ](https://leetcode-cn.com/problems/tournament-winners) |
+| 1195  | [交替打印字符串  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B1195%5D%20Fizz%20Buzz%20Multithreaded.md)| [交替打印字符串  ](https://leetcode-cn.com/problems/fizz-buzz-multithreaded) |
+| 1196  | [最多可以买到的苹果数量  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B1196%5D%20How%20Many%20Apples%20Can%20You%20Put%20into%20the%20Basket.md)| [最多可以买到的苹果数量  ](https://leetcode-cn.com/problems/how-many-apples-can-you-put-into-the-basket) |
+| 1197  | [进击的骑士  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B1197%5D%20Minimum%20Knight%20Moves.md)| [进击的骑士  ](https://leetcode-cn.com/problems/minimum-knight-moves) |
+| 1198  | [找出所有行中最小公共元素  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B1198%5D%20Find%20Smallest%20Common%20Element%20in%20All%20Rows.md)| [找出所有行中最小公共元素  ](https://leetcode-cn.com/problems/find-smallest-common-element-in-all-rows) |
+| 1199  | [建造街区的最短时间  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B1199%5D%20Minimum%20Time%20to%20Build%20Blocks.md)| [建造街区的最短时间  ](https://leetcode-cn.com/problems/minimum-time-to-build-blocks) |
+| 1200  | [最小绝对差  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B1200%5D%20Minimum%20Absolute%20Difference.md)| [最小绝对差  ](https://leetcode-cn.com/problems/minimum-absolute-difference) |
+| 1201  | [丑数 III  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B1201%5D%20Ugly%20Number%20III.md)| [丑数   III  ](https://leetcode-cn.com/problems/ugly-number-iii) |
+| 1202  | [交换字符串中的元素  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B1202%5D%20Smallest%20String%20With%20Swaps.md)| [交换字符串中的元素  ](https://leetcode-cn.com/problems/smallest-string-with-swaps) |
+| 1203  | [项目管理  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B1203%5D%20Sort%20Items%20by%20Groups%20Respecting%20Dependencies.md)| [项目管理  ](https://leetcode-cn.com/problems/sort-items-by-groups-respecting-dependencies) |
+| 1204  | [Last   Person to Fit in the Elevator  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B1204%5D%20Last%20Person%20to%20Fit%20in%20the%20Elevator.md)| [Last Person to Fit in the Elevator  ](https://leetcode-cn.com/problems/last-person-to-fit-in-the-elevator) |
+| 1205  | [每月交易II  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B1205%5D%20Monthly%20Transactions%20II.md)| [每月交易II  ](https://leetcode-cn.com/problems/monthly-transactions-ii) |
+| 1206  | [设计跳表  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B1206%5D%20Design%20Skiplist.md)| [设计跳表  ](https://leetcode-cn.com/problems/design-skiplist) |
+| 1207  | [独一无二的出现次数  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B1207%5D%20Unique%20Number%20of%20Occurrences.md)| [独一无二的出现次数  ](https://leetcode-cn.com/problems/unique-number-of-occurrences) |
+| 1208  | [尽可能使字符串相等  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B1208%5D%20Get%20Equal%20Substrings%20Within%20Budget.md)| [尽可能使字符串相等  ](https://leetcode-cn.com/problems/get-equal-substrings-within-budget) |
+| 1209  | [删除字符串中的所有相邻重复项   II  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B1209%5D%20Remove%20All%20Adjacent%20Duplicates%20in%20String%20II.md)| [删除字符串中的所有相邻重复项 II  ](https://leetcode-cn.com/problems/remove-all-adjacent-duplicates-in-string-ii) |
+| 1210  | [穿过迷宫的最少移动次数  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B1210%5D%20Minimum%20Moves%20to%20Reach%20Target%20with%20Rotations.md)| [穿过迷宫的最少移动次数  ](https://leetcode-cn.com/problems/minimum-moves-to-reach-target-with-rotations) |
+| 1211  | [Queries   Quality and Percentage  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B1211%5D%20Queries%20Quality%20and%20Percentage.md)| [Queries Quality and Percentage  ](https://leetcode-cn.com/problems/queries-quality-and-percentage) |
+| 1212  | [查询球队积分  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B1212%5D%20Team%20Scores%20in%20Football%20Tournament.md)| [查询球队积分  ](https://leetcode-cn.com/problems/team-scores-in-football-tournament) |
+| 1213  | [三个有序数组的交集  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B1213%5D%20Intersection%20of%20Three%20Sorted%20Arrays.md)| [三个有序数组的交集  ](https://leetcode-cn.com/problems/intersection-of-three-sorted-arrays) |
+| 1214  | [查找两棵二叉搜索树之和  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B1214%5D%20Two%20Sum%20BSTs.md)| [查找两棵二叉搜索树之和  ](https://leetcode-cn.com/problems/two-sum-bsts) |
+| 1215  | [步进数  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B1215%5D%20Stepping%20Numbers.md)| [步进数  ](https://leetcode-cn.com/problems/stepping-numbers) |
+| 1216  | [验证回文字符串 III  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B1216%5D%20Valid%20Palindrome%20III.md)| [验证回文字符串 III  ](https://leetcode-cn.com/problems/valid-palindrome-iii) |
+| 1217  | [玩筹码  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B1217%5D%20Play%20with%20Chips.md)| [玩筹码  ](https://leetcode-cn.com/problems/play-with-chips) |
+| 1218  | [最长定差子序列  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B1218%5D%20Longest%20Arithmetic%20Subsequence%20of%20Given%20Difference.md)| [最长定差子序列  ](https://leetcode-cn.com/problems/longest-arithmetic-subsequence-of-given-difference) |
+| 1219  | [黄金矿工  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B1219%5D%20Path%20with%20Maximum%20Gold.md)| [黄金矿工  ](https://leetcode-cn.com/problems/path-with-maximum-gold) |
+| 1220  | [统计元音字母序列的数目  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B1220%5D%20Count%20Vowels%20Permutation.md)| [统计元音字母序列的数目  ](https://leetcode-cn.com/problems/count-vowels-permutation) |
+| 1221  | [分割平衡字符串  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B1221%5D%20Split%20a%20String%20in%20Balanced%20Strings.md)| [分割平衡字符串  ](https://leetcode-cn.com/problems/split-a-string-in-balanced-strings) |
+| 1222  | [可以攻击国王的皇后  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B1222%5D%20Queens%20That%20Can%20Attack%20the%20King.md)| [可以攻击国王的皇后  ](https://leetcode-cn.com/problems/queens-that-can-attack-the-king) |
+| 1223  | [掷骰子模拟  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B1223%5D%20Dice%20Roll%20Simulation.md)| [掷骰子模拟  ](https://leetcode-cn.com/problems/dice-roll-simulation) |
+| 1224  | [最大相等频率  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B1224%5D%20Maximum%20Equal%20Frequency.md)| [最大相等频率  ](https://leetcode-cn.com/problems/maximum-equal-frequency) |
+| 1225  | [报告系统状态的连续日期  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B1225%5D%20Report%20Contiguous%20Dates.md)| [报告系统状态的连续日期  ](https://leetcode-cn.com/problems/report-contiguous-dates) |
+| 1226  | [哲学家进餐  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B1226%5D%20The%20Dining%20Philosophers.md)| [哲学家进餐  ](https://leetcode-cn.com/problems/the-dining-philosophers) |
+| 1227  | [飞机座位分配概率  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B1227%5D%20Airplane%20Seat%20Assignment%20Probability.md)| [飞机座位分配概率  ](https://leetcode-cn.com/problems/airplane-seat-assignment-probability) |
+| 1228  | [等差数列中缺失的数字  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B1228%5D%20Missing%20Number%20In%20Arithmetic%20Progression.md)| [等差数列中缺失的数字  ](https://leetcode-cn.com/problems/missing-number-in-arithmetic-progression) |
+| 1229  | [安排会议日程  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B1229%5D%20Meeting%20Scheduler.md)| [安排会议日程  ](https://leetcode-cn.com/problems/meeting-scheduler) |
+| 1230  | [抛掷硬币  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B1230%5D%20Toss%20Strange%20Coins.md)| [抛掷硬币  ](https://leetcode-cn.com/problems/toss-strange-coins) |
+| 1231  | [分享巧克力  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B1231%5D%20Divide%20Chocolate.md)| [分享巧克力  ](https://leetcode-cn.com/problems/divide-chocolate) |
+| 1232  | [缀点成线  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B1232%5D%20Check%20If%20It%20Is%20a%20Straight%20Line.md)| [缀点成线  ](https://leetcode-cn.com/problems/check-if-it-is-a-straight-line) |
+| 1233  | [删除子文件夹  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B1233%5D%20Remove%20Sub-Folders%20from%20the%20Filesystem.md)| [删除子文件夹  ](https://leetcode-cn.com/problems/remove-sub-folders-from-the-filesystem) |
+| 1234  | [替换子串得到平衡字符串  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B1234%5D%20Replace%20the%20Substring%20for%20Balanced%20String.md)| [替换子串得到平衡字符串  ](https://leetcode-cn.com/problems/replace-the-substring-for-balanced-string) |
+| 1235  | [规划兼职工作  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B1235%5D%20Maximum%20Profit%20in%20Job%20Scheduling.md)| [规划兼职工作  ](https://leetcode-cn.com/problems/maximum-profit-in-job-scheduling) |
+| 1236  | [网络爬虫  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B1236%5D%20Web%20Crawler.md)| [网络爬虫  ](https://leetcode-cn.com/problems/web-crawler)   |
+| 1237  | [找出给定方程的正整数解  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B1237%5D%20Find%20Positive%20Integer%20Solution%20for%20a%20Given%20Equation.md)| [找出给定方程的正整数解  ](https://leetcode-cn.com/problems/find-positive-integer-solution-for-a-given-equation) |
+| 1238  | [循环码排列  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B1238%5D%20Circular%20Permutation%20in%20Binary%20Representation.md)| [循环码排列  ](https://leetcode-cn.com/problems/circular-permutation-in-binary-representation) |
+| 1239  | [串联字符串的最大长度  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B1239%5D%20Maximum%20Length%20of%20a%20Concatenated%20String%20with%20Unique%20Characters.md)| [串联字符串的最大长度  ](https://leetcode-cn.com/problems/maximum-length-of-a-concatenated-string-with-unique-characters) |
+| 1240  | [铺瓷砖  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B1240%5D%20Tiling%20a%20Rectangle%20with%20the%20Fewest%20Squares.md)| [铺瓷砖  ](https://leetcode-cn.com/problems/tiling-a-rectangle-with-the-fewest-squares) |
+| 1241  | [每个帖子的评论数  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B1241%5D%20Number%20of%20Comments%20per%20Post.md)| [每个帖子的评论数  ](https://leetcode-cn.com/problems/number-of-comments-per-post) |
+| 1242  | [多线程网页爬虫  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B1242%5D%20Web%20Crawler%20Multithreaded.md)| [多线程网页爬虫  ](https://leetcode-cn.com/problems/web-crawler-multithreaded) |
+| 1243  | [数组变换  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B1243%5D%20Array%20Transformation.md)| [数组变换  ](https://leetcode-cn.com/problems/array-transformation) |
+| 1244  | [力扣排行榜  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B1244%5D%20Design%20A%20Leaderboard.md)| [力扣排行榜  ](https://leetcode-cn.com/problems/design-a-leaderboard) |
+| 1245  | [树的直径  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B1245%5D%20Tree%20Diameter.md)| [树的直径  ](https://leetcode-cn.com/problems/tree-diameter) |
+| 1246  | [删除回文子数组  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B1246%5D%20Palindrome%20Removal.md)| [删除回文子数组  ](https://leetcode-cn.com/problems/palindrome-removal) |
+| 1247  | [交换字符使得字符串相同  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B1247%5D%20Minimum%20Swaps%20to%20Make%20Strings%20Equal.md)| [交换字符使得字符串相同  ](https://leetcode-cn.com/problems/minimum-swaps-to-make-strings-equal) |
+| 1248  | [统计「优美子数组」  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B1248%5D%20Count%20Number%20of%20Nice%20Subarrays.md)| [统计「优美子数组」  ](https://leetcode-cn.com/problems/count-number-of-nice-subarrays) |
+| 1249  | [移除无效的括号  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B1249%5D%20Minimum%20Remove%20to%20Make%20Valid%20Parentheses.md)| [移除无效的括号  ](https://leetcode-cn.com/problems/minimum-remove-to-make-valid-parentheses) |
+| 1250  | [检查「好数组」  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B1250%5D%20Check%20If%20It%20Is%20a%20Good%20Array.md)| [检查「好数组」  ](https://leetcode-cn.com/problems/check-if-it-is-a-good-array) |
+| 1251  | [平均售价  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B1251%5D%20Average%20Selling%20Price.md)| [平均售价  ](https://leetcode-cn.com/problems/average-selling-price) |
+| 1252  | [奇数值单元格的数目  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B1252%5D%20Cells%20with%20Odd%20Values%20in%20a%20Matrix.md)| [奇数值单元格的数目  ](https://leetcode-cn.com/problems/cells-with-odd-values-in-a-matrix) |
+| 1253  | [重构   2 行二进制矩阵  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B1253%5D%20Reconstruct%20a%202-Row%20Binary%20Matrix.md)| [重构 2 行二进制矩阵  ](https://leetcode-cn.com/problems/reconstruct-a-2-row-binary-matrix) |
+| 1254  | [统计封闭岛屿的数目  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B1254%5D%20Number%20of%20Closed%20Islands.md)| [统计封闭岛屿的数目  ](https://leetcode-cn.com/problems/number-of-closed-islands) |
+| 1255  | [得分最高的单词集合  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B1255%5D%20Maximum%20Score%20Words%20Formed%20by%20Letters.md)| [得分最高的单词集合  ](https://leetcode-cn.com/problems/maximum-score-words-formed-by-letters) |
+| 1256  | [加密数字  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B1256%5D%20Encode%20Number.md)| [加密数字  ](https://leetcode-cn.com/problems/encode-number) |
+| 1257  | [最小公共区域  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B1257%5D%20Smallest%20Common%20Region.md)| [最小公共区域  ](https://leetcode-cn.com/problems/smallest-common-region) |
+| 1258  | [近义词句子  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B1258%5D%20Synonymous%20Sentences.md)| [近义词句子  ](https://leetcode-cn.com/problems/synonymous-sentences) |
+| 1259  | [不相交的握手  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B1259%5D%20Handshakes%20That%20Don%27t%20Cross.md)| [不相交的握手  ](https://leetcode-cn.com/problems/handshakes-that-dont-cross) |
+| 1260  | [二维网格迁移  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B1260%5D%20Shift%202D%20Grid.md)| [二维网格迁移  ](https://leetcode-cn.com/problems/shift-2d-grid) |
+| 1261  | [在受污染的二叉树中查找元素  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B1261%5D%20Find%20Elements%20in%20a%20Contaminated%20Binary%20Tree.md)| [在受污染的二叉树中查找元素  ](https://leetcode-cn.com/problems/find-elements-in-a-contaminated-binary-tree) |
+| 1262  | [可被三整除的最大和  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B1262%5D%20Greatest%20Sum%20Divisible%20by%20Three.md)| [可被三整除的最大和  ](https://leetcode-cn.com/problems/greatest-sum-divisible-by-three) |
+| 1263  | [推箱子  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B1263%5D%20Minimum%20Moves%20to%20Move%20a%20Box%20to%20Their%20Target%20Location.md)| [推箱子  ](https://leetcode-cn.com/problems/minimum-moves-to-move-a-box-to-their-target-location) |
+| 1264  | [页面推荐  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B1264%5D%20Page%20Recommendations.md)| [页面推荐  ](https://leetcode-cn.com/problems/page-recommendations) |
+| 1265  | [逆序打印不可变链表  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B1265%5D%20Print%20Immutable%20Linked%20List%20in%20Reverse.md)| [逆序打印不可变链表  ](https://leetcode-cn.com/problems/print-immutable-linked-list-in-reverse) |
+| 1266  | [访问所有点的最小时间  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B1266%5D%20Minimum%20Time%20Visiting%20All%20Points.md)| [访问所有点的最小时间  ](https://leetcode-cn.com/problems/minimum-time-visiting-all-points) |
+| 1267  | [统计参与通信的服务器  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B1267%5D%20Count%20Servers%20that%20Communicate.md)| [统计参与通信的服务器  ](https://leetcode-cn.com/problems/count-servers-that-communicate) |
+| 1268  | [搜索推荐系统  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B1268%5D%20Search%20Suggestions%20System.md)| [搜索推荐系统  ](https://leetcode-cn.com/problems/search-suggestions-system) |
+| 1269  | [停在原地的方案数  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B1269%5D%20Number%20of%20Ways%20to%20Stay%20in%20the%20Same%20Place%20After%20Some%20Steps.md)| [停在原地的方案数  ](https://leetcode-cn.com/problems/number-of-ways-to-stay-in-the-same-place-after-some-steps) |
+| 1270  | [向公司CEO汇报工作的所有人  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B1270%5D%20All%20People%20Report%20to%20the%20Given%20Manager.md)| [向公司CEO汇报工作的所有人  ](https://leetcode-cn.com/problems/all-people-report-to-the-given-manager) |
+| 1271  | [十六进制魔术数字  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B1271%5D%20Hexspeak.md)| [十六进制魔术数字  ](https://leetcode-cn.com/problems/hexspeak) |
+| 1272  | [删除区间  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B1272%5D%20Remove%20Interval.md)| [删除区间  ](https://leetcode-cn.com/problems/remove-interval) |
+| 1273  | [删除树节点  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B1273%5D%20Delete%20Tree%20Nodes.md)| [删除树节点  ](https://leetcode-cn.com/problems/delete-tree-nodes) |
+| 1274  | [矩形内船只的数目  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B1274%5D%20Number%20of%20Ships%20in%20a%20Rectangle.md)| [矩形内船只的数目  ](https://leetcode-cn.com/problems/number-of-ships-in-a-rectangle) |
+| 1275  | [找出井字棋的获胜者  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B1275%5D%20Find%20Winner%20on%20a%20Tic%20Tac%20Toe%20Game.md)| [找出井字棋的获胜者  ](https://leetcode-cn.com/problems/find-winner-on-a-tic-tac-toe-game) |
+| 1276  | [不浪费原料的汉堡制作方案  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B1276%5D%20Number%20of%20Burgers%20with%20No%20Waste%20of%20Ingredients.md)| [不浪费原料的汉堡制作方案  ](https://leetcode-cn.com/problems/number-of-burgers-with-no-waste-of-ingredients) |
+| 1277  | [统计全为   1 的正方形子矩阵  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B1277%5D%20Count%20Square%20Submatrices%20with%20All%20Ones.md)| [统计全为 1 的正方形子矩阵  ](https://leetcode-cn.com/problems/count-square-submatrices-with-all-ones) |
+| 1278  | [分割回文串 III  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B1278%5D%20Palindrome%20Partitioning%20III.md)| [分割回文串 III  ](https://leetcode-cn.com/problems/palindrome-partitioning-iii) |
+| 1279  | [红绿灯路口  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B1279%5D%20Traffic%20Light%20Controlled%20Intersection.md)| [红绿灯路口  ](https://leetcode-cn.com/problems/traffic-light-controlled-intersection) |
+| 1280  | [学生们参加各科测试的次数  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B1280%5D%20Students%20and%20Examinations.md)| [学生们参加各科测试的次数  ](https://leetcode-cn.com/problems/students-and-examinations) |
+| 1281  | [整数的各位积和之差  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B1281%5D%20Subtract%20the%20Product%20and%20Sum%20of%20Digits%20of%20an%20Integer.md)| [整数的各位积和之差  ](https://leetcode-cn.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer) |
+| 1282  | [用户分组  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B1282%5D%20Group%20the%20People%20Given%20the%20Group%20Size%20They%20Belong%20To.md)| [用户分组  ](https://leetcode-cn.com/problems/group-the-people-given-the-group-size-they-belong-to) |
+| 1283  | [使结果不超过阈值的最小除数  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B1283%5D%20Find%20the%20Smallest%20Divisor%20Given%20a%20Threshold.md)| [使结果不超过阈值的最小除数  ](https://leetcode-cn.com/problems/find-the-smallest-divisor-given-a-threshold) |
+| 1284  | [转化为全零矩阵的最少反转次数  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B1284%5D%20Minimum%20Number%20of%20Flips%20to%20Convert%20Binary%20Matrix%20to%20Zero%20Matrix.md)| [转化为全零矩阵的最少反转次数  ](https://leetcode-cn.com/problems/minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix) |
+| 1285  | [找到连续区间的开始和结束数字  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B1285%5D%20Find%20the%20Start%20and%20End%20Number%20of%20Continuous%20Ranges.md)| [找到连续区间的开始和结束数字  ](https://leetcode-cn.com/problems/find-the-start-and-end-number-of-continuous-ranges) |
+| 1286  | [字母组合迭代器  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B1286%5D%20Iterator%20for%20Combination.md)| [字母组合迭代器  ](https://leetcode-cn.com/problems/iterator-for-combination) |
+| 1287  | [有序数组中出现次数超过25%的元素  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B1287%5D%20Element%20Appearing%20More%20Than%2025%25%20In%20Sorted%20Array.md)| [有序数组中出现次数超过25%的元素  ](https://leetcode-cn.com/problems/element-appearing-more-than-25-in-sorted-array) |
+| 1288  | [删除被覆盖区间  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B1288%5D%20Remove%20Covered%20Intervals.md)| [删除被覆盖区间  ](https://leetcode-cn.com/problems/remove-covered-intervals) |
+| 1289  | [下降路径最小和   II  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B1289%5D%20Minimum%20Falling%20Path%20Sum%20II.md)| [下降路径最小和 II  ](https://leetcode-cn.com/problems/minimum-falling-path-sum-ii) |
+| 1290  | [二进制链表转整数  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B1290%5D%20Convert%20Binary%20Number%20in%20a%20Linked%20List%20to%20Integer.md)| [二进制链表转整数  ](https://leetcode-cn.com/problems/convert-binary-number-in-a-linked-list-to-integer) |
+| 1291  | [顺次数  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B1291%5D%20Sequential%20Digits.md)| [顺次数  ](https://leetcode-cn.com/problems/sequential-digits) |
+| 1292  | [元素和小于等于阈值的正方形的最大边长  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B1292%5D%20Maximum%20Side%20Length%20of%20a%20Square%20with%20Sum%20Less%20than%20or%20Equal%20to%20Threshold.md)| [元素和小于等于阈值的正方形的最大边长  ](https://leetcode-cn.com/problems/maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
+| 1293  | [网格中的最短路径  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B1293%5D%20Shortest%20Path%20in%20a%20Grid%20with%20Obstacles%20Elimination.md)| [网格中的最短路径  ](https://leetcode-cn.com/problems/shortest-path-in-a-grid-with-obstacles-elimination) |
+| 1294  | [不同国家的天气类型  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B1294%5D%20Weather%20Type%20in%20Each%20Country.md)| [不同国家的天气类型  ](https://leetcode-cn.com/problems/weather-type-in-each-country) |
+| 1295  | [统计位数为偶数的数字  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B1295%5D%20Find%20Numbers%20with%20Even%20Number%20of%20Digits.md)| [统计位数为偶数的数字  ](https://leetcode-cn.com/problems/find-numbers-with-even-number-of-digits) |
+| 1296  | [划分数组为连续数字的集合  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B1296%5D%20Divide%20Array%20in%20Sets%20of%20K%20Consecutive%20Numbers.md)| [划分数组为连续数字的集合  ](https://leetcode-cn.com/problems/divide-array-in-sets-of-k-consecutive-numbers) |
+| 1297  | [子串的最大出现次数  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B1297%5D%20Maximum%20Number%20of%20Occurrences%20of%20a%20Substring.md)| [子串的最大出现次数  ](https://leetcode-cn.com/problems/maximum-number-of-occurrences-of-a-substring) |
+| 1298  | [你能从盒子里获得的最大糖果数  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B1298%5D%20Maximum%20Candies%20You%20Can%20Get%20from%20Boxes.md)| [你能从盒子里获得的最大糖果数  ](https://leetcode-cn.com/problems/maximum-candies-you-can-get-from-boxes) |
+| 1299  | [将每个元素替换为右侧最大元素  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B1299%5D%20Replace%20Elements%20with%20Greatest%20Element%20on%20Right%20Side.md)| [将每个元素替换为右侧最大元素  ](https://leetcode-cn.com/problems/replace-elements-with-greatest-element-on-right-side) |
+| 1300  | [转变数组后最接近目标值的数组和  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B1300%5D%20Sum%20of%20Mutated%20Array%20Closest%20to%20Target.md)| [转变数组后最接近目标值的数组和  ](https://leetcode-cn.com/problems/sum-of-mutated-array-closest-to-target) |
+| 1301  | [最大得分的路径数目  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B1301%5D%20Number%20of%20Paths%20with%20Max%20Score.md)| [最大得分的路径数目  ](https://leetcode-cn.com/problems/number-of-paths-with-max-score) |
+| 1302  | [层数最深叶子节点的和  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B1302%5D%20Deepest%20Leaves%20Sum.md)| [层数最深叶子节点的和  ](https://leetcode-cn.com/problems/deepest-leaves-sum) |
+| 1303  | [求团队人数  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B1303%5D%20Find%20the%20Team%20Size.md)| [求团队人数  ](https://leetcode-cn.com/problems/find-the-team-size) |
+| 1304  | [和为零的N个唯一整数  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B1304%5D%20Find%20N%20Unique%20Integers%20Sum%20up%20to%20Zero.md)| [和为零的N个唯一整数  ](https://leetcode-cn.com/problems/find-n-unique-integers-sum-up-to-zero) |
+| 1305  | [两棵二叉搜索树中的所有元素  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B1305%5D%20All%20Elements%20in%20Two%20Binary%20Search%20Trees.md)| [两棵二叉搜索树中的所有元素  ](https://leetcode-cn.com/problems/all-elements-in-two-binary-search-trees) |
+| 1306  | [跳跃游戏 III  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B1306%5D%20Jump%20Game%20III.md)| [跳跃游戏   III  ](https://leetcode-cn.com/problems/jump-game-iii) |
+| 1307  | [口算难题  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B1307%5D%20Verbal%20Arithmetic%20Puzzle.md)| [口算难题  ](https://leetcode-cn.com/problems/verbal-arithmetic-puzzle) |
+| 1309  | [解码字母到整数映射  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B1309%5D%20Decrypt%20String%20from%20Alphabet%20to%20Integer%20Mapping.md)| [解码字母到整数映射  ](https://leetcode-cn.com/problems/decrypt-string-from-alphabet-to-integer-mapping) |
+| 1310  | [子数组异或查询  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B1310%5D%20XOR%20Queries%20of%20a%20Subarray.md)| [子数组异或查询  ](https://leetcode-cn.com/problems/xor-queries-of-a-subarray) |
+| 1311  | [获取你好友已观看的视频  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B1311%5D%20Get%20Watched%20Videos%20by%20Your%20Friends.md)| [获取你好友已观看的视频  ](https://leetcode-cn.com/problems/get-watched-videos-by-your-friends) |
+| 1312  | [让字符串成为回文串的最少插入次数  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B1312%5D%20Minimum%20Insertion%20Steps%20to%20Make%20a%20String%20Palindrome.md)| [让字符串成为回文串的最少插入次数  ](https://leetcode-cn.com/problems/minimum-insertion-steps-to-make-a-string-palindrome) |
+| 1313  | [解压缩编码列表  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B1313%5D%20Decompress%20Run-Length%20Encoded%20List.md)| [解压缩编码列表  ](https://leetcode-cn.com/problems/decompress-run-length-encoded-list) |
+| 1314  | [矩阵区域和  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B1314%5D%20Matrix%20Block%20Sum.md)| [矩阵区域和  ](https://leetcode-cn.com/problems/matrix-block-sum) |
+| 1315  | [祖父节点值为偶数的节点和  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B1315%5D%20Sum%20of%20Nodes%20with%20Even-Valued%20Grandparent.md)| [祖父节点值为偶数的节点和  ](https://leetcode-cn.com/problems/sum-of-nodes-with-even-valued-grandparent) |
+| 1316  | [不同的循环子字符串  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B1316%5D%20Distinct%20Echo%20Substrings.md)| [不同的循环子字符串  ](https://leetcode-cn.com/problems/distinct-echo-substrings) |
+| 1317  | [将整数转换为两个无零整数的和  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B1317%5D%20Convert%20Integer%20to%20the%20Sum%20of%20Two%20No-Zero%20Integers.md)| [将整数转换为两个无零整数的和  ](https://leetcode-cn.com/problems/convert-integer-to-the-sum-of-two-no-zero-integers) |
+| 1318  | [或运算的最小翻转次数  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B1318%5D%20Minimum%20Flips%20to%20Make%20a%20OR%20b%20Equal%20to%20c.md)| [或运算的最小翻转次数  ](https://leetcode-cn.com/problems/minimum-flips-to-make-a-or-b-equal-to-c) |
+| 1319  | [连通网络的操作次数  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B1319%5D%20Number%20of%20Operations%20to%20Make%20Network%20Connected.md)| [连通网络的操作次数  ](https://leetcode-cn.com/problems/number-of-operations-to-make-network-connected) |
+| 1320  | [二指输入的的最小距离  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5B1320%5D%20Minimum%20Distance%20to%20Type%20a%20Word%20Using%20Two%20Fingers.md)| [二指输入的的最小距离  ](https://leetcode-cn.com/problems/minimum-distance-to-type-a-word-using-two-fingers) |
+| LCP 1 | [猜数字  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5BLCP%201%5D%20Guess%20Numbers.md)| [猜数字  ](https://leetcode-cn.com/problems/guess-numbers)   |
+| LCP 2 | [分式化简  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5BLCP%202%5D%20Deep%20Dark%20Fraction.md)| [分式化简  ](https://leetcode-cn.com/problems/deep-dark-fraction) |
+| LCP 3 | [机器人大冒险  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5BLCP%203%5D%20Programmable%20Robot.md)| [机器人大冒险  ](https://leetcode-cn.com/problems/programmable-robot) |
+| LCP 4 | [覆盖  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5BLCP%204%5D%20Broken%20Board%20Dominoes.md)| [覆盖  ](https://leetcode-cn.com/problems/broken-board-dominoes) |
+| LCP 5 | [发 LeetCoin  ](https://github.com/algoboy101/note_blog_leetcode/blob/master/md/%5BLCP%205%5D%20Coin%20Bonus.md)| [发   LeetCoin  ](https://leetcode-cn.com/problems/coin-bonus) |
