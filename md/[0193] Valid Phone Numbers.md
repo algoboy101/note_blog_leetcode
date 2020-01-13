@@ -1,0 +1,66 @@
+---
+title: "[0193] Valid Phone Numbers"
+tags:
+  - leetcode
+categories:
+  - leetcode
+author: 张学志
+comments: true
+updated: false
+permalink:
+mathjax: false
+top: false
+description: ...
+date: 2020-01-01 00:03:13
+---
+
+## 题目描述
+
+> 给定一个包含电话号码列表（一行一个电话号码）的文本文件 file.txt，写一个 bash 脚本输出所有有效的电话号码。 
+> 
+> 你可以假设一个有效的电话号码必须满足以下两种格式： (xxx) xxx-xxxx 或 xxx-xxx-xxxx。（x 表示一个数字） 
+> 
+> 你也可以假设每行前后没有多余的空格字符。 
+> 
+> 示例: 
+> 
+> 假设 file.txt 内容如下： 
+> 
+> 987-123-4567
+> 123 456 7890
+> (123) 456-7890
+> 
+> 
+> 你的脚本应当输出下列有效的电话号码： 
+> 
+> 987-123-4567
+> (123) 456-7890
+> 
+> 
+
+## 题目代码
+
+```cpp
+
+```
+
+## 解析
+
+### 方法一
+
+```cpp
+
+```
+
+### 方法二
+
+```cpp
+
+```
+
+### 方法三
+
+```cpp
+
+```
+
