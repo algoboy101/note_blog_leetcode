@@ -1,7 +1,9 @@
 ## 文件说明
-* cpp/ 里面是原始的题目，包含了LeetCode所有题目
-* md/  从cpp生成的markdown文件，和cpp/里面的文件一一对应
-* scripts/ 存储了处理脚本
+|文件(夹) | 说明 |
+|----|---|
+|cpp/ | 题目 |
+|md/  | 题解 |
+|scripts/ | 处理脚本 |
 
 ## LeetCode 全部链接
 
