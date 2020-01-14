@@ -54,8 +54,27 @@ public:
 
 ### 方法一
 
-```cpp
+合并两个数组，排序。长度为奇数时，返回中间数字；否则，返回中间两个的平均数。
 
+```cpp
+class Solution {
+public:
+    double findMedianSortedArrays(vector<int>& nums1, vector<int>& nums2) {
+        if(nums1.empty() && nums2.empty())
+            return -1.0;
+        vector<int> nums;
+        for(int i=0; i<nums1.size(); i++)
+            nums.push_back(nums1[i]);
+        for(int i=0; i<nums2.size(); i++)
+            nums.push_back(nums2[i]);
+        sort(nums.begin(), nums.end());
+        int sz = nums.size();
+        if(sz % 2 == 1)
+            return nums[sz / 2];
+        else
+            return (nums[sz/2 -1] + nums[sz/2]) / 2.0;
+    }
+};
 ```
 
 ### 方法二
