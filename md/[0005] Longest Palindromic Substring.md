@@ -48,7 +48,31 @@ public:
 ### 方法一
 
 ```cpp
+class Solution {
+public:
+    string longestPalindrome(string s) {
+        if(s.empty())
+            return "";
+        int start = 0;
+        int len = 0;
+        for(int i=0; i<s.size(); i++){
+            int tmp = max(getsub(s, i, i), getsub(s,i,i+1));
+            if(tmp > len){
+                len = tmp;
+                start = i - (len-1)/2;
+            }
+        }
+        return s.substr(start, len);
+    }
 
+    int getsub(string s, int i, int j){
+        while(i>=0 && j<s.size() && s[i] == s[j]){
+            i--;
+            j++;
+        }
+        return j - i - 1;
+    }
+};
 ```
 
 ### 方法二
