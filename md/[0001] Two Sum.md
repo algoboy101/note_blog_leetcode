@@ -90,3 +90,23 @@ public:
 };
 ```
 
+
+Github 同步地址：
+
+https://github.com/grandyang/leetcode/issues/1
+
+ 
+
+类似题目：
+
+4Sum
+
+3Sum Smaller
+
+3Sum Closest
+
+3Sum
+
+Two Sum III - Data structure design 
+
+Two Sum II - Input array is sorted 
