@@ -81,3 +81,25 @@ public:
 
 
 
+在 CareerCup 上的这道题还有个 Follow Up，把链表存的数字方向变了，原来是表头存最低位，现在是表头存最高位，请参见我的另一篇博客 2.5 Add Two Numbers 两个数字相加 。
+
+ 
+
+Github 同步地址：
+
+https://github.com/grandyang/leetcode/issues/2
+
+ 
+
+类似题目：
+
+Multiply Strings
+
+Add Binary
+
+Sum of Two Integers 
+
+Add Strings 
+
+Add Two Numbers II  
+
