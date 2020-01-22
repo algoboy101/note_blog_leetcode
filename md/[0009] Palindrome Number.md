@@ -121,4 +121,14 @@ public:
 };
 ```
 
-v
+Github 同步地址：
+
+https://github.com/grandyang/leetcode/issues/9
+
+ 
+
+类似题目：
+
+Palindrome Linked List
+
+Reverse Integer
