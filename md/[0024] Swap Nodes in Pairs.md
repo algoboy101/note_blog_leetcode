@@ -49,21 +49,54 @@ public:
 
 ## 解析
 
+这道题不算难，是基本的链表操作题，我们可以分别用递归和迭代来实现。对于迭代实现，还是需要建立 dummy 节点，注意在连接节点的时候，最好画个图，以免把自己搞晕了，参见代码如下：
+
 ### 方法一
 
 ```cpp
-
+class Solution {
+public:
+    ListNode* swapPairs(ListNode* head) {
+        ListNode *dummy = new ListNode(-1), *pre = dummy;
+        dummy->next = head;
+        while (pre->next && pre->next->next) {
+            ListNode *t = pre->next->next;
+            pre->next->next = t->next;
+            t->next = pre->next;
+            pre->next = t;
+            pre = t->next;
+        }
+        return dummy->next;
+    }
+};
 ```
 
 ### 方法二
 
-```cpp
-
-```
-
-### 方法三
+递归的写法就更简洁了，实际上利用了回溯的思想，递归遍历到链表末尾，然后先交换末尾两个，然后依次往前交换：
 
 ```cpp
-
+class Solution {
+public:
+    ListNode* swapPairs(ListNode* head) {
+        if (!head || !head->next) return head;
+        ListNode *t = head->next;
+        head->next = swapPairs(head->next->next);
+        t->next = head;
+        return t;
+    }
+};
 ```
+
+Github 同步地址：
+
+https://github.com/grandyang/leetcode/issues/24
+
+ 
+
+类似题目：
+
+Reverse Nodes in k-Group
+
+
 
