@@ -89,8 +89,19 @@ public:
 
 ### 方法二
 
-```cpp
+我们也可以用 for 循环来写，这里的j就是上面解法中的 pre，i就是 cur，所以本质上都是一样的，参见代码如下：
 
+```cpp
+class Solution {
+public:
+    int removeDuplicates(vector<int>& nums) {
+        int j = 0, n = nums.size();
+        for (int i = 0; i < n; ++i) {
+            if (nums[i] != nums[j]) nums[++j] = nums[i];
+        }
+        return nums.empty() ? 0 : (j + 1);
+    }
+};
 ```
 
 ### 方法三
