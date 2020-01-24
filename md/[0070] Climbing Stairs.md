@@ -118,5 +118,19 @@ public:
 论坛上还有一种分治法 Divide and Conquer 的解法，用的是递归形式，可以通过，但是博主没有十分理解，希望各位看官大神可以跟博主讲一讲～
 
 ```cpp
+class Solution {
+public:
+    int climbStairs(int n) {
+        if(n <= 1) return 1;       
+        return climbStairs(n / 2) * climbStairs(n - n / 2) + climbStairs(n / 2 - 1) * climbStairs(n - n / 2 - 1);
+    }
+};
+```
+
+### 方法五
+
+```cpp
+最后来看一种叼炸天的方法，其实斐波那契数列是可以求出通项公式的，推理的过程请参见 知乎上的这个贴子，那么有了通项公式后，直接在常数级的时间复杂度范围内就可以求出结果了，参见代码如下：
+
 
 ```
