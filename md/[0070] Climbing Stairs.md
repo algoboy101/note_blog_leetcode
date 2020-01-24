@@ -129,8 +129,27 @@ public:
 
 ### 方法五
 
-```cpp
 最后来看一种叼炸天的方法，其实斐波那契数列是可以求出通项公式的，推理的过程请参见 知乎上的这个贴子，那么有了通项公式后，直接在常数级的时间复杂度范围内就可以求出结果了，参见代码如下：
 
 
+```cpp
+class Solution {
+public:
+    int climbStairs(int n) {
+        double root5 = sqrt(5);
+        return (1 / root5) * (pow((1 + root5) / 2, n + 1) - pow((1 - root5) / 2, n + 1));
+    }
+};
 ```
+
+Github 同步地址：
+
+https://github.com/grandyang/leetcode/issues/70
+
+ 
+
+类似题目：
+
+Min Cost Climbing Stairs
+
+Fibonacci Number    
