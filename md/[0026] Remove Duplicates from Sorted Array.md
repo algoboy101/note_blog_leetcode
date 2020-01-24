@@ -106,7 +106,20 @@ public:
 
 ### 方法三
 
-```cpp
+这里也可以换一种写法，用变量i表示当前覆盖到到位置，由于不能有重复数字，则只需要用当前数字 num 跟上一个覆盖到到数字 nums[i-1] 做个比较，只要 num 大，则一定不会有重复（前提是数组必须有序），参见代码如下：
 
+```cpp
+class Solution {
+public:
+    int removeDuplicates(vector<int>& nums) {
+        int i = 0;
+        for (int num : nums) {
+            if (i < 1 || num > nums[i - 1]) {
+                nums[i++] = num;
+            }
+        }
+        return i;
+    }
+};
 ```
 
