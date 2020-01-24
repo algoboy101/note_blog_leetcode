@@ -98,7 +98,57 @@ public:
 
 ### 方法三
 
-```cpp
+我们可以对上面的解法进行进一步优化，使其更加简洁：	
 
+```cpp
+class Solution {
+public:
+    int trap(vector<int>& height) {
+        int l = 0, r = height.size() - 1, level = 0, res = 0;
+        while (l < r) {
+            int lower = height[(height[l] < height[r]) ? l++ : r--];
+            level = max(level, lower);
+            res += level - lower;
+        }
+        return res;
+    }
+};
 ```
 
+### 方法四
+
+下面这种解法是用 stack 来做的，博主一开始都没有注意到这道题的 tag 还有 stack，所以以后在总结的时候还是要多多留意一下标签啊。其实用 stack 的方法博主感觉更容易理解，思路是，遍历高度，如果此时栈为空，或者当前高度小于等于栈顶高度，则把当前高度的坐标压入栈，注意这里不直接把高度压入栈，而是把坐标压入栈，这样方便在后来算水平距离。当遇到比栈顶高度大的时候，就说明有可能会有坑存在，可以装雨水。此时栈里至少有一个高度，如果只有一个的话，那么不能形成坑，直接跳过，如果多余一个的话，那么此时把栈顶元素取出来当作坑，新的栈顶元素就是左边界，当前高度是右边界，只要取二者较小的，减去坑的高度，长度就是右边界坐标减去左边界坐标再减1，二者相乘就是盛水量啦，参见代码如下：
+
+```cpp
+class Solution {
+public:
+    int trap(vector<int>& height) {
+        stack<int> st;
+        int i = 0, res = 0, n = height.size();
+        while (i < n) {
+            if (st.empty() || height[i] <= height[st.top()]) {
+                st.push(i++);
+            } else {
+                int t = st.top(); st.pop();
+                if (st.empty()) continue;
+                res += (min(height[i], height[st.top()]) - height[t]) * (i - st.top() - 1);
+            }
+        }
+        return res;
+    }
+};
+```
+
+Github 同步地址：
+
+https://github.com/grandyang/leetcode/issues/42
+
+类似题目：
+
+Trapping Rain Water II 
+
+Container With Most Water
+
+Product of Array Except Self
+
+Pour Water
