@@ -64,18 +64,92 @@ public:
 
 
 ```cpp
-
+class Solution {
+public:
+    vector<vector<string>> solveNQueens(int n) {
+        vector<vector<string>> res;
+        vector<string> queens(n, string(n, '.'));
+        helper(0, queens, res);
+        return res;
+    }
+    void helper(int curRow, vector<string>& queens, vector<vector<string>>& res) {
+        int n = queens.size();
+        if (curRow == n) {
+            res.push_back(queens);
+            return;
+        }
+        for (int i = 0; i < n; ++i) {
+            if (isValid(queens, curRow, i)) {
+                queens[curRow][i] = 'Q';
+                helper(curRow + 1, queens, res);
+                queens[curRow][i] = '.';
+            }
+        }
+    }
+    bool isValid(vector<string>& queens, int row, int col) {
+        for (int i = 0; i < row; ++i) {
+            if (queens[i][col] == 'Q') return false;
+        }
+        for (int i = row - 1, j = col - 1; i >= 0 && j >= 0; --i, --j) {
+            if (queens[i][j] == 'Q') return false;
+        }
+        for (int i = row - 1, j = col + 1; i >= 0 && j < queens.size(); --i, ++j) {
+            if (queens[i][j] == 'Q') return false;
+        }
+        return true;
+    }
+};
 ```
 
 ### 方法二
 
-```cpp
+我们还可以只使用一个一维数组 queenCol 来保存所有皇后的列位置，初始化均为-1， 那么 queenCol[i] 就是表示第i个皇后在 (i, queenCol[i]) 位置，递归函数还是跟上面的解法相同，就是在当前行数等于n的时候，我们要将 queenCol 还原成一个 nxn 大小的矩阵，并存入结果 res 中。这种记录每个皇后的坐标的方法在验证冲突的时候比较简单，只要从第0行遍历到当前行，若跟之前的皇后的列数相同，直接返回false，叼就叼在判断对角线冲突非常简便，因为当两个点在同一条对角线上，那么二者的横坐标差的绝对值等于纵坐标差的绝对值，利用这条性质，可以快速的判断冲突，代码如下：
 
-```
 
-### 方法三
 
 ```cpp
-
+class Solution {
+public:
+    vector<vector<string>> solveNQueens(int n) {
+        vector<vector<string>> res;
+        vector<int> queenCol(n, -1);
+        helper(0, queenCol, res);
+        return res;
+    }
+    void helper(int curRow, vector<int>& queenCol, vector<vector<string>>& res) {
+        int n = queenCol.size();
+        if (curRow == n) {
+            vector<string> out(n, string(n, '.'));
+            for (int i = 0; i < n; ++i) {
+                out[i][queenCol[i]] = 'Q';
+            }
+            res.push_back(out);
+            return;
+        }
+        for (int i = 0; i < n; ++i) {
+            if (isValid(queenCol, curRow, i)) {
+                queenCol[curRow] = i;
+                helper(curRow + 1, queenCol, res);
+                queenCol[curRow] = -1;
+            }
+        }
+    }
+    bool isValid(vector<int>& queenCol, int row, int col) {
+        for (int i = 0; i < row; ++i) {
+            if (col == queenCol[i] || abs(row - i) == abs(col - queenCol[i])) return false;
+        }
+        return true;
+    }
+};
 ```
 
+Github 同步地址：
+
+https://github.com/grandyang/leetcode/issues/51
+
+
+类似题目：
+
+N-Queens II
+
+Grid Illumination
