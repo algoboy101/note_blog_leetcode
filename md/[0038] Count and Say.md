@@ -61,21 +61,44 @@ public:
 
 ## 解析
 
+这道计数和读法问题还是第一次遇到，看似挺复杂，其实仔细一看，算法很简单，就是对于前一个数，找出相同元素的个数，把个数和该元素存到新的 string 里。代码如下：
+
+
+
 ### 方法一
 
 ```cpp
-
+class Solution {
+public:
+    string countAndSay(int n) {
+        if (n <= 0) return "";
+        string res = "1";
+        while (--n) {
+            string cur = "";
+            for (int i = 0; i < res.size(); ++i) {
+                int cnt = 1;
+                while (i + 1 < res.size() && res[i] == res[i + 1]) {
+                    ++cnt;
+                    ++i;
+                }
+                cur += to_string(cnt) + res[i];
+            }
+            res = cur;
+        }
+        return res;
+    }
+};
 ```
 
-### 方法二
 
-```cpp
+Github 同步地址：
 
-```
+https://github.com/grandyang/leetcode/issues/38
 
-### 方法三
+ 
 
-```cpp
+类似题目：
 
-```
+Encode and Decode Strings
 
+String Compression
