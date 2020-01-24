@@ -107,6 +107,7 @@ Github 同步地址：
 
 https://github.com/grandyang/leetcode/issues/22
 
+ 
 
 类似题目：
 
@@ -119,4 +120,8 @@ Longest Valid Parentheses
 Valid Parentheses
 
 Score of Parentheses
+
+Valid Parenthesis String
+
+ 
 
