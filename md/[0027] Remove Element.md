@@ -74,21 +74,35 @@ public:
 
 ## 解析
 
+这道题让我们移除一个数组中和给定值相同的数字，并返回新的数组的长度。是一道比较容易的题，只需要一个变量用来计数，然后遍历原数组，如果当前的值和给定值不同，就把当前值覆盖计数变量的位置，并将计数变量加1。代码如下：
+
+
+
 ### 方法一
 
 ```cpp
-
+class Solution {
+public:
+    int removeElement(vector<int>& nums, int val) {
+        int res = 0;
+        for (int i = 0; i < nums.size(); ++i) {
+            if (nums[i] != val) nums[res++] = nums[i];
+        }
+        return res;
+    }
+};
 ```
 
-### 方法二
+Github 同步地址：
 
-```cpp
+https://github.com/grandyang/leetcode/issues/27
 
-```
+ 
 
-### 方法三
+类似题目：
 
-```cpp
+Remove Duplicates from Sorted Array
 
-```
+Remove Linked List Elements
 
+Move Zeroes
