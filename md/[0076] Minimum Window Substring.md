@@ -88,12 +88,45 @@ public:
 这道题也可以不用 HashMap，直接用个 int 的数组来代替，因为 ASCII 只有256个字符，所以用个大小为 256 的 int 数组即可代替 HashMap，但由于一般输入字母串的字符只有 128 个，所以也可以只用 128，其余部分的思路完全相同，虽然只改了一个数据结构，但是运行速度提高了一倍，说明数组还是比 HashMap 快啊。在热心网友 chAngelts 的提醒下，还可以进一步的优化，没有必要每次都计算子串，只要有了起始位置和长度，就能唯一的确定一个子串。这里使用一个全局变量 minLeft 来记录最终结果子串的起始位置，初始化为 -1，最终配合上 minLen，就可以得到最终结果了。注意在返回的时候要检测一下若 minLeft 仍为初始值 -1，需返回空串，参见代码如下：
 
 ```cpp
-
+class Solution {
+public:
+    string minWindow(string s, string t) {
+        vector<int> letterCnt(128, 0);
+        int left = 0, cnt = 0, minLeft = -1, minLen = INT_MAX;
+        for (char c : t) ++letterCnt[c];
+        for (int i = 0; i < s.size(); ++i) {
+            if (--letterCnt[s[i]] >= 0) ++cnt;
+            while (cnt == t.size()) {
+                if (minLen > i - left + 1) {
+                    minLen = i - left + 1;
+                    minLeft = left;
+                }
+                if (++letterCnt[s[left]] > 0) --cnt;
+                ++left;
+            }
+        }
+        return minLeft == -1 ? "" : s.substr(minLeft, minLen);
+    }
+};
 ```
 
-### 方法三
+Github 同步地址：
 
-```cpp
+https://github.com/grandyang/leetcode/issues/76
 
-```
+
+
+类似题目：
+
+Substring with Concatenation of All Words
+
+Minimum Size Subarray Sum
+
+Sliding Window Maximum
+
+Permutation in String
+
+Smallest Range
+
+Minimum Window Subsequence
 
