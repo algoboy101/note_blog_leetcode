@@ -147,3 +147,44 @@ public:
 };
 ```
 
+### 方法四
+
+下面这种解法利用到了计数排序的思想，由留言区二楼热心网友闽 A2436 提供，思路是将所有的结点值出现的最大值和最小值都记录下来，然后记录每个结点值出现的次数，这样从最小值遍历到最大值的时候，就会按顺序经过所有的结点值，根据其出现的次数，建立相对应个数的结点。但是这种解法有个特别需要注意的地方，那就是合并后的链表结点都是重新建立的，若在某些情况下，不能新建结点，而只能交换或者重新链接结点的话，那么此解法就不能使用，但好在本题并没有这种限制，可以完美过 OJ，参见代码如下：
+
+```cpp
+class Solution {
+public:
+    ListNode* mergeKLists(vector<ListNode*>& lists) {
+        ListNode *dummy = new ListNode(-1), *cur = dummy;
+        unordered_map<int, int> m;
+        int mx = INT_MIN, mn = INT_MAX;
+        for (auto node : lists) {
+            ListNode *t = node;
+            while (t) {
+                mx = max(mx, t->val);
+                mn = min(mn, t->val);
+                ++m[t->val];
+                t = t->next;
+            }
+        }
+        for (int i = mn; i <= mx; ++i) {
+            if (!m.count(i)) continue;
+            for (int j = 0; j < m[i]; ++j) {
+                cur->next = new ListNode(i);
+                cur = cur->next;
+            }
+        }
+        return dummy->next;
+    }
+};
+```
+
+Github 同步地址：
+
+https://github.com/grandyang/leetcode/issues/23
+
+类似题目：
+
+Merge Two Sorted Lists
+
+Ugly Number II
