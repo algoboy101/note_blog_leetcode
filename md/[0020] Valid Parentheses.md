@@ -94,15 +94,20 @@ public:
 };
 ```
 
-### 方法二
+Github 同步地址：
 
-```cpp
+https://github.com/grandyang/leetcode/issues/20
 
-```
+ 
 
-### 方法三
+类似题目：
 
-```cpp
+Remove Invalid Parentheses
 
-```
+Different Ways to Add Parentheses
 
+Longest Valid Parentheses
+
+Generate Parentheses
+
+Check If Word Is Valid After Substitutions
