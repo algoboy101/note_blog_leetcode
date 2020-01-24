@@ -47,6 +47,7 @@ public:
 
 ### 方法一
 
+```cpp
 class Solution {
 public:
     vector<string> generateParenthesis(int n) {
@@ -63,9 +64,6 @@ public:
         }
     }
 };
-
-```cpp
-
 ```
 
 ### 方法二
