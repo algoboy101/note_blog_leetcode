@@ -123,3 +123,19 @@ public:
 };
 ```
 
+Github 同步地址：
+
+https://github.com/grandyang/leetcode/issues/26
+
+ 
+
+类似题目：
+
+Remove Duplicates from Sorted List
+
+Remove Duplicates from Sorted List II
+
+Remove Duplicates from Sorted Array II
+
+Remove Element
+
