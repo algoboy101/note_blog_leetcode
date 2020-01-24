@@ -122,3 +122,19 @@ public:
 };
 ```
 
+
+Github 同步地址：
+
+https://github.com/grandyang/leetcode/issues/32
+
+ 
+
+类似题目：
+
+Remove Invalid Parentheses
+
+Different Ways to Add Parentheses
+
+Generate Parentheses
+
+Valid Parentheses
