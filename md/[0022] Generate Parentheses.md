@@ -68,17 +68,56 @@ public:
 
 ### 方法二
 
+ 
+
 再来看那一种方法，这种方法是 CareerCup 书上给的方法，感觉也是满巧妙的一种方法，这种方法的思想是找左括号，每找到一个左括号，就在其后面加一个完整的括号，最后再在开头加一个 ()，就形成了所有的情况，需要注意的是，有时候会出现重复的情况，所以用set数据结构，好处是如果遇到重复项，不会加入到结果中，最后我们再把set转为vector即可，参见代码如下：：
 
 n＝1:    ()
 
-```cpp
+n=2:    (())    ()()
 
-```
-
-### 方法三
+n=3:    (()())    ((()))    ()(())    (())()    ()()()   
 
 ```cpp
-
+class Solution {
+public:
+    vector<string> generateParenthesis(int n) {
+        unordered_set<string> st;
+        if (n == 0) st.insert("");
+        else {
+            vector<string> pre = generateParenthesis(n - 1);
+            for (auto a : pre) {
+                for (int i = 0; i < a.size(); ++i) {
+                    if (a[i] == '(') {
+                        a.insert(a.begin() + i + 1, '(');
+                        a.insert(a.begin() + i + 2, ')');
+                        st.insert(a);
+                        a.erase(a.begin() + i + 1, a.begin() + i + 3);
+                    }
+                }
+                st.insert("()" + a);
+            }
+        }
+        return vector<string>(st.begin(), st.end());
+    }
+};
 ```
+
+Github 同步地址：
+
+https://github.com/grandyang/leetcode/issues/22
+
+ 
+
+类似题目：
+
+Remove Invalid Parentheses
+
+Different Ways to Add Parentheses
+
+Longest Valid Parentheses
+
+Valid Parentheses
+
+Score of Parentheses
 
