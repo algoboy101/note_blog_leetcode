@@ -57,18 +57,45 @@ public:
 
 
 ```cpp
-
+class Solution {
+public:
+    bool canJump(vector<int>& nums) {
+        vector<int> dp(nums.size(), 0);
+        for (int i = 1; i < nums.size(); ++i) {
+            dp[i] = max(dp[i - 1], nums[i - 1]) - 1;
+            if (dp[i] < 0) return false;
+        }
+        return true;
+    }
+};
 ```
 
 ### 方法二
 
-```cpp
+其实这题最好的解法不是 DP，而是贪婪算法 Greedy Algorithm，因为这里并不是很关心每一个位置上的剩余步数，而只希望知道能否到达末尾，也就是说我们只对最远能到达的位置感兴趣，所以维护一个变量 reach，表示最远能到达的位置，初始化为0。遍历数组中每一个数字，如果当前坐标大于 reach 或者 reach 已经抵达最后一个位置则跳出循环，否则就更新 reach 的值为其和 i + nums[i] 中的较大值，其中 i + nums[i] 表示当前位置能到达的最大位置，参见代码如下：
 
-```
 
-### 方法三
 
 ```cpp
-
+class Solution {
+public:
+    bool canJump(vector<int>& nums) {
+        int n = nums.size(), reach = 0;
+        for (int i = 0; i < n; ++i) {
+            if (i > reach || reach >= n - 1) break;
+            reach = max(reach, i + nums[i]);
+        }
+        return reach >= n - 1;
+    }
+};
 ```
 
+Github 同步地址：
+
+https://github.com/grandyang/leetcode/issues/55
+
+ 
+
+类似题目：
+
+Jump Game II
