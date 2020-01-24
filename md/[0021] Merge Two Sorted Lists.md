@@ -94,7 +94,19 @@ public:
 
 ### 方法三
 
-```cpp
+下面这种递归的写法去掉了 if 从句，看起来更加简洁一些，但是思路并没有什么不同：
 
+```cpp
+class Solution {
+public:
+    ListNode* mergeTwoLists(ListNode* l1, ListNode* l2) {
+        if (!l1) return l2;
+        if (!l2) return l1;
+        ListNode *head = l1->val < l2->val ? l1 : l2;
+        ListNode *nonhead = l1->val < l2->val ? l2 : l1;
+        head->next = mergeTwoLists(head->next, nonhead);
+        return head;
+    }
+};
 ```
 
