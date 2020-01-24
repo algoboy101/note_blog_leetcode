@@ -125,4 +125,19 @@ public:
 };
  ```
 
+Github 同步地址：
 
+https://github.com/grandyang/leetcode/issues/21
+
+
+类似题目：
+
+Merge Sorted Array
+
+Merge k Sorted Lists
+
+Sort List
+
+Shortest Word Distance II 
+
+ 
