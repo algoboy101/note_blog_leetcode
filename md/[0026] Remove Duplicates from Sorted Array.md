@@ -127,9 +127,7 @@ Github 同步地址：
 
 https://github.com/grandyang/leetcode/issues/26
 
- 
-
-类似题目：
+ 类似题目：
 
 Remove Duplicates from Sorted List
 
