@@ -135,7 +135,41 @@ public:
 
 ### 方法三
 
-```cpp
+我们也可以使用递归来做，用 head 记录每段的开始位置，cur 记录结束位置的下一个节点，然后调用 reverse 函数来将这段翻转，然后得到一个 new_head，原来的 head 就变成了末尾，这时候后面接上递归调用下一段得到的新节点，返回 new_head 即可，参见代码如下：
 
+
+
+```cpp
+class Solution {
+public:
+    ListNode* reverseKGroup(ListNode* head, int k) {
+        ListNode *cur = head;
+        for (int i = 0; i < k; ++i) {
+            if (!cur) return head;
+            cur = cur->next;
+        }
+        ListNode *new_head = reverse(head, cur);
+        head->next = reverseKGroup(cur, k);
+        return new_head;
+    }
+    ListNode* reverse(ListNode* head, ListNode* tail) {
+        ListNode *pre = tail;
+        while (head != tail) {
+            ListNode *t = head->next;
+            head->next = pre;
+            pre = head;
+            head = t;
+        }
+        return pre;
+    }
+};
 ```
 
+Github 同步地址：
+
+https://github.com/grandyang/leetcode/issues/25
+
+
+类似题目：
+
+Swap Nodes in Pairs
