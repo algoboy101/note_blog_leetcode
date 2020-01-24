@@ -52,19 +52,84 @@ public:
 
 ### 方法一
 
-```cpp
+法，因为数组中只有三个不同的元素，所以实现起来很容易。
 
+- 首先遍历一遍原数组，分别记录 0，1，2 的个数。
+- 然后更新原数组，按个数分别赋上 0，1，2。
+
+```cpp
+class Solution {
+public:
+    void sortColors(vector<int>& nums) {
+        vector<int> colors(3);
+        for (int num : nums) ++colors[num];
+        for (int i = 0, cur = 0; i < 3; ++i) {
+            for (int j = 0; j < colors[i]; ++j) {
+                nums[cur++] = i;
+            }
+        }
+    }
+};
 ```
 
 ### 方法二
 
-```cpp
+题目中还要让只遍历一次数组来求解，那么就需要用双指针来做，分别从原数组的首尾往中心移动。
 
+- 定义 red 指针指向开头位置，blue 指针指向末尾位置。
+
+- 从头开始遍历原数组，如果遇到0，则交换该值和 red 指针指向的值，并将 red 指针后移一位。若遇到2，则交换该值和 blue 指针指向的值，并将 blue 指针前移一位。若遇到1，则继续遍历。
+
+ 
+```cpp
+class Solution {
+public:
+    void sortColors(vector<int>& nums) {
+        int red = 0, blue = (int)nums.size() - 1;
+        for (int i = 0; i <= blue; ++i) {
+            if (nums[i] == 0) {
+                swap(nums[i], nums[red++]);
+            } else if (nums[i] == 2) {
+                swap(nums[i--], nums[blue--]);
+            } 
+        }
+    }
+};
 ```
 
 ### 方法三
 
-```cpp
+当然我们也可以使用 while 循环的方式来写，那么就需要一个变量 cur 来记录当前遍历到的位置，参见代码如下：
 
+
+```cpp
+class Solution {
+public:
+    void sortColors(vector<int>& nums) {
+        int left = 0, right = (int)nums.size() - 1, cur = 0;
+        while (cur <= right) {
+            if (nums[cur] == 0) {
+                swap(nums[cur++], nums[left++]);
+            } else if (nums[cur] == 2) {
+                swap(nums[cur], nums[right--]);
+            } else {
+                ++cur;
+            }
+        }
+    }
+};
 ```
 
+Github 同步地址：
+
+https://github.com/grandyang/leetcode/issues/75
+
+ 
+
+类似题目：
+
+Sort List
+
+Wiggle Sort II
+
+Wiggle Sort
