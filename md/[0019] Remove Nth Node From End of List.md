@@ -77,15 +77,15 @@ public:
 };
 ```
 
-### 方法二
+Github 同步地址：
 
-```cpp
+https://github.com/grandyang/leetcode/issues/19
 
-```
+ 
 
-### 方法三
+类似题目：
 
-```cpp
+Linked List Cycle
 
-```
+Linked List Cycle II
 
