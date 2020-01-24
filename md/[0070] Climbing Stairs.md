@@ -61,18 +61,62 @@ public:
 这个爬梯子问题最开始看的时候没搞懂是让干啥的，后来看了别人的分析后，才知道实际上跟斐波那契数列非常相似，假设梯子有n层，那么如何爬到第n层呢，因为每次只能爬1或2步，那么爬到第n层的方法要么是从第 n-1 层一步上来的，要不就是从 n-2 层2步上来的，所以递推公式非常容易的就得出了：dp[n] = dp[n-1] + dp[n-2]。 由于斐波那契额数列的求解可以用递归，所以博主最先尝试了递归，拿到 OJ 上运行，显示 Time Limit Exceeded，就是说运行时间超了，因为递归计算了很多分支，效率很低，这里需要用动态规划 (Dynamic Programming) 来提高效率，代码如下：
 
 ```cpp
-
+class Solution {
+public:
+    int climbStairs(int n) {
+        if (n <= 1) return 1;
+        vector<int> dp(n);
+        dp[0] = 1; dp[1] = 2;
+        for (int i = 2; i < n; ++i) {
+            dp[i] = dp[i - 1] + dp[i - 2];
+        }
+        return dp.back();
+    }
+};
 ```
 
 ### 方法二
 
-```cpp
+我们可以对空间进行进一步优化，只用两个整型变量a和b来存储过程值，首先将 a+b 的值赋给b，然后a赋值为原来的b，所以应该赋值为 b-a 即可。这样就模拟了上面累加的过程，而不用存储所有的值，参见代码如下：
 
+
+```cpp
+class Solution {
+public:
+    int climbStairs(int n) {
+        int a = 1, b = 1;
+        while (n--) {
+            b += a;
+            a = b - a;
+        }
+        return a;
+    }
+};
 ```
 
 ### 方法三
 
+虽然前面说过递归的写法会超时，但是只要加上记忆数组，那就不一样了，因为记忆数组可以保存计算过的结果，这样就不会存在重复计算了，大大的提高了运行效率，其实递归加记忆数组跟迭代的 DP 形式基本是大同小异的，参见代码如下：
+
+```cpp
+class Solution {
+public:
+    int climbStairs(int n) {
+        vector<int> memo(n + 1);
+        return helper(n, memo);
+    }
+    int helper(int n, vector<int>& memo) {
+        if (n <= 1) return 1;
+        if (memo[n] > 0) return memo[n];
+        return memo[n] = helper(n - 1, memo) + helper(n - 2, memo);
+    }
+};
+```
+
+### 方法四
+
+论坛上还有一种分治法 Divide and Conquer 的解法，用的是递归形式，可以通过，但是博主没有十分理解，希望各位看官大神可以跟博主讲一讲～
+
 ```cpp
 
 ```
-
