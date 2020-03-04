@@ -1,3 +1,0 @@
-//null
-
-${question.code}
