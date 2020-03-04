@@ -1,5 +1,8 @@
-## 开发进度
-* [进度表格](https://yiqixie.com/s/home/fcAAFArhk6fXGL7FgYHvAiczJ)
+## 链接
+* [开发进度](https://yiqixie.com/s/home/fcAAFArhk6fXGL7FgYHvAiczJ)
+* [LeetCode All in One 题目讲解汇总](https://www.cnblogs.com/grandyang/articles/4606334.html)
+* [LeetCodeAnimation](https://github.com/MisterBooo/LeetCodeAnimation)
+* [https://github.com/azl397985856/leetcode](https://github.com/azl397985856/leetcode)
 
 ## 文件说明
 |文件(夹) | 说明 |
