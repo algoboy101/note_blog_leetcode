@@ -4,10 +4,10 @@
 import glob
 import urllib
 import os 
-prefix = "https://github.com/algoboy101/note_blog_leetcode/blob/master/md/"
+prefix = "https://github.com/algoboy101/note_blog_leetcode/blob/master/leetcode/"
 
 
-files = glob.glob("../md/*.md")
+files = glob.glob("../../leetcode/*.md")
 files.sort()
 
 files = [os.path.basename(f) for f in files]
